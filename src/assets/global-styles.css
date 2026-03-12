@@ -163,25 +163,25 @@ html {
 	}
 }
 
-@media (max-height: 800px) {
+@media (max-width: 800px), (max-height: 800px) {
 	html {
-		font-size: 2.75px;
+		font-size: 2.55px;
 	}
 }
 
-@media (max-height: 700px) {
+@media (max-width: 700px), (max-height: 700px)  {
 	html {
-		font-size: 2.50px;
+		font-size: 2.30px;
 	}
 }
 
-@media (max-height: 600px) {
+@media (max-width: 600px), (max-height: 600px) {
 	html {
 		font-size: 2.25px;
 	}
 }
 
-@media (max-height: 525px) {
+@media (max-width: 525px), (max-height: 525px) {
 	html {
 		font-size: 2px;
 	}
@@ -190,12 +190,6 @@ html {
 @media (max-height: 475px) {
 	html {
 		font-size: 1.75px;
-	}
-}
-
-@media (max-width: 500px) {
-	html {
-		font-size: 2.5px;
 	}
 }
 
@@ -249,7 +243,6 @@ h1 {
 	color: var(--brandBlack);
 	text-decoration: none;
 	margin-top: 70px;
-	background-color: ;
 	/* border-bottom: solid 1px black; */
 	margin-bottom: 0px;
 	padding: 0px;

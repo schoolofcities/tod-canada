@@ -39,6 +39,7 @@
 	export let topOpacity = 1;
 	export let videoOpacity = 1;
 	export let videoSpeed = 1;      // <-- playback speed prop
+	export let mobileTextPeek = false;
 
 	let divWidth;
 	let videoEl;
@@ -84,6 +85,7 @@
 	{:else if bgType == "Video"}
 		<video
 			class="background-video"
+			class:mobile-text-peek={mobileTextPeek}
 			bind:this={videoEl}
 			autoplay
 			muted
@@ -103,7 +105,7 @@
 
 	.title-container {
 		height: 100dvh;
-		width: 100%;
+		width: 100dvw;
 		/* background-color: white; */
 		position: relative;
 		margin-bottom: 0px;
@@ -136,7 +138,7 @@
 	}
 
 	@media (max-width: 600px) {
-		.title-container.video {
+		.mobile-text-peek {
 			height: calc(100dvh - 250px);
 			margin-bottom: 5px;
 		}
