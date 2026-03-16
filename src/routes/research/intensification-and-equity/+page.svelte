@@ -13,6 +13,7 @@
 	import LineBreakMiniTransitMap from '$lib/LineBreakMiniTransitMap.svelte';
 	import Password from '$lib/Password.svelte';
 	
+	import GraphicCompare from '$lib/GraphicCompare.svelte';
 	import LogoBody from '$lib/LogoBody.svelte';
 	import Recommendation from '$lib/Recommendation.svelte';
 	import BoilerPlate from '$lib/BoilerPlate.svelte';
@@ -186,6 +187,58 @@
 		<p>
 			Across the cases, visible minority populations generally increased in station areas – but the mix is not the same everywhere. Northfield experienced one of the largest proportional jumps in visible minority residents, especially Black, Arab, Latin American, and West Asian populations, reflecting both student housing and broader migration patterns. McKernan–Belgravia and Cooksville saw growth among several racialized groups (Black, Filipino, Arab in Edmonton; Japanese and other minoritized groups in Cooksville), while some long-standing groups declined. Arbutus is diversifying in a context of entrenched land values: Latin American, Southeast Asian, and West Asian populations are growing even as overall population change remains modest. Panama largely bucks the trend: the station catchment area shows neither strong intensification nor major demographic shifts, even as surrounding South Shore areas diversify.  
 		</p>
+
+	</div>
+
+	<GraphicCompare 
+		images={[
+			{
+				svg720: "../web-assets/research/intensification-and-equity/arbutus-visible-minority-720.svg",
+				svg360: "../web-assets/research/intensification-and-equity/arbutus-visible-minority-360.svg",
+				caption: "",
+				source: "",
+				altText: "",
+				buttonLabel: "Arbutus"
+			},
+			{
+				svg720: "../web-assets/research/intensification-and-equity/cooksville-visible-minority-720.svg",
+				svg360: "../web-assets/research/intensification-and-equity/cooksville-visible-minority-360.svg",
+				caption: "",
+				source: "",
+				altText: "",
+				buttonLabel: "Cooksville"
+			},
+			{
+				svg720: "../web-assets/research/intensification-and-equity/mckernan-visible-minority-720.svg",
+				svg360: "../web-assets/research/intensification-and-equity/mckernan-visible-minority-360.svg",
+				caption: "",
+				source: "",
+				altText: "",
+				buttonLabel: "McKernan-Belgravia"
+			},
+			{
+				svg720: "../web-assets/research/intensification-and-equity/northfield-visible-minority-720.svg",
+				svg360: "../web-assets/research/intensification-and-equity/northfield-visible-minority-360.svg",
+				caption: "",
+				source: "",
+				altText: "",
+				buttonLabel: "Northfield"
+			},
+			{
+				svg720: "../web-assets/research/intensification-and-equity/panama-visible-minority-720.svg",
+				svg360: "../web-assets/research/intensification-and-equity/panama-visible-minority-360.svg",
+				caption: "",
+				source: "",
+				altText: "",
+				buttonLabel: "Panama"
+			},
+		]}
+	/>
+
+	<div class="text">
+
+
+	
 
 		<h2>
 			Equity signals are mixed
