@@ -7,6 +7,7 @@
 	import AuthorDate from "./AuthorDate.svelte";
 	import { onMount } from "svelte";
     import TitleText from "./TitleText.svelte";
+    import ScrollAnimate from "./ScrollAnimate.svelte";
 
 	// Text Props
 	export let title = '';
@@ -68,6 +69,10 @@
 
 	<TitleText {...textProps}
 	/>
+
+	{#if bgType == "Video" && !mobileTextPeek}
+		<ScrollAnimate colour={titleFontColour}/>
+	{/if}
 	
 	<div class="tint-overlay"
 		style:opacity={tintOpacity}

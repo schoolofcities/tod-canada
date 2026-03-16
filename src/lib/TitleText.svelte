@@ -171,9 +171,13 @@
 		}
 
 		.logo-container {
-			width: 80%;
+			width: calc(100% - 30px - 30px);
 			display: flex;
-			flex-wrap: wrap;
+			/* flex-wrap: wrap; */
+		}
+
+		.logo-top {
+			height: 37px;
 		}
 
 		.upper-section {
@@ -197,29 +201,23 @@
 		.case-study .title-text {
 			/* font-size: 54px;
 			line-height: 50px; */
-			font-size: 16rem;
-			line-height: 17.5rem;
+			font-size: 17rem;
+			line-height: 18.5rem;
 
 		}
 
 		.research .title-text {
-			font-size: 12rem;
-			line-height: 13.5rem;
+			font-size: 14rem;
+			line-height: 15.5rem;
 		}
-
-		/* .main-title.no-subtitle .title-text{
-			font-size: 40px;
-			line-height: 50px;
-		} */
 
 		.subtitle-text {
 			width: calc(100% - 30px);
 		}
 
 		.research .subtitle-text, .research .type-text {
-			font-size: 8rem;
+			font-size: 10rem;
 		}
-
 	}
 
 </style>
