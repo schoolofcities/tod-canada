@@ -7,6 +7,7 @@
 	import AuthorDate from "./AuthorDate.svelte";
 	import { onMount } from "svelte";
     import TitleText from "./TitleText.svelte";
+    import ScrollAnimate from "./ScrollAnimate.svelte";
 
 	// Text Props
 	export let title = '';
@@ -39,6 +40,7 @@
 	export let topOpacity = 1;
 	export let videoOpacity = 1;
 	export let videoSpeed = 1;      // <-- playback speed prop
+	export let mobileTextPeek = false;
 
 	let divWidth;
 	let videoEl;
@@ -67,6 +69,10 @@
 
 	<TitleText {...textProps}
 	/>
+
+	{#if bgType == "Video" && !mobileTextPeek}
+		<ScrollAnimate colour={titleFontColour}/>
+	{/if}
 	
 	<div class="tint-overlay"
 		style:opacity={tintOpacity}
@@ -84,6 +90,7 @@
 	{:else if bgType == "Video"}
 		<video
 			class="background-video"
+			class:mobile-text-peek={mobileTextPeek}
 			bind:this={videoEl}
 			autoplay
 			muted
@@ -103,7 +110,7 @@
 
 	.title-container {
 		height: 100dvh;
-		width: 100%;
+		width: 100dvw;
 		/* background-color: white; */
 		position: relative;
 		margin-bottom: 0px;
@@ -136,7 +143,7 @@
 	}
 
 	@media (max-width: 600px) {
-		.title-container.video {
+		.mobile-text-peek {
 			height: calc(100dvh - 250px);
 			margin-bottom: 5px;
 		}

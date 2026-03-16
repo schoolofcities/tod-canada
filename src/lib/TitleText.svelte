@@ -23,7 +23,7 @@
 </script>
 
 
-<div class="title-container {type.replace(" ","-").toLowerCase()}" bind:clientWidth={divWidth}>
+<div class="title-text-container {type.replace(" ","-").toLowerCase()}" bind:clientWidth={divWidth}>
 	<div class="upper-section">
 		<div class="logo-container">
 			{#if logoType !== 'None'}
@@ -50,28 +50,28 @@
 			</h1>
 			{#if location}
 				<h3 class="location-text" style="color: {titleFontColour}">
-					{location.toUpperCase()}
+					{location?.toUpperCase()}
 				</h3>
 			{/if}
 		</div>
 	</div>
 
-	{#if subtitle}
-		<div class="lower-section">
-			<h2 class="subtitle-text" style="color: {subtitleFontColour};">
-				{subtitle}
-			</h2>
-		</div>
-	{/if}
+	<div class="lower-section">
+		{#if subtitle}
+				<h2 class="subtitle-text" style="color: {subtitleFontColour};">
+					{subtitle}
+				</h2>
+		{/if}
+	</div>
 
 </div>
 
 
 
 <style>
-	.title-container {
+	.title-text-container {
 		height: 100%;
-		width: 100%;
+		width: calc(100% - 20rem);
 		position: relative;
 		padding-left: 20rem;
 		z-index: 10;
@@ -81,7 +81,7 @@
 		position: absolute;
 		top: 24rem;
 		height: 27%;
-		width: 100%;
+		width: calc(100% - 20rem);
 	}
 
 	.logo-container {
@@ -102,7 +102,7 @@
 		bottom: 0;
 		font-family: PoppinsSemiBold;
 		font-weight: normal;
-		font-size: 8rem;
+		font-size: 7.5rem;
 		text-shadow: 0px 0px 10px rgba(0, 0, 0, 2); 
 	}
 
@@ -110,7 +110,7 @@
 		position: absolute;
 		top: calc(27% + 24rem);
 		bottom: 23%;
-		width: 100%;
+		width: calc(100% - 20rem);
 		display: flex;
 		align-items: center;
 	}
@@ -128,13 +128,17 @@
 	}
 
 	.case-study .title-text {
-		font-size: 64px;
-		line-height: 60px;
+		/* font-size: 64px;
+		line-height: 60px; */
+		font-size: 18rem;
+		line-height: 20rem;
 	}
 
 	.research .title-text {
-		font-size: 50px;
-		line-height: 60px;
+		/* font-size: 50px;
+		line-height: 60px; */
+		font-size: 16rem;
+		line-height: 17.5rem;
 	}
 
 	.location-text {
@@ -146,35 +150,39 @@
 		position: absolute;
 		bottom: 0;
 		height: 23%;
-		width: 100%;
+		width: calc(100% - 20rem);
 	}
 
 	.subtitle-text {
 		position: absolute;
 		margin-top: 0;
 		max-width: 600px;
-		font-size: 8rem;
+		font-size: 7.5rem;
 		font-family: PoppinsMedium;
 		font-weight: normal;
 		text-shadow: 0px 0px 20px rgba(0, 0, 0, 0.6); 
 	}
 
 	@media (max-width: 600px) {
-		.title-container {
+		.title-text-container {
 			width: 100dvw;
 			padding-left: 30px;
 			margin-right: 30px;
 		}
 
 		.logo-container {
-			width: 80%;
+			width: calc(100% - 30px - 30px);
 			display: flex;
-			flex-wrap: wrap;
+			/* flex-wrap: wrap; */
+		}
+
+		.logo-top {
+			height: 37px;
 		}
 
 		.upper-section {
 			top: 30px;
-			height: 30%;
+			height: 35%;
 		}
 
 		.lower-section {
@@ -182,12 +190,8 @@
 		}
 
 		.main-title {
-			top: calc(30% + 30px);
-			width: 100%;
-		}
-
-		.main-title.no-subtitle {
-			bottom: 0;
+			top: calc(35% + 30px);
+			bottom: 25%;
 		}
 
 		.title-text {
@@ -195,19 +199,16 @@
 		}
 		
 		.case-study .title-text {
-			font-size: 54px;
-			line-height: 50px;
+			/* font-size: 54px;
+			line-height: 50px; */
+			font-size: 17rem;
+			line-height: 18.5rem;
 
 		}
 
 		.research .title-text {
-			font-size: 35px;
-			line-height: 40px;
-		}
-
-		.main-title.no-subtitle .title-text{
-			font-size: 40px;
-			line-height: 50px;
+			font-size: 14rem;
+			line-height: 15.5rem;
 		}
 
 		.subtitle-text {
@@ -215,9 +216,8 @@
 		}
 
 		.research .subtitle-text, .research .type-text {
-			font-size: 18px;
+			font-size: 10rem;
 		}
-
 	}
 
 </style>
