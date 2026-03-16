@@ -90,6 +90,12 @@
 		logoType = 'White';
 	/>
 
+	<div class="caption-container" style="padding-left: 10px; overflow: hidden; margin-top: -5px; opacity: 0.65; max-width: 320px;">
+		<p>
+			<span class="caption-source">Video source: Storyblocks</span>
+		</p>
+	</div>
+
 
 	<div class="text" style="margin-top: 80px">
 
@@ -281,14 +287,14 @@
 			The area’s population grew from 2016 to 2021, and the area became more racially diverse. 
 		</p>
 
-	</div>
+	<!-- </div>
 
 	<GraphicSingle
 		svg720={"../web-assets/research/intensification-and-equity/cooksville-visible-minority-720.svg"}
 		svg360={"../web-assets/research/intensification-and-equity/cooksville-visible-minority-360.svg"}
 	/>
 
-	<div class="text">
+	<div class="text"> -->
 
 		<p>
 			Cooksville is becoming a regional growth node, and the City has positioned Cooksville as a key redevelopment area in Mississauga’s downtown intensification strategy -- but whether that growth locks in affordability is still very much an open question.  
@@ -315,14 +321,14 @@
 			The station area has seen a sizeable jump in visible minority residents since 2021, among the largest proportional increases in visible minority residents across the corridor.  
 		</p>
 
-	</div>
+	<!-- </div>
 
 	<GraphicSingle
 		svg720={"../web-assets/research/intensification-and-equity/northfield-visible-minority-720.svg"}
 		svg360={"../web-assets/research/intensification-and-equity/northfield-visible-minority-360.svg"}
 	/>
 
-	<div class="text">
+	<div class="text"> -->
 
 		<p>
 			Northfield is an early-stage TOD zone where policy can still meaningfully shape outcomes. Its moderate growth demonstrates the corridor’s outward diffusion of TOD impacts. It also underscores the need for tailored planning strategies to activate underutilized lands and expand housing supply in station areas that were historically employment-focused. 
@@ -349,14 +355,14 @@
 			The station area is quietly diversifying while the overall population remains stable. This is TOD in a high-cost market: intense capital flows, constrained affordability, and a small but important demographic reshuffling.  
 		</p>
 
-	</div>
+	<!-- </div>
 
 	<GraphicSingle
 		svg720={"../web-assets/research/intensification-and-equity/arbutus-visible-minority-720.svg"}
 		svg360={"../web-assets/research/intensification-and-equity/arbutus-visible-minority-360.svg"}
 	/>
 
-	<div class="text">
+	<div class="text"> -->
 
 		<h2>
 			In more affordable cities, TOD can be slower 
@@ -379,14 +385,14 @@
 			The demographic picture shows growth among several visible minority groups but uneven trajectories by subgroup. This is what a long-term TOD build-out looks like in a more affordable city.
 		</p>
 
-	</div>
+	<!-- </div>
 
 	<GraphicSingle
 		svg720={"../web-assets/research/intensification-and-equity/mckernan-visible-minority-720.svg"}
 		svg360={"../web-assets/research/intensification-and-equity/mckernan-visible-minority-360.svg"}
 	/>
 
-	<div class="text">
+	<div class="text"> -->
 
 		<h2>
 			Transit does not guarantee transformation (yet)
@@ -409,14 +415,14 @@
 			Despite a major transit investment and its strategic position close to downtown Montreal, the station area has not yet absorbed significant redevelopment pressure or demographic change, especially when compared to the broader South Shore, where non-station areas display clear signs of intensification and diversification. It is a reminder that TOD potential can be stalled by local zoning, ownership patterns, and market timing.  
 		</p>
 
-	</div>
+	<!-- </div>
 
 	<GraphicSingle
 		svg720={"../web-assets/research/intensification-and-equity/panama-visible-minority-720.svg"}
 		svg360={"../web-assets/research/intensification-and-equity/panama-visible-minority-360.svg"}
 	/>
 
-	<div class="text">
+	<div class="text"> -->
 
 		<h1>
 			Key conclusions and policy recommendations 

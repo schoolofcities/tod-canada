@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="250" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 250">
+  <defs>
+    <filter id="drop-shadow-248" x="141.5597" y="103.48" width="102.96" height="93.12" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-249" x="140.5997" y="108.28" width="98.16" height="89.04" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-2" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-253" x="141.0797" y="108.76" width="97.2" height="88.32" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-3" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-3" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Layer_3" data-name="Layer 3">
+    <rect id="rect25" width="360" height="250" rx="21.5668" ry="21.5668" fill="#faf9f8"/>
+    <text transform="translate(36.7241 31.0684)" fill="#010101" font-family="Inter-Bold, Inter" font-size="16" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700" isolation="isolate"><tspan x="0" y="0">Low-income residents that move away</tspan><tspan x="0" y="19.2002">from station areas</tspan></text>
+    <path id="rect1" d="M25.1538,21.0947h0c2.262,0,4.0957,1.8337,4.0957,4.0957h0c0,2.262-1.8337,4.0957-4.0957,4.0957h0c-2.262,0-4.0957-1.8337-4.0957-4.0957h0c0-2.262,1.8337-4.0957,4.0957-4.0957Z" fill="#fff" fill-rule="evenodd" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+  </g>
+  <g id="Layer_1" data-name="Layer 1">
+    <g id="text237-0-6-6-6-4-6-0" isolation="isolate">
+      <text transform="translate(36.7248 79.9995)" fill="#010101" font-family="Inter-Regular, Inter" font-size="12" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400" isolation="isolate"><tspan x="0" y="0">Across 52 stations, low-income residents move out </tspan><tspan x="0" y="14.4004">of station areas at higher rates than in the CMA.</tspan></text>
+    </g>
+  </g>
+  <g id="Layer_4" data-name="Layer 4">
+    <text transform="translate(168.7402 201.5753)" fill="#9e2666" font-family="InterItalic-BoldItalic, Inter" font-size="14" font-style="italic" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">71.0%</tspan></text>
+    <text transform="translate(111.6195 149.378)" fill="#26524d" font-family="InterItalic-BoldItalic, Inter" font-size="14" font-style="italic" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">64.3%</tspan></text>
+    <g>
+      <line x1="156.28" y1="187.1588" x2="223.7195" y2="187.1588" fill="none" stroke="#9e2666" stroke-miterlimit="10" stroke-width=".5"/>
+      <path d="M156.4812,187.1588c.5225-.5225.7715-1.5557.792-2.2725-.7163.9624-1.6472,1.8018-2.7734,2.2725,1.1262.4507,2.0161,1.3408,2.7734,2.2725-.0615-.7676-.249-1.6992-.792-2.2725Z" fill="#9e2666"/>
+      <path d="M223.5183,187.1588c-.5225-.5225-.7715-1.5557-.792-2.2725.7163.9624,1.6472,1.8018,2.7734,2.2725-1.1262.4507-2.0161,1.3408-2.7734,2.2725.0615-.7676.249-1.6992.792-2.2725Z" fill="#9e2666"/>
+    </g>
+    <g>
+      <line x1="146.2898" y1="175.563" x2="177.2165" y2="122.9471" fill="none" stroke="#26524d" stroke-miterlimit="10" stroke-width=".5"/>
+      <path d="M146.3917,175.3896c-.1857-.7151-.9502-1.4534-1.5577-1.8343.4668,1.1052.7186,2.3331.5537,3.5425.9592-.7426,2.1776-1.0587,3.3645-1.2395-.6929-.3359-1.5911-.6464-2.3605-.4688Z" fill="#26524d"/>
+      <path d="M177.1146,123.1206c-.7151.1857-1.7321-.1232-2.3604-.4688,1.1926-.1299,2.3879-.5071,3.3644-1.2394-.1821,1.1992.1344,2.4175.5537,3.5425-.6305-.442-1.3386-1.0757-1.5577-1.8343Z" fill="#26524d"/>
+    </g>
+    <text transform="translate(120.0472 214.9092)" font-family="InterItalic-MediumItalic, Inter" font-size="12" font-style="italic" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 500" font-weight="500"><tspan x="0" y="0" fill="#231f20">Low income </tspan><tspan x="72.4395" y="0" fill="#9e2666">moving out </tspan><tspan x="12.1934" y="14.4004" fill="#9e2666">rate</tspan><tspan x="35.3379" y="14.4004" xml:space="preserve" fill="#231f20"> in </tspan><tspan x="51.9844" y="14.4004" fill="#9e2666">station areas</tspan></text>
+    <text transform="translate(25.748 165.1816)" font-family="InterItalic-MediumItalic, Inter" font-size="12" font-style="italic" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 500" font-weight="500"><tspan x="0" y="0" fill="#231f20">Low income </tspan><tspan x="72.4395" y="0" fill="#26524d">moving</tspan><tspan x="1.8135" y="14.4004" fill="#26524d">out rate</tspan><tspan x="46.7314" y="14.4004" xml:space="preserve" fill="#231f20"> in the </tspan><tspan x="84.8584" y="14.4004" fill="#26524d">CMA</tspan></text>
+    <text transform="translate(221.5467 169.5949)" fill="#9e2666" font-family="InterItalic-BoldItalic, Inter" font-size="10" font-style="italic" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">+10.4%</tspan></text>
+    <line x1="218.7997" y1="181.8296" x2="225.4997" y2="181.8296" fill="none" stroke="#9e2666" stroke-miterlimit="10" stroke-width="3"/>
+    <path d="M229.319,181.8426s9.7761,1.4784,10.0235-10.0894" fill="none" stroke="#6d6e71" stroke-miterlimit="10" stroke-width=".5"/>
+  </g>
+  <g id="TRIANGLES">
+    <polygon points="189.9997 116.61 154.4997 178.0978 225.4997 178.0978 189.9997 116.61" fill="#9e2666" filter="url(#drop-shadow-248)" stroke="#fff" stroke-miterlimit="10"/>
+    <polygon points="186.6497 122.4124 154.4997 178.0978 218.7997 178.0978 186.6497 122.4124" fill="none" filter="url(#drop-shadow-249)" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    <polygon points="186.6497 122.4124 154.4997 178.0978 218.7997 178.0978 186.6497 122.4124" fill="none" filter="url(#drop-shadow-253)" stroke="#26524d" stroke-dasharray="2.5 3" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

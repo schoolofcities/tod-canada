@@ -36,7 +36,6 @@
 		{ role:"Additional writing", names:"Anika Reisha Taboy, Kathryn Exon Smith"},
 		{ role:"Data visualization", names:"Jeff Allen"},
 		{ role:"Web development", names:"Mieko Yao, Jeff Allen"},
-		{ role:"Video", names: "Konstantine Diochnos"}
 	]
 
 </script>
@@ -104,6 +103,12 @@
 		logoType = 'White';
 		backgroundColour = "black"
 	/>
+
+	<div class="caption-container" style="padding-left: 10px; overflow: hidden; margin-top: -5px; opacity: 0.65; max-width: 320px;">
+		<p>
+			<span class="caption-source">Video source: Konstantine Diochnos</span>
+		</p>
+	</div>
 
 	<div class="text" style="margin-top: 80px">
 

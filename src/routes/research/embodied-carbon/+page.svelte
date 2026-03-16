@@ -110,6 +110,11 @@
 		logoType = 'White';
 	/>
 
+	<div class="caption-container" style="padding-left: 10px; overflow: hidden; margin-top: -5px; opacity: 0.65; max-width: 320px;">
+		<p>
+			<span class="caption-source">Video source: Storyblocks</span>
+		</p>
+	</div>
 
 	<div class="text" style="margin-top: 80px">
 
@@ -248,6 +253,19 @@
 			These findings indicate that occupancy levels have a strong influence on per capita embodied GHG emissions, highlighting the importance of unit mix and household size in reducing the carbon impacts of urban growth – though this impact is reversed if large units are underoccupied. 
 		</p>
 
+		<p>
+			Click below to view a full summary of results by station area.
+		</p>
+
+	</div>
+
+	<GraphicSingle
+		svg720={"../web-assets/research/embodied-carbon/summary-northfield-720.svg"}
+		svg360={"../web-assets/research/embodied-carbon/summary-northfield-360.svg"}
+	/>
+
+	<div class="text">
+
 		<h2>
 			Timing of construction shapes per capita benefits of TOD 
 		</h2>
@@ -273,18 +291,6 @@
 			It is important to note that this sensitivity analysis assumes that all buildings for each scenario are built in the same year. In practice, this is unlikely given that large multi-unit buildings are often multi-year endeavours and will not all be built simultaneously.  
 		</p>
 
-		<p>
-			Click below to view a full summary of results by station area.
-		</p>
-
-	</div>
-
-	<GraphicSingle
-		svg720={"../web-assets/research/embodied-carbon/summary-northfield-720.svg"}
-		svg360={"../web-assets/research/embodied-carbon/summary-northfield-360.svg"}
-	/>
-
-	<div class="text">
 		<div class="quote" style="padding-top: 40px; padding-bottom: 40px;">
 			<p>
 				Well-designed TOD can deliver schools, retail, and community services alongside higher-density housing – supporting quality of life while still meeting climate targets.  
