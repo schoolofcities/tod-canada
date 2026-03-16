@@ -28,6 +28,7 @@
     import CaseStudyNote from '$lib/BoilerPlate.svelte';
     import Recommendation from '$lib/Recommendation.svelte';
     import TitlePage from '$lib/TitlePage.svelte';
+    import GraphicCompare from '$lib/GraphicCompare.svelte';
 
 	export let data;
 
@@ -224,6 +225,51 @@
 			</p>
 
 		</div>
+
+		<GraphicCompare 
+			images={[
+				{
+					svg720: "../web-assets/research/intensification-and-equity/arbutus-visible-minority-720.svg",
+					svg360: "../web-assets/research/intensification-and-equity/arbutus-visible-minority-360.svg",
+					caption: "Arbutus Visible Minority",
+					source: "",
+					altText: "",
+					buttonLabel: "Arbutus"
+				},
+				{
+					svg720: "../web-assets/research/intensification-and-equity/cooksville-visible-minority-720.svg",
+					svg360: "../web-assets/research/intensification-and-equity/cooksville-visible-minority-360.svg",
+					caption: "Cooksville Visible Minority",
+					source: "",
+					altText: "",
+					buttonLabel: "Cooksville"
+				},
+				{
+					svg720: "../web-assets/research/intensification-and-equity/mckernan-visible-minority-720.svg",
+					svg360: "../web-assets/research/intensification-and-equity/mckernan-visible-minority-360.svg",
+					caption: "McKernan-Belgravia Visible Minority",
+					source: "",
+					altText: "",
+					buttonLabel: "McKernan-Belgravia"
+				},
+				{
+					svg720: "../web-assets/research/intensification-and-equity/northfield-visible-minority-720.svg",
+					svg360: "../web-assets/research/intensification-and-equity/northfield-visible-minority-360.svg",
+					caption: "Northfield Visible Minority",
+					source: "",
+					altText: "",
+					buttonLabel: "Northfield"
+				},
+				{
+					svg720: "../web-assets/research/intensification-and-equity/panama-visible-minority-720.svg",
+					svg360: "../web-assets/research/intensification-and-equity/panama-visible-minority-360.svg",
+					caption: "Panama Visible Minority",
+					source: "",
+					altText: "",
+					buttonLabel: "Panama"
+				},
+			]}
+		/>
 
 		<ImageCompare
 			imageURL1="../web-assets/case-study/cooksville/cooksville-current-built.png"
