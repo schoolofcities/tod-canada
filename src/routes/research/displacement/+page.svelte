@@ -188,14 +188,14 @@
 			Lower-income residents are more likely to leave new station areas 
 		</h2>
 
-		</div>
+	</div>
 
-		<GraphicSingle
-			svg720={"../web-assets/research/displacement/ _total-move-away720.svg"}
-			svg360={"../web-assets/research/displacement/ _total-move-away-360.svg"}
-		/>
+	<GraphicSingle
+		svg720={"../web-assets/research/displacement/total-move-away720.svg"}
+		svg360={"../web-assets/research/displacement/total-move-away-360.svg"}
+	/>
 
-		<div class="text">
+	<div class="text">
 
 		<p>
 			Between 1990 and 2016, low-income residents were about 10% more likely to leave neighbourhoods with a new transit station than comparable areas in the same CMA without one. This trend has increased in recent years (since 2010) and is more pronounced in areas with new subway stations versus LRT or regional rail. Income was by far the most important predictor of moving out of a station area, compared with age, gender, and family composition, which all showed more minor effects. 
@@ -204,9 +204,8 @@
 	</div>
 
 	<GraphicSingle
-		svg1080={"../web-assets/research/displacement/ _move-away-chart1080.svg"}
-		svg720={"../web-assets/research/displacement/  _move-away-chart720.svg"}
-		svg360={"../web-assets/research/displacement/  _move-away-chart360.svg"}
+		svg720={"../web-assets/research/displacement/move-away-chartV2_720.svg"}
+		svg360={"../web-assets/research/displacement/move-away-chart360.svg"}
 	/>
 
 	<div class="text">
@@ -214,6 +213,15 @@
 		<h2>
 			New station areas are more exclusive than other neighbourhoods 
 		</h2>
+
+	</div>
+
+	<GraphicSingle
+		svg720={"../web-assets/research/displacement/total-move-in720.svg"}
+		svg360={"../web-assets/research/displacement/total-move-in-360.svg"}
+	/>
+
+	<div class="text">
 
 		<p>
 			Where new stations have opened, the residents who move into the station area are about 15% less likely to be low-income compared with those relocating to other parts of the CMA. This was particularly true in the major cities of Montreal, Vancouver, and Toronto, where much of the new housing built near transit stations since 2000 has been owner-occupied condominiums, which are generally less accessible to lower-income households. In contrast, there were more low-income in-movers near LRT stations, possibly because these have less of an impact on land values and housing prices, at least in the context of Edmonton and Calgary. More recent station openings have also attracted more low-income households, at rates comparable to the rest of the CMA. This may be tied to local market conditions or may be a positive effect of more inclusive housing policies in these areas. 

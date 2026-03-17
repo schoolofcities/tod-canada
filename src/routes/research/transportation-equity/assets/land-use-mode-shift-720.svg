@@ -25,8 +25,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.4142136"
-     inkscape:cx="422.14275"
-     inkscape:cy="279.30718"
+     inkscape:cx="268.34702"
+     inkscape:cy="164.40232"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -187,7 +187,7 @@
          x="48.313477"
          y="106.90918"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.33333"
-         id="tspan3">modes between general growth</tspan><tspan
+         id="tspan3">modes between current conditions</tspan><tspan
          sodipodi:role="line"
          x="48.313477"
          y="126.90918"
@@ -196,14 +196,35 @@
     <text
        id="text237-0-6-6-6-4-6-5-6"
        xml:space="preserve"
-       x="183.24707"
+       x="192.53725"
        y="471.83502"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.33333"><tspan
          sodipodi:role="line"
-         x="183.24707"
+         x="192.53725"
          y="471.83502"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.33333"
-         id="tspan6-9">Land-use entropy*</tspan></text>
+         id="tspan6-9">Land-use mix*</tspan></text>
+    <text
+       id="text237-0-6-6-6-4-6-5-6-4"
+       xml:space="preserve"
+       x="490.9519"
+       y="193.05856"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.33333"><tspan
+         sodipodi:role="line"
+         x="490.9519"
+         y="193.05856"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.33333"
+         id="tspan6-9-3">More diversity in land-use</tspan><tspan
+         sodipodi:role="line"
+         x="490.9519"
+         y="211.80856"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.33333"
+         id="tspan1">is related to greater</tspan><tspan
+         sodipodi:role="line"
+         x="490.9519"
+         y="230.55856"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.33333"
+         id="tspan2">sustainable mode shift  </tspan></text>
     <text
        id="text237-0-6-6-6-4-6-5-6-2"
        xml:space="preserve"
@@ -434,22 +455,22 @@
          x="421.5498"
          y="431.6153"
          style="font-style:normal;font-size:11px;text-align:start;text-anchor:start;fill:#9a9996;stroke-width:1.33333"
-         id="tspan21-9">*Land-use entropy measures the diversity of </tspan><tspan
+         id="tspan21-9">*This was measured via an entropy metric, which</tspan><tspan
          sodipodi:role="line"
          x="421.5498"
          y="445.3653"
          style="font-style:normal;font-size:11px;text-align:start;text-anchor:start;fill:#9a9996;stroke-width:1.33333"
-         id="tspan13">land uses within an area. A value of 1 indicates a highly </tspan><tspan
+         id="tspan13">quantifies the diversity of land uses within an area. </tspan><tspan
          sodipodi:role="line"
          x="421.5498"
          y="459.1153"
          style="font-style:normal;font-size:11px;text-align:start;text-anchor:start;fill:#9a9996;stroke-width:1.33333"
-         id="tspan14">mixed-use environment, while a value of 0 reflects </tspan><tspan
+         id="tspan14">A value of 1 indicates a highly mixed-use environment, </tspan><tspan
          sodipodi:role="line"
          x="421.5498"
          y="472.8653"
          style="font-style:normal;font-size:11px;text-align:start;text-anchor:start;fill:#9a9996;stroke-width:1.33333"
-         id="tspan22">minimal land use diversity. </tspan></text>
+         id="tspan22">while a value of 0 reflects minimal land use diversity. </tspan></text>
     <g
        id="g7"
        transform="matrix(1,0,0,1.1986098,-10.5,-16.17445)"
@@ -604,6 +625,10 @@
          y="293.67279"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.33333"
          id="tspan6-9-7-2-5-9-1-1">Northfield</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:2,4;stroke-dashoffset:0"
+       d="m 417.60519,206.8425 h 64.64162"
+       id="path2" />
   </g>
   <defs
      id="topdefs-a2c016" />
