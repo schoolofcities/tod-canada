@@ -2,8 +2,8 @@
 <svg
    class="main-svg"
    width="360"
-   height="520"
-   viewBox="0 0 360 520"
+   height="540"
+   viewBox="0 0 360 540"
    version="1.1"
    id="svg145"
    sodipodi:docname="land-use-mode-shift-360.svg"
@@ -25,8 +25,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.4142136"
-     inkscape:cx="154.50283"
-     inkscape:cy="275.77165"
+     inkscape:cx="126.92566"
+     inkscape:cy="143.18912"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -38,7 +38,7 @@
        x="0"
        y="0"
        width="360"
-       height="520"
+       height="540"
        id="page2"
        margin="0"
        bleed="0" />
@@ -156,7 +156,7 @@
        style="fill:#faf9f8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect25"
        width="360"
-       height="520"
+       height="540"
        x="0"
        y="0"
        rx="0"
@@ -165,34 +165,39 @@
        id="text237-0-6-6-6-4-6-5"
        xml:space="preserve"
        x="29.94532"
-       y="70.90918"
+       y="64.898773"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.33333"><tspan
          sodipodi:role="line"
          x="29.94532"
-         y="70.90918"
+         y="64.898773"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.33333"
-         id="tspan6">Shift in percent of trips by sustainable </tspan><tspan
+         id="tspan6">Shift in percent of trips by </tspan><tspan
          sodipodi:role="line"
          x="29.94532"
-         y="85.90918"
+         y="79.898773"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.33333"
-         id="tspan3">modes between general growth</tspan><tspan
+         id="tspan3">sustainable modes between </tspan><tspan
          sodipodi:role="line"
          x="29.94532"
-         y="100.90918"
+         y="94.898773"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.33333"
-         id="tspan5">and optimized mixed-use scenarios</tspan></text>
+         id="tspan5">current conditions and </tspan><tspan
+         sodipodi:role="line"
+         x="29.94532"
+         y="109.89877"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.33333"
+         id="tspan14">optimized mixed-use scenarios</tspan></text>
     <text
        id="text237-0-6-6-6-4-6-5-6"
        xml:space="preserve"
-       x="145.59341"
+       x="167.16017"
        y="432.17911"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.33333"><tspan
          sodipodi:role="line"
-         x="145.59341"
+         x="167.16017"
          y="432.17911"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.33333"
-         id="tspan6-9">Land-use entropy*</tspan></text>
+         id="tspan6-9">Land-use mix*</tspan></text>
     <text
        id="text237-0-6-6-6-4-6-5-6-2"
        xml:space="preserve"
@@ -435,17 +440,22 @@
          x="29.742188"
          y="468.16943"
          style="font-style:normal;font-size:11px;text-align:start;text-anchor:start;fill:#9a9996;stroke-width:1.33333"
-         id="tspan13">*Land-use entropy measures the diversity of land uses within </tspan><tspan
+         id="tspan4">*This was measured via an entropy metric, which quantifies </tspan><tspan
          sodipodi:role="line"
          x="29.742188"
          y="481.91943"
          style="font-style:normal;font-size:11px;text-align:start;text-anchor:start;fill:#9a9996;stroke-width:1.33333"
-         id="tspan14">an area. A value of 1 indicates a highly mixed-use environment, </tspan><tspan
+         id="tspan7">the diversity of land uses within an area. A value of 1 indicates </tspan><tspan
          sodipodi:role="line"
          x="29.742188"
          y="495.66943"
          style="font-style:normal;font-size:11px;text-align:start;text-anchor:start;fill:#9a9996;stroke-width:1.33333"
-         id="tspan22">while a value of 0 reflects minimal land use diversity. </tspan></text>
+         id="tspan8">a highly mixed-use environment, while a value of 0 reflects </tspan><tspan
+         sodipodi:role="line"
+         x="29.742188"
+         y="509.41943"
+         style="font-style:normal;font-size:11px;text-align:start;text-anchor:start;fill:#9a9996;stroke-width:1.33333"
+         id="tspan11">minimal land use diversity. </tspan></text>
     <g
        id="g7"
        transform="matrix(1,0,0,1.1986098,-50,-56.17445)"
@@ -600,6 +610,32 @@
          y="233.92383"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.33333"
          id="tspan6-9-7-2-5-9-1-1">Northfield</tspan></text>
+    <text
+       id="text237-0-6-6-6-4-6-5-6-4"
+       xml:space="preserve"
+       x="232.40527"
+       y="64.1185"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.33333"><tspan
+         sodipodi:role="line"
+         x="232.40527"
+         y="64.1185"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.33333"
+         id="tspan6-9-3">More diversity in land-</tspan><tspan
+         sodipodi:role="line"
+         x="232.40527"
+         y="77.8685"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.33333"
+         id="tspan1-2">use is related to greater</tspan><tspan
+         sodipodi:role="line"
+         x="232.40527"
+         y="91.6185"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.33333"
+         id="tspan2">sustainable mode shift  </tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:2, 4;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 305.5,123.93077 V 93.933441"
+       id="path2"
+       sodipodi:nodetypes="cc" />
   </g>
   <defs
      id="topdefs-a2c016" />
