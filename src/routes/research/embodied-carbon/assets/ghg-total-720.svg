@@ -25,15 +25,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="509.11688"
-     inkscape:cy="439.82042"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="144.95689"
+     inkscape:cy="217.43534"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g16">
+     inkscape:current-layer="layer1">
     <inkscape:grid
        id="grid1"
        units="px"
@@ -446,6 +446,20 @@
          x="65.88311"
          y="132.26686">Cooksville</tspan></text>
     <text
+       id="text237-0-6-6-6-1-0"
+       xml:space="preserve"
+       x="5.1387043"
+       y="51.584057"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.352777"><tspan
+         sodipodi:role="line"
+         id="tspan2-5-6"
+         x="5.1387043"
+         y="51.584057">per</tspan><tspan
+         sodipodi:role="line"
+         x="5.1387043"
+         y="56.875717"
+         id="tspan4">scenario</tspan></text>
+    <text
        id="text237-0-6-6-6-1-2"
        xml:space="preserve"
        x="92.626923"
@@ -525,11 +539,11 @@
     <text
        id="text237-0-6-6-6-4-4-5"
        xml:space="preserve"
-       x="4.9777322"
+       x="5.0108051"
        y="46.262119"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.49792px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.352777"><tspan
          sodipodi:role="line"
-         x="4.9777322"
+         x="5.0108051"
          y="46.262119"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.352777"
          id="tspan12-1">MtCO e</tspan></text>
@@ -634,11 +648,11 @@
     <text
        id="text237-0-6-6-6-4-4-5-8"
        xml:space="preserve"
-       x="15.45397"
+       x="15.487042"
        y="47.624992"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.6683px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.352777"><tspan
          sodipodi:role="line"
-         x="15.45397"
+         x="15.487042"
          y="47.624992"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.35438px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.352777"
          id="tspan12-1-1">2</tspan></text>
