@@ -141,7 +141,7 @@
 			Residential displacement is a situation in which current residents are forced out of neighbourhoods or have fewer options within them. 
 		</p>
 		<p>
-			This may be <span class="highlight">direct displacement</span> (when housing is demolished for new transit construction), but is most often <span class="highlight">indirect displacement</span>, when property prices and rents increase without policy protections. Along with these, researchers also consider <span class="highlight">exclusionary displacement</span>, when new residents are unable to move into neighbourhoods because of price increases or a lack of suitable housing stock.<Footnote id={addFootnote(fns[1])}/> 
+			This may be <span style="border-bottom: 4px solid var(--brandYellow); font-family: InterBold">direct displacement</span> (when housing is demolished for new transit construction), but is most often  <span style="border-bottom: 4px solid var(--brandYellow); font-family: InterBold">indirect displacement</span>, when property prices and rents increase without policy protections. Along with these, researchers also consider  <span style="border-bottom: 4px solid var(--brandRed); font-family: InterBold">exclusionary displacement</span>, when new residents are unable to move into neighbourhoods because of price increases or a lack of suitable housing stock.<Footnote id={addFootnote(fns[1])}/> 
 		</p>
 		<p>
 			To measure displacement around transit stations, first we identified every major rail transit station that opened in Canada between 1990 and 2016, including subway/metro, light rail, and regional rail. For these 70 station areas, we used historical census data to understand how many and what types of dwellings were built within 800 metres of the station over a 10-year period, the five years before and after the stations opened.<Footnote id={addFootnote(fns[2])}/> 
@@ -232,6 +232,15 @@
 		<p>
 			Where new stations have opened, the residents who move into the station area are about 15% less likely to be low-income compared with those relocating to other parts of the CMA. This was particularly true in the major cities of Montreal, Vancouver, and Toronto, where much of the new housing built near transit stations since 2000 has been owner-occupied condominiums, which are generally less accessible to lower-income households. In contrast, there were more low-income in-movers near LRT stations, possibly because these have less of an impact on land values and housing prices, at least in the context of Edmonton and Calgary. More recent station openings have also attracted more low-income households, at rates comparable to the rest of the CMA. This may be tied to local market conditions or may be a positive effect of more inclusive housing policies in these areas. 
 		</p>
+
+	</div>
+
+	<GraphicSingle
+		svg720={"../web-assets/research/displacement/move-in-chart720.svg"}
+		svg360={"../web-assets/research/displacement/move-away-chart360.svg"}
+	/>
+
+	<div class="text">
 
 		<h2>
 			All new development in case study station areas is associated with displacement – but mixed-use areas fare better 

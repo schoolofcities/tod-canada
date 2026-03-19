@@ -22,11 +22,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.2784722"
-     inkscape:cx="283.54155"
-     inkscape:cy="126.32265"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="369.46329"
+     inkscape:cy="156.2706"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -68,13 +68,13 @@
      font-variation-settings="'opsz' 14, 'wght' 700"
      font-weight="700"
      id="text3"
-     x="306.67181"
-     y="98.648819"
-     style="-inkscape-font-specification:'Inter 24pt, Bold';font-family:'Inter 24pt';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:22px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-       x="306.67181"
-       y="98.648819"
+     x="303.94931"
+     y="93.931602"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"><tspan
+       x="303.94931"
+       y="93.931602"
        id="tspan3"
-       style="font-style:normal;-inkscape-font-specification:'Inter 24pt, Bold';font-family:'Inter 24pt';font-weight:bold;font-stretch:normal;font-variant:normal;font-size:22px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">31.4%</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">31.4%</tspan></text>
   <text
      fill="#243662"
      font-family="InterItalic-BoldItalic, Inter"
@@ -83,17 +83,17 @@
      font-variation-settings="'opsz' 14, 'wght' 700"
      font-weight="700"
      id="text10"
-     x="400.07675"
-     y="175.01765"
-     style="-inkscape-font-specification:'Inter 24pt, Bold';font-family:'Inter 24pt';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:22px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-       x="400.07675"
-       y="175.01765"
+     x="409.25943"
+     y="178.89796"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"><tspan
+       x="409.25943"
+       y="178.89796"
        id="tspan10"
-       style="font-style:normal;-inkscape-font-specification:'Inter 24pt, Bold';font-family:'Inter 24pt';font-weight:bold;font-stretch:normal;font-variant:normal;font-size:22px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">37.0%</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">37.0%</tspan></text>
   <g
      id="g17"
-     transform="matrix(1.6068972,0,0,1.6084166,-245.90791,-107.28973)"
-     style="stroke-width:0.622023;stroke-dasharray:none">
+     transform="matrix(2.11953,0,0,2.1226721,-435.7837,-175.67227)"
+     style="stroke-width:0.471453;stroke-dasharray:none">
     <line
        x1="342.43021"
        y1="132.23199"
@@ -104,22 +104,22 @@
        stroke-miterlimit="10"
        stroke-width="0.311012"
        id="line16"
-       style="stroke-width:0.622023;stroke-dasharray:none" />
+       style="stroke-width:0.471453;stroke-dasharray:none" />
     <path
        d="m 342.6313,132.232 c 0.5225,-0.5225 0.7715,-1.5557 0.792,-2.2725 -0.7163,0.9624 -1.6472,1.8018 -2.7734,2.2725 1.1262,0.4507 2.0161,1.3408 2.7734,2.2725 -0.0615,-0.7676 -0.249,-1.6992 -0.792,-2.2725 z"
        fill="#cc513d"
        id="path16"
-       style="stroke-width:0.622023;stroke-dasharray:none" />
+       style="stroke-width:0.471453;stroke-dasharray:none" />
     <path
        d="m 385.7686,132.232 c -0.5225,-0.5225 -0.7715,-1.5557 -0.792,-2.2725 0.7163,0.9624 1.6472,1.8018 2.7734,2.2725 -1.1262,0.4507 -2.0161,1.3408 -2.7734,2.2725 0.0615,-0.7676 0.249,-1.6992 0.792,-2.2725 z"
        fill="#cc513d"
        id="path17"
-       style="stroke-width:0.622023;stroke-dasharray:none" />
+       style="stroke-width:0.471453;stroke-dasharray:none" />
   </g>
   <g
      id="g19"
-     transform="matrix(1.6068972,0,0,1.6084166,-231.2511,-107.28973)"
-     style="stroke-width:0.622023;stroke-dasharray:none">
+     transform="matrix(2.11953,0,0,2.1226721,-429.17208,-183.16725)"
+     style="stroke-width:0.471453;stroke-dasharray:none">
     <line
        x1="374.11359"
        y1="189.24741"
@@ -131,63 +131,29 @@
        stroke-miterlimit="10"
        stroke-width="0.311012"
        id="line17"
-       style="stroke-width:0.622023;stroke-dasharray:none" />
+       style="stroke-width:0.471453;stroke-dasharray:none;stroke:#007fa3;stroke-opacity:1" />
     <path
        d="m 374.2154,189.074 c -0.1855,-0.7152 -0.9502,-1.4534 -1.5576,-1.8343 0.4666,1.1052 0.7185,2.3331 0.5537,3.5425 0.9592,-0.7425 2.1775,-1.0587 3.3645,-1.2395 -0.6929,-0.3359 -1.5911,-0.6464 -2.3606,-0.4688 z"
        fill="#243662"
        id="path18"
-       style="stroke-width:0.622023;stroke-dasharray:none" />
+       style="stroke-width:0.471453;stroke-dasharray:none;fill:#007fa3;fill-opacity:1" />
     <path
        d="m 400.3968,144.5317 c -0.7153,0.1857 -1.7322,-0.1232 -2.3606,-0.4688 1.1929,-0.1299 2.3882,-0.5071 3.3645,-1.2395 -0.1821,1.1993 0.1343,2.4175 0.5537,3.5425 -0.6304,-0.442 -1.3386,-1.0757 -1.5576,-1.8343 z"
        fill="#243662"
        id="path19"
-       style="stroke-width:0.622023;stroke-dasharray:none" />
+       style="stroke-width:0.471453;stroke-dasharray:none;fill:#007fa3;fill-opacity:1" />
   </g>
-  <line
-     x1="392.18793"
-     y1="114.38612"
-     x2="376.03864"
-     y2="114.38612"
-     fill="none"
-     stroke="#cc513d"
-     stroke-miterlimit="10"
-     stroke-width="3"
-     id="line19"
-     style="stroke:#000000" />
-  <text
-     fill="#231f20"
-     font-family="InterItalic-BoldItalic, Inter"
-     font-size="10px"
-     font-style="italic"
-     font-variation-settings="'opsz' 14, 'wght' 700"
-     font-weight="700"
-     id="text18"
-     x="404.01736"
-     y="98.191048"
-     style="font-style:italic;font-weight:700;font-size:10px;font-family:InterItalic-BoldItalic, Inter;font-variation-settings:'opsz' 14, 'wght' 700;fill:#231f20"><tspan
-       x="404.01736"
-       y="98.191048"
-       id="tspan18"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">15.1% less</tspan></text>
-  <path
-     d="m 401.16742,94.177516 c 0,0 -15.70919,-2.37789 -16.10673,16.227964"
-     fill="none"
-     stroke="#6d6e71"
-     stroke-miterlimit="10"
-     stroke-width="0.500001"
-     id="path20"
-     style="stroke:#000000" />
   <g
      id="TRIANGLES"
-     transform="matrix(1.6068972,0,0,1.6084166,-231.2511,-107.28973)"
-     style="stroke-width:1.55506;stroke-dasharray:none">
+     transform="matrix(2.11953,0,0,2.1226721,-413.68563,-186.0909)"
+     style="stroke-width:1.17863;stroke-dasharray:none">
     <polygon
        points="387.75,142.8235 364.2,183.6133 340.65,142.8235 "
        fill="#cc513d"
        stroke="#faf9f8"
        stroke-miterlimit="10"
        id="polygon20"
-       style="stroke-width:1.55506;stroke-dasharray:none"
+       style="stroke-width:1.17863;stroke-dasharray:none"
        transform="translate(-8.6048959)" />
     <polygon
        points="332.25,142.8235 387.75,142.8235 360,190.8879 "
@@ -196,10 +162,10 @@
        stroke-miterlimit="10"
        stroke-width="0.933035"
        id="polygon21"
-       style="stroke-width:1.55506;stroke-dasharray:none" />
+       style="stroke-width:1.17863;stroke-dasharray:none" />
     <g
        id="g23"
-       style="stroke-width:1.55506;stroke-dasharray:none">
+       style="stroke-width:1.17863;stroke-dasharray:none">
       <polyline
          points="386.5 142.8235 387.75 142.8235 387.125 143.9061"
          fill="none"
@@ -207,19 +173,19 @@
          stroke-miterlimit="10"
          stroke-width="0.933035"
          id="polyline21"
-         style="stroke-width:1.55506;stroke-dasharray:none" />
+         style="stroke-width:1.17863;stroke-dasharray:none;fill:#007fa3;fill-opacity:1;stroke:#007fa3;stroke-opacity:1" />
       <line
-         x1="385.6106"
-         y1="146.5289"
-         x2="361.38211"
-         y2="188.494"
+         x1="387.125"
+         y1="143.90611"
+         x2="360.625"
+         y2="189.80539"
          fill="none"
          stroke="#243662"
          stroke-dasharray="2.5238, 3.0286"
          stroke-miterlimit="10"
          stroke-width="0.933035"
          id="line21"
-         style="stroke-width:1.55506;stroke-dasharray:1.55506, 1.55506;stroke-dashoffset:0" />
+         style="stroke:#007fa3;stroke-width:1.88581355;stroke-dasharray:1.88581355,1.88581355;stroke-dashoffset:0;stroke-opacity:1" />
       <polyline
          points="360.625 189.8054 360 190.8879 359.375 189.8054"
          fill="none"
@@ -227,19 +193,19 @@
          stroke-miterlimit="10"
          stroke-width="0.933035"
          id="polyline22"
-         style="stroke-width:1.55506;stroke-dasharray:none" />
+         style="stroke-width:1.17863;stroke-dasharray:none;fill:#007fa3;fill-opacity:1;stroke:#007fa3;stroke-opacity:1" />
       <line
-         x1="357.8606"
-         y1="187.1826"
-         x2="333.63211"
-         y2="145.21741"
+         x1="358.845"
+         y1="188.88747"
+         x2="333.17328"
+         y2="144.77756"
          fill="none"
          stroke="#243662"
          stroke-dasharray="2.5238, 3.0286"
          stroke-miterlimit="10"
          stroke-width="0.933035"
          id="line22"
-         style="stroke-width:1.55506;stroke-dasharray:1.55506, 1.55506;stroke-dashoffset:0" />
+         style="stroke:#007fa3;stroke-width:1.88581355;stroke-dasharray:1.88581355,1.88581355;stroke-dashoffset:0;stroke-opacity:1" />
       <polyline
          points="332.875 143.906 332.25 142.8235 333.5 142.8235"
          fill="none"
@@ -247,9 +213,9 @@
          stroke-miterlimit="10"
          stroke-width="0.933035"
          id="polyline23"
-         style="stroke-width:1.55506;stroke-dasharray:none" />
+         style="stroke-width:1.17863;stroke-dasharray:none;fill:#007fa3;fill-opacity:1;stroke:#007fa3;stroke-opacity:1" />
       <line
-         x1="336.52859"
+         x1="334.4736"
          y1="142.8235"
          x2="384.9856"
          y2="142.8235"
@@ -259,7 +225,7 @@
          stroke-miterlimit="10"
          stroke-width="0.933035"
          id="line23"
-         style="stroke-width:1.55506;stroke-dasharray:1.55506, 1.55506;stroke-dashoffset:0" />
+         style="stroke:#007fa3;stroke-width:1.88581355;stroke-dasharray:1.88581355,1.88581355;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
   </g>
   <text
@@ -269,24 +235,24 @@
      font-variation-settings="'opsz' 14, 'wght' 400"
      isolation="isolate"
      id="text15-9"
-     x="150.15608"
-     y="83.330864"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#cc513d;fill-opacity:1"><tspan
+     x="114.61473"
+     y="87.241463"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#000000;fill-opacity:1"><tspan
        sodipodi:role="line"
-       x="150.15608"
-       y="83.330864"
+       x="114.61473"
+       y="87.241463"
        id="tspan29">Percent of in-movers</tspan><tspan
        sodipodi:role="line"
-       x="150.15608"
-       y="102.08086"
+       x="114.61473"
+       y="107.24146"
        id="tspan32">into transit station</tspan><tspan
        sodipodi:role="line"
-       x="150.15608"
-       y="120.83086"
+       x="114.61473"
+       y="127.24146"
        id="tspan35">areas that are</tspan><tspan
        sodipodi:role="line"
-       x="150.15608"
-       y="139.58086"
+       x="114.61473"
+       y="147.24146"
        id="tspan36">low-income</tspan></text>
   <text
      fill="#010101"
@@ -295,19 +261,270 @@
      font-variation-settings="'opsz' 14, 'wght' 400"
      isolation="isolate"
      id="text15-9-9"
-     x="479.98184"
-     y="152.97893"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#243662;fill-opacity:1"><tspan
+     x="484.51767"
+     y="157.63625"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#000000;fill-opacity:1"><tspan
        sodipodi:role="line"
-       x="479.98184"
-       y="152.97893"
+       x="484.51767"
+       y="157.63625"
        id="tspan26">Average CMA rate of</tspan><tspan
        sodipodi:role="line"
-       x="479.98184"
-       y="171.72893"
+       x="484.51767"
+       y="176.38625"
        id="tspan38">in-movers that are</tspan><tspan
        sodipodi:role="line"
-       x="479.98184"
-       y="190.47893"
+       x="484.51767"
+       y="195.13625"
        id="tspan40">low-income</tspan></text>
+  <rect
+     style="fill:#f1c500;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="rect1"
+     width="41.808594"
+     height="4.080421"
+     x="327.60376"
+     y="402.91373"
+     rx="0"
+     ry="0" />
+  <text
+     fill="#9e2666"
+     font-family="InterItalic-BoldItalic, Inter"
+     font-size="22px"
+     font-style="italic"
+     font-variation-settings="'opsz' 14, 'wght' 700"
+     font-weight="700"
+     id="text1"
+     x="326.98071"
+     y="400.90637"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1"><tspan
+       x="326.98071"
+       y="400.90637"
+       id="tspan1-3"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1">7.1%</tspan></text>
+  <text
+     fill="#26524d"
+     font-family="InterItalic-BoldItalic, Inter"
+     font-size="22px"
+     font-style="italic"
+     font-variation-settings="'opsz' 14, 'wght' 700"
+     font-weight="700"
+     id="text8"
+     x="242.17351"
+     y="313.53802"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1"><tspan
+       x="242.17351"
+       y="313.53802"
+       id="tspan8"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1">6.4%</tspan></text>
+  <text
+     fill="#010101"
+     font-family="Inter-Regular, Inter"
+     font-size="16px"
+     font-variation-settings="'opsz' 14, 'wght' 400"
+     isolation="isolate"
+     id="text15-9-6"
+     x="120.28991"
+     y="324.8808"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 14, 'wght' 400;isolation:isolate;fill:#000000;fill-opacity:1"><tspan
+       sodipodi:role="line"
+       id="tspan24"
+       x="120.28991"
+       y="324.8808">CMA average</tspan><tspan
+       sodipodi:role="line"
+       x="120.28991"
+       y="343.6308"
+       id="tspan3-7">annual low-income</tspan><tspan
+       sodipodi:role="line"
+       x="120.28991"
+       y="362.3808"
+       id="tspan29-5">moving out rate</tspan><tspan
+       sodipodi:role="line"
+       x="120.28991"
+       y="381.1308"
+       id="tspan4" /></text>
+  <text
+     fill="#010101"
+     font-family="Inter-Regular, Inter"
+     font-size="16px"
+     font-variation-settings="'opsz' 14, 'wght' 400"
+     isolation="isolate"
+     id="text15-9-9-3"
+     x="385.69284"
+     y="398.0231"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 14, 'wght' 400;isolation:isolate;fill:#000000;fill-opacity:1"><tspan
+       sodipodi:role="line"
+       x="385.69284"
+       y="398.0231"
+       id="tspan27"
+       style="font-weight:bold">Average annual low-income moving out</tspan><tspan
+       sodipodi:role="line"
+       x="385.69284"
+       y="416.7731"
+       id="tspan30"
+       style="font-weight:bold">rate from transit station areas</tspan></text>
+  <g
+     id="g17-6"
+     style="stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+     transform="translate(-20.905323,191.22897)">
+    <line
+       x1="314.61429"
+       y1="185.9832"
+       x2="417.55371"
+       y2="185.9832"
+       fill="none"
+       stroke="#9e2666"
+       stroke-miterlimit="10"
+       stroke-width=".5"
+       id="line16-2"
+       style="stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 314.8154,185.9832 c 0.5225,-0.5225 0.7715,-1.5557 0.792,-2.2725 -0.7163,0.9624 -1.6472,1.8018 -2.7734,2.2725 1.1262,0.4507 2.0161,1.3408 2.7734,2.2725 -0.0615,-0.7676 -0.249,-1.6992 -0.792,-2.2725 z"
+       fill="#9e2666"
+       id="path16-9"
+       style="stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 417.3525,185.9832 c -0.5225,-0.5225 -0.7715,-1.5557 -0.792,-2.2725 0.7163,0.9624 1.6472,1.8018 2.7734,2.2725 -1.1262,0.4507 -2.0161,1.3408 -2.7734,2.2725 0.0615,-0.7676 0.249,-1.6992 0.792,-2.2725 z"
+       fill="#9e2666"
+       id="path17-1"
+       style="stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="g20"
+     style="stroke:#000000;stroke-width:1;stroke-dasharray:none"
+     transform="translate(-20.905323,189.32217)">
+    <line
+       x1="301.56812"
+       y1="173.8569"
+       x2="301.69479"
+       y2="173.6414"
+       fill="none"
+       stroke="#26524d"
+       stroke-miterlimit="10"
+       stroke-width=".5"
+       id="line17-2"
+       style="stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+    <line
+       x1="302.2034"
+       y1="172.77631"
+       x2="348.47949"
+       y2="94.046402"
+       fill="none"
+       stroke="#26524d"
+       stroke-dasharray=".5018 1.0035"
+       stroke-miterlimit="10"
+       stroke-width=".5"
+       id="line18"
+       style="stroke:#000000;stroke-width:1;stroke-dasharray:1, 1;stroke-dashoffset:0" />
+    <line
+       x1="348.73361"
+       y1="93.6138"
+       x2="348.86041"
+       y2="93.3983"
+       fill="none"
+       stroke="#26524d"
+       stroke-miterlimit="10"
+       stroke-width=".5"
+       id="line19-7"
+       style="stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+    <path
+       d="m 301.6699,173.6835 c -0.1855,-0.7151 -0.9502,-1.4534 -1.5576,-1.8343 0.4666,1.1052 0.7185,2.3331 0.5537,3.5425 0.9592,-0.7425 2.1775,-1.0587 3.3645,-1.2395 -0.6929,-0.3359 -1.5911,-0.6464 -2.3606,-0.4688 z"
+       fill="#26524d"
+       id="path19-0"
+       style="stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+    <path
+       d="m 348.7583,93.5718 c -0.7151,0.1857 -1.7319,-0.1232 -2.3604,-0.4688 1.1926,-0.1299 2.3879,-0.5071 3.3645,-1.2395 -0.1821,1.1993 0.1343,2.4175 0.5537,3.5425 -0.6306,-0.442 -1.3386,-1.0757 -1.5579,-1.8343 z"
+       fill="#26524d"
+       id="path20-9"
+       style="stroke:#000000;stroke-width:1;stroke-dasharray:none" />
+  </g>
+  <polygon
+     points="312.834,175.3917 419.334,175.3917 366.084,83.16 "
+     fill="#9e2666"
+     stroke="#faf9f8"
+     stroke-miterlimit="10"
+     id="polygon20-3"
+     transform="translate(-20.905323,189.32217)"
+     style="fill:#f1c500;fill-opacity:1" />
+  <polygon
+     points="312.834,175.3917 409.284,175.3917 361.059,91.8636 "
+     fill="none"
+     stroke="#faf9f8"
+     stroke-miterlimit="10"
+     stroke-width="2"
+     id="polygon21-6"
+     transform="translate(-20.905323,189.32217)"
+     style="stroke-width:4;stroke-dasharray:none" />
+  <g
+     id="g23-0"
+     transform="translate(-20.905323,189.32217)">
+    <polyline
+       points="361.6841 92.9461 361.0591 91.8636 360.4341 92.9461"
+       fill="none"
+       stroke="#26524d"
+       stroke-miterlimit="10"
+       stroke-width="1.5"
+       id="polyline21-6"
+       style="stroke-width:2.5;stroke-dasharray:2.5, 2.5;stroke-dashoffset:0" />
+    <line
+       x1="358.9736"
+       y1="95.475502"
+       x2="314.18921"
+       y2="173.04449"
+       fill="none"
+       stroke="#26524d"
+       stroke-dasharray="2.4339, 2.9207"
+       stroke-miterlimit="10"
+       stroke-width="1.5"
+       id="line21-2"
+       style="stroke-width:2.5;stroke-dasharray:2.5, 2.5;stroke-dashoffset:0" />
+    <line
+       x1="319.22485"
+       y1="129.20229"
+       x2="260.1907"
+       y2="129.20238"
+       fill="none"
+       stroke="#26524d"
+       stroke-dasharray="2.4339, 2.9207"
+       stroke-miterlimit="10"
+       stroke-width="1.5"
+       id="line21-6"
+       style="stroke-width:2.5;stroke-dasharray:2.5, 2.5;stroke-dashoffset:0" />
+    <polyline
+       points="313.459 174.3092 312.834 175.3917 314.084 175.3917"
+       fill="none"
+       stroke="#26524d"
+       stroke-miterlimit="10"
+       stroke-width="1.5"
+       id="polyline22-6" />
+    <line
+       x1="317.00461"
+       y1="175.39169"
+       x2="406.5737"
+       y2="175.39169"
+       fill="none"
+       stroke="#26524d"
+       stroke-dasharray="2.4339, 2.9207"
+       stroke-miterlimit="10"
+       stroke-width="1.5"
+       id="line22-1"
+       style="stroke-width:2.5;stroke-dasharray:2.5, 2.5;stroke-dashoffset:0" />
+    <polyline
+       points="408.0339 175.3917 409.2839 175.3917 408.6589 174.3092"
+       fill="none"
+       stroke="#26524d"
+       stroke-miterlimit="10"
+       stroke-width="1.5"
+       id="polyline23-8" />
+    <line
+       x1="407.1987"
+       y1="171.7798"
+       x2="362.41431"
+       y2="94.2108"
+       fill="none"
+       stroke="#26524d"
+       stroke-dasharray="2.4339, 2.9207"
+       stroke-miterlimit="10"
+       stroke-width="1.5"
+       id="line23-7"
+       style="stroke-width:2.5;stroke-dasharray:2.5, 2.5;stroke-dashoffset:0" />
+  </g>
 </svg>

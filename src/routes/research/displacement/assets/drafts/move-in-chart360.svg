@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="620" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 620">
+  <defs>
+    <filter id="drop-shadow-126" x="199.72" y="204.64" width="65.52" height="31.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-127" x="205" y="479.68" width="60.24" height="31.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-2" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-128" x="213.88" y="504.64" width="70.32" height="31.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-3" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-3" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-129" x="223.48" y="529.6" width="51.84" height="31.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-4" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-4" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-130" x="213.64" y="554.56" width="69.12" height="31.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-5" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-5" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-131" x="213.88" y="144.64" width="49.92" height="31.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-6" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-6" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-132" x="215.32" y="254.56" width="60" height="31.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-7" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-7" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-133" x="213.64" y="229.6" width="51.36" height="31.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-8" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-8" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-134" x="217.48" y="344.56" width="64.56" height="31.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-9" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-9" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-135" x="208.84" y="394.48" width="68.88" height="31.44" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-10" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-10" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-183" x="199.72" y="203.64" width="65.52" height="31.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-11" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-11" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-184" x="205" y="478.68" width="60.24" height="31.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-12" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-12" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-185" x="213.88" y="503.64" width="70.32" height="31.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-13" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-13" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-186" x="223.48" y="528.6" width="51.84" height="31.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-14" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-14" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-187" x="213.64" y="553.56" width="69.12" height="31.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-15" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-15" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-188" x="213.88" y="143.64" width="49.92" height="31.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-16" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-16" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-189" x="215.32" y="253.56" width="60" height="31.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-17" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-17" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-190" x="213.64" y="228.6" width="51.36" height="31.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-18" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-18" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-191" x="217.48" y="343.56" width="64.56" height="31.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-19" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-19" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-192" x="208.84" y="393.48" width="68.88" height="31.44" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-20" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-20" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Layer_3" data-name="Layer 3">
+    <rect id="rect25" width="360" height="620" rx="21.5668" ry="21.5668" fill="#faf9f8"/>
+    <text transform="translate(36.7245 31.0684)" fill="#010101" font-family="Inter-Bold, Inter" font-size="16" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700" isolation="isolate"><tspan x="0" y="0">In-movers to station areas that are </tspan><tspan x="0" y="19.2002">low-income residents</tspan></text>
+    <path id="rect1" d="M25.1538,21.0947h0c2.262,0,4.0957,1.8337,4.0957,4.0957h0c0,2.262-1.8337,4.0957-4.0957,4.0957h0c-2.262,0-4.0957-1.8337-4.0957-4.0957h0c0-2.262,1.8337-4.0957,4.0957-4.0957Z" fill="#fff" fill-rule="evenodd" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+  </g>
+  <g id="Layer_1" data-name="Layer 1">
+    <text transform="translate(30.5722 200.0008)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="10" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">DATE OF STATION OPENING</tspan></text>
+    <line x1="184.8246" y1="140" x2="184.8247" y2="579.997" fill="none" stroke="#000" stroke-dasharray=".5 2" stroke-miterlimit="10" stroke-width=".5"/>
+    <line x1="256.4347" y1="140.0015" x2="256.435" y2="579.9985" fill="none" stroke="#000" stroke-dasharray=".5 2" stroke-miterlimit="10" stroke-width=".5"/>
+    <line x1="220.6295" y1="140" x2="220.6296" y2="579.997" fill="none" stroke="#000" stroke-dasharray=".25 1.5" stroke-miterlimit="10" stroke-width=".25"/>
+    <line x1="292.2396" y1="140.0015" x2="292.2399" y2="579.9985" fill="none" stroke="#000" stroke-dasharray=".25 1.5" stroke-miterlimit="10" stroke-width=".25"/>
+    <line x1="328.0447" y1="140.0023" x2="328.045" y2="579.9992" fill="none" stroke="#000" stroke-dasharray=".5 2" stroke-miterlimit="10" stroke-width=".5"/>
+  </g>
+  <g id="CMAs">
+    <g>
+      <circle cx="189.1851" cy="91.3506" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="268.1759" cy="105.847" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="227.0004" cy="157.1982" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="212.7698" cy="217.1992" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="226.7217" cy="242.1982" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="228.4326" cy="267.1982" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="227.3585" cy="292.1973" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="220.5555" cy="382.1973" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="230.581" cy="357.1973" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="213.0365" cy="467.1973" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="248.2132" cy="492.1973" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="227.0005" cy="517.1973" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="236.9382" cy="542.1973" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="226.6424" cy="567.1982" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="221.9877" cy="407.1973" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="248.1254" cy="217.1992" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="258.1508" cy="267.1982" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="228.4326" cy="292.1973" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="213.0365" cy="382.1973" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="264.9538" cy="357.1973" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="212.05" cy="467.1978" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="218.0054" cy="492.1973" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="267.1021" cy="517.1973" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="258.1509" cy="542.1973" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="265.6699" cy="567.1982" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="260.6572" cy="407.1973" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="246.6932" cy="157.1982" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+      <circle cx="247.7673" cy="242.1982" r="4.9683" fill="#bcbec0" stroke="#bcbec0" stroke-miterlimit="10" stroke-width=".5"/>
+    </g>
+    <g>
+      <line x1="211.7698" y1="217.1992" x2="247.1254" y2="217.1992" fill="#bcbec0" filter="url(#drop-shadow-126)" stroke="#bcbec0" stroke-miterlimit="10"/>
+      <line x1="217.0492" y1="492.1972" x2="247.2132" y2="492.1972" fill="#bcbec0" filter="url(#drop-shadow-127)" stroke="#bcbec0" stroke-miterlimit="10"/>
+      <line x1="226.0005" y1="517.1972" x2="266.1021" y2="517.1972" fill="#bcbec0" filter="url(#drop-shadow-128)" stroke="#bcbec0" stroke-miterlimit="10"/>
+      <line x1="235.5801" y1="542.1972" x2="257.1509" y2="542.1972" fill="#bcbec0" filter="url(#drop-shadow-129)" stroke="#bcbec0" stroke-miterlimit="10"/>
+      <line x1="225.6424" y1="567.1982" x2="264.6699" y2="567.1982" fill="#bcbec0" filter="url(#drop-shadow-130)" stroke="#bcbec0" stroke-miterlimit="10"/>
+      <line x1="226.0004" y1="157.1982" x2="245.6932" y2="157.1982" fill="#bcbec0" filter="url(#drop-shadow-131)" stroke="#bcbec0" stroke-miterlimit="10"/>
+      <line x1="227.4326" y1="267.1982" x2="257.1508" y2="267.1982" fill="#bcbec0" filter="url(#drop-shadow-132)" stroke="#bcbec0" stroke-miterlimit="10"/>
+      <line x1="225.6424" y1="242.1982" x2="246.7673" y2="242.1982" fill="#bcbec0" filter="url(#drop-shadow-133)" stroke="#bcbec0" stroke-miterlimit="10"/>
+      <line x1="229.581" y1="357.1973" x2="263.9538" y2="357.1973" fill="#bcbec0" filter="url(#drop-shadow-134)" stroke="#bcbec0" stroke-miterlimit="10"/>
+      <line x1="220.9877" y1="407.1973" x2="259.6572" y2="407.1973" fill="#bcbec0" filter="url(#drop-shadow-135)" stroke="#bcbec0" stroke-miterlimit="10"/>
+    </g>
+    <g>
+      <line x1="211.7698" y1="216.1992" x2="247.1254" y2="216.1992" fill="#f2f2f3" filter="url(#drop-shadow-183)" stroke="#231f20" stroke-miterlimit="10"/>
+      <line x1="217.0492" y1="491.1972" x2="247.2132" y2="491.1972" fill="#f2f2f3" filter="url(#drop-shadow-184)" stroke="#231f20" stroke-miterlimit="10"/>
+      <line x1="226.0005" y1="516.1972" x2="266.1021" y2="516.1972" fill="#f2f2f3" filter="url(#drop-shadow-185)" stroke="#231f20" stroke-miterlimit="10"/>
+      <line x1="235.5801" y1="541.1972" x2="257.1509" y2="541.1972" fill="#f2f2f3" filter="url(#drop-shadow-186)" stroke="#231f20" stroke-miterlimit="10"/>
+      <line x1="225.6424" y1="566.1982" x2="264.6699" y2="566.1982" fill="#f2f2f3" filter="url(#drop-shadow-187)" stroke="#231f20" stroke-miterlimit="10"/>
+      <line x1="226.0004" y1="156.1982" x2="245.6932" y2="156.1982" fill="#f2f2f3" filter="url(#drop-shadow-188)" stroke="#231f20" stroke-miterlimit="10"/>
+      <line x1="227.4326" y1="266.1982" x2="257.1508" y2="266.1982" fill="#f2f2f3" filter="url(#drop-shadow-189)" stroke="#231f20" stroke-miterlimit="10"/>
+      <line x1="225.6424" y1="241.1982" x2="246.7673" y2="241.1982" fill="#f2f2f3" filter="url(#drop-shadow-190)" stroke="#231f20" stroke-miterlimit="10"/>
+      <line x1="229.581" y1="356.1973" x2="263.9538" y2="356.1973" fill="#f2f2f3" filter="url(#drop-shadow-191)" stroke="#231f20" stroke-miterlimit="10"/>
+      <line x1="220.9877" y1="406.1973" x2="259.6572" y2="406.1973" fill="#f2f2f3" filter="url(#drop-shadow-192)" stroke="#231f20" stroke-miterlimit="10"/>
+    </g>
+  </g>
+  <g id="Layer_6" data-name="Layer 6">
+    <g id="text237-0-6-6-6-4-6-0" isolation="isolate">
+      <text transform="translate(36.7244 79.9995)" font-family="Inter-Regular, Inter" font-size="12" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400" isolation="isolate"><tspan x="0" y="0" fill="#010101">Average percent of </tspan><tspan x="113.1211" y="0" fill="#cc513d">in-movers to station areas that </tspan><tspan x="0" y="14.4004" fill="#cc513d">are low-income residents</tspan><tspan x="144.4453" y="14.4004" xml:space="preserve" fill="#010101">    relative to </tspan><tspan x="217.5469" y="14.4004" fill="#243662">in-movers in </tspan><tspan fill="#243662"><tspan x="0" y="28.7998">the CMA that are low-income residents</tspan></tspan></text>
+    </g>
+  </g>
+  <g id="Layer_4" data-name="Layer 4">
+    <text transform="translate(52.5822 220.0012)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Opened 1990-1999</tspan></text>
+    <text transform="translate(101.4454 160.0002)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">All Stations</tspan></text>
+    <text transform="translate(46.4056 245.0002)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Opened 2000-2004</tspan></text>
+    <text transform="translate(47.2317 270.0002)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Opened 2005-2009</tspan></text>
+    <text transform="translate(52.5693 295.0001)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Opened 2010-2016</tspan></text>
+    <text transform="translate(96.734 340.0003)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="10" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">TRANSIT TYPE</tspan></text>
+    <text transform="translate(76.163 360.0002)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Subway/ Metro</tspan></text>
+    <text transform="translate(30.537 385.0004)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Light Rail Transit (LRT)</tspan></text>
+    <text transform="translate(80.2551 449.9998)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="10" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">CANADIAN CITIES</tspan></text>
+    <text transform="translate(121.397 545)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Toronto</tspan></text>
+    <text transform="translate(107.6353 495)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Edmonton</tspan></text>
+    <text transform="translate(103.3635 570.0005)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Vancouver</tspan></text>
+    <text transform="translate(115.6079 519.9998)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Montreal</tspan></text>
+    <text transform="translate(18.5713 409.9999)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Commuter/ Regional Rail</tspan></text>
+    <text transform="translate(122.584 470)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Calgary</tspan></text>
+    <text transform="translate(314.6478 600.0002)" fill="#818385" font-family="Inter-Regular, Inter" font-size="12" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">60%</tspan></text>
+    <text transform="translate(242.8827 600.0002)" fill="#818385" font-family="Inter-Regular, Inter" font-size="12" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">40%</tspan></text>
+    <text transform="translate(171.4891 600.0002)" fill="#818385" font-family="Inter-Regular, Inter" font-size="12" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">20%</tspan></text>
+    <text transform="translate(314.6476 129.5725)" fill="#818385" font-family="Inter-Regular, Inter" font-size="12" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">60%</tspan></text>
+    <text transform="translate(242.8827 129.5725)" fill="#818385" font-family="Inter-Regular, Inter" font-size="12" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">40%</tspan></text>
+    <text transform="translate(171.4891 129.5725)" fill="#818385" font-family="Inter-Regular, Inter" font-size="12" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">20%</tspan></text>
+  </g>
+  <g id="Isolation_Mode" data-name="Isolation Mode">
+    <g>
+      <circle cx="188.1851" cy="90.3506" r="4.9683" fill="#cc513d" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="267.1759" cy="104.847" r="4.9683" fill="#243662" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="226.0004" cy="156.1982" r="4.9683" fill="#cc513d" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="211.7698" cy="216.1992" r="4.9683" fill="#cc513d" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="225.7217" cy="241.1982" r="4.9683" fill="#cc513d" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="227.4326" cy="266.1982" r="4.9683" fill="#cc513d" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="226.3585" cy="291.1973" r="4.9683" fill="#cc513d" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="219.5555" cy="381.1973" r="4.9683" fill="#cc513d" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="229.581" cy="356.1973" r="4.9683" fill="#cc513d" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="212.0365" cy="466.1973" r="4.9683" fill="#cc513d" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="247.2132" cy="491.1973" r="4.9683" fill="#cc513d" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="226.0005" cy="516.1973" r="4.9683" fill="#cc513d" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="235.9382" cy="541.1973" r="4.9683" fill="#cc513d" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="225.6424" cy="566.1982" r="4.9683" fill="#cc513d" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="220.9877" cy="406.1973" r="4.9683" fill="#cc513d" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="247.1254" cy="216.1992" r="4.9683" fill="#243662" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="257.1508" cy="266.1982" r="4.9683" fill="#243662" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="227.4326" cy="291.1973" r="4.9683" fill="#243662" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="212.0365" cy="381.1973" r="4.9683" fill="#243662" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="263.9538" cy="356.1973" r="4.9683" fill="#243662" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="211.05" cy="466.1978" r="4.9683" fill="#243662" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="217.0054" cy="491.1973" r="4.9683" fill="#243662" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="266.1021" cy="516.1973" r="4.9683" fill="#243662" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="257.1509" cy="541.1973" r="4.9683" fill="#243662" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="264.6699" cy="566.1982" r="4.9683" fill="#243662" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="259.6572" cy="406.1973" r="4.9683" fill="#243662" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="245.6932" cy="156.1982" r="4.9683" fill="#243662" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="246.7673" cy="241.1982" r="4.9683" fill="#243662" stroke="#fff" stroke-miterlimit="10"/>
+    </g>
+  </g>
+</svg>
