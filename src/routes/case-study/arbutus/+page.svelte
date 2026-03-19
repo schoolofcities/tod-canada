@@ -35,7 +35,7 @@
 	const credits = [
 		{ role:"Research and writing", names:"Sarah Chan, Kathryn Exon Smith, Anika Reisha Taboy"},
 		{ role:"Architectural renderings", names:"Daniel Lam, Phat Le"},
-		{ role:"Maps and data visualization", names:"Jeff Allen, Isabeaux Graham"},
+		{ role:"Maps and data visualization", names:"Isabeaux Graham, Jeff Allen"},
 		{ role:"Web development", names:"Mieko Yao, Jeff Allen"},
 		{ role:"Additional contributors", names:"An Pham, Carrie Zeng"}
 	]
@@ -326,22 +326,22 @@
 		<div class="callout">
 
 			<p>
-				<span class="highlight">Gentrification</span> describes a process in which demographic and economic shifts – often the arrival of more affluent, higher-educated residents or new investment – reshape local markets in a working class area.  
+				<strong>Gentrification</strong> describes a process in which demographic and economic shifts – often the arrival of more affluent, higher-educated residents or new investment – reshape local markets in a working class area.  
 			</p>
 			<p>
-				Gentrification can lead to <span class="highlight">displacement</span>, which is when people are forced to leave their homes or neighbourhoods due to external pressures.  
+				Gentrification can lead to <strong>displacement</strong>, which is when people are forced to leave their homes or neighbourhoods due to external pressures.  
 			</p>
 			<p>
 				Displacement can take several forms:<Footnote id={addFootnote(fns[6])}/> 
 			</p>
 			<p style="padding-left: 20px;">
-				<span class="highlight">Direct displacement</span> occurs when residents are forced to vacate a property due to direct forces such as eviction, expropriation, or disinvestment.
+				<strong>Direct displacement</strong> occurs when residents are forced to vacate a property due to direct forces such as eviction, expropriation, or disinvestment.
 			</p>
 			<p style="padding-left: 20px;">
-				<span class="highlight">Indirect displacement</span> is when residents can no longer afford rising rents or property taxes, often a result of speculation 
+				<strong>Indirect displacement</strong> is when residents can no longer afford rising rents or property taxes, often a result of speculation 
 			</p>
 			<p style="padding-left: 20px;">
-				<span class="highlight">Exclusionary displacement</span> refers to conditions where people are unable to move into a neighbourhood due to external conditions such as unaffordable housing, restrictive zoning, and cultural dissonance 
+				<strong>Exclusionary displacement</strong> refers to conditions where people are unable to move into a neighbourhood due to external conditions such as unaffordable housing, restrictive zoning, and cultural dissonance 
 			</p>
 			<p>
 				While displacement is often linked to gentrification, it can also occur in the absence of gentrification.<Footnote id={addFootnote(fns[7])}/> Further, changes in neighbourhood composition or the presence of gentrification do not necessarily indicate that displacement is occurring.<Footnote id={addFootnote(fns[8])}/>

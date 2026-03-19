@@ -133,7 +133,7 @@
 			The big picture  
 		</h1>
 		<p>
-			Development has embodied greenhouse gas (GHG) impacts throughout its life cycle, including the emissions generated through upstream processes such as raw material extraction, manufacturing, transportation to site, and onsite energy use during construction.<Footnote id={addFootnote(fns[0])}/> This research quantifies the embodied GHG emissions from proposed development in five Canadian case study scenarios developed by the Infrastructure Institute, comparing a scenario that reflects current development patterns (the “current trajectory”) in each case with a more mixed-use scenario that focuses on building complete communities around transit stations (“optimized”). 
+			Development has embodied greenhouse gas (GHG) impacts throughout its life cycle, including the emissions generated through upstream processes such as raw material extraction, manufacturing, transportation to site, and onsite energy use during construction.<Footnote id={addFootnote(fns[0])}/> This research quantifies the embodied GHG emissions from proposed development in five Canadian case study scenarios developed by the Infrastructure Institute, comparing a scenario that reflects current development patterns (the <span style="border-bottom: 4px solid var(--brandMedBlue); font-family: InterBold">current trajectory</span>) in each case with a more mixed-use scenario that focuses on building complete communities around transit stations (<span style="border-bottom: 4px solid var(--brandMedGreen); font-family: InterBold">optimized scenario</span>). 
 		</p>
 		<p>	
 			Because the majority of embodied GHG emissions occur during material manufacturing for construction, well before buildings are operational, they have immediate climate impacts. The following examples demonstrate how planning decisions shape the carbon impacts of urban growth. They also highlight opportunities to increase density while reducing emissions to help address both the climate and housing crises. 
@@ -256,7 +256,7 @@
 		</p>
 
 		<p>
-			Click below to view a full summary of results by station area.
+			Click below to view summary statistics by station area.
 		</p>
 
 	</div>

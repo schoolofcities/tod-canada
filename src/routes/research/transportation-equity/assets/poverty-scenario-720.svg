@@ -26,7 +26,7 @@
      showgrid="true"
      inkscape:zoom="2"
      inkscape:cx="297.75"
-     inkscape:cy="297.25"
+     inkscape:cy="377.25"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -261,14 +261,14 @@
     <text
        id="text237-0-6-6-6-9-1-1-7-8-9-2"
        xml:space="preserve"
-       x="84.89566"
+       x="82.274048"
        y="26.176737"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.352777"><tspan
          sodipodi:role="line"
-         x="84.89566"
+         x="82.274048"
          y="26.176737"
          id="tspan5-3-2-5-2-60-1"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1">More equitable</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1">More equitable*</tspan></text>
     <text
        id="text237-0-6-6-6-9-1-1-7-8-7"
        xml:space="preserve"
@@ -715,7 +715,7 @@
          x="115.77427"
          y="88.991524"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#9a9996"
-         id="tspan21">Foster-Greer-Thorbecke indices measure how </tspan><tspan
+         id="tspan21">*Foster-Greer-Thorbecke indices measure how </tspan><tspan
          sodipodi:role="line"
          x="115.77427"
          y="92.960274"

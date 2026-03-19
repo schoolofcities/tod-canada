@@ -361,12 +361,14 @@ em {
 }
 
 .text b {
-	font-family: GelasioBold;
+	font-family: InterBold;
 	font-weight: normal;
 }
 
 .text strong {
-	font-family: GelasioBold;
+	font-family: InterBold;
+	/* border-bottom: solid 3px black; */
+	padding-bottom: 1px;
 	font-weight: normal;
 }
 
@@ -531,7 +533,7 @@ li {
 	padding-bottom: 10px;
 	margin-top: 40px;
 	margin-bottom: 40px;
-	border: solid 1px #ffdcc4;
+	border: solid 1px var(--brandGray);
 	border-radius: 20px;
 	/* border-top-right-radius: 50px; */
 }
@@ -552,9 +554,9 @@ li {
 
 .highlight {
 	background-color: #ffdcc4; 
-	padding-left: 3px; 
-	padding-right: 3px;
-	font-family: GelasioBold;
+	padding-left: 2px; 
+	padding-right: 2px;
+	font-family: PoppinsBold;
 }
 
 @media screen and (max-width: 600px) {
