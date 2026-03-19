@@ -15,6 +15,8 @@
 	import Password from '$lib/Password.svelte';
 	import Recommendation from '$lib/Recommendation.svelte';
 	import LogoBody from '$lib/LogoBody.svelte';
+
+	import GraphicCompare from '$lib/GraphicCompare.svelte';
 	
 	import BoilerPlate from '$lib/BoilerPlate.svelte';
 	
@@ -259,10 +261,56 @@
 
 	</div>
 
-	<GraphicSingle
+	<GraphicCompare 
+		images={[
+			{
+				svg720: "../web-assets/research/embodied-carbon/summary-arbutus-720.svg",
+				svg360: "../web-assets/research/embodied-carbon/summary-arbutus-360.svg",
+				caption: "",
+				source: "",
+				altText: "",
+				buttonLabel: "Arbutus"
+			},
+			{
+				svg720: "../web-assets/research/embodied-carbon/summary-cooksville-720.svg",
+				svg360: "../web-assets/research/embodied-carbon/summary-cooksville-360.svg",
+				caption: "",
+				source: "",
+				altText: "",
+				buttonLabel: "Cooksville"
+			},
+			{
+				svg720: "../web-assets/research/embodied-carbon/summary-mb-720.svg",
+				svg360: "../web-assets/research/embodied-carbon/summary-mb-360.svg",
+				caption: "",
+				source: "",
+				altText: "",
+				buttonLabel: "McKernan-Belgravia"
+			},
+			{
+				svg720: "../web-assets/research/embodied-carbon/summary-northfield-720.svg",
+				svg360: "../web-assets/research/embodied-carbon/summary-northfield-360.svg",
+				caption: "",
+				source: "",
+				altText: "",
+				buttonLabel: "Northfield"
+			},
+			{
+				svg720: "../web-assets/research/embodied-carbon/summary-panama-720.svg",
+				svg360: "../web-assets/research/embodied-carbon/summary-panama-360.svg",
+				caption: "",
+				source: "",
+				altText: "",
+				buttonLabel: "Panama"
+			},
+		]}
+	/>
+
+
+	<!-- <GraphicSingle
 		svg720={"../web-assets/research/embodied-carbon/summary-northfield-720.svg"}
 		svg360={"../web-assets/research/embodied-carbon/summary-northfield-360.svg"}
-	/>
+	/> -->
 
 	<div class="text">
 

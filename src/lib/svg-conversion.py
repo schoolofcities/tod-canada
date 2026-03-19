@@ -7,6 +7,7 @@ import cairosvg
 FONT_MAP = {
 	# Base fonts
 	"Inter 24pt": "InterRegular",
+	"Inter24pt-Regular": "InterRegular",
 	"Inter": "InterRegular",
 	"Inter-Regular, Inter": "InterRegular",
 	"Inter-Regular": "InterRegular",
@@ -17,6 +18,7 @@ FONT_MAP = {
 	"Inter 24pt, Bold": "InterBold",
 	"Inter 24pt Bold": "InterBold",
 	"Inter Bold": "InterBold",
+	"Inter24pt-Bold": "InterBold",
 	# "Bold": "InterBold",
 
 	# Italic variants
@@ -427,7 +429,7 @@ def process_svg(input_svg_path, output_svg_path, font_map):
 from pathlib import Path
 
 def main():
-	folder = "research/transportation-equity"
+	folder = "research/embodied-carbon"
 	input_dir = "../routes/" + folder + "/assets/"
 	output_dir = "../../static/web-assets/"  + folder
 

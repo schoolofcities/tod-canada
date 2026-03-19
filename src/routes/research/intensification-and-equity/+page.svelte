@@ -191,7 +191,7 @@
 		</h2>
 
 		<p>
-			Across the cases, visible minority populations generally increased in station areas – but the mix is not the same everywhere. Northfield experienced one of the largest proportional jumps in visible minority residents, especially Black, Arab, Latin American, and West Asian populations, reflecting both student housing and broader migration patterns. McKernan–Belgravia and Cooksville saw growth among several racialized groups (Black, Filipino, Arab in Edmonton; Japanese and other minoritized groups in Cooksville), while some long-standing groups declined. Arbutus is diversifying in a context of entrenched land values: Latin American, Southeast Asian, and West Asian populations are growing even as overall population change remains modest. Panama largely bucks the trend: the station catchment area shows neither strong intensification nor major demographic shifts, even as surrounding South Shore areas diversify.  
+			Across the cases, visible minority populations generally increased in station areas – but the mix is not the same everywhere. Northfield experienced one of the largest proportional jumps in visible minority residents, especially Black, Arab, Latin American, and West Asian populations, reflecting both student housing and broader migration patterns. McKernan–Belgravia and Cooksville saw growth among several racialized groups (Black, Filipino, Arab in Edmonton; Japanese and other minoritized groups in Cooksville), while some long-standing groups declined. Arbutus is diversifying in a context of entrenched land values: Latin American, Southeast Asian, and West Asian populations are growing even as overall population change remains modest. Panama largely bucks the trend: the station catchment area shows neither strong intensification nor major demographic shifts, even as surrounding South Shore areas diversify.
 		</p>
 
 	</div>
@@ -242,9 +242,6 @@
 	/>
 
 	<div class="text">
-
-
-	
 
 		<h2>
 			Equity signals are mixed
