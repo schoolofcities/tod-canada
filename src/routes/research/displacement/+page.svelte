@@ -17,6 +17,8 @@
 	import LogoBody from '$lib/LogoBody.svelte';
 	
 	import BoilerPlate from '$lib/BoilerPlate.svelte';
+
+	import GraphicCompare from '$lib/GraphicCompare.svelte';
 	
 	import Footnote from '$lib/Footnote.svelte';
 	import Footnotes from '$lib/Footnotes.svelte';
@@ -198,17 +200,21 @@
 	<div class="text">
 
 		<p>
-			Between 1990 and 2016, low-income residents were about 10% more likely to leave neighbourhoods with a new transit station than comparable areas in the same CMA without one. This trend has increased in recent years (since 2010) and is more pronounced in areas with new subway stations versus LRT or regional rail. Income was by far the most important predictor of moving out of a station area, compared with age, gender, and family composition, which all showed more minor effects. 
+			Between 1990 and 2016, low-income residents were about 10% more likely to leave neighbourhoods with a new transit station than comparable areas in the same CMA without one. This trend has increased in recent years (since 2010) and is more pronounced in areas with new subway stations versus LRT or regional rail.
 		</p>
 
 	</div>
 
 	<GraphicSingle
-		svg720={"../web-assets/research/displacement/move-away-chartV2_720.svg"}
+		svg720={"../web-assets/research/displacement/move-away-chart720.svg"}
 		svg360={"../web-assets/research/displacement/move-away-chart360.svg"}
 	/>
 
 	<div class="text">
+
+		<p>
+			Via multivariate models, income was by far the most important predictor of moving out of a station area. Other demographic variables like age, gender, and family composition all showed more minor effects. 
+		</p>
 
 		<h2>
 			New station areas are more exclusive than other neighbourhoods 
