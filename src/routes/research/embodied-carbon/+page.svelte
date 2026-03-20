@@ -15,6 +15,7 @@
 	import Password from '$lib/Password.svelte';
 	import Recommendation from '$lib/Recommendation.svelte';
 	import LogoBody from '$lib/LogoBody.svelte';
+	import HamburgerMenu from '$lib/HamburgerMenu.svelte';
 
 	import GraphicCompare from '$lib/GraphicCompare.svelte';
 	
@@ -111,6 +112,8 @@
 		subtitleFontColour="var(--brandWhite)"
 		logoType = 'White';
 	/>
+
+	<HamburgerMenu pageType="research"/>
 
 	<div class="caption-container" style="padding-left: 10px; overflow: hidden; margin-top: -5px; opacity: 0.65; max-width: 320px;">
 		<p>

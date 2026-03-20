@@ -8,12 +8,12 @@
     export let contents = [];
     export let menuColour = "#e2e2e2"
     export let textColour = "black";
+    export let pageType = "caseStudy"
 
     let opened = false;
     let menu;
 
     let xColour = iconColour;
-
     $: xColour = opened ? "black" : iconColour;
     
     function handleKeydown(e) {
@@ -32,9 +32,56 @@
         //     firstLink?.focus();
         // }
     }
+    function urlFormat(text) {
+        return text.trim().toLowerCase()
+            .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+            .replace(/[^a-z0-9\s-]/g, '')
+            .replace(/\s+/g, '-')
+            .replace(/-+/g, '-')
+            .replace(/^-|-$/g, '');
+    }
+    
+
+    function handleHashNavigation() {
+        opened = false;
+        const hash = decodeURIComponent(window.location.hash.slice(1));
+        const headings = document.querySelectorAll('h1');
+        const match = [...headings].find(h => urlFormat(h.textContent) === hash);
+        match?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
 
     onMount(() => {
         menu = document.getElementById("menu");
+        let r = document.querySelector(':root');
+        
+        r.style.setProperty('--menuColour', menuColour);
+
+        if (contents.length == 0) {
+            let headers = Array.from(document.getElementsByTagName("h1"));
+            console.log(headers);
+            headers.forEach(element => {
+                if (!element.classList.contains("title-text")) {
+                    contents.push({item_id: urlFormat(element.textContent), menu_entry: element.textContent})
+                }
+            })
+
+            window.addEventListener('DOMContentLoaded', handleHashNavigation);
+            window.addEventListener('hashchange', handleHashNavigation);
+        }
+
+        if (pageType != "caseStudy") {
+            const title = document.querySelector('.title-container'); 
+
+            const observer = new IntersectionObserver(([entry]) => {
+            if (entry.isIntersecting) {
+                iconColour = "white";
+            } else {
+                iconColour = "black"
+            }
+            });
+
+            observer.observe(title);
+        }
     }) 
 
 </script>
@@ -44,6 +91,7 @@
     <button
         class="hamburger-container"
         class:opened
+        class:has-background={iconColour == "black"}
         on:click={triggerMenu}
         aria-label="Navigation Menu"
         aria-expanded={opened}
@@ -51,7 +99,7 @@
         on:keydown={handleKeydown}>
         <svg 
             class="icon"
-            height="5.3rem"
+            height="5.6rem"
             width="7rem"
             viewBox="0 0 215.2673 163.80329">
 
@@ -73,12 +121,14 @@
         >
         {#if opened}
             <nav id="menu-content">
-                <a href="#top" style:color={textColour}>Background</a>
+                <a href="#top" style:color={textColour}>Title</a>
 
                 {#each contents as content}
                     <a href={`#${content.item_id}`} 
                     style:color={textColour} 
-                    on:click={() => {opened = false;}}>{content.menu_entry}</a>
+                    on:click={() => {
+                        opened = false;
+                    }}>{content.menu_entry}</a>
                 {/each}
             </nav>
         {/if}
@@ -99,18 +149,33 @@
 		z-index: 100;
         top: 15rem;
         right: 15rem;
+        transition: background-color 200ms ease 300ms;
+        border-radius: 50%;   
+    }
+
+    .hamburger-container.opened {
+        transition: background-color 0ms;
+    }
+
+    .hamburger-container.has-background {
+        background-color: white;
+    }
+
+    .hamburger-container.has-background.opened {
+        background-color: rgb(0,0,0,0);
     }
 
     .icon {
         overflow: visible;
+        margin: 3px 0px 1px 0px;
     }
 
     .bar {
-    transform-box: fill-box;
-    transform-origin: center;
-    transition:
-        transform 300ms cubic-bezier(0.4, 0, 0.2, 1),
-        opacity 200ms ease;
+        transform-box: fill-box;
+        transform-origin: center;
+        transition:
+            transform 300ms cubic-bezier(0.4, 0, 0.2, 1),
+            opacity 200ms ease;
     }
 
     .hamburger-container.opened .bar.top {
@@ -128,6 +193,7 @@
     .menu {
         width: 25vw;
         right: 0;
+        bottom: 0;
         transform: translateX(25vw);
         transition: transform 300ms cubic-bezier(0.4, 0, 0.2, 1);
         z-index: 25;

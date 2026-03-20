@@ -15,6 +15,7 @@
 	import Password from '$lib/Password.svelte';
 	import Recommendation from '$lib/Recommendation.svelte';
 	import LogoBody from '$lib/LogoBody.svelte';
+	import HamburgerMenu from '$lib/HamburgerMenu.svelte';
 	
 	import BoilerPlate from '$lib/BoilerPlate.svelte';
 	import Footnote from '$lib/Footnote.svelte';
@@ -103,6 +104,8 @@
 		logoType = 'White';
 		backgroundColour = "black"
 	/>
+	
+	<HamburgerMenu pageType="research"/>
 
 	<div class="caption-container" style="padding-left: 10px; overflow: hidden; margin-top: -5px; opacity: 0.65; max-width: 320px;">
 		<p>

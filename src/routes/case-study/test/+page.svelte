@@ -147,8 +147,7 @@
 			colour={arrowColour}></ScrollAnimate>
 
 		<HamburgerMenu
-		iconColour={arrowColour}
-		contents={data.menuItems}/>
+		iconColour={arrowColour}/>
 
 		<!-- Bottom is underneath, scrolls normally -->
 		<div class="bottom" id="before-text">

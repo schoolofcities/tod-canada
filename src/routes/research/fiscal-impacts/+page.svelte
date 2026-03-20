@@ -21,6 +21,7 @@
 	import Footnote from '$lib/Footnote.svelte';
 	import Footnotes from '$lib/Footnotes.svelte';
 	import { createFootnoteStore } from '$lib/footnoteUtils';
+    import HamburgerMenu from '$lib/HamburgerMenu.svelte';
 
 	const footnoteStore = createFootnoteStore();
 	const { footnotes, addFootnote } = footnoteStore;
@@ -103,6 +104,8 @@
 		subtitleFontColour="var(--brandWhite)"
 		logoType = 'White';
 	/>
+
+	<HamburgerMenu pageType="research"/>
 
 	<div class="caption-container" style="padding-left: 10px; overflow: hidden; margin-top: -5px; opacity: 0.65; max-width: 320px;">
 		<p>
