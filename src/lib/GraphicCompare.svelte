@@ -20,8 +20,7 @@
 	export let maxWidth = '';
 	export let link = 'Yes'; // Yes or No
 	export let maxCaptionWidth = '680px';
-
-	let active = 0;
+	export let active = 0; // Index (starting from 0) of selected image
     
 	let svgWidth = 0;
 	let container;
@@ -88,7 +87,7 @@
 			inputStyles="font-weight: 600;"
 			items={images.map((image, index) => ({value: index, label: image.buttonLabel}))}
 			on:change={(e) => active = e.detail.value}
-			value={{ value: 0, label: images[0].buttonLabel }}
+			value={{ value: active, label: images[active].buttonLabel }}
 			searchable={false}
 			clearable={false}
 			containerStyles="font-family: InterRegular !important;"
@@ -147,6 +146,7 @@
 	button {
 		font-family: InterRegular;
 		background: none;
+		color: var(--brandGray50);
 		border: 1px solid #ccc;
 		padding: 6px 12px;
 		cursor: pointer;
@@ -154,7 +154,9 @@
 	}
 
 	button.active {
-		border-color: #000;
+		border-color: black;
+		color: black;
+		background-color: #faf9f8;
 		font-weight: 600;
 	}
 
@@ -171,11 +173,9 @@
 	}
 
     .select-theme {
-        /* --item-is-active-bg: var(--brandGray); 
-		--item-is-active-color: var(--brandBlack); less borders*/ 
-		--item-is-active-bg: var(--brandWhite);
-		--item-is-active-color: var(--brandBlack);
-        --item-hover-bg: var(--brandWhite);
+        --item-is-active-bg: var(--brandGray); 
+		--item-is-active-color: var(--brandBlack); 
+        --item-hover-bg: #ECECE5;
 		--group-title-font-weight: 900;
         --list-max-height: 600px;
 		--item-first-border-radius: 0;
@@ -196,16 +196,11 @@
         font-size: 14px !important;
         border-radius: 0 !important;
         border-color: #000 !important;
-        background-color: #ffffff !important;
         margin-bottom: 1rem !important;
         /* width: 210px !important; */
 		width: 220px !important;
         text-align: left;
     }
-
-	:global(.svelte-select:hover) {
-        border-color: #000 !important;
-	}
 
 	:global(.selected-item) {
 		font-size: 14px !important;
@@ -221,11 +216,9 @@
 		cursor: pointer !important; 
 	}
 
-	:global(.item.active) {
-		border: 0.5px solid #000;
-		background-color: #ffffff;
+	/* :global(.item.active) {
 		font-weight: 600;
-	}
+	} */
 
 	a {
 		display: block;
