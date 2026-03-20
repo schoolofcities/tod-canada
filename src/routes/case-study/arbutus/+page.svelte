@@ -121,7 +121,6 @@
 	<!-- <meta name="citation_author" content="Author Name 3"> -->
 	<!-- <meta name="citation_publication_date" content="2025/09/23"> -->
 	<!-- <meta name="citation_journal_title" content="School of Cities"> -->
-	<!-- <meta name="citation_pdf_url" content="https://schoolofcities.utoronto.ca/research-paper.pdf"> -->
 	<!-- <meta name="citation_abstract_html_url" content="https://schoolofcities.github.io/design-components/"> -->
 
 </svelte:head>
