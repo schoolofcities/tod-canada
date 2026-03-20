@@ -65,6 +65,14 @@
 		font-family: PoppinsRegular;
 	}
 
+	@media screen and (max-width: 600px) {
+		.author-date p {
+			font-size: 12px;
+			line-height: 20px;
+		}
+	}
+
+
 	.author-date b {
 		color: var(--brandGray80);
 		font-family: PoppinsBold;

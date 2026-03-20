@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="570" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080 570">
+  <defs>
+    <filter id="drop-shadow-49" x="509.56" y="232.76" width="35.76" height="72.72" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-50" x="565.48" y="216.2" width="34.08" height="38.4" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-2" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-51" x="541.96" y="241.88" width="36" height="67.92" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-3" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-3" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-123" x="634.84" y="124.76" width="69.36" height="35.04" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-4" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-4" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-124" x="643.96" y="155.72" width="52.56" height="38.88" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-5" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-5" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-125" x="631.72" y="183.8" width="58.08" height="48.96" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-6" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-6" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-126" x="610.36" y="205.64" width="31.68" height="31.44" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-7" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-7" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-127" x="474.52" y="209.48" width="31.2" height="30.96" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-8" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-8" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-128" x="426.52" y="198.68" width="53.52" height="55.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-9" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-9" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-129" x="387.4" y="182.6" width="66.48" height="54.72" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-10" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-10" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-130" x="359.08" y="126.2" width="74.4" height="35.52" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-11" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-11" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-131" x="377.08" y="159.32" width="53.04" height="39.12" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-12" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-12" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-132" x="628.36" y="118.52" width="43.44" height="43.44" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-13" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-13" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-133" x="637.48" y="149.72" width="43.44" height="43.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-14" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-14" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-134" x="625.48" y="177.56" width="43.2" height="43.44" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-15" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-15" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-135" x="562.36" y="217.64" width="43.44" height="43.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-16" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-16" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-136" x="535.96" y="235.4" width="43.44" height="43.44" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-17" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-17" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-137" x="507.88" y="226.28" width="43.44" height="43.44" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-18" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-18" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-138" x="604.36" y="199.4" width="43.2" height="43.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-19" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-19" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-139" x="396.52" y="120.2" width="43.44" height="43.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-20" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-20" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-140" x="392.92" y="153.08" width="43.44" height="43.44" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-21" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-21" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-141" x="416.92" y="176.36" width="43.44" height="43.44" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-22" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-22" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-142" x="420.52" y="216.92" width="43.2" height="43.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-23" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-23" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-143" x="468.28" y="203.48" width="43.44" height="43.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-24" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-24" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-167" x="667.24" y="122.36" width="43.44" height="43.44" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-25" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-25" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-168" x="659.56" y="157.4" width="43.44" height="43.44" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-26" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-26" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-169" x="652.6" y="195.56" width="43.44" height="43.44" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-27" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-27" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-170" x="604.84" y="199.88" width="43.44" height="43.44" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-28" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-28" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-171" x="559.24" y="209.72" width="43.44" height="43.44" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-29" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-29" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-172" x="540.52" y="273.08" width="43.44" height="43.44" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-30" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-30" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-173" x="503.56" y="268.76" width="43.2" height="43.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-31" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-31" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-174" x="370.6" y="161" width="43.44" height="43.44" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-32" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-32" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-175" x="352.6" y="124.28" width="43.2" height="43.44" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-33" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-33" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-176" x="380.92" y="200.12" width="43.44" height="43.44" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-34" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-34" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-177" x="442.84" y="192.44" width="43.44" height="43.44" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-35" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-35" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-178" x="468.52" y="203" width="43.44" height="43.44" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-36" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-36" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-213" x="7.48" y="513.8" width="42" height="42" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-37" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-37" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-214" x="7.48" y="459.32" width="42" height="42.24" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-38" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-38" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Layer_3" data-name="Layer 3">
+    <rect id="rect25" width="1080" height="570" rx="21.5668" ry="21.5668" fill="#faf9f8"/>
+    <path d="M538.1221,126.7185l-150.2045,277.6375c-23.4543-12.6866-43.0096-26.5882-62.7002-44.5874-19.6925-17.9871-35.3111-36.1997-50.0646-58.4236-14.7535-22.224-25.4952-43.6692-34.4312-68.8015-8.9481-25.1341-14.1725-48.5436-16.7694-75.0984l314.1699-30.7265Z" fill="#f2f2f3"/>
+    <path d="M652.1365,421.5836c-24.9113,9.5587-48.1846,15.3648-74.6606,18.6163-26.4759,3.2514-44.9332,3.4103-71.4702.6233l33.0032-313.9336,113.1276,294.694Z" fill="#f2f2f3"/>
+    <path d="M853.997,157.445c-2.5806,26.5459-7.7882,49.9714-16.7173,75.104-8.9291,25.1327-19.6456,46.5913-34.3905,68.8234-14.745,22.2322-30.333,40.4695-50.0206,58.4664l-213.0605-232.9075,314.1889,30.5136Z" fill="#f2f2f3"/>
+    <path d="M612.962,256.2059s-1.2305,22.5004,19.512,22.5004" fill="none" fill-rule="evenodd" stroke="#414042" stroke-miterlimit="10" stroke-width=".5"/>
+    <path d="M415.1175,120.4071c-.0664,1.6665-.0999,3.3415-.0999,5.0243,0,68.4786,55.5128,123.9914,123.9914,123.9914,68.4786,0,123.9914-55.5128,123.9914-123.9914" fill="none" fill-rule="evenodd" stroke="#cc513d" stroke-dasharray="2 2" stroke-miterlimit="10"/>
+    <path d="M503.1841,248.0261s10.2534,52.089-13.7891,54.564" fill="none" fill-rule="evenodd" stroke="#414042" stroke-miterlimit="10" stroke-width=".5"/>
+  </g>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <path d="M854.9106,126.8896v.1318" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+      <path d="M854.9033,129.0215c-1.1465,173.4835-142.1411,313.7698-315.8945,313.7698-174.0662,0-315.2556-140.792-315.8992-314.7072" fill="none" stroke="#000" stroke-dasharray=".5 1.9999" stroke-miterlimit="10" stroke-width=".5"/>
+      <path d="M223.1074,127.0215c0-.0439-.0002-.0879-.0002-.1318" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+    </g>
+    <g>
+      <path d="M815.4224,126.8896v.0659" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".25"/>
+      <path d="M815.418,128.4563c-.8433,151.9355-124.2754,274.8469-276.4092,274.8469-152.3735,0-275.9551-123.2994-276.4121-275.5659" fill="none" stroke="#000" stroke-dasharray=".2501 1.5007" stroke-miterlimit="10" stroke-width=".25"/>
+      <path d="M262.5955,126.9556v-.0659" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".25"/>
+    </g>
+    <g>
+      <path d="M775.9346,126.8896v.1318" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+      <path d="M775.9248,129.0198c-1.1436,129.8672-106.7788,234.7953-236.916,234.7953-130.4497,0-236.2795-105.4329-236.9224-235.7319" fill="none" stroke="#000" stroke-dasharray=".4996 1.9983" stroke-miterlimit="10" stroke-width=".5"/>
+      <path d="M302.0835,127.0215v-.1318" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+    </g>
+    <g>
+      <path d="M736.4463,126.8896v.0659" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".25"/>
+      <path d="M736.4399,128.4575c-.8423,108.318-88.9146,195.8694-197.4312,195.8694-108.7566,0-196.9783-87.9395-197.4353-196.5891" fill="none" stroke="#000" stroke-dasharray=".2503 1.5019" stroke-miterlimit="10" stroke-width=".25"/>
+      <path d="M341.5715,126.9556v-.0659" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".25"/>
+    </g>
+    <g>
+      <path d="M696.96,126.8896c0,.0833-.0005.1667-.0005.25" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+      <path d="M696.9438,129.1447c-1.2061,86.1927-71.4556,155.6957-157.9351,155.6957-86.814,0-157.2725-70.0423-157.9458-156.6978" fill="none" stroke="#000" stroke-dasharray=".5012 2.005" stroke-miterlimit="10" stroke-width=".5"/>
+      <path d="M381.0583,127.1396c-.0002-.0833-.0002-.1667-.0002-.25" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+    </g>
+    <g>
+      <path d="M657.4717,126.8896v.0659" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".25"/>
+      <path d="M657.4614,128.4533c-.8369,64.7034-53.5503,116.899-118.4526,116.899-65.1416,0-118.0046-52.582-118.4597-117.6166" fill="none" stroke="#000" stroke-dasharray=".2496 1.4977" stroke-miterlimit="10" stroke-width=".25"/>
+      <path d="M420.5461,126.9556v-.0659" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".25"/>
+    </g>
+    <g>
+      <path d="M617.9819,126.8896c0,.0833,0,.1667-.0005.25" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+      <path d="M617.9502,129.1446c-1.1934,42.5721-36.0806,76.718-78.9414,76.718-43.1963,0-78.2939-34.6831-78.9629-77.7202" fill="none" stroke="#000" stroke-dasharray=".5012 2.0049" stroke-miterlimit="10" stroke-width=".5"/>
+      <path d="M460.0361,127.1396v-.25" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+    </g>
+    <g>
+      <path d="M578.4937,126.8896v.125" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".25"/>
+      <path d="M578.4609,128.5117c-.8506,21.0544-18.189,37.8628-39.4521,37.8628-21.5142,0-39.0098-17.2074-39.4751-38.6098" fill="none" stroke="#000" stroke-dasharray=".2495 1.4971" stroke-miterlimit="10" stroke-width=".25"/>
+      <path d="M499.5244,127.0146c-.0005-.0417-.0005-.0833-.0005-.125" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".25"/>
+    </g>
+    <g>
+      <path d="M336.0127,483.663c-116.4355-66.2244-194.5581-186.7106-205.9849-321.7779" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+      <path d="M335.8508,483.541c-.7146.1879-1.4504.9547-1.8296,1.5634,1.1038-.4701,2.3311-.7258,3.5408-.5646-.7454-.9569-1.0652-2.1743-1.2498-3.3607-.3337.694-.6414,1.5931-.4614,2.3619Z"/>
+      <path d="M130.071,162.0831c-.47.57-1.4746.9167-2.1863,1.0056.8896-.805,1.636-1.8119,1.9968-2.978.5564,1.0779,1.5276,1.8787,2.5273,2.5435-.77.0121-1.7153-.0854-2.3379-.5711Z"/>
+    </g>
+    <g>
+      <path d="M684.2217,510.5535c-45.1846,17.1304-94.1836,26.5078-145.3716,26.5078-13.8784,0-27.5952-.6893-41.1191-2.0354" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+      <path d="M684.019,510.5877c-.3159.6681-.2017,1.7247.021,2.4064.3496-1.1476.9429-2.2519,1.8442-3.075-1.2124-.0443-2.3506-.5819-3.3779-1.2034.3169.7018.8081,1.5155,1.5127,1.8719Z"/>
+      <path d="M497.9341,534.9992c.4805.5614.6484,1.6108.6133,2.327-.6392-1.0151-1.5024-1.9241-2.5889-2.4807,1.1577-.362,2.1143-1.1804,2.9414-2.0505-.1206.7605-.3799,1.6748-.9658,2.2042Z"/>
+    </g>
+    <g>
+      <path d="M950.0669,164.3246c-8.5522,100.9878-54.3467,193.5794-125.3047,261.5344" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+      <path d="M950.0083,164.5211c.4653.5737,1.4673.9283,2.1782,1.0229-.8833-.812-1.6216-1.8248-1.9731-2.9937-.5649,1.0735-1.5425,1.8665-2.5474,2.5234.7695.0182,1.7158-.0718,2.3423-.5526Z"/>
+      <path d="M824.8794,425.6913c.7388.0024,1.6436.5599,2.1631,1.054-1.186-.1779-2.438-.1173-3.5688.3425.4814-1.1135.4854-2.3721.3657-3.5668.4976.588,1.021,1.381,1.04,2.1703Z"/>
+    </g>
+    <text transform="translate(145.7109 307.3628) rotate(64.663)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">C</tspan></text>
+    <text transform="translate(149.7969 315.9941) rotate(63.3954)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">A</tspan></text>
+    <text transform="translate(154.1236 324.6367) rotate(62.1064)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">N</tspan></text>
+    <text transform="translate(158.7378 333.3543) rotate(60.8182)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">A</tspan></text>
+    <text transform="translate(163.4628 341.8096) rotate(59.5622)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">D</tspan></text>
+    <text transform="translate(168.2159 349.8572) rotate(58.7085)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">I</tspan></text>
+    <text transform="translate(170.0669 352.9472) rotate(57.8353)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">A</tspan></text>
+    <text transform="translate(175.2152 361.1371) rotate(56.5473)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">N</tspan></text>
+    <text transform="translate(180.6722 369.3516) rotate(55.6984)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0"> </tspan></text>
+    <text transform="translate(182.3863 371.9066) rotate(54.863)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">C</tspan></text>
+    <text transform="translate(187.9199 379.7309) rotate(53.9941)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">I</tspan></text>
+    <text transform="translate(190.0367 382.6749) rotate(53.1853)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">T</tspan></text>
+    <text transform="translate(195.2386 389.5933) rotate(52.3769)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">I</tspan></text>
+    <text transform="translate(197.4295 392.4605) rotate(51.6218)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">E</tspan></text>
+    <text transform="translate(202.3204 398.6408) rotate(50.5428)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">S</tspan></text>
+    <text transform="translate(544.4404 559.2695) rotate(-1.2964)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">T</tspan></text>
+    <text transform="translate(553.0869 559.0742) rotate(-2.4173)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">R</tspan></text>
+    <text transform="translate(561.5918 558.7207) rotate(-3.6083)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">A</tspan></text>
+    <text transform="translate(571.2354 558.1143) rotate(-4.8934)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">N</tspan></text>
+    <text transform="translate(581.0703 557.2646) rotate(-6.1034)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">S</tspan></text>
+    <text transform="translate(589.4893 556.3486) rotate(-6.9023)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">I</tspan></text>
+    <text transform="translate(593.0898 555.9307) rotate(-7.7137)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">T</tspan></text>
+    <text transform="translate(601.6416 554.7539) rotate(-8.4884)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0"> </tspan></text>
+    <text transform="translate(604.6689 554.3213) rotate(-9.2667)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">T</tspan></text>
+    <text transform="translate(613.1973 552.9346) rotate(-10.4702)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">Y</tspan></text>
+    <text transform="translate(622.4863 551.2119) rotate(-11.6565)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">P</tspan></text>
+    <text transform="translate(630.7266 549.5107) rotate(-12.7428)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">E</tspan></text>
+    <text transform="translate(886.4038 389.8475) rotate(-53.5423)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="12.2234" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">D</tspan></text>
+    <text transform="translate(891.6291 382.7794) rotate(-54.7195)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="12.2234" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">A</tspan></text>
+    <text transform="translate(896.8793 375.3504) rotate(-55.8534)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="12.2234" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">T</tspan></text>
+    <text transform="translate(901.4243 368.6438) rotate(-56.8726)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="12.2234" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">E</tspan></text>
+    <text transform="translate(905.4564 362.443) rotate(-57.5486)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="12.2234" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0"> </tspan></text>
+    <text transform="translate(907.0136 360.0358) rotate(-58.356)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="12.2234" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">O</tspan></text>
+    <text transform="translate(911.9352 352.0292) rotate(-59.4475)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="12.2234" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">F</tspan></text>
+    <text transform="translate(915.5638 345.8571) rotate(-60.1095)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="12.2234" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0"> </tspan></text>
+    <text transform="translate(916.9984 343.3948) rotate(-60.8227)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="12.2234" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">S</tspan></text>
+    <text transform="translate(920.8886 336.4301) rotate(-61.8856)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="12.2234" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">T</tspan></text>
+    <text transform="translate(924.7158 329.2783) rotate(-63.0211)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="12.2234" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">A</tspan></text>
+    <text transform="translate(928.8324 321.1807) rotate(-64.1572)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="12.2234" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">T</tspan></text>
+    <text transform="translate(932.3595 313.8608) rotate(-64.9196)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="12.2234" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">I</tspan></text>
+    <text transform="translate(933.8336 310.7669) rotate(-65.7697)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="12.2234" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">O</tspan></text>
+    <text transform="translate(937.6757 302.232) rotate(-67.0029)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="12.2234" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">N</tspan></text>
+    <text transform="translate(941.2853 293.6671) rotate(-67.8087)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="12.2234" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0"> </tspan></text>
+    <text transform="translate(942.3893 291.0234) rotate(-68.6211)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="12.2234" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">O</tspan></text>
+    <text transform="translate(945.8038 282.2789) rotate(-69.7675)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="12.2234" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">P</tspan></text>
+    <text transform="translate(948.5316 274.873) rotate(-70.783)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="12.2234" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">E</tspan></text>
+    <text transform="translate(950.9658 267.9209) rotate(-71.8886)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="12.2234" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">N</tspan></text>
+    <text transform="translate(953.8323 259.0881) rotate(-72.7331)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="12.2234" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">I</tspan></text>
+    <text transform="translate(954.8658 255.8369) rotate(-73.5783)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="12.2234" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">N</tspan></text>
+    <text transform="translate(957.4844 246.9488) rotate(-74.8035)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="12.2234" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">G</tspan></text>
+    <path d="M685.1991,125.3458c0,80.7386-65.4516,146.1902-146.1902,146.1902s-146.1902-65.4516-146.1902-146.1902c0-7.5007.5649-14.8695,1.6545-22.0662" fill="none" fill-rule="evenodd" stroke="#243662" stroke-dasharray="2 2" stroke-miterlimit="10"/>
+  </g>
+  <g id="CMAs">
+    <line x1="526.5899" y1="244.9274" x2="522.1351" y2="287.3413" fill="none" filter="url(#drop-shadow-49)" stroke="#231f20" stroke-miterlimit="10"/>
+    <line x1="578.0427" y1="228.4759" x2="581.0126" y2="236.2183" fill="none" filter="url(#drop-shadow-50)" stroke="#9e2666" stroke-miterlimit="10"/>
+    <line x1="554.637" y1="254.0997" x2="559.2533" y2="291.7262" fill="none" filter="url(#drop-shadow-51)" stroke="#231f20" stroke-miterlimit="10"/>
+  </g>
+  <g id="Layer_6" data-name="Layer 6">
+    <line x1="647.08" y1="137.3124" x2="685.9868" y2="141.1262" fill="none" filter="url(#drop-shadow-123)" stroke="#231f20" stroke-miterlimit="10"/>
+    <line x1="656.2349" y1="168.3066" x2="678.1921" y2="176.0962" fill="none" filter="url(#drop-shadow-124)" stroke="#231f20" stroke-miterlimit="10"/>
+    <line x1="644.0686" y1="196.218" x2="671.4038" y2="214.3009" fill="none" filter="url(#drop-shadow-125)" stroke="#231f20" stroke-miterlimit="10"/>
+    <line x1="622.9412" y1="217.9818" x2="623.4758" y2="218.5632" fill="none" filter="url(#drop-shadow-126)" stroke="#231f20" stroke-miterlimit="10"/>
+    <line x1="487.2502" y1="221.7345" x2="487.0613" y2="222.0813" fill="none" filter="url(#drop-shadow-127)" stroke="#231f20" stroke-miterlimit="10"/>
+    <line x1="461.5587" y1="211.0705" x2="439.1248" y2="235.5035" fill="none" filter="url(#drop-shadow-128)" stroke="#231f20" stroke-miterlimit="10"/>
+    <line x1="435.5845" y1="195.1111" x2="399.6823" y2="218.8526" fill="none" filter="url(#drop-shadow-129)" stroke="#231f20" stroke-miterlimit="10"/>
+    <line x1="415.2069" y1="138.7737" x2="371.1885" y2="143.06" fill="none" filter="url(#drop-shadow-130)" stroke="#231f20" stroke-miterlimit="10"/>
+    <line x1="411.7196" y1="171.8377" x2="389.3881" y2="179.7533" fill="none" filter="url(#drop-shadow-131)" stroke="#231f20" stroke-miterlimit="10"/>
+    <g>
+      <circle cx="647.08" cy="137.3124" r="6.073" fill="#cc513d" filter="url(#drop-shadow-132)" stroke="#f2f2f3" stroke-miterlimit="10"/>
+      <circle cx="656.2349" cy="168.3066" r="6.073" fill="#cc513d" filter="url(#drop-shadow-133)" stroke="#f2f2f3" stroke-miterlimit="10"/>
+      <circle cx="644.0685" cy="196.218" r="6.073" fill="#cc513d" filter="url(#drop-shadow-134)" stroke="#f2f2f3" stroke-miterlimit="10"/>
+      <circle cx="581.0126" cy="236.2183" r="6.073" fill="#cc513d" filter="url(#drop-shadow-135)" stroke="#f2f2f3" stroke-miterlimit="10"/>
+      <circle cx="554.637" cy="254.0997" r="6.073" fill="#cc513d" filter="url(#drop-shadow-136)" stroke="#f2f2f3" stroke-miterlimit="10"/>
+      <circle cx="526.5899" cy="244.9274" r="6.073" fill="#cc513d" filter="url(#drop-shadow-137)" stroke="#f2f2f3" stroke-miterlimit="10"/>
+      <circle cx="622.9412" cy="217.9818" r="6.073" fill="#cc513d" filter="url(#drop-shadow-138)" stroke="#f2f2f3" stroke-miterlimit="10"/>
+      <circle cx="415.2069" cy="138.7737" r="6.073" fill="#cc513d" filter="url(#drop-shadow-139)" stroke="#f2f2f3" stroke-miterlimit="10"/>
+      <circle cx="411.7196" cy="171.8377" r="6.073" fill="#cc513d" filter="url(#drop-shadow-140)" stroke="#f2f2f3" stroke-miterlimit="10"/>
+      <circle cx="435.5845" cy="195.1111" r="6.073" fill="#cc513d" filter="url(#drop-shadow-141)" stroke="#f2f2f3" stroke-miterlimit="10"/>
+      <circle cx="439.1248" cy="235.5035" r="6.073" fill="#cc513d" filter="url(#drop-shadow-142)" stroke="#f2f2f3" stroke-miterlimit="10"/>
+      <circle cx="487.0613" cy="222.0813" r="6.073" fill="#cc513d" filter="url(#drop-shadow-143)" stroke="#f2f2f3" stroke-miterlimit="10"/>
+    </g>
+    <g>
+      <circle cx="685.9868" cy="141.1262" r="6.073" fill="#243662" filter="url(#drop-shadow-167)" stroke="#f2f2f3" stroke-miterlimit="10"/>
+      <circle cx="678.1921" cy="176.0962" r="6.073" fill="#243662" filter="url(#drop-shadow-168)" stroke="#f2f2f3" stroke-miterlimit="10"/>
+      <circle cx="671.4038" cy="214.3009" r="6.073" fill="#243662" filter="url(#drop-shadow-169)" stroke="#f2f2f3" stroke-miterlimit="10"/>
+      <circle cx="623.4758" cy="218.5632" r="6.073" fill="#243662" filter="url(#drop-shadow-170)" stroke="#f2f2f3" stroke-miterlimit="10"/>
+      <circle cx="578.0427" cy="228.4759" r="6.073" fill="#243662" filter="url(#drop-shadow-171)" stroke="#f2f2f3" stroke-miterlimit="10"/>
+      <circle cx="559.2533" cy="291.7262" r="6.073" fill="#243662" filter="url(#drop-shadow-172)" stroke="#f2f2f3" stroke-miterlimit="10"/>
+      <circle cx="522.1351" cy="287.3413" r="6.073" fill="#243662" filter="url(#drop-shadow-173)" stroke="#f2f2f3" stroke-miterlimit="10"/>
+      <circle cx="389.3881" cy="179.7533" r="6.073" fill="#243662" filter="url(#drop-shadow-174)" stroke="#f2f2f3" stroke-miterlimit="10"/>
+      <circle cx="371.1885" cy="143.06" r="6.073" fill="#243662" filter="url(#drop-shadow-175)" stroke="#f2f2f3" stroke-miterlimit="10"/>
+      <circle cx="399.5723" cy="218.8526" r="6.073" fill="#243662" filter="url(#drop-shadow-176)" stroke="#f2f2f3" stroke-miterlimit="10"/>
+      <circle cx="461.5587" cy="211.0705" r="6.073" fill="#243662" filter="url(#drop-shadow-177)" stroke="#f2f2f3" stroke-miterlimit="10"/>
+      <circle cx="487.2502" cy="221.7345" r="6.073" fill="#243662" filter="url(#drop-shadow-178)" stroke="#f2f2f3" stroke-miterlimit="10"/>
+    </g>
+  </g>
+  <g id="Layer_4" data-name="Layer 4">
+    <text transform="translate(166.0527 243.3857)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="16" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Toronto</tspan></text>
+    <text transform="translate(255.6689 392.0371)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="16" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Edmonton</tspan></text>
+    <text transform="translate(334.7803 447.8223)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="16" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Calgary</tspan></text>
+    <text transform="translate(555.877 481.9414)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="16" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Subway/</tspan><tspan x="10.8633" y="19.2002">Metro</tspan></text>
+    <text transform="translate(867.8652 161.1143)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="16" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Opened</tspan><tspan x="-10.0703" y="19.2002">1990-1999</tspan></text>
+    <text transform="translate(840.5146 120.7754)" fill="#818385" font-family="Inter-Regular, Inter" font-size="14" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">80%</tspan></text>
+    <text transform="translate(761.5273 120.7754)" fill="#818385" font-family="Inter-Regular, Inter" font-size="14" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">60%</tspan></text>
+    <text transform="translate(682.3672 120.7754)" fill="#818385" font-family="Inter-Regular, Inter" font-size="14" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">40%</tspan></text>
+    <text transform="translate(603.6426 120.7754)" fill="#818385" font-family="Inter-Regular, Inter" font-size="14" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">20%</tspan></text>
+    <text transform="translate(528.9355 120.7754)" fill="#818385" font-family="Inter-Regular, Inter" font-size="14" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">0%</tspan></text>
+    <text transform="translate(848.6377 242.9082)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="16" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Opened</tspan><tspan x="-13.8711" y="19.2002">2000-2004</tspan></text>
+    <text transform="translate(811.3301 321.5625)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="16" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Opened</tspan><tspan x="-13.3633" y="19.2002">2005-2009</tspan></text>
+    <text transform="translate(756.2559 383.5127)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="16" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Opened</tspan><tspan x="-10.0781" y="19.2002">2010-2016</tspan></text>
+    <text transform="translate(189.1309 312.5068)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="16" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Vancouver</tspan></text>
+    <text transform="translate(142.4941 166.374)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="16" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Montreal</tspan></text>
+    <text transform="translate(642.2285 464.2246)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="16" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Light Rail</tspan><tspan x="-14.6133" y="19.2002">Transit (LRT)</tspan></text>
+    <text transform="translate(453.3965 481.9404)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="16" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Commuter/</tspan><tspan x="-5.8125" y="19.2002">Regional Rail</tspan></text>
+    <circle cx="25.4357" cy="531.7718" r="5.4357" fill="#243662" filter="url(#drop-shadow-213)" stroke="#f2f2f3" stroke-miterlimit="10"/>
+    <circle cx="25.4357" cy="477.4756" r="5.4357" fill="#cc513d" filter="url(#drop-shadow-214)" stroke="#f2f2f3" stroke-miterlimit="10"/>
+    <text transform="translate(637.126 282.4629)" fill="#f1f2f2" font-size="14.6681" font-style="italic" stroke="#f1f2f2" stroke-miterlimit="10"><tspan font-family="Inter-Italic, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Overall in-movers to </tspan></tspan><tspan x="0" y="17.6016" font-family="Inter-Italic, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400">the </tspan><tspan x="26.0557" y="17.6016" font-family="InterItalic-MediumItalic, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 500" font-weight="500">CMA </tspan><tspan x="64.5088" y="17.6016" font-family="Inter-Italic, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400">that are </tspan><tspan font-family="Inter-Italic, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="35.2031">low-income residents</tspan></tspan></text>
+    <text transform="translate(342.8057 306.9092)" fill="#f1f2f2" font-size="14.6681" font-style="italic" stroke="#f1f2f2" stroke-miterlimit="10"><tspan font-family="Inter-Italic, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Overall in-movers to </tspan></tspan><tspan x="-9.0889" y="17.6016" font-family="InterItalic-MediumItalic, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 500" font-weight="500">station areas</tspan><tspan x="83.4746" y="17.6016" xml:space="preserve" font-family="Inter-Italic, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"> that are </tspan><tspan font-family="Inter-Italic, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="-7.8779" y="35.2031">low-income residents</tspan></tspan></text>
+    <text transform="translate(637.126 284.0654)" font-size="14" font-style="italic"><tspan fill="#231f20" font-family="Inter-Italic, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Overall in-movers to </tspan></tspan><tspan x="0" y="16.8008" fill="#231f20" font-family="Inter-Italic, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400">the </tspan><tspan x="24.8691" y="16.8008" fill="#243662" font-family="InterItalic-MediumItalic, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 500" font-weight="500">CMA</tspan><tspan x="57.8389" y="16.8008" fill="#27534e" font-family="InterItalic-MediumItalic, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 500" font-weight="500"> </tspan><tspan x="61.5713" y="16.8008" fill="#231f20" font-family="Inter-Italic, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400">that are </tspan><tspan fill="#231f20" font-family="Inter-Italic, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="33.6006">low-income residents</tspan></tspan></text>
+    <text transform="translate(299.1523 308.5117)" font-size="14" font-style="italic"><tspan x="0" y="0" fill="#231f20" font-family="Inter-Italic, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400">Overall in-movers to </tspan><tspan x="139.4736" y="0" fill="#cc513d" font-family="InterItalic-MediumItalic, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 500" font-weight="500">station </tspan><tspan x="9.3174" y="16.8008" fill="#cc513d" font-family="InterItalic-MediumItalic, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 500" font-weight="500">areas</tspan><tspan x="47.749" y="16.8008" fill="#9e2666" font-family="Inter-Italic, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"> </tspan><tspan x="51.6865" y="16.8008" fill="#231f20" font-family="Inter-Italic, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400">that are low-income </tspan><tspan fill="#231f20" font-family="Inter-Italic, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="124.6465" y="33.6006">residents</tspan></tspan></text>
+    <text transform="translate(397.7539 116.4873)" fill="#cc513d" font-family="Inter-Italic, Inter" font-size="16" font-style="italic" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">31.4%</tspan></text>
+    <text transform="translate(374.6562 99.1768)" fill="#243662" font-family="Inter-Italic, Inter" font-size="16" font-style="italic" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">37.0%</tspan></text>
+    <g id="text237-0-6-6-6-4" isolation="isolate">
+      <text transform="translate(48.7495 37.4424)" fill="#010101" font-family="Inter-Bold, Inter" font-size="21" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700" isolation="isolate"><tspan x="0" y="0">In-movers to station areas that are low-income residents</tspan></text>
+    </g>
+    <g id="text237-0-6-6-6-4-6-0" isolation="isolate">
+      <text transform="translate(48.7495 69.853)" fill="#010101" font-family="Inter-Regular, Inter" font-size="16" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400" isolation="isolate"><tspan x="0" y="0">Average percent of in-movers to station areas that are low-income residents versus in-movers in the CMA </tspan><tspan x="0" y="19.2002">that are low-income residents</tspan></text>
+    </g>
+    <path id="rect1" d="M30.4375,22h0c4.1767,0,7.5625,3.3858,7.5625,7.5625h0c0,4.1767-3.3858,7.5625-7.5625,7.5625h0c-4.1767,0-7.5625-3.3858-7.5625-7.5625h0c0-4.1767,3.3858-7.5625,7.5625-7.5625Z" fill="#fff" fill-rule="evenodd" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <text transform="translate(35.5022 532.7745)" font-size="14"><tspan fill="#231f20" font-family="Inter-Regular, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Average % of all in-moves in the </tspan></tspan><tspan x="0" y="16.7998" fill="#243662" font-family="Inter-Bold, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700">CMA</tspan><tspan x="33.8516" y="16.7998" fill="#27534e" font-family="Inter-Bold, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"> </tspan><tspan x="37.167" y="16.7998" fill="#231f20" font-family="Inter-Regular, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400">that are low-income residents </tspan></text>
+    <text transform="translate(35.5022 475.8484)" font-size="14"><tspan fill="#231f20" font-family="Inter-Regular, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Average % of </tspan></tspan><tspan x="0" y="16.7998" fill="#231f20" font-family="Inter-Regular, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400">in-movers to </tspan><tspan x="88.2998" y="16.7998" fill="#cc513d" font-family="Inter-Bold, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700">station areas</tspan><tspan x="177.0713" y="16.7998" fill="#231f20" font-family="Inter-Regular, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"> </tspan><tspan fill="#231f20" font-family="Inter-Regular, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="33.5996">that are low-income residents </tspan></tspan></text>
+  </g>
+</svg>

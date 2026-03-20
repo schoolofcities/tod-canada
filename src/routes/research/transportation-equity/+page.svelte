@@ -36,7 +36,6 @@
 		{ role:"Additional writing", names:"Anika Reisha Taboy, Kathryn Exon Smith"},
 		{ role:"Data visualization", names:"Jeff Allen"},
 		{ role:"Web development", names:"Mieko Yao, Jeff Allen"},
-		{ role:"Video", names: "Konstantine Diochnos"}
 	]
 
 </script>
@@ -105,6 +104,12 @@
 		backgroundColour = "black"
 	/>
 
+	<div class="caption-container" style="padding-left: 10px; overflow: hidden; margin-top: -5px; opacity: 0.65; max-width: 320px;">
+		<p>
+			<span class="caption-source">Video source: Konstantine Diochnos</span>
+		</p>
+	</div>
+
 	<div class="text" style="margin-top: 80px">
 
 		<AuthorDate
@@ -123,10 +128,10 @@
 			New developments, including changes to land use, population, and employment patterns, influence how people travel and alter the distribution of transportation-related advantages and disadvantages. This study measures how transit-oriented development (TOD) affects two important metrics: transportation equity and sustainable mode shift.  
 		</p>
 		<p>	
-			<span class="highlight" style="background-color: #F1C500; color: black;opacity: 0.8;">Transportation equity</span> asks who gains access to mobility and opportunity, who faces costs or constraints, and what the magnitudes of those impacts are.<Footnote id={addFootnote(fns[0])}/>
+			<strong><span style="border-bottom: solid 3px var(--brandYellow);">Transportation equity</span></strong> asks who gains access to mobility and opportunity, who faces costs or constraints, and what the magnitudes of those impacts are.<Footnote id={addFootnote(fns[0])}/>
 		</p>
 		<p>	
-			<span class="highlight" style="background-color: #F1C500; color: black;opacity: 0.8;">Mode shift</span> evaluates how development patterns influence sustainable transportation outcomes by looking at the percentage of people who switch from driving to more sustainable modes of travel, such as transit, walking, or cycling. 
+			<strong><span style="border-bottom: solid 3px var(--brandYellow);">Mode shift</span></strong> evaluates how development patterns influence sustainable transportation outcomes by looking at the percentage of people who switch from driving to more sustainable modes of travel, such as transit, walking, or cycling. 
 		</p>
 		<p>	
 			By projecting how a development may reshape where people live and work, we can assess how different scenarios will reduce or exacerbate transportation disadvantage and sustainability. 
@@ -142,18 +147,18 @@
 			Our focus in measuring transportation equity was on understanding how people living in poverty, as defined by <a href="https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110024101" target="_blank">Statistics Canada’s Low Income Cut-Off</a> threshold, could access employment opportunities under different development scenarios. To assess the potential impact of different types of TOD, we implemented <a href="https://en.wikipedia.org/wiki/Foster–Greer–Thorbecke_indices" target="_blank">Foster-Greer-Thorbecke Indices</a>, which quantify how over-represented low-income households are in areas of transport disadvantage.<Footnote id={addFootnote(fns[1])}/> 
 		</p>
 		<p>	
-			We began by assessing <span class="highlight" style="background-color: #AB1368; color: white;opacity: 0.8;">current conditions</span>, using census data for low-income households and business register data for employment, to calculate baseline accessibility scores at the dissemination area level. We then created three development scenarios: 
+			We began by assessing <strong><span style="border-bottom: solid 3px var(--brandPink);">current conditions</span></strong>, using census data for low-income households and business register data for employment, to calculate baseline accessibility scores at the dissemination area level. We then created three development scenarios: 
 		</p>
 
 		<ul>
 			<li>
-				A <span class="highlight" style="background-color: #007894; color: white;opacity: 0.8;">current trajectory</span>, which follows existing growth patterns within the TOD 
+				A <strong><span style="border-bottom: solid 3px var(--brandMedBlue);">current trajectory</span></strong>, which follows existing growth patterns within the TOD 
 			</li>
 			<li>
-				A <span class="highlight" style="background-color: #00A189; color: white;opacity: 0.8;">optimized scenario</span>, which uses more optimal land use changes within the TOD 
+				A <strong><span style="border-bottom: solid 3px var(--brandMedGreen);">optimized scenario</span></strong>, which uses more optimal land use changes within the TOD 
 			</li>
 			<li>	
-				A <span class="highlight" style="background-color: #6D247A; color: white;opacity: 0.8;">general growth scenario</span> which assumes the same population and job growth as in the current trajectory but distributes it across the municipalities rather than concentrating it in the station area, in proportion to their existing values 
+				A <strong><span style="border-bottom: solid 3px var(--brandPurple);">general growth scenario</span></strong> which assumes the same population and job growth as in the current trajectory but distributes it across the municipalities rather than concentrating it in the station area, in proportion to their existing values 
 			</li>
 		</ul>
 
@@ -163,10 +168,10 @@
 
 		<ul>
 			<li>
-				<strong>Sustainable mode share:</strong> the percentage of trips made by sustainable modes 
+				<strong><span style="border-bottom: solid 3px var(--brandYellow);">Sustainable mode share:</span></strong> the percentage of trips made by sustainable modes 
 			</li>
 			<li>
-				<strong>Sustainable mode shift:</strong> the increase in sustainable mode share from the baseline scenario to the new scenario (e.g. a 10% rise in walking trips) 
+				<strong><span style="border-bottom: solid 3px var(--brandYellow);">Sustainable mode shift:</span></strong> the increase in sustainable mode share from the baseline scenario to the new scenario (e.g. a 10% rise in walking trips) 
 			</li>
 			
 		</ul>

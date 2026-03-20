@@ -15,6 +15,8 @@
 	import Password from '$lib/Password.svelte';
 	import Recommendation from '$lib/Recommendation.svelte';
 	import LogoBody from '$lib/LogoBody.svelte';
+
+	import GraphicCompare from '$lib/GraphicCompare.svelte';
 	
 	import BoilerPlate from '$lib/BoilerPlate.svelte';
 	
@@ -29,7 +31,13 @@
 		'Zujian Huang et al., “Life-Cycle Carbon Emissions (LCCE) of Buildings: Implications, Calculations, and Reductions,” Engineering 35 (2024): 115–139, <a href="https://doi.org/10.1016/j.eng.2023.08.01" target="_blank">DOI</a>.',
 		'Gursans Guven et al., “A Construction Classification System Database for Understanding Resource Use in Building Construction,” Scientific Data 9, no. 1 (2022): 42, <a href="https://doi.org/10.1038/s41597-022-01141-8" target="_blank">DOI</a>; Keagan Hudson Rankin et al., “Embodied GHG of Missing Middle: Residential Building Form and Strategies for More Efficient Housing,” Journal of Industrial Ecology 28, no. 3 (2024): 455–68, <a href="https://doi.org/10.1111/jiec.13461" target="_blank">DOI</a>.',
 		'Keagan H. Rankin and Shoshanna Saxe, “A Future Growth Model for Building More Housing and Infrastructure with Less Embodied Greenhouse Gas,” Environmental Science & Technology 58, no. 25 (2024): 10979–90, <a href="https://doi.org/10.1021/acs.est.4c02070" target="_blank">DOI</a> ',
-		'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consequat lacus eu dolor dapibus sodales. Aenean venenatis metus id eleifend tincidunt. Nulla ut lacus et urna finibus bibendum sit amet et ante. Aliquam tristique, ex sed porttitor hendrerit, ex odio accumsan ex, eu maximus leo quam quis nulla.'
+		'Rankin and Saxe, “A Future Growth Model.”',
+		'Aldrick Arceo et al., “Material Intensity in Single-Family Dwellings: Variability between Locations, Functional Unit and Drivers of Material Use in Toronto, Perth, and Luzon,” Resources, Conservation and Recycling 188 (January 2023): <a href="https://doi.org/10.1016/j.resconrec.2022.106683" target="_blank">DOI</a>; Rankin et al., “Embodied GHG of Missing Middle.”',
+		'Avery Hoffer et al., “Does Height Matter? The Embodied Impacts of Tallness, Slab Thickness, Building Code and Design Tranches,” preprint, Research Square, February 12, 2025, <a href="https://doi.org/10.21203/rs.3.rs-6001700/v1" target="_blank">DOI</a>. ',
+		'Arceo et al., “Material Intensity in Single-Family Dwellings”; Rankin et al., “Embodied GHG of Missing Middle.”',
+		'KPMB Lab, Embodied Carbon Values in Common Insulation Materials (2021), <a href="https://www.kpmb.com/wp-content/uploads/2021/04/KPMB-LAB_Embodied-Carbon-in-Insulation.pdf" target="_blank">URL</a>.',
+		'Gianluca Grazieschi et al., “Embodied Energy and Carbon of Building Insulating Materials: A Critical Review,” Cleaner Environmental Systems 2 (June 2021): <a href="https://doi.org/10.1016/j.cesys.2021.100032" target="_blank">DOI</a>.'
+
 	];
 
 	const credits = [
@@ -79,7 +87,7 @@
 
 <main>
 
-	<!-- <Password correctPassword="meowmeowcat"></Password> -->
+	<Password correctPassword="meowmeowcat"></Password>
 
 	<!-- <TitleVideo
 		title="Embodied Carbon in Different Development Patterns and Built Forms "
@@ -96,7 +104,7 @@
 		title="Embodied Greenhouse Gas Emissions in Transit-Oriented Development Scenarios"
 		type="Research"
 		bgType="Video"
-		url="/tod-canada/web-assets/research/embodied-carbon/toronto-contruction-4k-SBV-302197434-preview.mp4"
+		url="/tod-canada/web-assets/research/embodied-carbon/toronto-contruction-4k-SBV-302197434-HD.mp4"
 		videoSpeed={0.67}
 		videoOpacity={0.8}
 		titleFontColour="var(--brandWhite)"
@@ -104,6 +112,11 @@
 		logoType = 'White';
 	/>
 
+	<div class="caption-container" style="padding-left: 10px; overflow: hidden; margin-top: -5px; opacity: 0.65; max-width: 320px;">
+		<p>
+			<span class="caption-source">Video source: Storyblocks</span>
+		</p>
+	</div>
 
 	<div class="text" style="margin-top: 80px">
 
@@ -120,7 +133,7 @@
 			The big picture  
 		</h1>
 		<p>
-			Development has embodied greenhouse gas (GHG) impacts throughout its life cycle, including the emissions generated through upstream processes such as raw material extraction, manufacturing, transportation to site, and onsite energy use during construction.<Footnote id={addFootnote(fns[0])}/> This research quantifies the embodied GHG emissions from proposed development in five Canadian case study scenarios developed by the Infrastructure Institute, comparing a scenario that reflects current development patterns (the “current trajectory”) in each case with a more mixed-use scenario that focuses on building complete communities around transit stations (“optimized”). 
+			Development has embodied greenhouse gas (GHG) impacts throughout its life cycle, including the emissions generated through upstream processes such as raw material extraction, manufacturing, transportation to site, and onsite energy use during construction.<Footnote id={addFootnote(fns[0])}/> This research quantifies the embodied GHG emissions from proposed development in five Canadian case study scenarios developed by the Infrastructure Institute, comparing a scenario that reflects current development patterns (the <span style="border-bottom: 4px solid var(--brandMedBlue); font-family: InterBold">current trajectory</span>) in each case with a more mixed-use scenario that focuses on building complete communities around transit stations (<span style="border-bottom: 4px solid var(--brandMedGreen); font-family: InterBold">optimized scenario</span>). 
 		</p>
 		<p>	
 			Because the majority of embodied GHG emissions occur during material manufacturing for construction, well before buildings are operational, they have immediate climate impacts. The following examples demonstrate how planning decisions shape the carbon impacts of urban growth. They also highlight opportunities to increase density while reducing emissions to help address both the climate and housing crises. 
@@ -183,6 +196,15 @@
 			Across the five station areas, optimized scenarios result in total embodied carbon emissions that are either comparable to or lower than the current trajectory. This suggests that designing station areas with a mix of physical and social infrastructure to build complete communities in addition to housing does not inherently produce greater embodied emissions.  
 		</p>
 
+	</div>
+
+	<GraphicSingle
+		svg720={"../web-assets/research/embodied-carbon/ghg-total-720.svg"}
+		svg360={"../web-assets/research/embodied-carbon/ghg-total-360.svg"}
+	/>
+
+	<div class="text">
+
 		<p>
 			The number of developments alone is not the primary driver of embodied carbon. Instead, the type of buildings and the number of people they can house is key. Infill development near transit and existing infrastructure accommodates more people while avoiding the additional land consumption and infrastructure required by more dispersed growth.  
 		</p>
@@ -202,6 +224,15 @@
 		<p>
 			The optimized scenarios result in significantly lower emissions per capita where average occupancy – the number of people living in each unit – increases. 
 		</p>
+
+	</div>
+
+	<GraphicSingle
+		svg720={"../web-assets/research/embodied-carbon/ghg-per-capita-720.svg"}
+		svg360={"../web-assets/research/embodied-carbon/ghg-per-capita-360.svg"}
+	/>
+
+	<div class="text">
 
 		<p>			
 			Cooksville’s optimized scenario shows the largest difference between scenarios, in part because this case explicitly focused on including larger, more family-friendly units in the optimized scenario. Per capita emissions decline from 20.9 tonnes of GHG emissions per person in the current trajectory to 14.1 tonnes per person when larger units were included in the optimized scenario, reflecting a substantial increase in average occupancy (1.35 vs. 1.9 people per unit). We observed similar reductions in Arbutus and McKernan-Belgravia, where the optimized scenarios also increase occupancy through changes in unit mix.  
@@ -224,12 +255,71 @@
 			These findings indicate that occupancy levels have a strong influence on per capita embodied GHG emissions, highlighting the importance of unit mix and household size in reducing the carbon impacts of urban growth – though this impact is reversed if large units are underoccupied. 
 		</p>
 
+		<p>
+			Click below to view summary statistics by station area.
+		</p>
+
+	</div>
+
+	<GraphicCompare 
+		images={[
+			{
+				svg720: "../web-assets/research/embodied-carbon/summary-arbutus-720.svg",
+				svg360: "../web-assets/research/embodied-carbon/summary-arbutus-360.svg",
+				caption: "",
+				source: "",
+				altText: "",
+				buttonLabel: "Arbutus"
+			},
+			{
+				svg720: "../web-assets/research/embodied-carbon/summary-cooksville-720.svg",
+				svg360: "../web-assets/research/embodied-carbon/summary-cooksville-360.svg",
+				caption: "",
+				source: "",
+				altText: "",
+				buttonLabel: "Cooksville"
+			},
+			{
+				svg720: "../web-assets/research/embodied-carbon/summary-mb-720.svg",
+				svg360: "../web-assets/research/embodied-carbon/summary-mb-360.svg",
+				caption: "",
+				source: "",
+				altText: "",
+				buttonLabel: "McKernan-Belgravia"
+			},
+			{
+				svg720: "../web-assets/research/embodied-carbon/summary-northfield-720.svg",
+				svg360: "../web-assets/research/embodied-carbon/summary-northfield-360.svg",
+				caption: "",
+				source: "",
+				altText: "",
+				buttonLabel: "Northfield"
+			},
+			{
+				svg720: "../web-assets/research/embodied-carbon/summary-panama-720.svg",
+				svg360: "../web-assets/research/embodied-carbon/summary-panama-360.svg",
+				caption: "",
+				source: "",
+				altText: "",
+				buttonLabel: "Panama"
+			},
+		]}
+	/>
+
+
+	<!-- <GraphicSingle
+		svg720={"../web-assets/research/embodied-carbon/summary-northfield-720.svg"}
+		svg360={"../web-assets/research/embodied-carbon/summary-northfield-360.svg"}
+	/> -->
+
+	<div class="text">
+
 		<h2>
 			Timing of construction shapes per capita benefits of TOD 
 		</h2>
 
 		<p>
-			The GHG intensity of construction materials is expected to decrease over time,4 which affects the relative emissions performance of different development scenarios. Sensitivity analyses for Cooksville, Arbutus, and McKernan-Belgravia show that the optimized scenario has the largest difference from the current trajectory under 2025 conditions. However, this gap narrows as construction is delayed further into the future. As material production becomes less carbon-intensive, embodied emissions decline across all scenarios, lowering per capita emissions overall while also shrinking the relative advantage of the more mixed-use development scenarios. 
+			The GHG intensity of construction materials is expected to decrease over time,<Footnote id={addFootnote(fns[2])}/> which affects the relative emissions performance of different development scenarios. Sensitivity analyses for Cooksville, Arbutus, and McKernan-Belgravia show that the optimized scenario has the largest difference from the current trajectory under 2025 conditions. However, this gap narrows as construction is delayed further into the future. As material production becomes less carbon-intensive, embodied emissions decline across all scenarios, lowering per capita emissions overall while also shrinking the relative advantage of the more mixed-use development scenarios. 
 		</p>
 
 	</div>
@@ -249,21 +339,45 @@
 			It is important to note that this sensitivity analysis assumes that all buildings for each scenario are built in the same year. In practice, this is unlikely given that large multi-unit buildings are often multi-year endeavours and will not all be built simultaneously.  
 		</p>
 
-		<p>
-			Click below to view a full summary of results by station area.
-		</p>
-
-	</div>
-
-	<GraphicSingle
-		svg720={"../web-assets/research/embodied-carbon/summary-northfield-720.svg"}
-		svg360={"../web-assets/research/embodied-carbon/summary-northfield-360.svg"}
-	/>
-
-	<div class="text">
-		<div class="quote">
+		<div class="quote" style="padding-top: 40px; padding-bottom: 40px;">
 			<p>
 				Well-designed TOD can deliver schools, retail, and community services alongside higher-density housing – supporting quality of life while still meeting climate targets.  
+			</p>
+		</div>
+
+		<h1>
+			Key conclusions and policy recommendations 
+		</h1>
+
+		<p>
+			Our analysis shows that “optimized” complete community scenarios – characterized by a mix of building forms and integrated physical and social infrastructure – generally result in lower or comparable total embodied GHG emissions compared to current trajectories of development in the same geographies.  
+		</p>
+
+		<p>
+			A critical factor influencing per capita embodied GHG is the mix of unit types and bedroom counts: scenarios with a higher share of family-oriented units and higher average occupancy rates tend to have lower per capita emissions. Improvements in material manufacturing and other key design choices can also be made to maximize building efficiency.  
+		</p>
+
+		<Recommendation count=1 title="Optimize building layouts for efficiency"/>
+
+		<p>
+			Building design and layout is a critical lever for reducing embodied GHG emissions because it maximizes how efficiently the spaces are used. Planning policies should encourage a diverse housing mix near transit, particularly larger units that support higher occupancy and more efficient use of materials per resident. Larger units can reduce embodied emissions by lowering the ratio of kitchens, bathrooms, and common spaces per resident. Improving floor plate efficiency can reduce material use: spaces like hallways use as much material as living areas but provide less utility, so more efficient layouts can lower per-unit embodied GHGs. 
+		</p>
+
+		<Recommendation count=2 title="Optimize structural and architectural design to reduce material use"/>
+
+		<p>
+			Avoiding underground parking construction is the most powerful opportunity to reduce building embodied GHG emissions in mid/high rise buildings specifically.<Footnote id={addFootnote(fns[4])}/> Floor slabs are another major source of embodied emissions. Aligning structural columns vertically from floor to floor improves efficiency, allowing for thinner slabs and less concrete, which lowers a building’s embodied carbon footprint.<Footnote id={addFootnote(fns[5])}/> 
+		</p>
+
+		<Recommendation count=3 title="Support low-carbon material manufacturing "/>
+
+		<p>
+			Over time, embodied GHG outcomes will also depend on improvements in material manufacturing. Governments can accelerate this transition by setting embodied carbon benchmarks for new construction, incentivizing the use of low-carbon materials through procurement policies, and supporting innovation and scaling of low-emission building materials. Material decarbonization is a key long-term climate strategy for the construction sector. Insulation is often the second-largest source of embodied GHGs in a building after concrete, making material choice particularly important.<Footnote id={addFootnote(fns[6])}/> Avoiding fossil-fuel-based products like extruded polystyrene and expanded polystyrene can reduce emissions.<Footnote id={addFootnote(fns[7])}/> Low-carbon alternatives already on the market include glass wool or stone wool.<Footnote id={addFootnote(fns[8])}/>   
+		</p>	
+		
+		<div class="quote" style="padding-top: 70px;">
+			<p>
+				Design choices can reduce the embodied GHG in a building by 50% or more.  
 			</p>
 		</div>
 	</div>

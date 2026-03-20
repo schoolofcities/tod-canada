@@ -102,6 +102,7 @@
 	button {
 		font-family: InterRegular;
 		background: none;
+		color: var(--brandGray50);
 		border: 1px solid #ccc;
 		padding: 6px 12px;
 		cursor: pointer;
@@ -109,7 +110,9 @@
 	}
 
 	button.active {
-		border-color: #000;
+		border-color: black;
+		color: black;
+		background-color: #faf9f8;
 		font-weight: 600;
 	}
 

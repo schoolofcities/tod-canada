@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="620" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 620">
+  <defs>
+    <filter id="drop-shadow-85" x="262.28" y="228.6" width="76.08" height="31.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-86" x="256.52" y="278.52" width="62.64" height="31.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-2" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-87" x="250.52" y="393.48" width="60" height="31.44" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-3" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-3" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-88" x="261.32" y="478.68" width="80.64" height="31.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-4" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-4" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-89" x="206.12" y="503.64" width="47.04" height="31.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-5" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-5" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-90" x="270.92" y="368.52" width="43.92" height="31.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-6" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-6" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-91" x="246.68" y="528.6" width="75.12" height="31.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-7" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-7" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-92" x="253.88" y="553.56" width="54.24" height="31.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-8" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-8" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-93" x="256.76" y="143.4" width="53.28" height="31.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-9" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-9" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-132" x="161.96" y="72.6" width="41.28" height="41.28" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-10" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-10" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-133" x="232.76" y="87.24" width="41.04" height="41.04" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-11" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-11" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-190" x="268.76" y="198.36" width="41.28" height="41.04" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-12" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-12" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-197" x="274.28" y="138.36" width="41.28" height="41.04" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-13" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-13" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-198" x="302.84" y="223.56" width="41.04" height="41.28" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-14" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-14" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-199" x="237.08" y="248.52" width="41.04" height="41.28" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-15" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-15" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-200" x="283.4" y="273.72" width="41.04" height="41.04" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-16" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-16" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-201" x="258.2" y="338.52" width="41.04" height="41.28" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-17" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-17" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-202" x="279.32" y="363.72" width="41.04" height="41.04" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-18" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-18" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-203" x="274.76" y="388.68" width="41.04" height="41.04" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-19" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-19" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-204" x="275.72" y="448.68" width="41.04" height="41.04" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-20" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-20" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-205" x="306.1352" y="473.64" width="41.28" height="41.04" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-21" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-21" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-206" x="200.833" y="498.6" width="41.04" height="41.28" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-22" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-22" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-207" x="286.1506" y="523.56" width="41.28" height="41.28" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-23" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-23" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-208" x="272.2854" y="548.52" width="41.28" height="41.28" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-24" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-24" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-209" x="251.24" y="138.36" width="41.28" height="41.04" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-25" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-25" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-210" x="268.52" y="198.36" width="41.28" height="41.04" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-26" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-26" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-211" x="256.76" y="223.56" width="41.28" height="41.28" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-27" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-27" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-212" x="241.64" y="248.52" width="41.04" height="41.28" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-28" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-28" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-213" x="251.24" y="273.72" width="41.04" height="41.04" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-29" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-29" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-214" x="245" y="338.52" width="41.28" height="41.28" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-30" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-30" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-215" x="265.4" y="363.72" width="41.28" height="41.04" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-31" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-31" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-216" x="245" y="388.68" width="41.28" height="41.04" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-32" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-32" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-217" x="266.12" y="448.68" width="41.04" height="41.04" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-33" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-33" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-218" x="255.8" y="473.64" width="41.28" height="41.04" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-34" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-34" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-219" x="217.4712" y="498.6" width="41.04" height="41.28" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-35" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-35" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-220" x="241.2087" y="523.56" width="41.28" height="41.28" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-36" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-36" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-221" x="248.36" y="548.52" width="41.28" height="41.28" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3"/>
+      <feGaussianBlur result="blur-37" stdDeviation="5"/>
+      <feFlood flood-color="#231f20" flood-opacity=".25"/>
+      <feComposite in2="blur-37" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Layer_3" data-name="Layer 3">
+    <rect id="rect25" width="360" height="620" rx="21.5668" ry="21.5668" fill="#faf9f8"/>
+    <text transform="translate(36.7245 31.0684)" fill="#010101" font-family="Inter-Bold, Inter" font-size="16" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700" isolation="isolate"><tspan x="0" y="0">Low-income residents that move away </tspan><tspan x="0" y="19.2002">from station areas</tspan></text>
+    <path id="rect1" d="M25.1538,21.0947h0c2.262,0,4.0957,1.8337,4.0957,4.0957h0c0,2.262-1.8337,4.0957-4.0957,4.0957h0c-2.262,0-4.0957-1.8337-4.0957-4.0957h0c0-2.262,1.8337-4.0957,4.0957-4.0957Z" fill="#fff" fill-rule="evenodd" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+  </g>
+  <g id="Layer_1" data-name="Layer 1">
+    <text transform="translate(30.5722 200.0008)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="10" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">DATE OF STATION OPENING</tspan></text>
+    <line x1="184.8246" y1="140" x2="184.8247" y2="579.997" fill="none" stroke="#000" stroke-dasharray=".5 2" stroke-miterlimit="10" stroke-width=".5"/>
+    <line x1="184.8246" y1="140.0015" x2="184.8249" y2="579.9985" fill="none" stroke="#000" stroke-dasharray=".5 2" stroke-miterlimit="10" stroke-width=".5"/>
+    <line x1="219.3901" y1="140.0015" x2="219.3904" y2="579.9985" fill="none" stroke="#000" stroke-dasharray=".25 1.5" stroke-miterlimit="10" stroke-width=".25"/>
+    <line x1="288.5213" y1="140.0015" x2="288.5216" y2="579.9985" fill="none" stroke="#000" stroke-dasharray=".25 1.5" stroke-miterlimit="10" stroke-width=".25"/>
+    <line x1="253.9557" y1="140.0023" x2="253.956" y2="579.9992" fill="none" stroke="#000" stroke-dasharray=".5 2" stroke-miterlimit="10" stroke-width=".5"/>
+    <line x1="323.0869" y1="140.003" x2="323.0871" y2="580" fill="none" stroke="#000" stroke-dasharray=".5 2" stroke-miterlimit="10" stroke-width=".5"/>
+  </g>
+  <g id="CMAs">
+    <line x1="274.3494" y1="241.1982" x2="320.3216" y2="241.1982" fill="#f2f2f3" filter="url(#drop-shadow-85)" stroke="#231f20" stroke-miterlimit="10"/>
+    <line x1="268.7343" y1="291.1972" x2="300.9649" y2="291.1972" fill="#f2f2f3" filter="url(#drop-shadow-86)" stroke="#231f20" stroke-miterlimit="10"/>
+    <line x1="262.5972" y1="406.1972" x2="292.3236" y2="406.1972" fill="#f2f2f3" filter="url(#drop-shadow-87)" stroke="#231f20" stroke-miterlimit="10"/>
+    <line x1="273.4818" y1="491.1972" x2="323.7782" y2="491.1972" fill="#f2f2f3" filter="url(#drop-shadow-88)" stroke="#231f20" stroke-miterlimit="10"/>
+    <line x1="218.3533" y1="516.1972" x2="234.9447" y2="516.1972" fill="#f2f2f3" filter="url(#drop-shadow-89)" stroke="#231f20" stroke-miterlimit="10"/>
+    <line x1="283.0755" y1="381.1972" x2="296.8171" y2="381.1972" fill="#f2f2f3" filter="url(#drop-shadow-90)" stroke="#231f20" stroke-miterlimit="10"/>
+    <line x1="258.795" y1="541.1972" x2="303.7302" y2="541.1972" fill="#f2f2f3" filter="url(#drop-shadow-91)" stroke="#231f20" stroke-miterlimit="10"/>
+    <line x1="266.0538" y1="566.1982" x2="289.904" y2="566.1982" fill="#f2f2f3" filter="url(#drop-shadow-92)" stroke="#231f20" stroke-miterlimit="10"/>
+    <line x1="268.8189" y1="155.9052" x2="291.9778" y2="155.9052" fill="#f2f2f3" filter="url(#drop-shadow-93)" stroke="#231f20" stroke-miterlimit="10"/>
+  </g>
+  <g id="Layer_6" data-name="Layer 6">
+    <g>
+      <g id="text237-0-6-6-6-4-6-0" isolation="isolate">
+        <text transform="translate(36.7244 79.9995)" font-family="Inter-Regular, Inter" font-size="12" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400" isolation="isolate"><tspan x="0" y="0" fill="#010101">Average percent of low-income residents that </tspan><tspan x="264.375" y="0" fill="#9e2666">move </tspan><tspan x="0" y="14.4004" fill="#9e2666">away from station areas</tspan><tspan x="136.2715" y="14.4004" xml:space="preserve" fill="#010101">    versus the low-income </tspan><tspan x="0" y="28.7998" fill="#010101">residents </tspan><tspan x="55.8223" y="28.7998" fill="#26524d">move out rates in the CMA</tspan></text>
+      </g>
+      <circle cx="179.6382" cy="90.2276" r="4.9683" fill="#9e2666" filter="url(#drop-shadow-132)" stroke="#fff" stroke-miterlimit="10"/>
+      <circle cx="250.3151" cy="104.75" r="4.9683" fill="#26524d" filter="url(#drop-shadow-133)" stroke="#fff" stroke-miterlimit="10"/>
+    </g>
+  </g>
+  <g id="Layer_4" data-name="Layer 4">
+    <circle cx="286.4474" cy="215.906" r="4.9683" fill="#9e2666" filter="url(#drop-shadow-190)" stroke="#fff" stroke-miterlimit="10"/>
+    <text transform="translate(52.5822 220.0012)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Opened 1990-1999</tspan></text>
+    <text transform="translate(101.4454 160.0002)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">All Stations</tspan></text>
+    <text transform="translate(46.4056 245.0002)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Opened 2000-2004</tspan></text>
+    <text transform="translate(47.2317 270.0002)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Opened 2005-2009</tspan></text>
+    <text transform="translate(52.5693 295.0001)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Opened 2010-2016</tspan></text>
+    <text transform="translate(96.734 340.0003)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="10" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">TRANSIT TYPE</tspan></text>
+    <text transform="translate(76.163 360.0002)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Subway/ Metro</tspan></text>
+    <text transform="translate(30.537 385.0004)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Light Rail Transit (LRT)</tspan></text>
+    <text transform="translate(80.2551 449.9998)" fill="#231f20" font-family="Inter-Bold, Inter" font-size="10" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan x="0" y="0">CANADIAN CITIES</tspan></text>
+    <text transform="translate(121.397 544.9999)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Toronto</tspan></text>
+    <text transform="translate(107.6353 494.9999)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Edmonton</tspan></text>
+    <text transform="translate(103.3635 570.0004)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Vancouver</tspan></text>
+    <text transform="translate(115.6079 519.9998)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Montreal</tspan></text>
+    <text transform="translate(18.5713 409.9999)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Commuter/ Regional Rail</tspan></text>
+    <text transform="translate(122.584 470)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="13" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Calgary</tspan></text>
+    <text transform="translate(314.6569 600.0002)" fill="#818385" font-family="Inter-Regular, Inter" font-size="12" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">80%</tspan></text>
+    <text transform="translate(240.5588 600.0002)" fill="#818385" font-family="Inter-Regular, Inter" font-size="12" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">60%</tspan></text>
+    <text transform="translate(171.2719 600.0002)" fill="#818385" font-family="Inter-Regular, Inter" font-size="12" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">40%</tspan></text>
+    <text transform="translate(314.6569 129.5725)" fill="#818385" font-family="Inter-Regular, Inter" font-size="12" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">80%</tspan></text>
+    <text transform="translate(240.5588 129.5725)" fill="#818385" font-family="Inter-Regular, Inter" font-size="12" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">60%</tspan></text>
+    <text transform="translate(171.2719 129.5725)" fill="#818385" font-family="Inter-Regular, Inter" font-size="12" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">40%</tspan></text>
+    <circle cx="291.9778" cy="155.9052" r="4.9683" fill="#9e2666" filter="url(#drop-shadow-197)" stroke="#fff" stroke-miterlimit="10"/>
+    <circle cx="320.3216" cy="241.1982" r="4.9683" fill="#9e2666" filter="url(#drop-shadow-198)" stroke="#fff" stroke-miterlimit="10"/>
+    <circle cx="254.6471" cy="266.1982" r="4.9683" fill="#9e2666" filter="url(#drop-shadow-199)" stroke="#fff" stroke-miterlimit="10"/>
+    <circle cx="300.9649" cy="291.1972" r="4.9683" fill="#9e2666" filter="url(#drop-shadow-200)" stroke="#fff" stroke-miterlimit="10"/>
+    <circle cx="275.7321" cy="356.1972" r="4.9683" fill="#9e2666" filter="url(#drop-shadow-201)" stroke="#fff" stroke-miterlimit="10"/>
+    <circle cx="296.8171" cy="381.1972" r="4.9683" fill="#9e2666" filter="url(#drop-shadow-202)" stroke="#fff" stroke-miterlimit="10"/>
+    <circle cx="292.3236" cy="406.1972" r="4.9683" fill="#9e2666" filter="url(#drop-shadow-203)" stroke="#fff" stroke-miterlimit="10"/>
+    <circle cx="293.2759" cy="466.1972" r="4.9683" fill="#9e2666" filter="url(#drop-shadow-204)" stroke="#fff" stroke-miterlimit="10"/>
+    <circle cx="323.7782" cy="491.1972" r="4.9683" fill="#9e2666" filter="url(#drop-shadow-205)" stroke="#fff" stroke-miterlimit="10"/>
+    <circle cx="218.3533" cy="516.1972" r="4.9683" fill="#9e2666" filter="url(#drop-shadow-206)" stroke="#fff" stroke-miterlimit="10"/>
+    <circle cx="303.7302" cy="541.1972" r="4.9683" fill="#9e2666" filter="url(#drop-shadow-207)" stroke="#fff" stroke-miterlimit="10"/>
+    <circle cx="289.904" cy="566.1982" r="4.9683" fill="#9e2666" filter="url(#drop-shadow-208)" stroke="#fff" stroke-miterlimit="10"/>
+    <circle cx="268.8189" cy="155.9052" r="4.9683" fill="#26524d" filter="url(#drop-shadow-209)" stroke="#fff" stroke-miterlimit="10"/>
+    <circle cx="286.1017" cy="215.906" r="4.9683" fill="#26524d" filter="url(#drop-shadow-210)" stroke="#fff" stroke-miterlimit="10"/>
+    <circle cx="274.3494" cy="241.1982" r="4.9683" fill="#26524d" filter="url(#drop-shadow-211)" stroke="#fff" stroke-miterlimit="10"/>
+    <circle cx="259.1406" cy="266.1982" r="4.9683" fill="#26524d" filter="url(#drop-shadow-212)" stroke="#fff" stroke-miterlimit="10"/>
+    <circle cx="268.7343" cy="291.1972" r="4.9683" fill="#26524d" filter="url(#drop-shadow-213)" stroke="#fff" stroke-miterlimit="10"/>
+    <circle cx="262.5972" cy="356.1972" r="4.9683" fill="#26524d" filter="url(#drop-shadow-214)" stroke="#fff" stroke-miterlimit="10"/>
+    <circle cx="283.0755" cy="381.1972" r="4.9683" fill="#26524d" filter="url(#drop-shadow-215)" stroke="#fff" stroke-miterlimit="10"/>
+    <circle cx="262.5972" cy="406.1966" r="4.9683" fill="#26524d" filter="url(#drop-shadow-216)" stroke="#fff" stroke-miterlimit="10"/>
+    <circle cx="283.6822" cy="466.1978" r="4.9683" fill="#26524d" filter="url(#drop-shadow-217)" stroke="#fff" stroke-miterlimit="10"/>
+    <circle cx="273.4818" cy="491.1972" r="4.9683" fill="#26524d" filter="url(#drop-shadow-218)" stroke="#fff" stroke-miterlimit="10"/>
+    <circle cx="234.9447" cy="516.1972" r="4.9683" fill="#26524d" filter="url(#drop-shadow-219)" stroke="#fff" stroke-miterlimit="10"/>
+    <circle cx="258.795" cy="541.1972" r="4.9683" fill="#26524d" filter="url(#drop-shadow-220)" stroke="#fff" stroke-miterlimit="10"/>
+    <circle cx="266.0538" cy="566.1982" r="4.9683" fill="#26524d" filter="url(#drop-shadow-221)" stroke="#fff" stroke-miterlimit="10"/>
+  </g>
+</svg>
