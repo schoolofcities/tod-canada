@@ -22,7 +22,7 @@
 
 	.box {
 		max-width: 300px;
-  		margin-left: calc(-50% + 45px);
+  		margin-left: calc(-50% + 45px - 12px);
 		padding: 15px 30px 15px 30px;
 	}
 

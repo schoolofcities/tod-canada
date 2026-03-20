@@ -70,7 +70,7 @@
 	class="img-container"
 	style="max-width: {maxWidth};"
 >
-    {#if images.length < 6 && width > 500}
+    {#if images.length < 6 && width > 600}
         <div class="toggle-buttons">
             {#each images as image, index}
                 <button
@@ -82,16 +82,18 @@
             {/each}
         </div>
     {:else}
-        <Select class="case-study-select" 
-        name="case-study-select" 
-        items={images.map((image, index) => ({value: index, label: image.buttonLabel}))}
-        on:change={(e) => active = e.detail.value}
-		value={{ value: 0, label: images[0].buttonLabel }}
-        searchable={false}
-        clearable={false}
-        containerStyles="font-family: InterRegular !important;"
-            showChevron />
-
+		<div class="select-theme">
+			<Select class="case-study-select"
+			name="case-study-select" 
+			inputStyles="font-weight: 600;"
+			items={images.map((image, index) => ({value: index, label: image.buttonLabel}))}
+			on:change={(e) => active = e.detail.value}
+			value={{ value: 0, label: images[0].buttonLabel }}
+			searchable={false}
+			clearable={false}
+			containerStyles="font-family: InterRegular !important;"
+				showChevron />
+		</div>
     {/if}
 
 	<!-- {#key active}
@@ -168,6 +170,27 @@
 		width: 100%;
 	}
 
+    .select-theme {
+        /* --item-is-active-bg: var(--brandGray); 
+		--item-is-active-color: var(--brandBlack); less borders*/ 
+		--item-is-active-bg: var(--brandWhite);
+		--item-is-active-color: var(--brandBlack);
+        --item-hover-bg: var(--brandWhite);
+		--group-title-font-weight: 900;
+        --list-max-height: 600px;
+		--item-first-border-radius: 0;
+        --list-border-radius: 0;
+		--border-radius: 0;
+    }
+
+	:global(.svelte-select) {
+		cursor: pointer !important; 
+	}
+
+	:global(.svelte-select input) {
+		cursor: pointer !important; 
+	}
+
     :global(.case-study-select) {
         font-family: Inter !important;
         font-size: 14px !important;
@@ -175,7 +198,8 @@
         border-color: #000 !important;
         background-color: #ffffff !important;
         margin-bottom: 1rem !important;
-        width: 210px !important;
+        /* width: 210px !important; */
+		width: 220px !important;
         text-align: left;
     }
 
@@ -183,18 +207,24 @@
         border-color: #000 !important;
 	}
 
-	:global(.svelte-select-list) {
-        border-radius: 0 !important;
-	}
-
-
-	:global(.list-item.hover) {
-        background-color: var(--brandGray) !important;
-	}
-
-
 	:global(.selected-item) {
 		font-size: 14px !important;
+		font-weight: 600;
+	}
+
+	:global(.list-item) {
+		border: 1px solid #ccc;
+		border-bottom: none;
+	}
+
+	:global(.item) {
+		cursor: pointer !important; 
+	}
+
+	:global(.item.active) {
+		border: 0.5px solid #000;
+		background-color: #ffffff;
+		font-weight: 600;
 	}
 
 	a {
