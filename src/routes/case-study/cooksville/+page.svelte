@@ -163,8 +163,7 @@
 		</div>
 
 		<HamburgerMenu
-		iconColour={arrowColour}
-		contents={data.menuItems}/>
+		iconColour={arrowColour}/>
 
 		<ScrollAnimate 
 			colour={arrowColour}></ScrollAnimate>
@@ -199,9 +198,9 @@
 		
 			<CaseStudyNote/>
 
-			<h2 id="Menu_2">
+			<h1 id="Menu_2">
 				Neighbourhood overview 
-			</h2>
+			</h1>
 			<p>
 				The Cooksville station area is dense, vibrant and diverse. It houses nearly 20,000 residents, nearly 73% of whom are visible minorities. A gateway for immigrants, two-thirds of Cooksville’s residents are foreign-born, and 20% immigrated within the last five years.  
 			</p>

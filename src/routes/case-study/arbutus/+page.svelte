@@ -159,8 +159,7 @@
 			colour={arrowColour}></ScrollAnimate>
 
 		<HamburgerMenu
-		iconColour={arrowColour}
-		contents={data.menuItems}/>
+		iconColour={arrowColour}/>
 
 		<!-- Bottom is underneath, scrolls normally -->
 		<div class="bottom" id="before-text">
@@ -191,9 +190,9 @@
 
 		<CaseStudyNote style=3/>
 		
-		<h2 id="Menu_2">
+		<h1 id="Menu_2">
 			Neighbourhood overview 
-		</h2>
+		</h1>
 
 
 		<p>

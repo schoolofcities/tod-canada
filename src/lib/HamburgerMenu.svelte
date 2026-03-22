@@ -55,6 +55,7 @@
         let r = document.querySelector(':root');
         
         r.style.setProperty('--menuColour', menuColour);
+        r.style.setProperty('--iconColour', iconColour);
 
         if (contents.length == 0) {
             let headers = Array.from(document.getElementsByTagName("h1"));
@@ -69,19 +70,21 @@
             window.addEventListener('hashchange', handleHashNavigation);
         }
 
-        if (pageType != "caseStudy") {
-            const title = document.querySelector('.title-container'); 
+        
+        const title = document.querySelector('.title-container'); 
+        let hamburger = document.getElementsByClassName("hamburger-container")[0];
 
-            const observer = new IntersectionObserver(([entry]) => {
-            if (entry.isIntersecting) {
-                iconColour = "white";
-            } else {
-                iconColour = "black"
-            }
-            });
-
-            observer.observe(title);
+        const observer = new IntersectionObserver(([entry]) => {
+        if (entry.isIntersecting) {
+            hamburger.classList.add("title");
+            if (pageType != "caseStudy") iconColour = "white";
+        } else {
+            if (pageType != "caseStudy") iconColour = "black";
+            hamburger.classList.remove("title");
         }
+        });
+
+        observer.observe(title);
     }) 
 
 </script>
@@ -151,6 +154,10 @@
         right: 15rem;
         transition: background-color 200ms ease 300ms;
         border-radius: 50%;   
+    }
+
+    :global(.hamburger-container.title) {
+        transition: background-color 0ms;
     }
 
     .hamburger-container.opened {
