@@ -215,6 +215,7 @@
 
     #menu-content {
         margin-left: 10%;
+        margin-right: 10%;
     }
 
     a {

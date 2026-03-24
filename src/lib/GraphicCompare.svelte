@@ -156,7 +156,7 @@
 	button.active {
 		border-color: black;
 		color: black;
-		background-color: #faf9f8;
+		/* background-color: #faf9f8; */
 		font-weight: 600;
 	}
 

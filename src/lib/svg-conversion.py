@@ -281,18 +281,18 @@ def rasterize_non_text_elements(root, width, height, svg_ns, input_svg_path):
 
 def keep_only_text_elements(root, svg_ns):
 	# if made with inkscape, all text is labelled
-	NSMAP = {
-		"svg": "http://www.w3.org/2000/svg",
-		"inkscape": "http://www.inkscape.org/namespaces/inkscape"
-	}
+	# NSMAP = {
+	# 	"svg": "http://www.w3.org/2000/svg",
+	# 	"inkscape": "http://www.inkscape.org/namespaces/inkscape"
+	# }
 
-	text_elements = root.xpath('.//svg:g[@inkscape:label="text"]', namespaces=NSMAP)
+	# text_elements = root.xpath('.//svg:g[@inkscape:label="text"]', namespaces=NSMAP)
 
-	if len(text_elements) > 0:
-		root.clear()
-		for elem in text_elements:
-			root.append(elem)
-		return
+	# if len(text_elements) > 0:
+	# 	root.clear()
+	# 	for elem in text_elements:
+	# 		root.append(elem)
+	# 	return
 
 	# First, make a copy of the root to work with
 	new_root = etree.Element(root.tag, root.attrib)
