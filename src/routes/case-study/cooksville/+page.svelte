@@ -45,11 +45,11 @@
 		'Andrews et al., “Best Practice Design and Planning Guidelines for Family-Friendly Apartments.” ',
 		'Richard Tucker et al., “Architects’ Professional Perspectives on Child- and Family-Friendly Apartment Design in Australia,” <i>Journal of Asian Architecture and Building Engineering</i> 21, no. 6 (2022): 2262–76, <a href="https://doi.org/10.1080/13467581.2021.1972813" target="_blank">DOI</a>',
 		'Fraser Institute, <i>Canada’s Housing Mismatch: Many Canadians Prefer Ground-Oriented Homes, but Not Enough Are Being Built</i> (2023), <a href="https://www.fraserinstitute.org/sites/default/files/canadas-housing-mismatch.pdf" target="_blank">URL</a>',
-		'George Baird et al., “The Influence of Demographic and Locational Factors on Occupants’ Perception Scores for Their Buildings,” paper presented at Engaging Architectural Science: Meeting the Challenges of Higher Density: 52nd International Conference of the Architectural Science Association 2018, Melbourne, Australia, December 10, 2018',
+		'George Baird et al., “The Influence of Demographic and Locational Factors on Occupants’ Perception Scores for Their Buildings,” paper presented at Engaging Architectural Science: Meeting the Challenges of Higher Density: 52nd International Conference of the Architectural Science Association 2018, Melbourne, Australia, December 10, 2018.',
 		'City of Vancouver, <i>Guidelines: High Density Housing for Families with Children</i> (1992), <a href="https://guidelines.vancouver.ca/guidelines-high-density-housing-for-families-with-children.pdf" target="_blank">URL</a>; City of Toronto, <i>Growing Up: Planning for Children in New Vertical Communities</i>, Urban Design Guidelines (2020),  <a href="https://www.toronto.ca/legdocs/mmis/2020/ph/bgrd/backgroundfile-148362.pdf" target="_blank">URL</a>',
-		'Carolyn Whitzman, “Creating Child-Friendly Living Environments in Central Cities: Vertical Living Kids,” in Risk, Protection, <i>Provision and Policy</i>, ed. Tracey Skelton, vol. 12, ed. Claire Freeman and Paul Tranter, Geographies of Children and Young People (Springer Reference, 2017), <a href="https://doi.org/10.1007/978-981-287-035-3_6" target="_blank">URL</a>; Andrews et al., “Best Practice Design and Planning Guidelines for Family-Friendly Apartments.”',
+		'Carolyn Whitzman, “Creating Child-Friendly Living Environments in Central Cities: Vertical Living Kids,” in <i>Risk, Protection, Provision and Policy</i>, ed. Tracey Skelton, vol. 12, ed. Claire Freeman and Paul Tranter, Geographies of Children and Young People (Springer Reference, 2017), <a href="https://doi.org/10.1007/978-981-287-035-3_6" target="_blank">URL</a>; Andrews et al., “Best Practice Design and Planning Guidelines for Family-Friendly Apartments.”',
 		'Carolyn Whitzman and Dana Mizrachi, “Creating Child-Friendly High-Rise Environments: Beyond Wastelands and Glasshouses,” <i>Urban Policy and Research</i> 30, no. 3 (2012): 233–49, <a href="https://doi.org/10.1080/08111146.2012.663729" target="_blank">DOI</a>',
-		'Insurance Bureau of Canada, “July Flash Floods in Toronto and Southern Ontario Caused over $940 Million in Insured Damage,” October 9, 2024, <a href="https://www.ibc.ca/news-insights/news/july-flash-floods-in-toronto-and-southern-ontario-caused-over-940-million-in-insured-damage" target="_blank">URL</a>',
+		'Insurance Bureau of Canada, “July Flash Floods in Toronto and Southern Ontario Caused over $940 Million in Insured Damage,” August 19, 2024, <a href="https://www.ibc.ca/news-insights/news/july-flash-floods-in-toronto-and-southern-ontario-caused-over-940-million-in-insured-damage" target="_blank">URL</a>',
 		'Konstantinos M. Andreadis et al., “Urbanizing the Floodplain: Global Changes of Imperviousness in Flood-Prone Areas,” <i>Environmental Research Letters</i> 17, no. 10 (2022): <a href="https://doi.org/10.1088/1748-9326/ac9197" target="_blank">DOI</a>',
 		'Andreadis et al., “Urbanizing the Floodplain.”',
 		'Catherine Seavitt Nordenson et al., “Reimagining the Floodplain,” in <i>Structures of Coastal Resilience</i>, ed. Catherine Seavitt Nordenson et al. (Island Press/Center for Resource Economics, 2018), <a href="https://doi.org/10.5822/978-1-61091-859-6_3" target="_blank">URL</a>',
@@ -58,8 +58,8 @@
 		'Crystal Aiken et al., <i>Designing With Water: Creative Solutions from Around the Globe</i>, Preparing for the Rising Tide 2 (2014), <a href="https://www.bostonharbornow.org/wp-content/uploads/2017/02/PRT2-Designing-with-Water_Full.pdf" target="_blank">URL</a>, p. 33',
 		'Sustainable Business Network of Greater Philadelphia, <i>The Economic Impact of Green City, Clean Waters: The First Five Years</i> (2016), <a href="https://www.sbnphiladelphia.org/wp-content/uploads/2019/09/SBN_FINAL-REPORT.pdf" target="_blank">URL</a>',
 		'City of Mississauga, “Mississauga’s Stormwater Infrastructure Helps against a 100-Year Storm,” City of Mississauga, July 23, 2024, <a href="https://www.mississauga.ca/city-of-mississauga-news/news/mississaugas-stormwater-infrastructure-helps-against-a-100-year-storm/" target="_blank">URL</a>',
-		'Zachary Faza, “Hydro-Urbanism,” 24-26; American Society of Landscape Architects, “Residential Bioswales and Bioretention Ponds: Improving Water Management,” accessed February 23, 2026, <a href="https://www.asla.org/focus-areas/residential/sustainable-residential-design/improving-water-management/residential-bioswales-and-bioretention-ponds" target="_blank">URL</a>',
-		'Canadian Infrastructure Council, <i>Building Foundations for Tomorrow: Assessing Housing-Enabling Infrastructure Across Canada</i>, National Infrastructure Assessment Report 1 (2025), <a href="https://canadianinfrastructurecouncil.ca/national-infrastructure-assessment.html" target="_blank">URL</a>',
+		'Faza, “Hydro-Urbanism,” 24-26; American Society of Landscape Architects, “Residential Bioswales and Bioretention Ponds: Improving Water Management,” accessed February 23, 2026, <a href="https://www.asla.org/focus-areas/residential/sustainable-residential-design/improving-water-management/residential-bioswales-and-bioretention-ponds" target="_blank">URL</a>',
+		'Canadian Infrastructure Council, <i>Building Foundations for Tomorrow: Assessing Housing-Enabling Infrastructure Across Canada</i>, National Infrastructure Assessment Report 1 (2025), <a href="https://canadianinfrastructurecouncil.ca/national-infrastructure-assessment" target="_blank">URL</a>',
 		'David Thompson, <i>Suburban Sprawl: Exposing Hidden Costs, Identifying Innovations</i> (Smart Prosperity Institute, 2013), <a href="https://institute.smartprosperity.ca/sites/default/files/sp_suburbansprawl_oct2013_opt.pdf" target="_blank">URL</a>',
 		'Bernard Deschamps et al., “Flooding: Contributing Factors to Residential Flood Damage in Canada,” <i>International Journal of Disaster Risk Reduction</i> 120 (April 2025): <a href="https://doi.org/10.1016/j.ijdrr.2025.105348" target="_blank">DOI</a>',
 		'Costas Armenakis et al., “Flood Risk Assessment in Urban Areas Based on Spatial Analytics and Social Factors,” <i>Geosciences</i> 7, no. 4 (2017), <a href="https://doi.org/10.3390/geosciences7040123" target="_blank">DOI</a>'
@@ -67,7 +67,7 @@
 
 	const credits = [
 		{ role:"Research and writing", names:"Sarah Chan, Kathryn Exon Smith, Anika Reisha Taboy"},
-		{ role:"Architectural renderings", names:"Daniel Lam, Phat Le"},
+		{ role:"Concept design development", names:"Daniel Lam, Phat Le"},
 		{ role:"Maps and data visualization", names:"Jeff Allen, Polina Gorn, Isabeaux Graham"},
 		{ role:"Web development", names:"Mieko Yao, Jeff Allen"},
 		{ role:"Additional contributors", names:"An Pham, Carrie Zeng"}
@@ -104,29 +104,29 @@
 
 	<title>Cooksville | School of Cities</title>
 
-	<!-- <meta name="description" content="Repository of design and web components for building data stories, visualizations, maps, and other custom web projects" />
+	<meta name="description" content="How can we build complete, family-friendly communities while managing flood risk?" />
 	<meta name="author" content="School of Cities">
-	<meta rel="canonical" href="https://schoolofcities.github.io/design-components/">
+	<meta rel="canonical" href="https://schoolofcities.github.io/tod-on-main/case-study/cooksville">
 
-	<meta property="og:title" content="Design Components" />
-	<meta property="og:description" content="Repository of design and web components for building data stories, visualizations, maps, and other custom web projects" />
+	<meta property="og:title" content="Cooksville Station" />
+	<meta property="og:description" content="How can we build complete, family-friendly communities while managing flood risk?" />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://schoolofcities.github.io/design-components/" />
-	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/design-components/main/static/web-card.png" />
+	<meta property="og:url" content="https://schoolofcities.github.io/tod-on-main/case-study/cooksville" />
+	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/case-study/cooksville/cooksville-scenario2.png" />
 	<meta property="og:locale" content="en_CA">
 
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:title" content="Design Components" />
-	<meta name="twitter:description" content="Repository of design and web components for building data stories, visualizations, maps, and other custom web projects" />
-	<meta name="twitter:site" content="https://schoolofcities.github.io/design-components/" />
-	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/design-components/main/static/web-card.png" />  -->
+	<meta name="twitter:title" content="Cooksville Station" />
+	<meta name="twitter:description" content="How can we build complete, family-friendly communities while managing flood risk?" />
+	<meta name="twitter:site" content="https://schoolofcities.github.io/tod-on-main/case-study/cooksville" />
+	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/case-study/cooksville/cooksville-scenario2.png" /> 
 
-	<!-- <meta name="citation_title" content="Design Components"> -->
-	<!-- <meta name="citation_author" content="Author Name 1"> -->
-	<!-- <meta name="citation_author" content="Author Name 2"> -->
-	<!-- <meta name="citation_author" content="Author Name 3"> -->
-	<!-- <meta name="citation_publication_date" content="2025/09/23"> -->
-	<!-- <meta name="citation_journal_title" content="School of Cities"> -->
+	<meta name="citation_title" content="Cooksville Station"> 
+	<meta name="citation_author" content="Sarah Chan">
+	<meta name="citation_author" content="Kathryn Exon Smith">
+	<meta name="citation_author" content="Anika Reisha Taboy">
+	<meta name="citation_publication_date" content="2025/04">
+	<meta name="citation_journal_title" content="School of Cities">
 	<!-- <meta name="citation_pdf_url" content="https://schoolofcities.utoronto.ca/research-paper.pdf"> -->
 	<!-- <meta name="citation_abstract_html_url" content="https://schoolofcities.github.io/design-components/"> -->
 
@@ -147,7 +147,7 @@
 			<TitlePage
 				title="Cooksville Station"
 				type="Case Study"
-				location="Mississauga, ON"
+				location="Mississauga, Ontario"
 				subtitle="How can we build complete, family-friendly communities while managing flood risk? "
 				bgType="Image"
 				url={topImage}
@@ -198,11 +198,11 @@
 		
 			<CaseStudyNote/>
 
-			<h1 id="Menu_2">
+			<h1>
 				Neighbourhood overview 
 			</h1>
 			<p>
-				The Cooksville station area is dense, vibrant and diverse. It houses nearly 20,000 residents, nearly 73% of whom are visible minorities. A gateway for immigrants, two-thirds of Cooksville’s residents are foreign-born, and 20% immigrated within the last five years.  
+				The Cooksville station area is dense, vibrant, and diverse. It houses nearly 20,000 residents, 74% of whom are visible minorities. A gateway for immigrants, two-thirds of Cooksville’s residents are foreign-born, and 20% immigrated within the last five years.  
 			</p>
 		</div>
 
@@ -213,7 +213,7 @@
 		
 		<div class="text">
 			<p>
-				The area has many types of households, including families and a growing number of seniors, of whom many live alone. Many people – especially renters – live in high-rise apartments along the major corridors of Hurontario and Dundas streets, but there are also lower-density neighbourhoods further from the station. Household incomes average about $92,000 per year, far below the city average.  
+				The area has many types of households, including families and a growing number of seniors, of whom many live alone. Many people - especially renters - live in high-rise apartments along the major corridors of Hurontario and Dundas streets, but there are also lower-density neighbourhoods further from the station. Household incomes average about $92,000 per year, far below the city average.
 			</p>
 
 
@@ -237,11 +237,11 @@
 			</div>
 
 			<p>
-				Seeing Cooksville as a high-potential node for growth, the City of Mississauga has set an ambitious future density target of 300 people and jobs per hectare for the station area, roughly triple what is there now. Planning for inclusive growth here will require prioritizing the needs of current and future residents, particularly families. Many elements of successful complete communities are present, mainly centred on the intersection of Hurontario and Dundas – schools, health care, and retail – but access to child care is limited, and the area has a critical gap in community centres. 
+				Seeing Cooksville as a high-potential node for growth, the City of Mississauga has set an ambitious future density target of 300 people and jobs per hectare for the station area, roughly triple what is there now. Planning for inclusive growth here will require prioritizing the needs of current and future residents, particularly families. Many elements of successful <a href="https://measuringmainstreets.ca/tools/complete-communities" target="_blank">complete communities</a> are present, mainly centred on the intersection of Hurontario and Dundas – schools, health care, and retail – but access to child care is limited, and the area has a critical gap in community centres. 
 			</p>
 
 			<p>
-				There is also little existing green space. With few formal civic amenities, residents rely on commercial plazas and small parks for daily needs. And like many suburban areas, the neighbourhood itself is built for the car: wide arterials and fragmented sidewalks make walking and cycling a challenge.  
+				There is also little existing green space. With few formal civic amenities, residents rely on commercial plazas and small parks for daily needs. And like many suburban areas, the neighbourhood itself is built for the car: wide arterials and fragmented sidewalks make walking and cycling a challenge.  
 			</p>
 
 		</div>
@@ -255,7 +255,7 @@
 		<div class="text">
 			
 			<p>
-				Another challenge comes from the site itself. The Cooksville station area sits within the Cooksville Creek watershed, which is at risk of flooding in the event of significant storms. The City of Mississauga has undertaken significant stormwater management work in the area, including creating an upstream water storage pond, but high levels of development make this area – like many urban areas on floodplains – vulnerable to inundation.<Footnote id={addFootnote(fns[1])}/> 
+				Another challenge comes from the site itself. The Cooksville station area sits within the Cooksville Creek watershed, which is at risk of flooding during major storms. The City of Mississauga has undertaken significant stormwater management work in the area, including creating an upstream water storage pond, but high levels of development make this area – like many urban areas on floodplains – vulnerable to inundation.<Footnote id={addFootnote(fns[1])}/> 
 			</p>
 
 		</div>
@@ -263,17 +263,17 @@
 		<ImageSingle
 			imageURL={"../web-assets/case-study/cooksville/cooksville-creek-mississauga-photo.jpg"}
 			source={"<a href='https://www.mississauga.ca/projects-and-strategies/environmental-assessments/cooksville-creek-erosion-control-from-mississauga-valley-boulevard-to-the-cp-railway/' target='_blank'>Cooksville Creek Erosion Control from Mississauga Valley Boulevard to the CP Railway</a>."}
-			caption={"Cooksville Creek experiencing significant bank erosion, highlighting the need for rehabilitation."}
+			caption={"The Cooksville Creek flows through the station area, heightening the risk of flooding."}
 			maxWidth="1080px"
 			link='No'
 		/>
 
 		<div class="text">
 			<p>
-				Creating a vibrant community here will require creative approaches to managing risk while increasing access to critical amenities.  
+				Creating a vibrant community here will require creative approaches to managing risk while increasing access to critical amenities.  
 			</p>
 	
-			<h1 id="Menu_3">
+			<h1>
 				Cooksville’s current trajectory 
 			</h1>
 
@@ -289,8 +289,8 @@
 
 		<ImageSingle
 			imageURL="../web-assets/case-study/cooksville/cooksville-current-dev.png"
-			caption="Currently proposed or under construction development 800m from Cooksville station."
-			source="Photo by Infrastructure Institute (2025)."
+			caption="Development currently proposed or under construction within 800 metres of Cooksville Station."
+			source="Infrastructure Institute (2025)."
 			maxWidth="680px"
 			link='No'
 		/>
@@ -298,15 +298,15 @@
 		<div class="text">	
 
 			<p>
-				But this does not necessarily create a livable neighbourhood, and without early investment in civic infrastructure, Cooksville risks becoming just a collection of towers: dense but socially thin. Crucial infrastructure is not keeping pace. The Cooksville Community Hub, co-located with the Thomas L. Kennedy Secondary School, is planned but needs funding. Other cultural amenities are largely non-existent.  Local parks are small and discontinuous, and few institutional sites exist to anchor future population growth.  
+				But this does not necessarily create a livable neighbourhood, and without early investment in civic infrastructure, Cooksville risks becoming just a collection of towers: dense but socially thin. Crucial infrastructure is not keeping pace. The Cooksville Community Hub, co-located with the Thomas L. Kennedy Secondary School, is planned but needs funding. Other cultural amenities are largely non-existent.  Local parks are small and discontinuous, and few institutional sites exist to anchor future population growth.  
 			</p>
 
 		</div>
 
 		<ImageSingle
 			imageURL="../web-assets/case-study/cooksville/cooksville-community-hub.jpg"
-			caption="Rendering of the planned Cooksville Community Hub, illustrating a vibrant community space."
-			source="<a href='https://www7.mississauga.ca/documents/committees/pdc/2016/06_27_16_-_PDC_Agenda_-_Evening_Session.pdf' target='_blank'>Photo by the City of Mississauga</a>."
+			caption="Rendering of the planned Cooksville Community Hub, which will be a vibrant space for all ages."
+			source="<a href='https://www7.mississauga.ca/documents/committees/pdc/2016/06_27_16_-_PDC_Agenda_-_Evening_Session.pdf' target='_blank'>City of Mississauga</a>."
 			maxWidth="680px"
 			link='No'
 		/>
@@ -339,7 +339,7 @@
 
 		<div class="text">	
 
-			<h1 id="Menu_4">
+			<h1>
 				Optimized scenario: Building for families, building for all 
 			</h1>
 
@@ -348,10 +348,10 @@
 			</p>
 			
 			<Recommendation style=1 count=1
-				title="Provide more 2- and 3- bedroom units"/>
+				title="Provide more two- and three-bedroom units"/>
 
 			<p>
-				The best way to include families in growth is to give them the space they need. Cramped spaces and an insufficient number of bedrooms are the most common concerns cited by both children and adults in high-rise dwellings.<Footnote id={addFootnote(fns[4])}/> In Mississauga, two-thirds of households are families, but most proposed new buildings allocate 70% of units as studios or 1-bedrooms. Units with two or more bedrooms allow more flexible space for families and multi-generational households.<Footnote id={addFootnote(fns[5])}/> 
+				The best way to include families in growth is to give them the space they need. Cramped spaces and an insufficient number of bedrooms are the most common concerns cited by both children and adults in high-rise dwellings.<Footnote id={addFootnote(fns[4])}/> In Mississauga, two-thirds of households are families, but most proposed new buildings allocate 70% of units as studios or one-bedrooms. Units with two or more bedrooms allow more flexible space for families and multi-generational households.<Footnote id={addFootnote(fns[5])}/> 
 			</p>
 		</div>
 
@@ -363,21 +363,21 @@
 		<div class="text">
 
 			<p>
-				Our research has shown that this way of building also lowers emissions because there are generally fewer kitchens and bathrooms in larger units, where they are shared by several people in the unit. This kind of floor plan also increases density within buildings and allows for a reduction in height. With shorter towers, more mid-rise buildings can be introduced to create active, human-scaled street fronts.  
+				<a href="https://schoolofcities.github.io/tod-canada/research/embodied-carbon" target="_blank">Our research has shown that this way of building also lowers emissions</a> because there are generally fewer kitchens and bathrooms in larger units, where they are shared by several people in the unit. More efficient floor plans increase density within buildings and allow for a reduction in height. With shorter towers, more mid-rise buildings can be introduced to create active, human-scaled street fronts.  
 			</p>
 
 			<p>
-				Mississauga has already taken steps to incentivize this kind of unit mix by eliminating municipal development charges for units with 3 or more bedrooms in purpose-built rental apartments.<Footnote id={addFootnote(fns[6])}/> This incentive could be expanded by similarly eliminating these charges at the regional level, or for all new buildings. Other countries, such as Ireland, go further and prescribe a mix of apartment sizes and bedroom numbers before new developments are approved.<Footnote id={addFootnote(fns[7])}/>
+				Mississauga has already taken steps to incentivize this kind of unit mix by eliminating municipal development charges for units with three or more bedrooms in purpose-built rental apartments.<Footnote id={addFootnote(fns[6])}/> This incentive could be expanded by similarly eliminating these charges at the regional level, or for all new buildings. Other countries, such as Ireland, go further and prescribe a mix of apartment sizes and bedroom numbers before new developments are approved.<Footnote id={addFootnote(fns[7])}/>
 			</p>
 
 			<Recommendation style=1 count=2
 							title="Adopt Canadian and global benchmarks for family-friendly living at the site level"/>
 			<p>
-				In addition to the number of bedrooms, spaces within units must be flexible. Some cities, including Toronto in its <i>Growing Up</i> guidelines for vertical communities, suggest having a recommended play space of 2 by 3 metres within units. Guidelines such as these make planning for larger households more concrete. 
+				In addition to the number of bedrooms, spaces within units must be flexible. Some cities, including Toronto in its <i>Growing Up</i> guidelines for vertical communities, suggest having a recommended play space of two by three metres within units. Guidelines such as these make planning for larger households more concrete. 
 			</p>
 
 			<p>
-				Safety and connection are also essential, with many studies citing windows and balconies as areas that can be improved with required safety mechanisms to make units more family- friendly.<Footnote id={addFootnote(fns[8])}/> Within buildings, ensuring that there are shared spaces, courtyards with play areas, and facilities that children can access – including elevator buttons at child level – encourages connection and independence. 
+				Safety and connection are also essential, with many studies citing windows and balconies as areas that can be improved with required safety mechanisms to make units more family-friendly.<Footnote id={addFootnote(fns[8])}/> Within buildings, ensuring that there are shared spaces, courtyards with play areas, and facilities that children can access – including elevator buttons at child level – encourages connection and independence. 
 			</p>
 
 			<p>
@@ -393,14 +393,14 @@
 		<ImageSingle 
 			imageURL="../web-assets/case-study/cooksville/copenhagen-playground.jpg" 
 			maxWidth="680px"
-			caption={"Playground and green space designed for safe, accessible play"}
+			caption={"Playgrounds and green spaces are important for safe, accessible play."}
 			source={"<a href='https://www.pexels.com/photo/modern-playground-in-copenhagen-urban-area-34770471/' target='_blank'>Photo by Hari Hofer</a>"}
 		/>
 
 		<div class="text">
 
 			<Recommendation style=1 count=3
-							title="Prioritize family-friendly retail and amenities in the surrounding area "/>
+							title="Prioritize family-friendly amenities in the surrounding area"/>
 			<p>
 				At the neighbourhood level, Canadian cities have long been leaders in setting guidelines for what services should be available nearby, from schools to transit stops to grocery stores.<Footnote id={addFootnote(fns[11])}/> Our optimized plan for Cooksville Station builds on this, integrating community theatres, youth centres, and libraries directly into new mixed-use blocks.  
 			</p>
@@ -414,12 +414,12 @@
 		<ImageSingle imageURL="../web-assets/case-study/cooksville/mixed-use-space.png"
 			caption="Mixed use public space, designed for all ages."
 			maxWidth="680px"
-			source="Photo by Infrastructure Institute (2025)."
+			source="Infrastructure Institute (2025)."
 		/>
 
 		<div class="text">
 
-			<h1 id="Menu_5">
+			<h1>
 				Addressing rising flood risk 
 			</h1>
 
@@ -460,24 +460,24 @@
 			</p>
 
 			<p>
-				By weaving this green infrastructure across sites, we can create daily spaces for social connection: new pathways, parks, and adaptive landscapes that guide future development. The more developers who adopt this strategy, the larger the green space network, amplifying benefits for the entire community. 
+				By weaving this green infrastructure across sites, we can create daily spaces for social connection: new pathways, parks, and adaptive landscapes that guide future development. The more developers who adopt this strategy, the larger the green space network, amplifying benefits for the entire community. 
 			</p>
 
 			<p>
-				Multi-benefit infrastructure like this can be more expensive upfront because it often features layered built and landscape improvements, and therefore involves the time and expertise of many people (such as engineers, ecologists, and architects).<Footnote id={addFootnote(fns[18])}/> 
-			</p>
-
-			<p>
-				But it can increase the appeal of the area, and neighbouring property values.<Footnote id={addFootnote(fns[19])}/> 
-			</p>
-
-			<p>
-				Cheonggyecheon Urban Park in South Korea combines public space with flood mitigation when needed, and has contributed significantly to the 30-50% increase in neighbouring land value.<Footnote id={addFootnote(fns[20])}/> Green stormwater improvements in Philadelphia have increased nearby home values by 10%, which also contributes to the city’s tax base.<Footnote id={addFootnote(fns[21])}/> 
+				Multi-benefit infrastructure like this can be more expensive upfront because it often features layered built and landscape improvements, and therefore involves the time and expertise of many people (such as engineers, ecologists, and architects).<Footnote id={addFootnote(fns[18])}/> But it can increase the appeal of the area, and neighbouring property values.<Footnote id={addFootnote(fns[19])}/> Cheonggyecheon Urban Park in South Korea combines public space with flood mitigation when needed, and has contributed significantly to the 30-50% increase in neighbouring land value.<Footnote id={addFootnote(fns[20])}/> Green stormwater improvements in Philadelphia have increased nearby home values by 10%, which also contributes to the city’s tax base.<Footnote id={addFootnote(fns[21])}/> 
 			</p>
 
 		</div>
+		
+		<ImageMultiples
+			images={[{url: "../web-assets/case-study/cooksville/seoul-river.jpg"},
+					{url: "../web-assets/case-study/cooksville/cheonggyecheon.jpg"}]}
+			mainSource={"Photos by <a href='https://commons.wikimedia.org/wiki/File:Cheonggeyechon_River_in_Seoul.jpg' target='_blank'>Ken Eckert</a> and <a href='https://commons.wikimedia.org/wiki/File:20240602_175752_Cheonggyecheon_06.jpg' target='_blank'>Dwxn</a>."}
+			mainCaption={"When Cheonggeyechon River is low, pedestrians can enjoy walking through the flood infrastructure in-between busier main streets."}
+			maxWidth=1080
+		/>
 
-		<ImageSingle
+		<!-- <ImageSingle
 			imageURL={"../web-assets/case-study/cooksville/seoul-river.jpg"}
 			caption="When Cheonggeyechon River is low, pedestrians can enjoy walking through the flood infrastructure in-between busier main streets."
 			source="<a href='https://commons.wikimedia.org/wiki/File:Cheonggeyechon_River_in_Seoul.jpg' target='_blank'>Photo by Ken Eckert</a>"
@@ -491,7 +491,7 @@
 			source="<a href='https://commons.wikimedia.org/wiki/File:20240602_175752_Cheonggyecheon_06.jpg' target='_blank'>Photo by Dwxn</a>"
 			maxWidth="680px"
 			link='No'
-		/>
+		/> -->
 
 		<div class="text">
 
@@ -510,7 +510,7 @@
 
 		<ImageSingle
 			imageURL={"../web-assets/case-study/cooksville/saigon-park.jpg"}
-			caption="Lake Saigon stormwater management pond."
+			caption="The City of Mississauga built the Lake Saigon stormwater management pond to mitigate flood impacts."
 			source="<a href='https://www.mississauga.ca/wp-content/uploads/2024/08/19124804/Siagon-Park-Social-Post-1-scaled.jpg' target='_blank'>Photo by the City of Mississauga.</a>"
 			maxWidth="680px"
 			link='No'
@@ -529,7 +529,7 @@
 
 		<ImageSingle
 			imageURL={"../web-assets/case-study/cooksville/cooksville-aerial.jpg"}
-			caption="Aerial view of Cooksville showing family homes."
+			caption="Cooksville contains a mix of built forms and families."
 			source="<a href='https://commons.wikimedia.org/wiki/File:Aerial_view_of_Cooksville_2022.jpg' target='_blank'>Photo by Canmenwalker.</a>"
 			maxWidth="680px"
 			link='No'
@@ -542,16 +542,16 @@
 			</p>
 
 			<p>
-				Green and social infrastructure can come together here in a win-win for the community, with vibrant local shops and public facilities woven into a landscape where green corridors double as flood protection and public parks. By treating housing, amenities, and water as one integrated system, the plan shifts from managing constraints to building a complete, resilient, and connected Cooksville.  
+				Green and social infrastructure can come together here in a win-win for the community, with vibrant local shops and public facilities woven into a landscape where green corridors double as flood protection and public parks. By treating housing, amenities, and water as one integrated system, the plan shifts from managing constraints to building a complete, resilient, and connected Cooksville.  
 			</p>
 			
 
 		</div>
 
 			<ImageSingle imageURL="../web-assets/case-study/cooksville/green-infrastructure.png"
-				caption="Green infrastructure with art gallery in the back."
+				caption="Green infrastructure and cultural amenities can come together to create a vibrant community in Cooksville."
 				maxWidth="680px"
-				source="Photo by Infrastructure Institute (2025)."
+				source="Rendering by Infrastructure Institute (2025)."
 				link='No'
 			/>
 
