@@ -181,9 +181,9 @@
 
 			<!-- <h1 id="Menu_2">Why this matters </h1> -->
 			
-			<h2 id="Menu_2">
+			<h1 id="Menu_2">
 				Neighbourhood overview 
-			</h2>
+			</h1>
 			<p>
 				Kitchener-Waterloo is the smallest municipality in North America to have higher-level rail transit. The ION LRT line, which opened in 2019, is part of a long-standing regional strategy of re-urbanization to limit sprawl and preserve surrounding agricultural lands.  
 			</p>

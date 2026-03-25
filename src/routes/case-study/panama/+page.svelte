@@ -58,7 +58,7 @@
 
 	const credits = [
 		{ role:"Research and writing", names:"Sarah Chan, Kathryn Exon Smith, Anika Reisha Taboy"},
-		{ role:"Architectural renderings", names:"Daniel Lam, Phat Le"},
+		{ role:"Concept design development", names:"Daniel Lam, Phat Le"},
 		{ role:"Maps and data visualization", names:"Isabeaux Graham, Jeff Allen"},
 		{ role:"Web development", names:"Mieko Yao, Jeff Allen"},
 		{ role:"Additional contributors", names:"An Pham, Carrie Zeng"}
@@ -128,7 +128,7 @@
 <!-- <svelte:window on:scroll={handleScroll} /> -->
 
 <main>
-	<Password correctPassword="meowmeowcat"></Password>
+	<!-- <Password correctPassword="meowmeowcat"></Password> -->
 	<!-- Full page title example -->
 	<div class="wrapper">
 		<!-- Top stays visually on top -->
@@ -136,7 +136,7 @@
 			<TitlePage
 				title="Panama Station"
 				type="Case Study"
-				location="Brossard, QC"
+				location="Brossard, Quebec"
 				subtitle="How can strategic development, civic infrastructure investment, and inclusive planning transform a suburban terminal into a vibrant transit-oriented community?"
 				bgType="Image"
 				url={topImage}
@@ -156,8 +156,7 @@
 			colour={arrowColour}></ScrollAnimate>
 
 		<HamburgerMenu
-		iconColour={arrowColour}
-		contents={data.menuItems}/>
+		iconColour={arrowColour}/>
 
 		<!-- Bottom is underneath, scrolls normally -->
 		<div class="bottom" id="before-text">
@@ -189,10 +188,10 @@
 		
 		<CaseStudyNote/>
 
-		<h2 id="Menu_2">Neighbourhood overview   </h2>
+		<h1 id="Menu_2">Neighbourhood overview</h1>
 
 		<p>
-			Located on Montreal’s south shore, Brossard is a fast-growing suburban community of nearly 100,000 residents. Its Panama Station has long had a bus connection to Montreal, but the opening of the Réseau express métropolitain (REM) rail link in 2023 was transformative. In a region choked by congestion, the REM is a $7-billion investment in mobility, which presents an opportunity to accommodate growth where it makes the most sense: near frequent, rapid transit. Just 15 minutes from Montreal, Panama Station is at the centre of an ambitious plan advanced by the City to create a new downtown for Brossard, a landmark destination with abundant housing, green space, and amenities.<Footnote id={addFootnote(fns[0])}/>
+			Located on Montreal’s South Shore, Brossard is a fast-growing suburban community of nearly 100,000 residents. Its Panama Station has long had a bus connection to Montreal, but the opening of the Réseau express métropolitain (REM) rail link in 2023 was transformative. In a region choked by congestion, the REM is a $7-billion investment in mobility, which presents an opportunity to accommodate growth where it makes the most sense: near frequent, rapid transit. Just 15 minutes from Montreal, Panama Station is at the centre of an ambitious plan advanced by the City to create a new downtown for Brossard, a landmark destination with abundant housing, green space, and amenities.<Footnote id={addFootnote(fns[0])}/>
 		</p>
 
 	</div>
@@ -205,13 +204,13 @@
 	<div class="text">
 
 		<p>	
-			Today, the lands immediately adjacent to Panama Station are parking lots and underused commercial sites, with an established, low-density residential community on the periphery. These are mainly single-detached homes and some low-rise apartments, with nearly 85% built before 1990. Nearly 40% of residents are renters, a much higher rate than in the rest of the city, and the median household income is modest at $64,000.  
+			Today, the lands immediately adjacent to Panama Station are parking lots and underused commercial sites, with an established, low-density residential community on the periphery. These are mainly single-detached homes and some low-rise apartments, with nearly 85% built before 1990. Nearly 40% of residents are renters, a much higher rate than in the rest of the city, and the <a href="https://measuringmainstreets.ca/transit-map" target="_blank">median household income is modest at $64,000</a>.  
 		</p>
 		<p>
 			Two provincial highways – Autoroute 10 and Boulevard Taschereau – bisect the site, cutting the different parts of the area off from each other. A cluster of office towers and an aging shopping mall sit on the northern edge of the station area, separated by more space for parking. Over 70% of commuters drive. 
 		</p>
 		<p>
-			Brossard is a landing point for new Canadians, and the station area’s 5,300 residents are diverse: nearly half are immigrants and 60% are visible minorities. Many families live in the area, as well as a significant population of seniors. While the area has some of the elements that make a complete community – schools, grocery stores, and health care – access is generally low, and the area will need significant investment in both physical and social infrastructure to keep pace with growth. 
+			Brossard is a landing point for new Canadians, and the station area’s 5,300 residents are diverse: nearly half are immigrants and 60% are visible minorities. Many families live in the area, as well as a significant population of seniors. While the area has some of the elements that make a complete community – schools, grocery stores, and health care – <a href="https://measuringmainstreets.ca/tools/complete-communities" target="_blank">access is generally low</a>, and the area will need significant investment in both physical and social infrastructure to keep pace with growth. 
 		</p>
 
 	</div>
@@ -238,7 +237,7 @@
 		</p>
 
 		<h1 id="Menu_3">
-			Panama’s current trajectory  
+			Panama’s current trajectory  
 		</h1>
 
 		<p>
@@ -270,14 +269,14 @@
 
 	<div class="text">
 		<p>
-			Boulevard Taschereau, a major South Shore route connecting Brossard with neighbouring Longueil, runs through the station area and is at the centre of this infrastructure redevelopment. A $500-million redevelopment plan envisions this corridor also developed with TOD principles, including a focus on mid-rise density and a BRT route that links Panama Station with the metro in Longueil.<Footnote id={addFootnote(fns[3])}/>  To build out this infrastructure, the two cities will partner with the Province of Quebec and regional transit service.
+			Boulevard Taschereau, a major South Shore route connecting Brossard with neighbouring Longueuil, runs through the station area and is at the centre of this infrastructure redevelopment. A $500-million redevelopment plan envisions this corridor also developed with TOD principles, including a focus on mid-rise density and a BRT route that links Panama Station with the metro in Longueuil.<Footnote id={addFootnote(fns[3])}/>  To build out this infrastructure, the two cities will partner with the Province of Quebec and regional transit service.
 		</p>
 	</div>	
 	
 	<ImageSingle
 		imageURL={"../web-assets/case-study/panama/boulevard_taschereau.jpg"}
 		source={"<a href='https://brossard.ca/grands-projets-et-chantiers/revitalisation-du-boulevard-taschereau-2/' target='_blank'>Ville de Brossard, 2025</a>."}
-		caption={"BoulevardTascherau's ongoing residential and commercial revitalization will add density and priority bus lanes."}
+		caption={"Boulevard Tascherau's ongoing residential and commercial revitalization will add density and priority bus lanes."}
 		maxWidth="1080px"
 		link='No'
 	/>
@@ -327,10 +326,10 @@
 
 	<div class="text">
 		<p>
-			Yet these decisions will involve trade-offs. Some larger parcels will not achieve maximum density build out, which may discourage investment and slow the pace of development, and which also lowers potential tax revenues from new residences.<Footnote id={addFootnote(fns[8])}/> Development charges to pay for parks and public spaces and the standard REM taxes levied next to stations also add to the cost of construction in a slowing market. The risk is that development stalls, never achieves its full potential, or is hampered by delays from speculation. The optimized scenario explores how to encourage early investment to create a vibrant and inclusive community.  
+			Yet these decisions will involve trade-offs. Some larger parcels will not achieve maximum density build out, which may discourage investment and slow the pace of development, and which also lowers potential tax revenues from new residences.<Footnote id={addFootnote(fns[8])}/> Development charges to pay for parks and public spaces and the standard REM taxes levied next to stations also add to the cost of construction in a slowing market. The risk is that development stalls, never achieves its full potential, or is hampered by delays from speculation. The optimized scenario explores how to encourage early investment and prioritize social infrastructure to create a vibrant and inclusive community.  
 		</p>
 
-		<Recommendation count=1 title="Revisit what optimal density means for this site over time"/>
+		<Recommendation count=1 title="Revisit over time what level of density will support retail and amenities"/>
 
 		<p>
 			The City’s plan recognizes the existing suburban nature and infrastructure capacity of the community and that most <i>brossardois</i> come to the area seeking low- to mid-rise density. The vision it presents respects these preferences while still offering a significant step up from the density levels of a typical North American city. The plan models a polycentric European model, similar to Paris and Barcelona, which is characterized by compact mid-rise blocks instead of dense centres that sprawl outward.<Footnote id={addFootnote(fns[9])}/>  While there is no formula for optimal density, cities must balance proximity to retail and services with the need for a sufficient population to ensure these amenities remain economically viable.<Footnote id={addFootnote(fns[10])}/> 
@@ -347,7 +346,7 @@
 	
 	<div class="text">
 		<p>
-			In terms of retail, the plan calls for significant space dedicated to local stores along shopping esplanades. Yet these may struggle to compete with Brossard’s existing retail environment, especially with the Champlain mall within the plan area, and Canada’s largest outdoor shopping centre, the 3-million-square-foot Quartier DIX30, located just four kilometres (one REM stop) away. The amount of space dedicated to retail may need to be reduced to avoid vacant spaces.<Footnote id={addFootnote(fns[11])}/>  Zoning and floor plate sizes may need to be adjusted to accommodate anchor tenants, including retail, government, or institutional, which can encourage further development.<Footnote id={addFootnote(fns[12])}/> 
+			In terms of retail, the plan calls for significant space dedicated to local stores along shopping esplanades. Yet these may struggle to compete with Brossard’s existing retail environment, especially with the Champlain mall within the plan area, and Canada’s largest outdoor shopping centre, the 3-million-square-foot Quartier DIX30, located just four kilometres (one REM stop) away. The amount of space dedicated to retail may need to be reduced to avoid vacant spaces.<Footnote id={addFootnote(fns[11])}/>  Zoning and floor plate sizes may need to be adjusted to accommodate anchor tenants, including retail, government, or institutions which can encourage further development.<Footnote id={addFootnote(fns[12])}/> 
 		</p>
 
 		<Recommendation count=2 title="Invest in major infrastructure and civic spaces to spur early development"/>
