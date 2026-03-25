@@ -7,6 +7,7 @@
 
     export let images = [
         { 
+            svg1080: "",
             svg720: "",
             svg360: "",
             caption: "",
@@ -43,11 +44,18 @@
   
 	async function handleVisibility() {
 		width = window.innerWidth;
-		svgWidth = (width >= 720) ? 720 : 360;
+		svgWidth = (width >= 1080) ? 1080 : ((width >= 720) ? 720 : 360);
 
         const updated = await Promise.all(images.map(async (image) => {
-			const path = (width >= 720) ? image.svg720 : image.svg360;
+			// assign the correct svg path IF it exists, then default to next biggest, then fallback to any bigger ones
+			const path = (svgWidth >= 1080)
+				? (image.svg1080 || image.svg720 || image.svg360)
+				: (svgWidth >= 720)
+					? (image.svg720 || image.svg360 || image.svg1080)
+					: (image.svg360 || image.svg720 || image.svg1080);
+			
 			if (!path) return image;
+
 			const inputSVG = await loadSVG(path);
 			return { ...image, inputSVG };  // new object, not a mutation
 		}));
