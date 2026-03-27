@@ -125,7 +125,7 @@
 <!-- <svelte:window on:scroll={handleScroll} /> -->
 
 <main>
-	<Password correctPassword="meowmeowcat"></Password>
+	<!-- <Password correctPassword="meowmeowcat"></Password> -->
 	<!-- Full page title example -->
 	<div class="wrapper">
 		<!-- Top stays visually on top -->
@@ -255,7 +255,7 @@
 		</p>
 
 		<p>
-			In theory, building on single-family lots aligns with best practices for mature neighbourhoods: this retention-based infill is one way to maintain neighbourhood character, support affordability, and reduce displacement.[4] In Edmonton’s case, however, the cumulative pace and scale of change has left some existing residents feeling overwhelmed and frustrated, which has created political controversy and opposition. As is common during times of change, some residents have voiced concerns around building scale, design compatibility, reduction of tree canopy, an influx of private vehicles, and influence on property values.   
+			In theory, building on single-family lots aligns with best practices for mature neighbourhoods: this retention-based infill is one way to maintain neighbourhood character, support affordability, and reduce displacement.<Footnote id={addFootnote(fns[3])}/> In Edmonton’s case, however, the cumulative pace and scale of change has left some existing residents feeling overwhelmed and frustrated, which has created political controversy and opposition. As is common during times of change, some residents have voiced concerns around building scale, design compatibility, reduction of tree canopy, an influx of private vehicles, and influence on property values.   
 		</p>
 
 		<p>

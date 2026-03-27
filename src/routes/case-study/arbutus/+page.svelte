@@ -130,7 +130,7 @@
 <!-- <svelte:window on:scroll={handleScroll} /> -->
 
 <main>
-	<Password correctPassword="meowmeowcat"></Password>
+	<!-- <Password correctPassword="meowmeowcat"></Password> -->
 	<!-- Full page title example -->
 	<div class="wrapper">
 		<!-- Top stays visually on top -->
@@ -427,7 +427,7 @@
 		</p>
 
 		<p>
-			Concentrating the greatest density closest to the station strengthens transit-oriented outcomes. Locating more residents and jobs within walking distance of rapid transit improves access to daily services, supports higher ridership, and enables more people to live and work near high-capacity transit. 
+			Concentrating the greatest density closest to the station <a href="../research/transportation-equity" target="_blank">strengthens transit-oriented outcomes</a>. Locating more residents and jobs within walking distance of rapid transit improves access to daily services, supports higher ridership, and enables more people to live and work near high-capacity transit. 
 		</p>
 
 		<Recommendation style=1 count=2

@@ -119,7 +119,7 @@
 <!-- <svelte:window on:scroll={handleScroll} /> -->
 
 <main>
-	<Password correctPassword="meowmeowcat"></Password>
+	<!-- <Password correctPassword="meowmeowcat"></Password> -->
 	<!-- Full page title example -->
 	<div class="wrapper">
 		<!-- Top stays visually on top -->
@@ -296,11 +296,11 @@
 		</div>
 
 		<ImageCompare
-			imageURL1="../web-assets/case-study/northfield/current-trajectory.png"
+			imageURL1="../web-assets/case-study/northfield/current-trajectory-station.png"
 			caption1=""
 			source1=""
 			buttonLabel1="Current trajectory"
-			imageURL2="../web-assets/case-study/northfield/optimized-scenario.png"
+			imageURL2="../web-assets/case-study/northfield/optimized-scenario-station.png"
 			caption2=""
 			source2=""
 			buttonLabel2="Optimized scenario"
