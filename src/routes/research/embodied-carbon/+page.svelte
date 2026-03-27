@@ -15,6 +15,7 @@
 	import Password from '$lib/Password.svelte';
 	import Recommendation from '$lib/Recommendation.svelte';
 	import LogoBody from '$lib/LogoBody.svelte';
+	import HamburgerMenu from '$lib/HamburgerMenu.svelte';
 
 	import GraphicCompare from '$lib/GraphicCompare.svelte';
 	
@@ -112,6 +113,8 @@
 		logoType = 'White';
 	/>
 
+	<HamburgerMenu pageType="research"/>
+
 	<div class="caption-container" style="padding-left: 10px; overflow: hidden; margin-top: -5px; opacity: 0.65; max-width: 320px;">
 		<p>
 			<span class="caption-source">Video source: Storyblocks</span>
@@ -168,9 +171,7 @@
 				We illustrated the influence of <strong>family size</strong> (number of people living together) on the results through a sensitivity analysis of embodied GHG per capita by average unit occupancy of newly built units. 
 			</li>
 		</ul>
-		<p>
-			Click here for a more detailed discussion of the methodology. 
-		</p>
+		
 	</div>
 
 	<GraphicSingle
@@ -179,6 +180,10 @@
 	/>
 
 	<div class="text">
+
+		<p>
+			<a href="../web-assets/research/embodied-carbon/Embodied Greenhouse Gas Emissions - Full Methodology and Findings.pdf" target="_blank">Click here for a more detailed discussion of the methodology.</a> 
+		</p>
 
 		<h1>What we found</h1>
 

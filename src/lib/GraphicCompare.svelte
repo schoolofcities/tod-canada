@@ -7,6 +7,7 @@
 
     export let images = [
         { 
+            svg1080: "",
             svg720: "",
             svg360: "",
             caption: "",
@@ -20,8 +21,7 @@
 	export let maxWidth = '';
 	export let link = 'Yes'; // Yes or No
 	export let maxCaptionWidth = '680px';
-
-	let active = 0;
+	export let active = 0; // Index (starting from 0) of selected image
     
 	let svgWidth = 0;
 	let container;
@@ -44,11 +44,18 @@
   
 	async function handleVisibility() {
 		width = window.innerWidth;
-		svgWidth = (width >= 720) ? 720 : 360;
+		svgWidth = (width >= 1080) ? 1080 : ((width >= 720) ? 720 : 360);
 
         const updated = await Promise.all(images.map(async (image) => {
-			const path = (width >= 720) ? image.svg720 : image.svg360;
+			// assign the correct svg path IF it exists, then default to next biggest, then fallback to any bigger ones
+			const path = (svgWidth >= 1080)
+				? (image.svg1080 || image.svg720 || image.svg360)
+				: (svgWidth >= 720)
+					? (image.svg720 || image.svg360 || image.svg1080)
+					: (image.svg360 || image.svg720 || image.svg1080);
+			
 			if (!path) return image;
+
 			const inputSVG = await loadSVG(path);
 			return { ...image, inputSVG };  // new object, not a mutation
 		}));
@@ -58,6 +65,16 @@
   
 
 	onMount(() => {
+        let r = document.querySelector(':root');
+
+		let maxLabel = 0;
+		images.forEach((image) => {
+			if (image.buttonLabel.length > maxLabel) maxLabel = image.buttonLabel.length;
+		})
+		console.log(maxLabel)
+        
+        r.style.setProperty('--dropdownWidth', `${(maxLabel * 10) + 40}px`);
+
   		window.addEventListener("resize", handleVisibility);
   		handleVisibility();
 		return () => {
@@ -70,7 +87,7 @@
 	class="img-container"
 	style="max-width: {maxWidth};"
 >
-    {#if images.length < 6 && width > 500}
+    {#if images.length < 6 && width > 600}
         <div class="toggle-buttons">
             {#each images as image, index}
                 <button
@@ -82,25 +99,19 @@
             {/each}
         </div>
     {:else}
-        <Select class="case-study-select" 
-        name="case-study-select" 
-        items={images.map((image, index) => ({value: index, label: image.buttonLabel}))}
-        on:change={(e) => active = e.detail.value}
-		value={{ value: 0, label: images[0].buttonLabel }}
-        searchable={false}
-        clearable={false}
-        containerStyles="font-family: InterRegular !important;"
-            showChevron />
-
-    {/if}
-
-	<!-- {#key active}
-		<div class="img-container image-layer"
-				style="--svg-width: {svgWidth}px;"
-				transition:fade={{duration: 400}}>
-			{@html images[active]?.inputSVG}
+		<div class="select-theme">
+			<Select class="case-study-select"
+			name="case-study-select" 
+			inputStyles="font-weight: 600;"
+			items={images.map((image, index) => ({value: index, label: image.buttonLabel}))}
+			on:change={(e) => active = e.detail.value}
+			value={{ value: active, label: images[active].buttonLabel }}
+			searchable={false}
+			clearable={false}
+			containerStyles="font-family: InterRegular !important;"
+				showChevron />
 		</div>
-	{/key} -->
+    {/if}
 		
 	<div class="image-stack" style="height: {stackHeight}px;">
 		{#each images as image, index}
@@ -145,6 +156,7 @@
 	button {
 		font-family: InterRegular;
 		background: none;
+		color: var(--brandGray50);
 		border: 1px solid #ccc;
 		padding: 6px 12px;
 		cursor: pointer;
@@ -152,7 +164,9 @@
 	}
 
 	button.active {
-		border-color: #000;
+		border-color: black;
+		color: black;
+		/* background-color: #faf9f8; */
 		font-weight: 600;
 	}
 
@@ -168,34 +182,53 @@
 		width: 100%;
 	}
 
+    .select-theme {
+        --item-is-active-bg: var(--brandGray); 
+		--item-is-active-color: var(--brandBlack); 
+        --item-hover-bg: #ECECE5;
+		--group-title-font-weight: 900;
+        --list-max-height: 600px;
+		--item-first-border-radius: 0;
+        --list-border-radius: 0;
+		--border-radius: 0;
+    }
+
+	:global(.svelte-select) {
+		cursor: pointer !important; 
+	}
+
+	:global(.svelte-select input) {
+		cursor: pointer !important; 
+	}
+
     :global(.case-study-select) {
         font-family: Inter !important;
         font-size: 14px !important;
         border-radius: 0 !important;
         border-color: #000 !important;
-        background-color: #ffffff !important;
         margin-bottom: 1rem !important;
-        width: 210px !important;
+		width: var(--dropdownWidth) !important;
+		max-width: 360px !important;
         text-align: left;
     }
 
-	:global(.svelte-select:hover) {
-        border-color: #000 !important;
-	}
-
-	:global(.svelte-select-list) {
-        border-radius: 0 !important;
-	}
-
-
-	:global(.list-item.hover) {
-        background-color: var(--brandGray) !important;
-	}
-
-
 	:global(.selected-item) {
 		font-size: 14px !important;
+		font-weight: 600;
 	}
+
+	:global(.list-item) {
+		border: 1px solid #ccc;
+		border-bottom: none;
+	}
+
+	:global(.item) {
+		cursor: pointer !important; 
+	}
+
+	/* :global(.item.active) {
+		font-weight: 600;
+	} */
 
 	a {
 		display: block;

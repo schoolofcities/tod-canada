@@ -1395,6 +1395,30 @@
          transform="matrix(1.3333333,0,0,-1.3333333,0,853.33333)"
          id="path215" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath122-9">
+      <path
+         d="M 0,640 H 360 V 0 H 0 Z"
+         transform="matrix(1.3333333,0,0,-1.3333333,0,853.33333)"
+         id="path122-7" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath121-3">
+      <path
+         d="m 236.019,514.316 h 33.142 v -15.583 h -33.142 z"
+         transform="matrix(1.3333333,0,0,-1.3333333,0,853.33333)"
+         id="path121-6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath120-1">
+      <path
+         d="m 236.019,514.316 h 33.142 v -15.583 h -33.142 z"
+         transform="matrix(1,0,0,-1,-236.02,503.08791)"
+         id="path120-2" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="namedview1"
@@ -1405,15 +1429,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.92695314"
-     inkscape:cx="240.03371"
-     inkscape:cy="599.27517"
+     inkscape:zoom="1.8539063"
+     inkscape:cx="192.83607"
+     inkscape:cy="149.95364"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer-MC0">
+     inkscape:current-layer="g148">
     <inkscape:page
        x="0"
        y="0"
@@ -1431,7 +1455,8 @@
     <path
        id="path1"
        d="M 0,640.00002 H 360 V 2e-5 H 0 Z"
-       style="fill:#faf9f8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+       style="fill:#faf9f8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+       sodipodi:nodetypes="ccccc" />
     <g
        opacity="0.220001"
        id="g3"
@@ -2108,6 +2133,27 @@
       </g>
     </g>
     <g
+       id="g122-1"
+       clip-path="url(#clipPath122-9)"
+       transform="matrix(0.75000002,0,0,0.75000002,4.379595,30.974041)"
+       style="stroke-width:1.33333">
+      <g
+         clip-path="url(#clipPath121-3)"
+         id="g121-9"
+         style="stroke-width:1.33333">
+        <text
+           xml:space="preserve"
+           transform="matrix(1.3333333,0,0,1.3333333,314.69333,182.54947)"
+           clip-path="url(#clipPath120-1)"
+           id="text121-4"
+           style="stroke-width:1.33333"><tspan
+             style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:13px;font-family:'Inter 24pt';writing-mode:lr-tb;fill:#017ea3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+             x="0"
+             y="0"
+             id="tspan121-7">1.45</tspan></text>
+      </g>
+    </g>
+    <g
        id="g125"
        clip-path="url(#clipPath125)"
        transform="matrix(0.75000002,0,0,0.75000002,0,4.4999997e-6)"
@@ -2261,28 +2307,6 @@
       </g>
     </g>
     <g
-       id="g146"
-       clip-path="url(#clipPath146)"
-       transform="matrix(0.75000002,0,0,0.75000002,0,4.4999997e-6)"
-       style="stroke-width:1.33333">
-      <g
-         clip-path="url(#clipPath145)"
-         id="g145"
-         style="stroke-width:1.33333">
-        <text
-           xml:space="preserve"
-           transform="matrix(1.3333333,0,0,1.3333333,324.00387,223.3216)"
-           clip-path="url(#clipPath144)"
-           id="text145"
-           style="stroke-width:1.33333"><tspan
-             style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:13px;font-family:'Inter 24pt';writing-mode:lr-tb;fill:#017ea3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
-             x="0"
-             dx="0 0 -0.377"
-             y="0"
-             id="tspan145">1.6</tspan></text>
-      </g>
-    </g>
-    <g
        id="g149"
        clip-path="url(#clipPath149)"
        transform="matrix(0.75000002,0,0,0.75000002,0,4.4999997e-6)"
@@ -2299,9 +2323,9 @@
            style="stroke-width:1.33333"><tspan
              style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:13px;font-family:'Inter 24pt';writing-mode:lr-tb;fill:#00a189;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
              x="0"
-             dx="0 0 -0.377"
+             dx="0 0"
              y="0"
-             id="tspan148">1.6</tspan></text>
+             id="tspan148">1.9</tspan></text>
       </g>
     </g>
     <g

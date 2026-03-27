@@ -366,7 +366,7 @@ em {
 }
 
 .text strong {
-	font-family: InterBold;
+	font-family: GelasioBold;
 	/* border-bottom: solid 3px black; */
 	padding-bottom: 1px;
 	font-weight: normal;
@@ -545,8 +545,8 @@ li {
 	text-align: left;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	font-size: 18px;
-	line-height: 28px;
+	font-size: 19px;
+	line-height: 33px;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	text-rendering: optimizeLegibility;
@@ -565,6 +565,10 @@ li {
 		padding-right: 20px;
 	}
 	.callout p {
+		font-size: 15px;
+		line-height: 23px;
+	}
+	.callout li {
 		font-size: 15px;
 		line-height: 23px;
 	}

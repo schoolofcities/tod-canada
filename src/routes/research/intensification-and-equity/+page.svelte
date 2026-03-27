@@ -12,6 +12,7 @@
 	import ScrollyImages from "$lib/ScrollyImages.svelte";
 	import LineBreakMiniTransitMap from '$lib/LineBreakMiniTransitMap.svelte';
 	import Password from '$lib/Password.svelte';
+	import HamburgerMenu from '$lib/HamburgerMenu.svelte';
 	
 	import GraphicCompare from '$lib/GraphicCompare.svelte';
 	import LogoBody from '$lib/LogoBody.svelte';
@@ -90,6 +91,8 @@
 		logoType = 'White';
 	/>
 
+	<HamburgerMenu pageType="research"/>
+
 	<div class="caption-container" style="padding-left: 10px; overflow: hidden; margin-top: -5px; opacity: 0.65; max-width: 320px;">
 		<p>
 			<span class="caption-source">Video source: Storyblocks</span>
@@ -167,7 +170,7 @@
 		</p>
 
 		<p>
-			Click here for a more detailed discussion of the methodology. 
+			<a href="../web-assets/research/intensification-and-equity/Intensification and Neighbourhood Change - Full Methodology and Findings.pdf" target="_blank">Click here for a more detailed discussion of the methodology.</a> 
 		</p>
 
 		<h1>

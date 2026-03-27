@@ -19,6 +19,7 @@
 	},
 	"dependencies": {
 		"marked": "^17.0.1",
+		"mathlifier": "^3.5.1",
 		"papaparse": "^5.5.3",
 		"svelte-floating-ui": "^1.6.2",
 		"svelte-select": "^5.8.3"

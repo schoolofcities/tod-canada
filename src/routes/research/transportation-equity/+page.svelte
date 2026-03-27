@@ -15,6 +15,7 @@
 	import Password from '$lib/Password.svelte';
 	import Recommendation from '$lib/Recommendation.svelte';
 	import LogoBody from '$lib/LogoBody.svelte';
+	import HamburgerMenu from '$lib/HamburgerMenu.svelte';
 	
 	import BoilerPlate from '$lib/BoilerPlate.svelte';
 	import Footnote from '$lib/Footnote.svelte';
@@ -103,6 +104,8 @@
 		logoType = 'White';
 		backgroundColour = "black"
 	/>
+	
+	<HamburgerMenu pageType="research"/>
 
 	<div class="caption-container" style="padding-left: 10px; overflow: hidden; margin-top: -5px; opacity: 0.65; max-width: 320px;">
 		<p>
@@ -177,7 +180,7 @@
 		</ul>
 
 		<p>
-			Click here for a more detailed discussion of the methodology. 
+			<a href="../web-assets/research/transportation-equity/Transportation Equity - Full Methodology and Findings.pdf" target="_blank">Click here for a more detailed discussion of the methodology.</a> 
 		</p>
 
 	</div>
@@ -274,7 +277,7 @@
 		</p>
 
 		<p>
-			See the full analysis here. 
+			<a href="../web-assets/research/transportation-equity/Transportation Equity - Full Methodology and Findings.pdf" target="_blank">See the full analysis here.</a> 
 		</p>
 
 		<h1>
@@ -289,7 +292,7 @@
 			The findings point to a clear distinction between where large mode share gains are achievable and how progress can be made across different station types. In larger station areas, sustainable mode share is largely shaped by regional connectivity and transit network capacity, meaning that substantial gains depend on transportation investment as much as land use. In smaller areas, where regional accessibility is more constrained, the most impactful changes occur through relative mode shifts driven by land use mixing, shorter travel distances, and internal trips produced and fulfilled through new development.  
 		</p>
 
-		<div class="quote">
+		<div class="quote" style="margin-top: 80px; margin-bottom: 80px;">
 			<p>
 				Mixed-use development provides important benefits across all station areas, but concentrating employment uses near transit can maximize transportation accessibility outcomes. 
 			</p>

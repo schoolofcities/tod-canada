@@ -34,24 +34,24 @@
 
 	const credits = [
 		{ role:"Research and writing", names:"Sarah Chan, Kathryn Exon Smith, Anika Reisha Taboy"},
-		{ role:"Architectural renderings", names:"Daniel Lam, Phat Le"},
+		{ role:"Concept design development", names:"Daniel Lam, Phat Le"},
 		{ role:"Maps and data visualization", names:"Isabeaux Graham, Jeff Allen"},
 		{ role:"Web development", names:"Mieko Yao, Jeff Allen"},
-		{ role:"Additional contributors", names:"An Pham, Carrie Zeng"}
+		{ role:"Additional contributors", names:"An Pham, Carrie Zeng, Alexandra Lambropoulos"}
 	]
 
 	const fns = [
-		'Steve Kling et al., <i>Preserving the largest and most at-risk supply of affordable housing</i> (McKinsey & Company, 2021), <a href="https://view.ckcest.cn/AllFiles/ZKBG/Pages/169/d51c82253c953b45ade45b3ef95c8e52e7480d0e.pdf" target="_blank">URL</a>',
+		'Steve Kling et al., <i>Preserving the largest and most at-risk supply of affordable housing</i> (McKinsey & Company, 2021), <a href="https://www.mckinsey.com/industries/public-sector/our-insights/preserving-the-largest-and-most-at-risk-supply-of-affordable-housing target="_blank">URL</a>',
 		'City of Vancouver, <i>Tenant Relocation and Protection Policy (TRPP)</i> (2025), <a href="https://vancouver.ca/people-programs/protecting-tenants.aspx" target="_blank">URL</a>; City of Vancouver, <i>Do you know what your renters’ rights are?</i> (2022), <a href="https://vancouver.ca/files/cov/renters-rights-info-sheet.pdf" target="_blank">URL</a>',
-		'City of Vancouver, <i>Tenant Relocation and Protection Policy (TRPP)</i> (2025), <a href="https://vancouver.ca/people-programs/protecting-tenants.aspx" target="_blank">URL</a>',
-		'City of Vancouver, <i>What you need to know about updates to the Broadway Plan</i> (2024), <a href="https://vancouver.ca/files/cov/broadway-plan-2024-factsheet.pdf" target="_blank">URL</a>;',
+		'City of Vancouver, <i>Tenant Relocation and Protection Policy Best Practices Guide</i> (2023), <a href="https://vancouver.ca/files/cov/trpp-best-practices-guide.pdf" target="_blank">URL</a>',
+		'City of Vancouver, <i>What you need to know about updates to the Broadway Plan</i> (2024), <a href="https://vancouver.ca/files/cov/broadway-plan-2024-factsheet.pdf" target="_blank">URL</a>',
 		'Broadway Subway Project, “Businesses,” accessed February 23, 2026, <a href="https://www.broadwaysubway.ca/construction/businesses/" target="_blank">URL</a>; City of Vancouver, “Support Broadway Businesses,” accessed February 23, 2026, <a href="https://vancouver.ca/streets-transportation/support-broadway.aspx" target="_blank">URL</a>',
 		'Kling et al., <i>Preserving the largest and most at-risk supply of affordable housing</i>',
 		'Miriam Zuk et al., “Gentrification, Displacement, and the Role of Public Investment,” <i>Journal of Planning Literature</i> 33, no. 1 (2018): 31-44, <a href="https://doi.org/10.1177/0885412217716439" target="_blank">DOI</a>',
 		'Zuk et al., “Gentrification, Displacement, and the Role of Public Investment.”',
-		'H. Jacob Carlson, “Measuring Displacement: Assessing Proxies for Involuntary Residential Mobility,” <i>City & Community</i> 19, no. 3 (2020): 557-78,<a href="https://doi.org/10.1111/cico.12482" target="_blank">DOI</a>',
+		'H. Jacob Carlson, “Measuring Displacement: Assessing Proxies for Involuntary Residential Mobility,” <i>City & Community</i> 19, no. 3 (2020): 557-78, <a href="https://doi.org/10.1111/cico.12482" target="_blank">DOI</a>',
 		'BART, <i>Strategies for Addressing Potential Residential Displacement Due to Transit-Oriented Development</i> (2026), <a href="https://www.bart.gov/sites/default/files/2026-01/2026%20Sys%20AB2923%20ResDisplaceStrategy.pdf" target="_blank">URL</a>',
-		'BART, <i>Strategies for Addressing Potential Residential Displacement Due to Transit-Oriented Development</i> (2026), <a href="https://www.bart.gov/sites/default/files/2026-01/2026%20Sys%20AB2923%20ResDisplaceStrategy.pdf" target="_blank">URL</a>',
+		'BART, <i>Strategies for Addressing Potential Residential Displacement Due to Transit-Oriented Development</i>.',
 		'Seifel Consulting, <i>Supplemental Analysis of 469 Stevenson Street Regarding Potential Gentrification and Displacement Impacts</i> (2022).',
 		'Steffen Lehmann, “Sustainable Urbanism: Towards a Framework for Quality and Optimal Density?” <i>Future Cities and Environment</i> 2, no. 8 (2016), <a href="https://doi.org/10.1186/s40984-016-0021-3" target="_blank">DOI</a>',
 		'Kling et al., <i>Preserving the largest and most at-risk supply of affordable housing.</i>',
@@ -98,29 +98,29 @@
 
 	<title>Arbutus | School of Cities</title>
 
-	<!-- <meta name="description" content="Repository of design and web components for building data stories, visualizations, maps, and other custom web projects" />
+	<meta name="description" content="How can we preserve the best features of established neighbourhoods while increasing density around transit?" />
 	<meta name="author" content="School of Cities">
-	<meta rel="canonical" href="https://schoolofcities.github.io/design-components/">
+	<meta rel="canonical" href="https://schoolofcities.github.io/tod-on-main/case-study/arbutus">
 
-	<meta property="og:title" content="Design Components" />
-	<meta property="og:description" content="Repository of design and web components for building data stories, visualizations, maps, and other custom web projects" />
+	<meta property="og:title" content="Arbutus Station" />
+	<meta property="og:description" content="How can we preserve the best features of established neighbourhoods while increasing density around transit?" />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://schoolofcities.github.io/design-components/" />
-	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/design-components/main/static/web-card.png" />
+	<meta property="og:url" content="https://schoolofcities.github.io/tod-on-main/case-study/arbutus" />
+	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/case-study/arbutus/optimized-scenario.png" />
 	<meta property="og:locale" content="en_CA">
 
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:title" content="Design Components" />
-	<meta name="twitter:description" content="Repository of design and web components for building data stories, visualizations, maps, and other custom web projects" />
-	<meta name="twitter:site" content="https://schoolofcities.github.io/design-components/" />
-	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/design-components/main/static/web-card.png" />  -->
+	<meta name="twitter:title" content="Arbutus Station" />
+	<meta name="twitter:description" content="How can we preserve the best features of established neighbourhoods while increasing density around transit?" />
+	<meta name="twitter:site" content="https://schoolofcities.github.io/tod-on-main/case-study/arbutus" />
+	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/case-study/arbutus/optimized-scenario.png" /> 
 
-	<!-- <meta name="citation_title" content="Design Components"> -->
-	<!-- <meta name="citation_author" content="Author Name 1"> -->
-	<!-- <meta name="citation_author" content="Author Name 2"> -->
-	<!-- <meta name="citation_author" content="Author Name 3"> -->
-	<!-- <meta name="citation_publication_date" content="2025/09/23"> -->
-	<!-- <meta name="citation_journal_title" content="School of Cities"> -->
+	<meta name="citation_title" content="Arbutus Station"> 
+	<meta name="citation_author" content="Sarah Chan">
+	<meta name="citation_author" content="Kathryn Exon Smith">
+	<meta name="citation_author" content="Anika Reisha Taboy">
+	<meta name="citation_publication_date" content="2025/04">
+	<meta name="citation_journal_title" content="School of Cities">
 	<!-- <meta name="citation_abstract_html_url" content="https://schoolofcities.github.io/design-components/"> -->
 
 </svelte:head>
@@ -138,7 +138,7 @@
 			<TitlePage
 				title="Arbutus Station"
 				type="Case Study"
-				location="Vancouver, BC"
+				location="Vancouver, British Columbia"
 				subtitle="How can we preserve the best features of established neighbourhoods while increasing density around transit?"
 				bgType="Image"
 				url={topImage}
@@ -158,8 +158,7 @@
 			colour={arrowColour}></ScrollAnimate>
 
 		<HamburgerMenu
-		iconColour={arrowColour}
-		contents={data.menuItems}/>
+		iconColour={arrowColour}/>
 
 		<!-- Bottom is underneath, scrolls normally -->
 		<div class="bottom" id="before-text">
@@ -190,13 +189,13 @@
 
 		<CaseStudyNote style=3/>
 		
-		<h2 id="Menu_2">
+		<h1 id="Menu_2">
 			Neighbourhood overview 
-		</h2>
+		</h1>
 
 
 		<p>
-			Located in Vancouver’s Kitsilano neighbourhood, the area around <a href="https://measuringmainstreets.ca/transit-map/" target="_blank">Arbutus Station</a> is established, with about 25,000 residents. The community is diverse: one-third are immigrants and another quarter come from outside the province. This diversity contributes to a wide range of housing needs and service demands. 
+			Located in Vancouver’s Kitsilano neighbourhood, the area around <a href="https://measuringmainstreets.ca/transit-map/?tab=demographics" target="_blank">Arbutus Station</a> is established, with about 25,000 residents. The community is diverse: one-third are immigrants and another quarter come from outside the province. This diversity contributes to a wide range of housing needs and service demands. 
 		</p>
 
 	</div>
@@ -234,7 +233,7 @@
 
 		<ImageSingle
 			imageURL="../web-assets/case-study/arbutus/low-rise.JPG"
-			caption="Low-rise apartment near Arbutus Station. "
+			caption="Low-rise apartments are common in the Arbutus Station area."
 			source="Photo by Carrie Zeng (2025)"
 			maxWidth="680px"
 			link='No'
@@ -243,13 +242,13 @@
 	<div class="text">	
 
 		<p>
-			This vulnerability shows up in the area’s tenure profile: 60% of households rent, well above the City average of 55%. Most residents in these units are young to middle-aged professionals living alone. Detached, semi-detached, and row houses, very expensive because of the area’s prime location, make up just 8% of households.  
+			This vulnerability shows up in the area’s tenure profile: 60% of households rent, well above the city average of 55%. Most residents in these units are young- to middle-aged professionals living alone. Detached, semi-detached, and row houses, very expensive because of the area’s prime location, make up just 8% of households.  
 		</p>
 		<p>
 			Arbutus has a <a href="https://measuringmainstreets.ca/tools/complete-communities" target="_blank">vibrant main street with a wide variety of retail and services</a>, supporting a strong local economy and steady foot traffic. 
 		</p>
 		<p>
-			However, there are gaps in community-serving amenities such as community centres, convenience stores, and particularly libraries. Residents are also concerned that essential public services, including parks and schools, may not keep pace to serve the rapid population growth. Supporting equitable growth here involves balancing redevelopment with the needs of current residents and the broader community. 
+			However, there are gaps in community-serving amenities such as community centres, convenience stores, and particularly libraries. Residents are also concerned that essential public services, including parks and schools, may not keep pace to serve the rapid population growth. Supporting equitable growth here involves balancing redevelopment with the needs of current residents and the broader community. 
 		</p>
 
 	</div>
@@ -259,7 +258,7 @@
 	<div class="text">
 
 		<h1 id="Menu_3">
-			Arbutus’ current trajectory 
+			Arbutus’s current trajectory 
 		</h1>
 
 		<p>
@@ -274,7 +273,7 @@
 
 	<ImageSingle
 		imageURL="../web-assets/case-study/arbutus/ab_frame_current_dev.png"
-		caption="Currently proposed or under construction development 800m from Arbutus Station."
+		caption="Development currently proposed or under construction within 800 metres of Arbutus Station."
 		source="Infrastructure Institute (2025)."
 		maxWidth="680px"
 		link='No'
@@ -283,7 +282,7 @@
 	<div class="text">	
 
 		<p>
-			If trends continue, the area could see approximately 7,000 new units (including more than 1,400 BMR units), nearly 10,000 new residents, and 1,700 new jobs. Early successes include meeting housing supply and affordability targets, along with plans for new public spaces.  
+			If trends continue, the area could see approximately 7,000 new units (including more than 1,400 BMR units), nearly 10,000 new residents, and 1,700 new jobs. Early successes include meeting housing supply and affordability targets, along with plans for new public spaces.  
 		</p>
 
 		<p>
@@ -291,7 +290,7 @@
 		</p>
 
 		<p>
-			To support the implementation and oversight of these requirements, the City has committed to quarterly monitoring and reporting on tenant impacts.<Footnote id={addFootnote(fns[3])}/> There are also planned 5-year checkpoints to revisit and adjust the plan’s policies as redevelopment progresses. This provides an opportunity to respond to emerging issues while providing planning certainty and avoiding potential political interference.  
+			To support the implementation and oversight of these requirements, the City has committed to quarterly monitoring and reporting on tenant impacts.<Footnote id={addFootnote(fns[3])}/> There are also planned five-year checkpoints to revisit and adjust the plan’s policies as redevelopment progresses. This provides an opportunity to respond to emerging issues while providing planning certainty and avoiding potential political interference.  
 		</p>
 
 		<p>
@@ -333,15 +332,11 @@
 			<p>
 				Displacement can take several forms:<Footnote id={addFootnote(fns[6])}/> 
 			</p>
-			<p style="padding-left: 20px;">
-				<strong>Direct displacement</strong> occurs when residents are forced to vacate a property due to direct forces such as eviction, expropriation, or disinvestment.
-			</p>
-			<p style="padding-left: 20px;">
-				<strong>Indirect displacement</strong> is when residents can no longer afford rising rents or property taxes, often a result of speculation 
-			</p>
-			<p style="padding-left: 20px;">
-				<strong>Exclusionary displacement</strong> refers to conditions where people are unable to move into a neighbourhood due to external conditions such as unaffordable housing, restrictive zoning, and cultural dissonance 
-			</p>
+			<ul>
+				<li><strong>Direct displacement</strong> occurs when residents are forced to vacate a property due to direct forces such as eviction, expropriation, or disinvestment</li>
+				<li><strong>Indirect displacement</strong> is when residents can no longer afford rising rents or property taxes, often a result of speculation </li>
+				<li><strong>Exclusionary displacement</strong> refers to conditions where people are unable to move into a neighbourhood due to external conditions such as unaffordable housing, restrictive zoning, and cultural dissonance </li>
+			</ul>
 			<p>
 				While displacement is often linked to gentrification, it can also occur in the absence of gentrification.<Footnote id={addFootnote(fns[7])}/> Further, changes in neighbourhood composition or the presence of gentrification do not necessarily indicate that displacement is occurring.<Footnote id={addFootnote(fns[8])}/>
 			</p>
@@ -404,7 +399,11 @@
 	<div class="text">	
 
 		<p>
-			Density is strategically layered outward from these corridors, aligning height and intensity with transit access and surrounding residential areas. This approach supports active modes of travel and transit use while directing growth more effectively. Delivering equitable TOD requires balancing housing growth with social equity. To structure this approach, our recommendations are organized using the 3Ps framework – production, preservation, and protection.<Footnote id={addFootnote(fns[9])}/> This framework recognizes that no single policy lever is sufficient on its own, and achieving equitable outcomes require expanding supply, safeguarding existing affordable housing, and protecting current residents simultaneously. 
+			Density is strategically layered outward from these corridors, aligning height and intensity with transit access and surrounding residential areas. This approach supports active modes of travel and transit use while directing growth more effectively. 
+		</p>
+
+		<p>
+			Delivering equitable TOD requires balancing housing growth with social equity. To structure this approach, our recommendations are organized using the 3Ps framework – production, preservation, and protection.<Footnote id={addFootnote(fns[9])}/> This framework recognizes that no single policy lever is sufficient on its own, and achieving equitable outcomes requires expanding supply, safeguarding existing affordable housing, and protecting current residents simultaneously. 
 		</p>
 
 
@@ -420,15 +419,15 @@
 		</p>
 
 		<p>
-			Our optimized scenario puts higher-density, mixed-use development where it belongs: along Broadway, where commercial activity and transit access are already strongest. Focusing taller buildings and active ground-floor uses in these areas maximizes new housing while protecting the qualities cherished in neighbourhoods like Kitsilano. 
+			Our optimized scenario puts higher-density, mixed-use development where it belongs: along Broadway, where commercial activity and transit access are already strongest. Focusing taller buildings and active ground-floor uses in these areas maximizes new housing while protecting the qualities cherished in neighbourhoods like Kitsilano. 
 		</p>
 
 		<p>
-			Density then transitions step-wise into adjacent areas. Larger mid-rises are concentrated in existing apartment areas north of the station, with a gradual reduction in scale toward more modest infill in low-density areas to the south. This layered approach allows growth to be absorbed incrementally while maintaining neighbourhood livability. 
+			Density then transitions step-wise into adjacent areas. Larger mid-rises are concentrated in existing apartment areas north of the station, with a gradual reduction in scale toward more modest infill in low-density areas to the south. This layered approach allows growth to be absorbed incrementally while maintaining neighbourhood livability. 
 		</p>
 
 		<p>
-			Concentrating the greatest density closest to the station strengthens transit-oriented outcomes. Locating more residents and jobs within walking distance of rapid transit improves access to daily services, supports higher ridership, and enables more people to live and work near high-capacity transit. 
+			Concentrating the greatest density closest to the station <a href="../research/transportation-equity" target="_blank">strengthens transit-oriented outcomes</a>. Locating more residents and jobs within walking distance of rapid transit improves access to daily services, supports higher ridership, and enables more people to live and work near high-capacity transit. 
 		</p>
 
 		<Recommendation style=1 count=2
@@ -508,7 +507,7 @@
 		</p>
 
 		<p>
-			Moreover, the City should guarantee pathways for both temporary and permanent housing for tenants affected by redevelopment, ensure that enforcement is proactive rather than reactive, and expand tenant education and counselling services that help renters identify and secure new homes. By doing so, tenants would be better informed and protected, and policymakers could anticipate and prevent displacement before it occurs. 
+			Moreover, the City should guarantee pathways for both temporary and permanent housing for tenants affected by redevelopment, ensure that enforcement is proactive rather than reactive, and expand tenant education and counselling services that help renters identify and secure new homes. By doing so, tenants would be better informed and protected, and policy-makers could anticipate and prevent displacement before it occurs. 
 		</p>
 
 		<p>
@@ -516,14 +515,14 @@
 		</p>
 
 		<p>
-			The path is not to slow growth, but a stronger delivery system. Successful, equitable TOD depends on balancing new development with the protection of existing residents, affordability, and neighbourhood stability. 
+			The path is not slower growth, but a stronger delivery system. Successful, equitable TOD depends on balancing new development with the protection of existing residents, affordability, and neighbourhood stability. 
 		</p>
 
 	</div>
 
 	<ImageSingle
 		imageURL="../web-assets/case-study/arbutus/vancouver-skyline.jpg"
-		caption="Vancouver skyline."
+		caption="Equitable TOD can balance many forms of density and levels of affordability."
 		source="Photo by Luke Lawreszuk (2024)."
 		maxWidth="680px"
 		link='No'

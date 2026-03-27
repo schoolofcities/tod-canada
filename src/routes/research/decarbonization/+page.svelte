@@ -23,6 +23,7 @@
 	import Footnote from '$lib/Footnote.svelte';
 	import Footnotes from '$lib/Footnotes.svelte';
 	import { createFootnoteStore } from '$lib/footnoteUtils';
+    import HamburgerMenu from '$lib/HamburgerMenu.svelte';
 
 	const footnoteStore = createFootnoteStore();
 	const { footnotes, addFootnote } = footnoteStore;
@@ -79,30 +80,21 @@
 
 <main>
 
-	<!-- <Password correctPassword="meowmeowcat"></Password> -->
+	<Password correctPassword="meowmeowcat"></Password>
 
-	<!-- <TitleVideo
-		title="Embodied Carbon in Different Development Patterns and Built Forms "
-		subtitle=""
-		titletype="RESEARCH"
-		video="/tod-canada/research/embodied-carbon/skylineVideo.mp4"
-		videoSpeed={0.67}
-		videoOpacity={0.8}
-		titleFontColour="var(--brandWhite)"
-		subtitleFontColour="var(--brandWhite)"
-		logoType = 'White';
-	/> -->
 	<TitlePage
 		title="Decarbonizing transport through land use and policy change"
 		type="Research"
 		bgType="Video"
-		url="/tod-canada/web-assets/research/decarbonization/downtown-toronto-seen-from-above-SBV-353970106-preview.mp4"
+		url="/tod-canada/web-assets/research/decarbonization/decarbonization-title.mp4"
 		videoSpeed={0.67}
 		videoOpacity={0.8}
 		titleFontColour="var(--brandWhite)"
 		subtitleFontColour="var(--brandWhite)"
 		logoType = 'White';
 	/>
+
+	<HamburgerMenu pageType="research"/>
 
 	<div class="caption-container" style="padding-left: 10px; overflow: hidden; margin-top: -5px; opacity: 0.65; max-width: 320px;">
 		<p>
@@ -171,14 +163,12 @@
 
 	</div>
 
-	<GraphicSingle
-		svg1080={"../web-assets/research/decarbonization/growth-s6-1080.svg"}
-	/>
-
 	<GraphicCompare 
 		images={[
 			{
 				svg1080: "../web-assets/research/decarbonization/growth-bau-1080.svg",
+				svg720: "../web-assets/research/decarbonization/growth-bau-720.svg",
+				svg360: "../web-assets/research/decarbonization/growth-bau-360.svg",
 				caption: "",
 				source: "",
 				altText: "",
@@ -186,6 +176,8 @@
 			},
 			{
 				svg1080: "../web-assets/research/decarbonization/growth-s1-1080.svg",
+				svg720: "../web-assets/research/decarbonization/growth-s1-720.svg",
+				svg360: "../web-assets/research/decarbonization/growth-s1-360.svg",
 				caption: "",
 				source: "",
 				altText: "",
@@ -193,6 +185,8 @@
 			},
 			{
 				svg1080: "../web-assets/research/decarbonization/growth-s2-1080.svg",
+				svg720: "../web-assets/research/decarbonization/growth-s2-720.svg",
+				svg360: "../web-assets/research/decarbonization/growth-s2-360.svg",
 				caption: "",
 				source: "",
 				altText: "",
@@ -200,6 +194,8 @@
 			},
 			{
 				svg1080: "../web-assets/research/decarbonization/growth-s3-1080.svg",
+				svg720: "../web-assets/research/decarbonization/growth-s3-720.svg",
+				svg360: "../web-assets/research/decarbonization/growth-s3-360.svg",
 				caption: "",
 				source: "",
 				altText: "",
@@ -207,6 +203,8 @@
 			},
 			{
 				svg1080: "../web-assets/research/decarbonization/growth-s4-1080.svg",
+				svg720: "../web-assets/research/decarbonization/growth-s4-720.svg",
+				svg360: "../web-assets/research/decarbonization/growth-s4-360.svg",
 				caption: "",
 				source: "",
 				altText: "",
@@ -214,6 +212,8 @@
 			},
 			{
 				svg1080: "../web-assets/research/decarbonization/growth-s5-1080.svg",
+				svg720: "../web-assets/research/decarbonization/growth-s5-720.svg",
+				svg360: "../web-assets/research/decarbonization/growth-s5-360.svg",
 				caption: "",
 				source: "",
 				altText: "",
@@ -221,6 +221,8 @@
 			},
 			{
 				svg1080: "../web-assets/research/decarbonization/growth-s6-1080.svg",
+				svg720: "../web-assets/research/decarbonization/growth-s6-720.svg",
+				svg360: "../web-assets/research/decarbonization/growth-s6-360.svg",
 				caption: "",
 				source: "",
 				altText: "",
@@ -333,7 +335,7 @@
 			Our findings highlight that meaningful transportation decarbonization requires coordinated action across land use, transportation investment, and vehicle policy. Compact growth can reduce emissions intensity, but absolute reductions depend on coordinated systems and incentives.  
 		</p>
 
-		<div class="quote" style="padding-top: 70px;">
+		<div class="quote" style="padding-top: 30px; padding-bottom: 20px;">
 			<p>
 				TOD can support lower-emissions travel, but only when land use, transit investment, vehicle policy, and vehicle technology are aligned. 
 			</p>

@@ -22,25 +22,44 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.2159162"
-     inkscape:cx="218.35386"
-     inkscape:cy="99.102222"
+     inkscape:zoom="0.85978259"
+     inkscape:cx="88.394439"
+     inkscape:cy="10.467763"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg21" />
+     inkscape:current-layer="svg21"
+     showgrid="false">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
   <g
      id="Layer_3"
-     data-name="Layer 3">
+     data-name="Layer 3"
+     transform="translate(1.1630847,0.58154236)">
     <rect
        id="rect25"
        width="360"
        height="230"
-       rx="21.5668"
-       ry="21.5668"
-       fill="#faf9f8" />
+       rx="21.566799"
+       ry="21.566799"
+       fill="#faf9f8"
+       x="0"
+       y="0" />
   </g>
   <g
      id="Layer_1"
@@ -67,222 +86,102 @@
            id="tspan3">are low-income in their respective CMAs (1990-2016).</tspan></text>
     </g>
   </g>
+  <rect
+     style="fill:#cc513d;fill-opacity:0.4;fill-rule:evenodd;stroke:#cc513d;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     id="rect5"
+     width="129.35043"
+     height="55.013424"
+     x="21.279978"
+     y="81.492043" />
+  <rect
+     style="fill:#007fa3;fill-opacity:0.2;fill-rule:evenodd;stroke:#007fa3;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     id="rect5-1"
+     width="128.71538"
+     height="55.013424"
+     x="21.716135"
+     y="154.44228" />
   <text
-     fill="#cc513d"
+     fill="#9e2666"
      font-family="InterItalic-BoldItalic, Inter"
      font-size="22px"
      font-style="italic"
      font-variation-settings="'opsz' 14, 'wght' 700"
      font-weight="700"
-     id="text3-3"
-     x="148.617"
-     y="101.78923"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.1153px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1"><tspan
-       x="148.617"
-       y="101.78923"
-       id="tspan3-6"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.1153px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1">31.4%</tspan></text>
+     id="text1-5"
+     x="34.923409"
+     y="120.62489"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.8511px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.999996"
+     transform="scale(1.0002664,0.99973365)"><tspan
+       x="34.923409"
+       y="120.62489"
+       id="tspan1-3-0"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.8511px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.999996">31.4%</tspan></text>
   <text
-     fill="#243662"
+     fill="#9e2666"
      font-family="InterItalic-BoldItalic, Inter"
      font-size="22px"
      font-style="italic"
      font-variation-settings="'opsz' 14, 'wght' 700"
      font-weight="700"
-     id="text10"
-     x="225.75819"
-     y="164.02831"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.1153px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1"><tspan
-       x="225.75819"
-       y="164.02831"
-       id="tspan10"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.1153px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1">37.0%</tspan></text>
-  <g
-     id="g17"
-     transform="matrix(1.5525861,0,0,1.5548878,-393.24801,-95.699467)"
-     style="stroke-width:0.64361;stroke-dasharray:none">
-    <line
-       x1="342.43021"
-       y1="132.23199"
-       x2="385.9697"
-       y2="132.23199"
-       fill="none"
-       stroke="#cc513d"
-       stroke-miterlimit="10"
-       stroke-width="0.311012"
-       id="line16"
-       style="stroke-width:0.64361;stroke-dasharray:none" />
-    <path
-       d="m 342.6313,132.232 c 0.5225,-0.5225 0.7715,-1.5557 0.792,-2.2725 -0.7163,0.9624 -1.6472,1.8018 -2.7734,2.2725 1.1262,0.4507 2.0161,1.3408 2.7734,2.2725 -0.0615,-0.7676 -0.249,-1.6992 -0.792,-2.2725 z"
-       fill="#cc513d"
-       id="path16"
-       style="stroke-width:0.64361;stroke-dasharray:none" />
-    <path
-       d="m 385.7686,132.232 c -0.5225,-0.5225 -0.7715,-1.5557 -0.792,-2.2725 0.7163,0.9624 1.6472,1.8018 2.7734,2.2725 -1.1262,0.4507 -2.0161,1.3408 -2.7734,2.2725 0.0615,-0.7676 0.249,-1.6992 0.792,-2.2725 z"
-       fill="#cc513d"
-       id="path17"
-       style="stroke-width:0.64361;stroke-dasharray:none" />
-  </g>
-  <g
-     id="g19"
-     transform="matrix(1.5525861,0,0,1.5548878,-388.40491,-101.18965)"
-     style="stroke-width:0.64361;stroke-dasharray:none">
-    <line
-       x1="374.11359"
-       y1="189.24741"
-       x2="400.4986"
-       y2="144.3582"
-       fill="none"
-       stroke="#243662"
-       stroke-dasharray="0.5, 1"
-       stroke-miterlimit="10"
-       stroke-width="0.311012"
-       id="line17"
-       style="stroke:#007fa3;stroke-width:0.64361;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       d="m 374.2154,189.074 c -0.1855,-0.7152 -0.9502,-1.4534 -1.5576,-1.8343 0.4666,1.1052 0.7185,2.3331 0.5537,3.5425 0.9592,-0.7425 2.1775,-1.0587 3.3645,-1.2395 -0.6929,-0.3359 -1.5911,-0.6464 -2.3606,-0.4688 z"
-       fill="#243662"
-       id="path18"
-       style="fill:#007fa3;fill-opacity:1;stroke-width:0.64361;stroke-dasharray:none" />
-    <path
-       d="m 400.3968,144.5317 c -0.7153,0.1857 -1.7322,-0.1232 -2.3606,-0.4688 1.1929,-0.1299 2.3882,-0.5071 3.3645,-1.2395 -0.1821,1.1993 0.1343,2.4175 0.5537,3.5425 -0.6304,-0.442 -1.3386,-1.0757 -1.5576,-1.8343 z"
-       fill="#243662"
-       id="path19"
-       style="fill:#007fa3;fill-opacity:1;stroke-width:0.64361;stroke-dasharray:none" />
-  </g>
+     id="text1-5-6"
+     x="38.640621"
+     y="194.66672"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.8511px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.999996"
+     transform="scale(1.0002664,0.99973366)"><tspan
+       x="38.640621"
+       y="194.66672"
+       id="tspan1-3-2"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.8511px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.999996">37.0%</tspan></text>
   <text
      fill="#010101"
      font-family="Inter-Regular, Inter"
      font-size="16px"
      font-variation-settings="'opsz' 14, 'wght' 400"
      isolation="isolate"
-     id="text15-9"
-     x="16.257021"
-     y="95.36377"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#000000;fill-opacity:1;stroke-width:1"><tspan
+     id="text15-9-3"
+     x="164.93332"
+     y="167.50957"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#000000;fill-opacity:1;stroke-width:0.999996"
+     transform="scale(1.0002664,0.99973366)"><tspan
        sodipodi:role="line"
-       x="16.257021"
-       y="95.36377"
-       id="tspan29"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1">Percent of in-movers</tspan><tspan
+       x="164.93332"
+       y="167.50957"
+       id="tspan4-6"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999996">Average CMA rate of</tspan><tspan
        sodipodi:role="line"
-       x="16.257021"
-       y="110.36377"
-       id="tspan32"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1">into transit station</tspan><tspan
+       x="164.93332"
+       y="185.00957"
+       id="tspan14"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999996">in-movers that are</tspan><tspan
        sodipodi:role="line"
-       x="16.257021"
-       y="125.36377"
-       id="tspan35"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1">areas that are</tspan><tspan
-       sodipodi:role="line"
-       x="16.257021"
-       y="140.36377"
-       id="tspan36"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1">low-income</tspan></text>
+       x="164.93332"
+       y="202.50957"
+       id="tspan15"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999996">low-income</tspan></text>
   <text
      fill="#010101"
      font-family="Inter-Regular, Inter"
      font-size="16px"
      font-variation-settings="'opsz' 14, 'wght' 400"
      isolation="isolate"
-     id="text15-9-9"
-     x="226.2531"
-     y="186.74355"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#000000;fill-opacity:1;stroke-width:1"><tspan
+     id="text15-9-9-32"
+     x="165.74452"
+     y="95.019012"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.00000015px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#000000;fill-opacity:1;stroke-width:0.999996"
+     transform="scale(1.0002664,0.99973365)"><tspan
        sodipodi:role="line"
-       x="226.2531"
-       y="186.74355"
-       id="tspan26"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1">Average CMA rate of</tspan><tspan
+       x="165.74452"
+       y="95.019012"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.00000015px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999996"
+       id="tspan5">Percent of in-movers</tspan><tspan
        sodipodi:role="line"
-       x="226.2531"
-       y="201.74355"
-       id="tspan38"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1">in-movers that are</tspan><tspan
+       x="165.74452"
+       y="113.36166"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.00000015px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999996"
+       id="tspan9">into transit station areas</tspan><tspan
        sodipodi:role="line"
-       x="226.2531"
-       y="216.74355"
-       id="tspan40"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1">low-income</tspan></text>
-  <polygon
-     points="364.2,183.6133 340.65,142.8235 387.75,142.8235 "
-     fill="#cc513d"
-     stroke="#faf9f8"
-     stroke-miterlimit="10"
-     id="polygon20"
-     style="stroke-width:1.60902;stroke-dasharray:none"
-     transform="matrix(1.5525861,0,0,1.5548878,-390.4207,-103.33127)" />
-  <polygon
-     points="387.75,142.8235 360,190.8879 332.25,142.8235 "
-     fill="none"
-     stroke="#faf9f8"
-     stroke-miterlimit="10"
-     stroke-width="0.933035"
-     id="polygon21"
-     style="stroke-width:1.60902;stroke-dasharray:none"
-     transform="matrix(1.5525861,0,0,1.5548878,-377.06086,-103.33127)" />
-  <polyline
-     points="386.5 142.8235 387.75 142.8235 387.125 143.9061"
-     fill="none"
-     stroke="#243662"
-     stroke-miterlimit="10"
-     stroke-width="0.933035"
-     id="polyline21"
-     style="fill:#007fa3;fill-opacity:1;stroke:#007fa3;stroke-width:1.60902;stroke-dasharray:none;stroke-opacity:1"
-     transform="matrix(1.5525861,0,0,1.5548878,-377.06086,-103.33127)" />
-  <line
-     x1="223.98404"
-     y1="120.42657"
-     x2="182.8405"
-     y2="191.7948"
-     fill="none"
-     stroke="#243662"
-     stroke-dasharray="2.5238, 3.0286"
-     stroke-miterlimit="10"
-     stroke-width="0.933035"
-     id="line21"
-     style="stroke:#007fa3;stroke-width:3.99999;stroke-dasharray:3.99999, 3.99999;stroke-dashoffset:0;stroke-opacity:1" />
-  <polyline
-     points="360.625 189.8054 360 190.8879 359.375 189.8054"
-     fill="none"
-     stroke="#243662"
-     stroke-miterlimit="10"
-     stroke-width="0.933035"
-     id="polyline22"
-     style="fill:#007fa3;fill-opacity:1;stroke:#007fa3;stroke-width:1.60902;stroke-dasharray:none;stroke-opacity:1"
-     transform="matrix(1.5525861,0,0,1.5548878,-377.06086,-103.33127)" />
-  <line
-     x1="180.0769"
-     y1="190.36754"
-     x2="140.21935"
-     y2="121.78156"
-     fill="none"
-     stroke="#243662"
-     stroke-dasharray="2.5238, 3.0286"
-     stroke-miterlimit="10"
-     stroke-width="0.933035"
-     id="line22"
-     style="stroke:#007fa3;stroke-width:3.99999;stroke-dasharray:3.99999, 3.99999;stroke-dashoffset:0;stroke-opacity:1" />
-  <polyline
-     points="332.875 143.906 332.25 142.8235 333.5 142.8235"
-     fill="none"
-     stroke="#243662"
-     stroke-miterlimit="10"
-     stroke-width="0.933035"
-     id="polyline23"
-     style="fill:#007fa3;fill-opacity:1;stroke:#007fa3;stroke-width:1.60902;stroke-dasharray:none;stroke-opacity:1"
-     transform="matrix(1.5525861,0,0,1.5548878,-377.06086,-103.33127)" />
-  <line
-     x1="142.23822"
-     y1="118.74325"
-     x2="220.66241"
-     y2="118.74325"
-     fill="none"
-     stroke="#243662"
-     stroke-dasharray="2.5238, 3.0286"
-     stroke-miterlimit="10"
-     stroke-width="0.933035"
-     id="line23"
-     style="stroke:#007fa3;stroke-width:3.99999;stroke-dasharray:3.99999, 3.99999;stroke-dashoffset:0;stroke-opacity:1" />
+       x="165.74452"
+       y="131.70435"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.00000015px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999996"
+       id="tspan11">that are low-income</tspan></text>
 </svg>

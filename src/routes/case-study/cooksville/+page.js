@@ -32,16 +32,17 @@ export async function load({ fetch }) {
         }, []);
     }
 
-    const menuFile = await fetch('/web-assets/case-study/cooksville/cooksville-menuitems.csv');
-    const menuText = await menuFile.text();
+    // const menuFile = await fetch('/web-assets/case-study/cooksville/cooksville-menuitems.csv');
+    // const menuText = await menuFile.text();
 
-    const parsedMenu = Papa.parse(menuText, {
-        header: true,     
-        encoding: "utf-8",
-        skipEmptyLines: true
-    });
+    // const parsedMenu = Papa.parse(menuText, {
+    //     header: true,     
+    //     encoding: "utf-8",
+    //     skipEmptyLines: true
+    // });
 
-    return { animations: groupByAnimation(parsedContent.data), menuItems: parsedMenu.data };
+    // return { animations: groupByAnimation(parsedContent.data), menuItems: parsedMenu.data };
+    return { animations: groupByAnimation(parsedContent.data) };
 }
 
 export const prerender = true; 
