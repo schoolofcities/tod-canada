@@ -170,7 +170,7 @@
 		</p>
 
 		<p>
-			Click here for a more detailed discussion of the methodology. 
+			<a href="../web-assets/research/intensification-and-equity/Intensification and Neighbourhood Change - Full Methodology and Findings.pdf" target="_blank">Click here for a more detailed discussion of the methodology.</a> 
 		</p>
 
 		<h1>

@@ -1395,6 +1395,30 @@
          transform="matrix(1.3333333,0,0,-1.3333333,0,853.33333)"
          id="path215" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath128-8">
+      <path
+         d="M 0,640 H 360 V 0 H 0 Z"
+         transform="matrix(1.3333333,0,0,-1.3333333,0,853.33333)"
+         id="path128-4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath127-5">
+      <path
+         d="m 228.847,451.207 h 41.685 v -15.583 h -41.685 z"
+         transform="matrix(1.3333333,0,0,-1.3333333,0,853.33333)"
+         id="path127-0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath126-3">
+      <path
+         d="m 228.847,451.207 h 41.685 v -15.583 h -41.685 z"
+         transform="matrix(1,0,0,-1,-228.84721,439.97851)"
+         id="path126-6" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="namedview1"
@@ -1406,10 +1430,10 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.92695314"
-     inkscape:cx="240.03371"
-     inkscape:cy="512.97091"
+     inkscape:cx="175.30552"
+     inkscape:cy="170.4509"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -2153,6 +2177,27 @@
       </g>
     </g>
     <g
+       id="g128-6"
+       clip-path="url(#clipPath128-8)"
+       transform="matrix(0.75000002,0,0,0.75000002,8.7791485,-32.746107)"
+       style="stroke-width:1.33333">
+      <g
+         clip-path="url(#clipPath127-5)"
+         id="g127-3"
+         style="stroke-width:1.33333">
+        <text
+           xml:space="preserve"
+           transform="matrix(1.3333333,0,0,1.3333333,305.1296,266.69533)"
+           clip-path="url(#clipPath126-3)"
+           id="text127-2"
+           style="stroke-width:1.33333"><tspan
+             style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:13px;font-family:'Inter 24pt';writing-mode:lr-tb;fill:#017ea3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+             x="0"
+             y="0"
+             id="tspan127-0">1.35</tspan></text>
+      </g>
+    </g>
+    <g
        id="g131"
        clip-path="url(#clipPath131)"
        transform="matrix(0.75000002,0,0,0.75000002,0,4.4999997e-6)"
@@ -2263,28 +2308,6 @@
       </g>
     </g>
     <g
-       id="g146"
-       clip-path="url(#clipPath146)"
-       transform="matrix(0.75000002,0,0,0.75000002,0,4.4999997e-6)"
-       style="stroke-width:1.33333">
-      <g
-         clip-path="url(#clipPath145)"
-         id="g145"
-         style="stroke-width:1.33333">
-        <text
-           xml:space="preserve"
-           transform="matrix(1.3333333,0,0,1.3333333,324.00387,223.3216)"
-           clip-path="url(#clipPath144)"
-           id="text145"
-           style="stroke-width:1.33333"><tspan
-             style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:13px;font-family:'Inter 24pt';writing-mode:lr-tb;fill:#017ea3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
-             x="0"
-             dx="0 0 -0.377"
-             y="0"
-             id="tspan145">1.6</tspan></text>
-      </g>
-    </g>
-    <g
        id="g149"
        clip-path="url(#clipPath149)"
        transform="matrix(0.75000002,0,0,0.75000002,0,4.4999997e-6)"
@@ -2301,9 +2324,9 @@
            style="stroke-width:1.33333"><tspan
              style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:13px;font-family:'Inter 24pt';writing-mode:lr-tb;fill:#00a189;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
              x="0"
-             dx="0 0 -0.377"
+             dx="0 0"
              y="0"
-             id="tspan148">1.6</tspan></text>
+             id="tspan148">1.9</tspan></text>
       </g>
     </g>
     <g

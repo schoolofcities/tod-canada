@@ -80,19 +80,8 @@
 
 <main>
 
-	<!-- <Password correctPassword="meowmeowcat"></Password> -->
+	<Password correctPassword="meowmeowcat"></Password>
 
-	<!-- <TitleVideo
-		title="Embodied Carbon in Different Development Patterns and Built Forms "
-		subtitle=""
-		titletype="RESEARCH"
-		video="/tod-canada/research/embodied-carbon/skylineVideo.mp4"
-		videoSpeed={0.67}
-		videoOpacity={0.8}
-		titleFontColour="var(--brandWhite)"
-		subtitleFontColour="var(--brandWhite)"
-		logoType = 'White';
-	/> -->
 	<TitlePage
 		title="Decarbonizing transport through land use and policy change"
 		type="Research"
@@ -173,12 +162,6 @@
 		</p>
 
 	</div>
-
-	<GraphicSingle
-		svg1080={"../web-assets/research/decarbonization/growth-s6-1080.svg"}
-		svg720={"../web-assets/research/decarbonization/growth-s6-720.svg"}
-		svg360={"../web-assets/research/decarbonization/growth-s6-360.svg"}
-	/>
 
 	<GraphicCompare 
 		images={[
@@ -352,7 +335,7 @@
 			Our findings highlight that meaningful transportation decarbonization requires coordinated action across land use, transportation investment, and vehicle policy. Compact growth can reduce emissions intensity, but absolute reductions depend on coordinated systems and incentives.  
 		</p>
 
-		<div class="quote" style="padding-top: 70px;">
+		<div class="quote" style="padding-top: 30px; padding-bottom: 20px;">
 			<p>
 				TOD can support lower-emissions travel, but only when land use, transit investment, vehicle policy, and vehicle technology are aligned. 
 			</p>

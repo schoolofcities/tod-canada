@@ -37,7 +37,7 @@
 	const credits = [
 		{ role:"Research", names:"Alex Hempel"},
 		{ role:"Additional writing", names:"Kathryn Exon Smith"},
-		{ role:"Maps and data visualization", names:"Jeff Allen"},
+		{ role:"Data visualization", names:"Jeff Allen"},
 		{ role:"Web development", names:"Mieko Yao, Jeff Allen"},
 		{ role:"Additional contributors", names:"An Pham, Anika Reisha Taboy"}
 	]
@@ -155,14 +155,24 @@
 			Because capital costs occur once, while operating revenues occur annually, this analysis converts capital impacts into annualized equivalents by depreciating them over a 40-year period. This allows us to compare capital and operating impacts on a consistent basis.  
 		</p>
 
-		{@html display(`Net~Total~Annual~Impact = Net~Operating~Impact + \\frac{Net~Capital~Impact}{Time~Horizon}`)}
+		<!-- This was rendering weirdly for me, and I couldn't fix, so just made a quick image -->
+		<!-- {@html display(`Net~Total~Annual~Impact = Net~Operating~Impact + \\frac{Net~Capital~Impact}{Time~Horizon}`)} -->
+
+		</div>
+
+		<GraphicSingle
+			svg720={"../web-assets/research/fiscal-impacts/formula-720.svg"}
+			svg360={"../web-assets/research/fiscal-impacts/formula-360.svg"}
+		/>
+
+		<div class="text">
 
 		<p>
 			The analysis also illustrates how these fiscal impacts could evolve over time on a cash basis. We determined each municipality’s construction capacity by using CMHC’s Starts and Completions survey, a ten-year average of housing starts, and modelled two speeds of construction. In the faster version, we assume the construction capacity is equal to the historical averages. In the slower version, since construction activity would likely not be entirely dedicated to the proposed TODs in each municipality, we assumed that the construction capacity is half the average. This allows us to project a timeline of financial impacts that takes into account both the scale of development in each station area and the likely speed of construction. 
 		</p>
 
 		<p>
-			<a href="" target="_blank">Click here</a> for a more detailed discussion of the methodology. 
+			Click here for a more detailed discussion of the methodology. 
 		</p>
 
 		<h1>
@@ -186,8 +196,20 @@
 		</p>
 	</div>
 
-	<!-- graph 1 -->
+	<GraphicSingle
+		svg720={"../web-assets/research/fiscal-impacts/net-revenue-720.svg"}
+		svg360={"../web-assets/research/fiscal-impacts/net-revenue-360.svg"}
+	/>
 
+	<GraphicSingle
+		svg720={"../web-assets/research/fiscal-impacts/net-capital-costs-720.svg"}
+		svg360={"../web-assets/research/fiscal-impacts/net-capital-costs-360.svg"}
+	/>
+
+	<GraphicSingle
+		svg720={"../web-assets/research/fiscal-impacts/net-total-720.svg"}
+		svg360={"../web-assets/research/fiscal-impacts/net-total-360.svg"}
+	/>
 
 	<div class="text">
 
@@ -205,7 +227,15 @@
 
 	</div>
 
-	<!-- chart and graph -->
+	<GraphicSingle
+		svg720={"../web-assets/research/fiscal-impacts/summary-table-720.svg"}
+		svg360={"../web-assets/research/fiscal-impacts/summary-table-360.svg"}
+	/>
+
+	<GraphicSingle
+		svg720={"../web-assets/research/fiscal-impacts/dc-revenue-720.svg"}
+		svg360={"../web-assets/research/fiscal-impacts/dc-revenue-360.svg"}
+	/>
 
 	<div class="text">
 		<h2>
@@ -215,11 +245,7 @@
 		<p>
 			Municipal budgets must balance on a cash basis, which can lead to jumps in a single year when a project is committed to. Provincial accounting standards, in contrast, require accrual-based reporting, which spreads out the budget impact as the asset depreciates over time. On a cash basis, some scenarios are initially cash-flow negative when large upfront capital costs are not fully covered by development charge revenues. This represents a trade-off, as reducing development charges may encourage more development but municipalities need to find a way to cover these upfront costs where anticipated property tax revenues are lower. In these cases, municipalities may need to draw on reserve funds or seek additional support from provincial or federal governments to cover the shortfall. Nearly all scenarios become cash-flow positive in the medium term.  
 		</p>
-	</div>
 
-	<!-- chart and graph -->
-
-	<div class="text">
 		<p>
 			On an accrual basis, nearly all TOD scenarios generate a positive net fiscal impact, although some are close to breaking even. Station areas in British Columbia and Ontario, where fiscal impacts are generally more positive, generate between $40 million and $100 million in accrued net revenue each year. The developments in Alberta and Quebec produce much smaller impacts, both in total and on a per-unit basis. This suggests that the fiscal impact of TODs depends strongly on the local institutional and market context.  
 		</p>
@@ -232,6 +258,15 @@
 			Construction capacity varies significantly across municipalities in these scenarios, which affects the timing of fiscal impacts. Historical housing start data indicate that some municipalities are capable of building new housing at much faster rates than others. Based on these historical construction rates, we developed projected timelines to build out each TOD scenario, which showed substantial variation across locations.  
 		</p>
 
+	</div>
+
+	<GraphicSingle
+		svg720={"../web-assets/research/fiscal-impacts/development-speed-720.svg"}
+		svg360={"../web-assets/research/fiscal-impacts/development-speed-360.svg"}
+	/>
+
+	<div class="text">
+
 		<p>
 			These timelines demonstrate that construction capacity can significantly affect how quickly municipalities benefit from TOD, particularly when infrastructure investments occur upfront. Developments that are net-positive on the capital budget can generate immediate fiscal benefits, while those that are net-negative may initially create cash-flow pressures. Faster rates of construction also mean that the full fiscal benefits of development are realized sooner. 
 		</p>
@@ -241,11 +276,14 @@
 		</p>
 	</div>
 
-	<!-- graph -->
+	<GraphicSingle
+		svg720={"../web-assets/research/fiscal-impacts/annual-revenue-720.svg"}
+		svg360={"../web-assets/research/fiscal-impacts/annual-revenue-360.svg"}
+	/>
 
 	<div class="text">
 		<p>
-			<a href="" target="_blank">See the full analysis here. </a>
+			See the full analysis here.
 		</p>
 	</div>
 

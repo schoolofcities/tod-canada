@@ -38,7 +38,7 @@
 	const credits = [
 		{ role:"Research", names:"Jeff Allen, Karen Chapple, Amir Forouhar "},
 		{ role:"Additional writing", names:"Kathryn Exon Smith, Anika Reisha Taboy"},
-		{ role:"Data visualization", names:"Isabeaux Graham"},
+		{ role:"Data visualization", names:"Isabeaux Graham, Jeff Allen"},
 		{ role:"Web development", names:"Mieko Yao, Jeff Allen"}
 	]
 
@@ -100,8 +100,8 @@
 		type="Research"
 		bgType="Video"
 		url="/tod-canada/web-assets/research/displacement/displacement-title.mp4"
-		videoSpeed={0.67}
-		videoOpacity={0.8}
+		videoSpeed={0.75}
+		videoOpacity={0.9}
 		titleFontColour="var(--brandWhite)"
 		subtitleFontColour="var(--brandWhite)"
 		logoType = 'White';
@@ -109,9 +109,9 @@
 
 	<HamburgerMenu pageType="research"/>
 
-	<div class="caption-container" style="padding-left: 10px; overflow: hidden; margin-top: -5px; opacity: 0.65; max-width: 320px;">
+	<div class="caption-container" style="padding-left: 10px; overflow: hidden; margin-top: -5px; opacity: 0.65; max-width: 340px;">
 		<p>
-			<span class="caption-source">Video source: Storyblocks</span>
+			<span class="caption-source">Video source: <a href="https://www.youtube.com/watch?v=v2j26XuB97E" target="_blank">Nothing for us, without us</a> (School of Cities)</span>
 		</p>
 	</div>
 
@@ -177,9 +177,9 @@
 			<li>Optimized development of complete communities </li>
 		</ul>
 
-		<p>
+		<!-- <p>
 			Click here for a more detailed discussion of the methodology. 
-		</p>
+		</p> -->
 
 		<h1>
 			What we found

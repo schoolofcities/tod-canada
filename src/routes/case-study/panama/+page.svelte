@@ -128,7 +128,7 @@
 <!-- <svelte:window on:scroll={handleScroll} /> -->
 
 <main>
-	<!-- <Password correctPassword="meowmeowcat"></Password> -->
+	<Password correctPassword="meowmeowcat"></Password>
 	<!-- Full page title example -->
 	<div class="wrapper">
 		<!-- Top stays visually on top -->
