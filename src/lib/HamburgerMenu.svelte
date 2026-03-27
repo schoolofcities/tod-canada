@@ -25,13 +25,8 @@
 
     function triggerMenu() {
         opened = !opened;
-
-        // if (opened) {
-        //     await tick();
-        //     const firstLink = document.querySelector('#menu-content a');
-        //     firstLink?.focus();
-        // }
     }
+    
     function urlFormat(text) {
         return text.trim().toLowerCase()
             .normalize('NFD').replace(/[\u0300-\u036f]/g, '')

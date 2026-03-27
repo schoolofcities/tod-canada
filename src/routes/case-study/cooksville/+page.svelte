@@ -424,7 +424,7 @@
 			</h1>
 
 			<p>
-				The past 20 years have seen significant urban floods across Canada, including in Calgary, Winnipeg, Toronto – and Mississauga. In 2024, a 100-year storm caused $940 million in flood damage across the region.<Footnote id={addFootnote(fns[14])}/> Since 1985, Southern Ontario has experienced rapid urbanization in areas of increasing flood exposure.<Footnote id={addFootnote(fns[15])}/> As in many Canadian neighbourhoods, future growth in Cooksville will need to balance density with minimizing risk and flood exposure. Our second set of recommendations addresses this growing need. 
+				The past 20 years have seen significant urban floods across Canada, including in Calgary, Winnipeg, Toronto – and Mississauga.<Footnote id={addFootnote(fns[0])}/>  In 2024, a 100-year storm caused $940 million in flood damage across the region.<Footnote id={addFootnote(fns[14])}/> Since 1985, Southern Ontario has experienced rapid urbanization in areas of increasing flood exposure.<Footnote id={addFootnote(fns[15])}/> As in many Canadian neighbourhoods, future growth in Cooksville will need to balance density with minimizing risk and flood exposure. Our second set of recommendations addresses this growing need. 
 			</p>
 
 			<Recommendation style=1 count=1

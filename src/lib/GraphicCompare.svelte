@@ -65,6 +65,16 @@
   
 
 	onMount(() => {
+        let r = document.querySelector(':root');
+
+		let maxLabel = 0;
+		images.forEach((image) => {
+			if (image.buttonLabel.length > maxLabel) maxLabel = image.buttonLabel.length;
+		})
+		console.log(maxLabel)
+        
+        r.style.setProperty('--dropdownWidth', `${(maxLabel * 10) + 40}px`);
+
   		window.addEventListener("resize", handleVisibility);
   		handleVisibility();
 		return () => {
@@ -102,14 +112,6 @@
 				showChevron />
 		</div>
     {/if}
-
-	<!-- {#key active}
-		<div class="img-container image-layer"
-				style="--svg-width: {svgWidth}px;"
-				transition:fade={{duration: 400}}>
-			{@html images[active]?.inputSVG}
-		</div>
-	{/key} -->
 		
 	<div class="image-stack" style="height: {stackHeight}px;">
 		{#each images as image, index}
@@ -205,8 +207,8 @@
         border-radius: 0 !important;
         border-color: #000 !important;
         margin-bottom: 1rem !important;
-        /* width: 210px !important; */
-		width: 220px !important;
+		width: var(--dropdownWidth) !important;
+		max-width: 360px !important;
         text-align: left;
     }
 

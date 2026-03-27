@@ -430,10 +430,12 @@ from pathlib import Path
 
 def main():
 	folder = "research/decarbonization"
-	input_dir = "../routes/" + folder + "/assets/"
-	output_dir = "../../static/web-assets/"  + folder
+	input_dir = "../../static/web-assets/" + folder + "/assets/"
+	output_dir = "../../static/web-assets/" + folder
+	print(input_dir)
 
 	for svg_file in Path(input_dir).glob("*.svg"):
+		print(Path(input_dir).glob("*.svg"))
 		output_path = Path(output_dir) / svg_file.name
 		process_svg(svg_file, output_path, FONT_MAP)
 

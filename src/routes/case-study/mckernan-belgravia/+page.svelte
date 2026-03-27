@@ -55,7 +55,7 @@
 
 	let scrollY = 0;
 	let innerHeight = 1;
-	let arrowColour = "black";
+	let arrowColour = "white";
 	let scrollyContent = [];
 	let textSection;
 
