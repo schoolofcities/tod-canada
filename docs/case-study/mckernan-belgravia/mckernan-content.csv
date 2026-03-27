@@ -1,5 +1,5 @@
 animation,image,text,arrowColour,overlay1,overlay2,menu_id,bg_fit,alt_text
-1,../web-assets/case-study/mckernan-belgravia/mb_frame_3.png,,black,,,Menu_1,contain,
+1,../web-assets/case-study/mckernan-belgravia/mb_frame_3.png,,white,,,Menu_1,contain,
 1,../web-assets/case-study/mckernan-belgravia/mb_frame_3.png,"Transit-oriented development (TOD) can take many forms, from gradual increases in population to master planned, high-density communities.  ",black,,,,contain,alt
 1,../web-assets/case-study/mckernan-belgravia/mb_frame_7.png,"In Edmonton, the mature residential neighbourhood of McKernan-Belgravia is centrally located but has not experienced significant infill development.",black,,,,contain,alt
-1,../web-assets/case-study/mckernan-belgravia/mb_frame_9.png,"The City has zoned for density around transit, but most of the growth in this area to date has been low-intensity redevelopment of single lots in the middle of blocks that has generated resident concerns about compatibility with the surrounding neighbourhood while doing little to increase density.",black,,,,contain,alt
+1,../web-assets/case-study/mckernan-belgravia/mb_frame_9.png,"The City has zoned for density around transit, but most of the growth in this area to date has been low-intensity redevelopment of single, mid-block lots that has done little to increase density, with few larger projects near the station itself.",black,,,,contain,alt

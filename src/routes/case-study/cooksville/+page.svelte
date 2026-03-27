@@ -198,7 +198,7 @@
 		
 			<CaseStudyNote/>
 
-			<h1>
+			<h1 id="Menu_2">
 				Neighbourhood overview 
 			</h1>
 			<p>
@@ -273,7 +273,7 @@
 				Creating a vibrant community here will require creative approaches to managing risk while increasing access to critical amenities.  
 			</p>
 	
-			<h1>
+			<h1 id="Menu_3">
 				Cooksville’s current trajectory 
 			</h1>
 
@@ -339,7 +339,7 @@
 
 		<div class="text">	
 
-			<h1>
+			<h1 id="Menu_4">
 				Optimized scenario: Building for families, building for all 
 			</h1>
 
@@ -419,7 +419,7 @@
 
 		<div class="text">
 
-			<h1>
+			<h1 id="Menu_5">
 				Addressing rising flood risk 
 			</h1>
 

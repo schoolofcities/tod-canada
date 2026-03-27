@@ -22,15 +22,15 @@
 
 <p>
 
-	<a href="./case-study/arbutus" target="_blank">Arbutus, Vancouver</a>
+	<a href="./arbutus" target="_blank">Arbutus, Vancouver</a>
 	<br>
-	<a href="./case-study/cooksville" target="_blank">Cooksville, Mississauga</a>
+	<a href="./cooksville" target="_blank">Cooksville, Mississauga</a>
 	<br>
-	<a href="./case-study/mckernan-belgravia" target="_blank">McKernan-Belgravia, Edmonton</a>
+	<a href="./mckernan-belgravia" target="_blank">McKernan-Belgravia, Edmonton</a>
 	<br>
-	<a href="./case-study/northfield" target="_blank">Northfield, Waterloo</a>
+	<a href="./northfield" target="_blank">Northfield, Waterloo</a>
 	<br>
-	<a href="./case-study/panama" target="_blank">Panama, Brossard</a>
+	<a href="./panama" target="_blank">Panama, Brossard</a>
 
 </p>
 

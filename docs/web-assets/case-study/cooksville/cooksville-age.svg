@@ -54,7 +54,7 @@
     <text transform="translate(44.0905 199.9996)" fill="#231f20" font-variation-settings="'opsz' 14, 'wght' 400" style="font-family: InterRegular; font-weight: normal; font-style: normal;">
       <tspan font-size="10" style="font-weight: normal; font-style: normal;">
         <tspan x="-3.3379" y="12" style="font-weight: normal; font-style: normal;">
-          <tspan x="-3.3379" y="12" style="font-weight: normal; font-style: normal;">ages 0 - 24</tspan>
+          <tspan x="-3.3379" y="12" style="font-weight: normal; font-style: normal;">ages 0–24</tspan>
         </tspan>
       </tspan>
     </text>
@@ -81,7 +81,7 @@
     <text transform="translate(157.8223 200.0003)" fill="#231f20" font-variation-settings="'opsz' 14, 'wght' 400" style="font-family: InterRegular; font-weight: normal; font-style: normal;">
       <tspan font-size="10" style="font-weight: normal; font-style: normal;">
         <tspan x="-5.3027" y="12" style="font-weight: normal; font-style: normal;">
-          <tspan x="-5.3027" y="12" style="font-weight: normal; font-style: normal;">ages 25-64</tspan>
+          <tspan x="-5.3027" y="12" style="font-weight: normal; font-style: normal;">ages 25–64</tspan>
         </tspan>
       </tspan>
     </text>
