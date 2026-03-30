@@ -58,14 +58,14 @@
 	<meta property="og:description" content="Fiscal Impacts of Transit Oriented Development" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://schoolofcities.github.io/tod-canada/research/fiscal-impacts" />
-	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/fiscal-impacts/" />
+	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/fiscal-impacts/thumbnail.png" />
 	<meta property="og:locale" content="en_CA">
 
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="TOD - Fiscal Impacts" />
 	<meta name="twitter:description" content="Fiscal Impacts of Transit Oriented Development" />
 	<meta name="twitter:site" content="https://schoolofcities.github.io/tod-canada/research/fiscal-impacts" />
-	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/fiscal-impacts/" /> 
+	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/fiscal-impacts/thumbnail.png" /> 
 
 	<meta name="citation_title" content="TOD - Fiscal Impacts">
 	<meta name="citation_author" content="Alex Hempel">

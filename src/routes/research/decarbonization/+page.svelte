@@ -56,14 +56,14 @@
 	<meta property="og:description" content="Decarbonizing transport through land use and policy change" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://schoolofcities.github.io/tod-canada/research/decarbonization" />
-	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/decarbonization/" />
+	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/decarbonization/thumbnail.png" />
 	<meta property="og:locale" content="en_CA">
 
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="TOD - Decarbonization" />
 	<meta name="twitter:description" content="Decarbonizing transport through land use and policy change" />
 	<meta name="twitter:site" content="https://schoolofcities.github.io/tod-canada/research/decarbonization" />
-	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/decarbonization/" /> 
+	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/decarbonization/thumbnail.png" /> 
 
 	<meta name="citation_title" content="TOD - Decarbonization">
 	<meta name="citation_author" content="Emily Farrar">

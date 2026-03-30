@@ -97,19 +97,19 @@
 
 	<meta name="description" content="How can strategic development, civic infrastructure investment, and inclusive planning transform a suburban terminal into a vibrant transit-oriented community?" />
 	<meta name="author" content="School of Cities">
-	<meta rel="canonical" href="https://schoolofcities.github.io/tod-on-main/case-study/panama">
+	<meta rel="canonical" href="https://schoolofcities.github.io/tod-canada/case-study/panama">
 
 	<meta property="og:title" content="Panama Station" />
 	<meta property="og:description" content="How can strategic development, civic infrastructure investment, and inclusive planning transform a suburban terminal into a vibrant transit-oriented community?" />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://schoolofcities.github.io/tod-on-main/case-study/panama" />
+	<meta property="og:url" content="https://schoolofcities.github.io/tod-canada/case-study/panama" />
 	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/case-study/panama/optimized-scenario.png" />
 	<meta property="og:locale" content="en_CA">
 
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="Panama Station" />
 	<meta name="twitter:description" content="How can strategic development, civic infrastructure investment, and inclusive planning transform a suburban terminal into a vibrant transit-oriented community?" />
-	<meta name="twitter:site" content="https://schoolofcities.github.io/tod-on-main/case-study/panama" />
+	<meta name="twitter:site" content="https://schoolofcities.github.io/tod-canada/case-study/panama" />
 	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/case-study/panama/optimized-scenario.png" /> 
 
 	<meta name="citation_title" content="Panama Station"> 

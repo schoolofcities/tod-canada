@@ -94,19 +94,19 @@
 
 	<meta name="description" content="How can we build infill in a mature community with strategic infrastructure investments to support high-capacity transit ridership?" />
 	<meta name="author" content="School of Cities">
-	<meta rel="canonical" href="https://schoolofcities.github.io/tod-on-main/case-study/mckernan-belgravia">
+	<meta rel="canonical" href="https://schoolofcities.github.io/tod-canada/case-study/mckernan-belgravia">
 
 	<meta property="og:title" content="McKernan-Belgravia Station" />
 	<meta property="og:description" content="How can we build infill in a mature community with strategic infrastructure investments to support high-capacity transit ridership?" />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://schoolofcities.github.io/tod-on-main/case-study/cooksville" />
+	<meta property="og:url" content="https://schoolofcities.github.io/tod-canada/case-study/cooksville" />
 	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/case-study/mckernan-belgravia/optimized-scenario.png" />
 	<meta property="og:locale" content="en_CA">
 
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="McKernan-Belgravia Station" />
 	<meta name="twitter:description" content="How can we build infill in a mature community with strategic infrastructure investments to support high-capacity transit ridership?" />
-	<meta name="twitter:site" content="https://schoolofcities.github.io/tod-on-main/case-study/cooksville" />
+	<meta name="twitter:site" content="https://schoolofcities.github.io/tod-canada/case-study/cooksville" />
 	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/case-study/mckernan-belgravia/optimized-scenario.png" /> 
 
 	<meta name="citation_title" content="McKernan-Belgravia Station"> 

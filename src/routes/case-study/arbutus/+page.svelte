@@ -100,19 +100,19 @@
 
 	<meta name="description" content="How can we preserve the best features of established neighbourhoods while increasing density around transit?" />
 	<meta name="author" content="School of Cities">
-	<meta rel="canonical" href="https://schoolofcities.github.io/tod-on-main/case-study/arbutus">
+	<meta rel="canonical" href="https://schoolofcities.github.io/tod-canada/case-study/arbutus">
 
 	<meta property="og:title" content="Arbutus Station" />
 	<meta property="og:description" content="How can we preserve the best features of established neighbourhoods while increasing density around transit?" />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://schoolofcities.github.io/tod-on-main/case-study/arbutus" />
+	<meta property="og:url" content="https://schoolofcities.github.io/tod-canada/case-study/arbutus" />
 	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/case-study/arbutus/optimized-scenario.png" />
 	<meta property="og:locale" content="en_CA">
 
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="Arbutus Station" />
 	<meta name="twitter:description" content="How can we preserve the best features of established neighbourhoods while increasing density around transit?" />
-	<meta name="twitter:site" content="https://schoolofcities.github.io/tod-on-main/case-study/arbutus" />
+	<meta name="twitter:site" content="https://schoolofcities.github.io/tod-canada/case-study/arbutus" />
 	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/case-study/arbutus/optimized-scenario.png" /> 
 
 	<meta name="citation_title" content="Arbutus Station"> 

@@ -55,14 +55,14 @@
 	<meta property="og:description" content="Transportation equity and sustainable mobility from mixed-use development" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://schoolofcities.github.io/tod-canada/research/transportation-equity" />
-	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/" />
+	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/thumbnail.png" />
 	<meta property="og:locale" content="en_CA">
 
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="TOD - Transportation Equity" />
 	<meta name="twitter:description" content="Transportation equity and sustainable mobility from mixed-use development" />
 	<meta name="twitter:site" content="https://schoolofcities.github.io/tod-canada/research/transportation-equity" />
-	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/" /> 
+	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/thumbnail.png" /> 
 
 	<meta name="citation_title" content="TOD - Transportation Equity">
 	<meta name="citation_author" content="Brenn Anderson-Gregson">

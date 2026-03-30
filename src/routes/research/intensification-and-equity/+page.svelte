@@ -53,14 +53,14 @@
 	<meta property="og:description" content="Building intensification and neighbourhood change in transit-oriented development zones" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://schoolofcities.github.io/tod-canada/research/intensification-and-equity" />
-	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/intensification-and-equity" />
+	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/intensification-and-equity/thumbnail.png" />
 	<meta property="og:locale" content="en_CA">
 
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="TOD - Intensification & Equity" />
 	<meta name="twitter:description" content="Building intensification and neighbourhood change in transit-oriented development zones" />
 	<meta name="twitter:site" content="https://schoolofcities.github.io/tod-canada/research/intensification-and-equity" />
-	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/intensification-and-equity" /> 
+	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/intensification-and-equity/thumbnail.png" /> 
 
 	<meta name="citation_title" content="TOD - Intensification & Equity">
 	<meta name="citation_author" content="Prentiss Dantzler">

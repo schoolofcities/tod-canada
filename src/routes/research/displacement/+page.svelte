@@ -58,14 +58,14 @@
 	<meta property="og:description" content="Past and Projected Transit-Induced Displacement in Canada" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://schoolofcities.github.io/tod-canada/research/displacement" />
-	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/displacement" />
+	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/displacement/thumbnail.png" />
 	<meta property="og:locale" content="en_CA">
 
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="TOD - Displacement" />
 	<meta name="twitter:description" content="Past and Projected Transit-Induced Displacement in Canada" />
 	<meta name="twitter:site" content="https://schoolofcities.github.io/tod-canada/research/displacement" />
-	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/displacement" /> 
+	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/displacement/thumbnail.png" /> 
 
 	<meta name="citation_title" content="TOD - Displacement">
 	<meta name="citation_author" content="Jeff Allen">
