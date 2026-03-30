@@ -45,28 +45,28 @@
 
 	<title>TOD - Intensification & Equity | School of Cities</title>
 
-	<!-- <meta name="description" content="Repository of design and web components for building data stories, visualizations, maps, and other custom web projects" />
+	<meta name="description" content="Building intensification and neighbourhood change in transit-oriented development zones" />
 	<meta name="author" content="School of Cities">
-	<meta rel="canonical" href="https://schoolofcities.github.io/design-components/">
+	<meta rel="canonical" href="https://schoolofcities.github.io/tod-canada/research/intensification-and-equity">
 
-	<meta property="og:title" content="Design Components" />
-	<meta property="og:description" content="Repository of design and web components for building data stories, visualizations, maps, and other custom web projects" />
+	<meta property="og:title" content="TOD - Intensification & Equity" />
+	<meta property="og:description" content="Building intensification and neighbourhood change in transit-oriented development zones" />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://schoolofcities.github.io/design-components/" />
-	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/design-components/main/static/web-card.png" />
+	<meta property="og:url" content="https://schoolofcities.github.io/tod-canada/research/intensification-and-equity" />
+	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/intensification-and-equity" />
 	<meta property="og:locale" content="en_CA">
 
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:title" content="Design Components" />
-	<meta name="twitter:description" content="Repository of design and web components for building data stories, visualizations, maps, and other custom web projects" />
-	<meta name="twitter:site" content="https://schoolofcities.github.io/design-components/" />
-	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/design-components/main/static/web-card.png" /> 
+	<meta name="twitter:title" content="TOD - Intensification & Equity" />
+	<meta name="twitter:description" content="Building intensification and neighbourhood change in transit-oriented development zones" />
+	<meta name="twitter:site" content="https://schoolofcities.github.io/tod-canada/research/intensification-and-equity" />
+	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/intensification-and-equity" /> 
 
-	<meta name="citation_title" content="Design Components">
-	<meta name="citation_author" content="Author Name 1">
-	<meta name="citation_author" content="Author Name 2">
-	<meta name="citation_author" content="Author Name 3"> -->
-	<meta name="citation_publication_date" content="2025/09/23">
+	<meta name="citation_title" content="TOD - Intensification & Equity">
+	<meta name="citation_author" content="Prentiss Dantzler">
+	<meta name="citation_author" content="Khalil Martin">
+	<meta name="citation_author" content="Abigail Meza"> 
+	<meta name="citation_publication_date" content="2026/04">
 	<meta name="citation_journal_title" content="School of Cities">
 	<!-- <meta name="citation_pdf_url" content="https://schoolofcities.utoronto.ca/research-paper.pdf"> -->
 	<!-- <meta name="citation_abstract_html_url" content="https://schoolofcities.github.io/design-components/"> -->

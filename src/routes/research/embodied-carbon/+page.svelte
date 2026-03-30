@@ -56,28 +56,28 @@
 
 	<title>TOD - Embodied Carbon | School of Cities</title>
 
-	<!-- <meta name="description" content="Repository of design and web components for building data stories, visualizations, maps, and other custom web projects" />
+	<meta name="description" content="Embodied Greenhouse Gas Emissions in Transit-Oriented Development Scenarios" />
 	<meta name="author" content="School of Cities">
-	<meta rel="canonical" href="https://schoolofcities.github.io/design-components/">
+	<meta rel="canonical" href="https://schoolofcities.github.io/tod-canada/research/embodied-carbon/">
 
-	<meta property="og:title" content="Design Components" />
-	<meta property="og:description" content="Repository of design and web components for building data stories, visualizations, maps, and other custom web projects" />
+	<meta property="og:title" content="TOD - Embodied Carbon" />
+	<meta property="og:description" content="Embodied Greenhouse Gas Emissions in Transit-Oriented Development Scenarios" />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://schoolofcities.github.io/design-components/" />
-	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/design-components/main/static/web-card.png" />
+	<meta property="og:url" content="https://schoolofcities.github.io/tod-canada/research/embodied-carbon/" />
+	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/embodied-carbon/" />
 	<meta property="og:locale" content="en_CA">
 
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:title" content="Design Components" />
-	<meta name="twitter:description" content="Repository of design and web components for building data stories, visualizations, maps, and other custom web projects" />
-	<meta name="twitter:site" content="https://schoolofcities.github.io/design-components/" />
-	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/design-components/main/static/web-card.png" /> 
+	<meta name="twitter:title" content="TOD - Embodied Carbon" />
+	<meta name="twitter:description" content="Embodied Greenhouse Gas Emissions in Transit-Oriented Development Scenarios" />
+	<meta name="twitter:site" content="https://schoolofcities.github.io/tod-canada/research/embodied-carbon/" />
+	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/embodied-carbon/" /> 
 
-	<meta name="citation_title" content="Design Components">
+	<meta name="citation_title" content="TOD - Embodied Carbon">
 	<meta name="citation_author" content="Author Name 1">
 	<meta name="citation_author" content="Author Name 2">
-	<meta name="citation_author" content="Author Name 3"> -->
-	<meta name="citation_publication_date" content="2025/09/23">
+	<meta name="citation_author" content="Author Name 3"> 
+	<meta name="citation_publication_date" content="2026/04">
 	<meta name="citation_journal_title" content="School of Cities">
 	<!-- <meta name="citation_pdf_url" content="https://schoolofcities.utoronto.ca/research-paper.pdf"> -->
 	<!-- <meta name="citation_abstract_html_url" content="https://schoolofcities.github.io/design-components/"> -->
@@ -90,17 +90,6 @@
 
 	<Password correctPassword="meowmeowcat"></Password>
 
-	<!-- <TitleVideo
-		title="Embodied Carbon in Different Development Patterns and Built Forms "
-		subtitle=""
-		titletype="RESEARCH"
-		video="/tod-canada/research/embodied-carbon/skylineVideo.mp4"
-		videoSpeed={0.67}
-		videoOpacity={0.8}
-		titleFontColour="var(--brandWhite)"
-		subtitleFontColour="var(--brandWhite)"
-		logoType = 'White';
-	/> -->
 	<TitlePage
 		title="Embodied Greenhouse Gas Emissions in Transit-Oriented Development Scenarios"
 		type="Research"
