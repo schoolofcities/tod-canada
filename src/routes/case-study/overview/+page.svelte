@@ -5,15 +5,13 @@
 	import Footnote from '$lib/Footnote.svelte';
 	import Footnotes from '$lib/Footnotes.svelte';
 	import { createFootnoteStore } from '$lib/footnoteUtils';
+    // import CaseStudyCard from '$lib/CaseStudyCard.svelte';
 
 	const footnoteStore = createFootnoteStore();
 	const { footnotes, addFootnote } = footnoteStore;
 
 	const fns = [
-		'Ewing, 1999; Blainey and Evens, 2011; Guerra and Cervero, 2012',
-		'',
-		'',
-		''
+		'Ewing, 1999; Blainey and Evens, 2011; Guerra and Cervero, 2012'
 	];
 </script>
 
@@ -61,6 +59,13 @@
 		<p>
 			We examined the following case study areas: 
 		</p>
+
+		<!-- <CaseStudyCard 
+			title="Arbutus Station"
+			location="Vancouver, British Columbia"
+			description="The Arbutus case focuses on displacement risk, with the optimized scenario preserving existing older low- and mid-rise housing stock where possible and concentrating new development along the major commercial corridor of Broadway. It also plans for modest, affordable infill in surrounding neighbourhoods and an increase in essential public services to keep pace with the increase in population."
+			keyQuestion="Key question: How can we preserve the best features of established neighbourhoods ensure that housing remains affordable while increasing density around transit?"
+			image="../web-assets/case-study/cooksville/cooksville-scenario1.png"/> -->
 
 		<ul>
 			<li>
