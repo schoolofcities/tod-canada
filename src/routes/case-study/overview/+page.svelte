@@ -186,6 +186,13 @@
 
 	<div class="text">
 		<div class="line-break"></div>
+		<p>
+			Based at the University of Toronto, the School of Cities is a multidisciplinary hub for urban research, education, and engagement creating new and just ways for cities and their residents to thrive. The School supports scholars, practitioners, and community members to co-create new understandings, policies, and practices and fosters opportunity, insight, and knowledge exchange with a global reach. 
+		</p>
+
+		<p>
+			This work is part of the <a href="https://housing-infrastructure.canada.ca/rki-irc/index-eng.html" target="_blank">Research Knowledge Initiative</a> program from <a href="https://housing-infrastructure.canada.ca/index-eng.html" target="_blank">Housing, Infrastructure and Communities Canada</a>
+		</p>
 		<LogoBody/>
 		<div class="line-break"></div>
 	</div>
