@@ -80,7 +80,7 @@
 	<Password correctPassword="meowmeowcat"></Password>
 
 	<TitlePage
-		title="Building intensification and neighbourhood change in transit-oriented development zones "
+		title="Building Intensification and Neighbourhood Change in Transit-Oriented Development Zones "
 		type="RESEARCH"
 		bgType="Video"
 		url="/tod-canada/web-assets/research/intensification-and-equity/light-rail-trains-crossing-each-other-in-ottawa-SBV-349142262-HD.mp4"
