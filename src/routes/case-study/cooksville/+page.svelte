@@ -213,7 +213,7 @@
 		
 		<div class="text">
 			<p>
-				The area has many types of households, including families and a growing number of seniors, of whom many live alone. Many people - especially renters - live in high-rise apartments along the major corridors of Hurontario and Dundas streets, but there are also lower-density neighbourhoods further from the station. Household incomes average about $92,000 per year, far below the city average.
+				The area has many types of households, including families and a growing number of seniors, of whom many live alone. Many people – especially renters – live in high-rise apartments along the major corridors of Hurontario and Dundas streets, but there are also lower-density neighbourhoods further from the station. Household incomes average about $92,000 per year, far below the city average.
 			</p>
 
 
@@ -262,7 +262,7 @@
 
 		<ImageSingle
 			imageURL={"../web-assets/case-study/cooksville/cooksville-creek-mississauga-photo.jpg"}
-			source={"<a href='https://www.mississauga.ca/projects-and-strategies/environmental-assessments/cooksville-creek-erosion-control-from-mississauga-valley-boulevard-to-the-cp-railway/' target='_blank'>Cooksville Creek Erosion Control from Mississauga Valley Boulevard to the CP Railway</a>."}
+			source={"<a href='https://www.mississauga.ca/projects-and-strategies/environmental-assessments/cooksville-creek-erosion-control-from-mississauga-valley-boulevard-to-the-cp-railway/' target='_blank'>Photo by the City of Mississauga</a>."}
 			caption={"The Cooksville Creek flows through the station area, heightening the risk of flooding."}
 			maxWidth="1080px"
 			link='No'
@@ -290,7 +290,7 @@
 		<ImageSingle
 			imageURL="../web-assets/case-study/cooksville/cooksville-current-dev.png"
 			caption="Development currently proposed or under construction within 800 metres of Cooksville Station."
-			source="Infrastructure Institute (2025)."
+			source="Rendering by Infrastructure Institute (2025)."
 			maxWidth="680px"
 			link='No'
 		/>
@@ -306,7 +306,7 @@
 		<ImageSingle
 			imageURL="../web-assets/case-study/cooksville/cooksville-community-hub.jpg"
 			caption="Rendering of the planned Cooksville Community Hub, which will be a vibrant space for all ages."
-			source="<a href='https://www7.mississauga.ca/documents/committees/pdc/2016/06_27_16_-_PDC_Agenda_-_Evening_Session.pdf' target='_blank'>City of Mississauga</a>."
+			source="<a href='https://www7.mississauga.ca/documents/committees/pdc/2016/06_27_16_-_PDC_Agenda_-_Evening_Session.pdf' target='_blank'>Rendering by the City of Mississauga</a>."
 			maxWidth="680px"
 			link='No'
 		/>
@@ -394,7 +394,7 @@
 			imageURL="../web-assets/case-study/cooksville/copenhagen-playground.jpg" 
 			maxWidth="680px"
 			caption={"Playgrounds and green spaces are important for safe, accessible play."}
-			source={"<a href='https://www.pexels.com/photo/modern-playground-in-copenhagen-urban-area-34770471/' target='_blank'>Photo by Hari Hofer</a>"}
+			source={"<a href='https://www.pexels.com/photo/modern-playground-in-copenhagen-urban-area-34770471/' target='_blank'>Photo by Hari Hofer</a>."}
 		/>
 
 		<div class="text">
@@ -414,13 +414,13 @@
 		<ImageSingle imageURL="../web-assets/case-study/cooksville/mixed-use-space.png"
 			caption="Mixed use public space, designed for all ages."
 			maxWidth="680px"
-			source="Infrastructure Institute (2025)."
+			source="Rendering by Infrastructure Institute (2025)."
 		/>
 
 		<div class="text">
 
 			<h1 id="Menu_5">
-				Addressing rising flood risk 
+				Optimized scenario: Addressing rising flood risk 
 			</h1>
 
 			<p>
@@ -511,7 +511,7 @@
 		<ImageSingle
 			imageURL={"../web-assets/case-study/cooksville/saigon-park.jpg"}
 			caption="The City of Mississauga built the Lake Saigon stormwater management pond to mitigate flood impacts."
-			source="<a href='https://www.mississauga.ca/wp-content/uploads/2024/08/19124804/Siagon-Park-Social-Post-1-scaled.jpg' target='_blank'>Photo by the City of Mississauga.</a>"
+			source="<a href='https://www.mississauga.ca/wp-content/uploads/2024/08/19124804/Siagon-Park-Social-Post-1-scaled.jpg' target='_blank'>Photo by the City of Mississauga</a>."
 			maxWidth="680px"
 			link='No'
 		/>
@@ -530,7 +530,7 @@
 		<ImageSingle
 			imageURL={"../web-assets/case-study/cooksville/cooksville-aerial.jpg"}
 			caption="Cooksville contains a mix of built forms and families."
-			source="<a href='https://commons.wikimedia.org/wiki/File:Aerial_view_of_Cooksville_2022.jpg' target='_blank'>Photo by Canmenwalker.</a>"
+			source="<a href='https://commons.wikimedia.org/wiki/File:Aerial_view_of_Cooksville_2022.jpg' target='_blank'>Photo by Canmenwalker</a>."
 			maxWidth="680px"
 			link='No'
 		/>
