@@ -1,2 +1,1465 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" id="svg1" width="360" height="640" viewBox="0 0 360 640" sodipodi:docname="summary-panama-360.svg" inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"><g id="background"><image x="0.0" y="0.0" width="360.0" height="640.0" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,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"/></g><g id="foreground"><g id="layer-MC0" inkscape:groupmode="layer" inkscape:label="svg225"><g id="g70" clip-path="url(#clipPath70)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath66)" id="g68" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,25.873733,341.16147)" clip-path="url(#clipPath65)" id="text68" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,25.873733,341.16147)" clip-path="url(#clipPath65)" id="text68" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 16px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -1.6336 0 0.1152 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.19840001" y="0" id="tspan68"><tspan style="font-variant: normal; font-stretch: normal; font-size: 16px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -1.6336 0 0.1152 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.19840001" y="0" id="tspan68">Total GHG emissions from </tspan></tspan></text></g><g clip-path="url(#clipPath68)" id="g69" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,25.873733,367.82813)" clip-path="url(#clipPath67)" id="text69" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,25.873733,367.82813)" clip-path="url(#clipPath67)" id="text69" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 16px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 0 0 0 0 0 0 0 0.152 0 0.1184 0 0 0 0 0.1376 0.1424 0 0 0 0 -0.21600001" y="0" id="tspan69"><tspan style="font-variant: normal; font-stretch: normal; font-size: 16px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 0 0 0 0 0 0 0 0.152 0 0.1184 0 0 0 0 0.1376 0.1424 0 0 0 0 -0.21600001" y="0" id="tspan69">embodied carbon (MtCO e)</tspan></tspan></text></g></g><g id="g73" clip-path="url(#clipPath73)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath72)" id="g72" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,271.29493,378.8476)" clip-path="url(#clipPath71)" id="text72" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,271.29493,378.8476)" clip-path="url(#clipPath71)" id="text72" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 12px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" y="0" id="tspan72"><tspan style="font-variant: normal; font-stretch: normal; font-size: 12px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" y="0" id="tspan72">2</tspan></tspan></text></g></g><g id="g76" clip-path="url(#clipPath76)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath75)" id="g75" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,251.67973,644.57427)" clip-path="url(#clipPath74)" id="text75" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,251.67973,644.57427)" clip-path="url(#clipPath74)" id="text75" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 12px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" y="0" id="tspan75"><tspan style="font-variant: normal; font-stretch: normal; font-size: 12px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" y="0" id="tspan75">2</tspan></tspan></text></g></g><g id="g79" clip-path="url(#clipPath79)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath78)" id="g78" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,26.1524,48.2096)" clip-path="url(#clipPath77)" id="text78" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,26.1524,48.2096)" clip-path="url(#clipPath77)" id="text78" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 16px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 0 0 0 0.084799998 0 0 0 -0.2816 -0.28639999 0 0.23999999 0 0 -0.22239999" y="0" id="tspan78"><tspan style="font-variant: normal; font-stretch: normal; font-size: 16px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 0 0 0 0.084799998 0 0 0 -0.2816 -0.28639999 0 0.23999999 0 0 -0.22239999" y="0" id="tspan78">Scenario overview</tspan></tspan></text></g></g><g id="g82" clip-path="url(#clipPath82)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath81)" id="g81" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,38.687467,109.6028)" clip-path="url(#clipPath80)" id="text81" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,38.687467,109.6028)" clip-path="url(#clipPath80)" id="text81" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 12px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -0.2208" y="0" id="tspan81"><tspan style="font-variant: normal; font-stretch: normal; font-size: 12px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -0.2208" y="0" id="tspan81">Panama</tspan></tspan></text></g></g><g id="g86" clip-path="url(#clipPath86)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath84)" id="g85" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,37.179733,417.33333)" clip-path="url(#clipPath83)" id="text85" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,37.179733,417.33333)" clip-path="url(#clipPath83)" id="text85" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 0.104 -0.169" y="0" id="tspan84"><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 0.104 -0.169" y="0" id="tspan84">Current </tspan></tspan><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 -0.13519999 0 0 0 0 -0.1092 0 0.20280001" y="15.6" id="tspan85"><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 -0.13519999 0 0 0 0 -0.1092 0 0.20280001" y="15.6" id="tspan85">trajectory</tspan></tspan></text></g></g><g id="g89" clip-path="url(#clipPath89)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath88)" id="g88" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,294.88933,110.8724)" clip-path="url(#clipPath87)" id="text88" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,294.88933,110.8724)" clip-path="url(#clipPath87)" id="text88" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 -0.13519999 0 0 0 0 -0.1092 0 0.20280001" y="0" id="tspan88"><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 -0.13519999 0 0 0 0 -0.1092 0 0.20280001" y="0" id="tspan88">trajectory</tspan></tspan></text></g></g><g id="g92" clip-path="url(#clipPath92)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath91)" id="g91" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,302.4472,93.210933)" clip-path="url(#clipPath90)" id="text91" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,302.4472,93.210933)" clip-path="url(#clipPath90)" id="text91" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 0.104 -0.169" y="0" id="tspan91"><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 0.104 -0.169" y="0" id="tspan91">Current</tspan></tspan></text></g></g><g id="g95" clip-path="url(#clipPath95)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath94)" id="g94" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,393.68227,110.8724)" clip-path="url(#clipPath93)" id="text94" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,393.68227,110.8724)" clip-path="url(#clipPath93)" id="text94" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 0 0 0 0.066299997" y="0" id="tspan94"><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 0 0 0 0.066299997" y="0" id="tspan94">scenario</tspan></tspan></text></g></g><g id="g98" clip-path="url(#clipPath98)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath97)" id="g97" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,387.21227,93.210933)" clip-path="url(#clipPath96)" id="text97" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,387.21227,93.210933)" clip-path="url(#clipPath96)" id="text97" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 0 0 0 0 -0.28080001" y="0" id="tspan97"><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 0 0 0 0 -0.28080001" y="0" id="tspan97">Optimized</tspan></tspan></text></g></g><g id="g102" clip-path="url(#clipPath102)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath100)" id="g101" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,37.179733,483.95707)" clip-path="url(#clipPath99)" id="text101" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,37.179733,483.95707)" clip-path="url(#clipPath99)" id="text101" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 0 0 0 0 -0.28080001" y="0" id="tspan100"><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 0 0 0 0 -0.28080001" y="0" id="tspan100">Optimized </tspan></tspan><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 0 0 0 0.066299997" y="15.6" id="tspan101"><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 0 0 0 0.066299997" y="15.6" id="tspan101">scenario</tspan></tspan></text></g></g><g id="g106" clip-path="url(#clipPath106)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath104)" id="g105" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,37.179733,681.62373)" clip-path="url(#clipPath103)" id="text105" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,37.179733,681.62373)" clip-path="url(#clipPath103)" id="text105" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 0.104 -0.169" y="0" id="tspan104"><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 0.104 -0.169" y="0" id="tspan104">Current </tspan></tspan><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 -0.13519999 0 0 0 0 -0.1092 0 0.20280001" y="15.6" id="tspan105"><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 -0.13519999 0 0 0 0 -0.1092 0 0.20280001" y="15.6" id="tspan105">trajectory</tspan></tspan></text></g></g><g id="g110" clip-path="url(#clipPath110)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath108)" id="g109" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,37.179733,749.01827)" clip-path="url(#clipPath107)" id="text109" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,37.179733,749.01827)" clip-path="url(#clipPath107)" id="text109" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 0 0 0 0 -0.28080001" y="0" id="tspan108"><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 0 0 0 0 -0.28080001" y="0" id="tspan108">Optimized </tspan></tspan><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 0 0 0 0.066299997" y="15.6" id="tspan109"><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 0 0 0 0.066299997" y="15.6" id="tspan109">scenario</tspan></tspan></text></g></g><g id="g113" clip-path="url(#clipPath113)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath112)" id="g112" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,39.1856,145.11067)" clip-path="url(#clipPath111)" id="text112" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,39.1856,145.11067)" clip-path="url(#clipPath111)" id="text112" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -0.069600001 -0.15000001 0 0 0 0 0 0 0 0 -0.2124 -0.23280001 0 0 0 0 0 0 0 -0.088799998" y="0" id="tspan112"><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -0.069600001 -0.15000001 0 0 0 0 0 0 0 0 -0.2124 -0.23280001 0 0 0 0 0 0 0 -0.088799998" y="0" id="tspan112">Proposed developments</tspan></tspan></text></g></g><g id="g116" clip-path="url(#clipPath116)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath115)" id="g115" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,326.40427,145.11067)" clip-path="url(#clipPath114)" id="text115" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,326.40427,145.11067)" clip-path="url(#clipPath114)" id="text115" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -0.1989" y="0" id="tspan115"><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -0.1989" y="0" id="tspan115">24</tspan></tspan></text></g></g><g id="g119" clip-path="url(#clipPath119)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath118)" id="g118" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,418.0104,145.11067)" clip-path="url(#clipPath117)" id="text118" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,418.0104,145.11067)" clip-path="url(#clipPath117)" id="text118" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" y="0" id="tspan118"><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" y="0" id="tspan118">25</tspan></tspan></text></g></g><g id="g122" clip-path="url(#clipPath122)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath121)" id="g121" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,314.69333,182.54947)" clip-path="url(#clipPath120)" id="text121" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,314.69333,182.54947)" clip-path="url(#clipPath120)" id="text121" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -1.625 -0.16249999" y="0" id="tspan121"><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -1.625 -0.16249999" y="0" id="tspan121">7,903</tspan></tspan></text></g></g><g id="g125" clip-path="url(#clipPath125)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath124)" id="g124" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,406.54693,182.01307)" clip-path="url(#clipPath123)" id="text124" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,406.54693,182.01307)" clip-path="url(#clipPath123)" id="text124" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -1.625 -0.080600001" y="0" id="tspan124"><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -1.625 -0.080600001" y="0" id="tspan124">7,550</tspan></tspan></text></g></g><g id="g128" clip-path="url(#clipPath128)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath127)" id="g127" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,310.57613,266.69533)" clip-path="url(#clipPath126)" id="text127" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,310.57613,266.69533)" clip-path="url(#clipPath126)" id="text127" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 -0.37180001" y="0" id="tspan127"><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 -0.37180001" y="0" id="tspan127">12,645</tspan></tspan></text></g></g><g id="g131" clip-path="url(#clipPath131)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath130)" id="g130" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,202.50973,445.8476)" clip-path="url(#clipPath129)" id="text130" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,202.50973,445.8476)" clip-path="url(#clipPath129)" id="text130" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -0.38609999" y="0" id="tspan130"><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -0.38609999" y="0" id="tspan130">0.272</tspan></tspan></text></g></g><g id="g134" clip-path="url(#clipPath134)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath133)" id="g133" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,207.39973,510.4544)" clip-path="url(#clipPath132)" id="text133" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,207.39973,510.4544)" clip-path="url(#clipPath132)" id="text133" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -0.38479999" y="0" id="tspan133"><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -0.38479999" y="0" id="tspan133">0.26</tspan></tspan></text></g></g><g id="g137" clip-path="url(#clipPath137)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath136)" id="g136" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,300.5924,713.26427)" clip-path="url(#clipPath135)" id="text136" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,300.5924,713.26427)" clip-path="url(#clipPath135)" id="text136" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 -0.074100003" y="0" id="tspan136"><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 -0.074100003" y="0" id="tspan136">21.5</tspan></tspan></text></g></g><g id="g140" clip-path="url(#clipPath140)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath139)" id="g139" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,302.44787,775.4232)" clip-path="url(#clipPath138)" id="text139" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,302.44787,775.4232)" clip-path="url(#clipPath138)" id="text139" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 -0.37180001" y="0" id="tspan139"><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 -0.37180001" y="0" id="tspan139">21.6</tspan></tspan></text></g></g><g id="g143" clip-path="url(#clipPath143)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath142)" id="g142" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,400.8444,266.69667)" clip-path="url(#clipPath141)" id="text142" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,400.8444,266.69667)" clip-path="url(#clipPath141)" id="text142" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 -0.37180001" y="0" id="tspan142"><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 -0.37180001" y="0" id="tspan142">12,080</tspan></tspan></text></g></g><g id="g146" clip-path="url(#clipPath146)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath145)" id="g145" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,324.00387,223.3216)" clip-path="url(#clipPath144)" id="text145" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,324.00387,223.3216)" clip-path="url(#clipPath144)" id="text145" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 -0.377" y="0" id="tspan145"><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 -0.377" y="0" id="tspan145">1.6</tspan></tspan></text></g></g><g id="g149" clip-path="url(#clipPath149)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath148)" id="g148" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,418.01107,223.81773)" clip-path="url(#clipPath147)" id="text148" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,418.01107,223.81773)" clip-path="url(#clipPath147)" id="text148" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 -0.377" y="0" id="tspan148"><tspan style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 -0.377" y="0" id="tspan148">1.6</tspan></tspan></text></g></g><g id="g152" clip-path="url(#clipPath152)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath151)" id="g151" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,39.1856,184.362)" clip-path="url(#clipPath150)" id="text151" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,39.1856,184.362)" clip-path="url(#clipPath150)" id="text151" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -0.069600001 -0.15000001 0 0 0 0 0 0 0 -0.1356 0 0 0 0 0 0 0 0 0 0 0 0 0 0.098399997 -0.1128" y="0" id="tspan151"><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -0.069600001 -0.15000001 0 0 0 0 0 0 0 -0.1356 0 0 0 0 0 0 0 0 0 0 0 0 0 0.098399997 -0.1128" y="0" id="tspan151">Proposed residential units</tspan></tspan></text></g></g><g id="g155" clip-path="url(#clipPath155)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath154)" id="g154" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,39.1856,224.19013)" clip-path="url(#clipPath153)" id="text154" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,39.1856,224.19013)" clip-path="url(#clipPath153)" id="text154" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0.069600001 0 0 0 0 -0.099600002 0 0 0 0 0 0 0 0.108 0 0 -0.22319999 0 0 0 0 0 0 0 0 0 0 0 0 0.093599997" y="0" id="tspan154"><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0.069600001 0 0 0 0 -0.099600002 0 0 0 0 0 0 0 0.108 0 0 -0.22319999 0 0 0 0 0 0 0 0 0 0 0 0 0.093599997" y="0" id="tspan154">Estimated occupancy (people/unit)</tspan></tspan></text></g></g><g id="g161" clip-path="url(#clipPath161)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath157)" id="g159" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,39.1856,266.17453)" clip-path="url(#clipPath156)" id="text159" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,39.1856,266.17453)" clip-path="url(#clipPath156)" id="text159" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0.069600001 0 0 0 0 -0.099600002" y="0" id="tspan159"><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0.069600001 0 0 0 0 -0.099600002" y="0" id="tspan159">Estimated population in</tspan></tspan></text></g><g clip-path="url(#clipPath159)" id="g160" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,39.1856,285.37373)" clip-path="url(#clipPath158)" id="text160" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,39.1856,285.37373)" clip-path="url(#clipPath158)" id="text160" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 -0.20999999" y="0" id="tspan160"><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 -0.20999999" y="0" id="tspan160">new buildings</tspan></tspan></text></g></g><g id="g167" clip-path="url(#clipPath167)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath163)" id="g165" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,25.236933,606.14587)" clip-path="url(#clipPath162)" id="text165" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,25.236933,606.14587)" clip-path="url(#clipPath162)" id="text165" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 16px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -0.30239999 0 0 0 0.1376 0 0 0 0.112 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.1952" y="0" id="tspan165"><tspan style="font-variant: normal; font-stretch: normal; font-size: 16px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -0.30239999 0 0 0 0.1376 0 0 0 0.112 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.1952" y="0" id="tspan165">Per capita GHG emissions from</tspan></tspan></text></g><g clip-path="url(#clipPath165)" id="g166" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,25.236933,632.81253)" clip-path="url(#clipPath164)" id="text166" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,25.236933,632.81253)" clip-path="url(#clipPath164)" id="text166" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-stretch: normal; font-size: 16px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 0 0 0 0 0 0 0 0.152 0 0.1184" y="0" id="tspan166"><tspan style="font-variant: normal; font-stretch: normal; font-size: 16px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 0 0 0 0 0 0 0 0 0.152 0 0.1184" y="0" id="tspan166">embodied carbon (tCO e / person)</tspan></tspan></text></g></g><g id="g182" clip-path="url(#clipPath182)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath181)" id="g181" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,222.42573,816.06773)" clip-path="url(#clipPath180)" id="text181" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,222.42573,816.06773)" clip-path="url(#clipPath180)" id="text181" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" y="0" id="tspan181"><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" y="0" id="tspan181">15</tspan></tspan></text></g></g><g id="g188" clip-path="url(#clipPath188)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath187)" id="g187" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,154.59893,816.06773)" clip-path="url(#clipPath186)" id="text187" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,154.59893,816.06773)" clip-path="url(#clipPath186)" id="text187" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" y="0" id="tspan187"><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" y="0" id="tspan187">10</tspan></tspan></text></g></g><g id="g191" clip-path="url(#clipPath191)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath190)" id="g190" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,289.16733,816.06773)" clip-path="url(#clipPath189)" id="text190" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,289.16733,816.06773)" clip-path="url(#clipPath189)" id="text190" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" y="0" id="tspan190"><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" y="0" id="tspan190">20</tspan></tspan></text></g></g><g id="g194" clip-path="url(#clipPath194)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath193)" id="g193" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,358.4408,816.06773)" clip-path="url(#clipPath192)" id="text193" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,358.4408,816.06773)" clip-path="url(#clipPath192)" id="text193" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" y="0" id="tspan193"><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" y="0" id="tspan193">25</tspan></tspan></text></g></g><g id="g197" clip-path="url(#clipPath197)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath196)" id="g196" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,424.80333,816.06773)" clip-path="url(#clipPath195)" id="text196" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,424.80333,816.06773)" clip-path="url(#clipPath195)" id="text196" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" y="0" id="tspan196"><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" y="0" id="tspan196">30</tspan></tspan></text></g></g><g id="g200" clip-path="url(#clipPath200)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath199)" id="g199" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,140.67973,548.73693)" clip-path="url(#clipPath198)" id="text199" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,140.67973,548.73693)" clip-path="url(#clipPath198)" id="text199" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" y="0" id="tspan199"><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" y="0" id="tspan199">0</tspan></tspan></text></g></g><g id="g203" clip-path="url(#clipPath203)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath202)" id="g202" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,190.89973,548.73693)" clip-path="url(#clipPath201)" id="text202" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,190.89973,548.73693)" clip-path="url(#clipPath201)" id="text202" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -0.30000001" y="0" id="tspan202"><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -0.30000001" y="0" id="tspan202">0.2</tspan></tspan></text></g></g><g id="g206" clip-path="url(#clipPath206)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath205)" id="g205" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,248.24413,548.73693)" clip-path="url(#clipPath204)" id="text205" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,248.24413,548.73693)" clip-path="url(#clipPath204)" id="text205" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -0.30000001" y="0" id="tspan205"><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -0.30000001" y="0" id="tspan205">0.4</tspan></tspan></text></g></g><g id="g209" clip-path="url(#clipPath209)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath208)" id="g208" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,303.6992,548.73693)" clip-path="url(#clipPath207)" id="text208" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,303.6992,548.73693)" clip-path="url(#clipPath207)" id="text208" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -0.30000001 -0.30000001" y="0" id="tspan208"><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -0.30000001 -0.30000001" y="0" id="tspan208">0.6</tspan></tspan></text></g></g><g id="g212" clip-path="url(#clipPath212)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath211)" id="g211" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,361.1992,548.73827)" clip-path="url(#clipPath210)" id="text211" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,361.1992,548.73827)" clip-path="url(#clipPath210)" id="text211" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -0.30000001 -0.18719999" y="0" id="tspan211"><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 -0.30000001 -0.18719999" y="0" id="tspan211">0.8</tspan></tspan></text></g></g><g id="g215" clip-path="url(#clipPath215)" transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)" style="stroke-width:1.33333"><g clip-path="url(#clipPath214)" id="g214" style="stroke-width:1.33333"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,418.0104,548.73827)" clip-path="url(#clipPath213)" id="text214" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text xml:space="preserve" transform="matrix(1.3333333,0,0,1.3333333,418.0104,548.73827)" clip-path="url(#clipPath213)" id="text214" style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"/><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 -0.30000001" y="0" id="tspan214"><tspan style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;" x="0" dx="0 0 -0.30000001" y="0" id="tspan214">1.0</tspan></tspan></text></g></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg1"
+   width="360"
+   height="640"
+   viewBox="0 0 360 640"
+   sodipodi:docname="summary-panama-360.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs48" />
+  <sodipodi:namedview
+     id="namedview48"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.2078125"
+     inkscape:cx="180.07762"
+     inkscape:cy="319.58603"
+     inkscape:window-width="1196"
+     inkscape:window-height="1020"
+     inkscape:window-x="2512"
+     inkscape:window-y="95"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <g
+     id="background">
+    <image
+       x="0.0"
+       y="0.0"
+       width="360.0"
+       height="640.0"
+       preserveAspectRatio="xMidYMid meet"
+       href="data:image/png;base64,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"
+       id="image1" />
+  </g>
+  <g
+     id="foreground">
+    <g
+       id="layer-MC0"
+       inkscape:groupmode="layer"
+       inkscape:label="svg225">
+      <g
+         id="g70"
+         clip-path="url(#clipPath70)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath66)"
+           id="g68"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,25.873733,341.16147)"
+             clip-path="url(#clipPath65)"
+             id="text1"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,25.873733,341.16147)"
+               clip-path="url(#clipPath65)"
+               id="text68"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 16px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 -1.6336 0 0.1152 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.19840001"
+               y="0"
+               id="tspan1"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 16px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 -1.6336 0 0.1152 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.19840001"
+                 y="0"
+                 id="tspan68">Total GHG emissions from </tspan></tspan></text>
+        </g>
+        <g
+           clip-path="url(#clipPath68)"
+           id="g69"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,25.873733,367.82813)"
+             clip-path="url(#clipPath67)"
+             id="text2"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,25.873733,367.82813)"
+               clip-path="url(#clipPath67)"
+               id="text69"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 16px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 0 0 0 0 0 0 0 0 0 0.152 0 0.1184 0 0 0 0 0.1376 0.1424 0 0 0 0 -0.21600001"
+               y="0"
+               id="tspan2"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 16px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 0 0 0 0 0 0 0 0 0 0.152 0 0.1184 0 0 0 0 0.1376 0.1424 0 0 0 0 -0.21600001"
+                 y="0"
+                 id="tspan69">embodied carbon (MtCO e)</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g73"
+         clip-path="url(#clipPath73)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath72)"
+           id="g72"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,271.29493,378.8476)"
+             clip-path="url(#clipPath71)"
+             id="text3"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,271.29493,378.8476)"
+               clip-path="url(#clipPath71)"
+               id="text72"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 12px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               y="0"
+               id="tspan3"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 12px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 y="0"
+                 id="tspan72">2</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g76"
+         clip-path="url(#clipPath76)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath75)"
+           id="g75"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,251.67973,644.57427)"
+             clip-path="url(#clipPath74)"
+             id="text4"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,251.67973,644.57427)"
+               clip-path="url(#clipPath74)"
+               id="text75"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 12px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               y="0"
+               id="tspan4"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 12px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 y="0"
+                 id="tspan75">2</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g79"
+         clip-path="url(#clipPath79)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath78)"
+           id="g78"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,26.1524,48.2096)"
+             clip-path="url(#clipPath77)"
+             id="text5"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,26.1524,48.2096)"
+               clip-path="url(#clipPath77)"
+               id="text78"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 16px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 0 0 0 0 0 0.084799998 0 0 0 -0.2816 -0.28639999 0 0.23999999 0 0 -0.22239999"
+               y="0"
+               id="tspan5"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 16px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 0 0 0 0 0 0.084799998 0 0 0 -0.2816 -0.28639999 0 0.23999999 0 0 -0.22239999"
+                 y="0"
+                 id="tspan78">Scenario overview</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g82"
+         clip-path="url(#clipPath82)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath81)"
+           id="g81"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,38.687467,109.6028)"
+             clip-path="url(#clipPath80)"
+             id="text6"
+             style="font-style:normal;font-weight:normal;stroke-width:1.33333"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,38.687467,109.6028)"
+               clip-path="url(#clipPath80)"
+               id="text81"
+               style="font-style:normal;font-weight:normal;stroke-width:1.33333" /><tspan
+               style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:12px;font-family:InterBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+               x="0"
+               dx="0 -0.2208"
+               y="0"
+               id="tspan6"><tspan
+                 style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:12px;font-family:InterBold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+                 x="0"
+                 dx="0 -0.2208"
+                 y="0"
+                 id="tspan81">Panama (Brossard)</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g86"
+         clip-path="url(#clipPath86)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath84)"
+           id="g85"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,37.179733,417.33333)"
+             clip-path="url(#clipPath83)"
+             id="text8"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,37.179733,417.33333)"
+               clip-path="url(#clipPath83)"
+               id="text85"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 0 0 0.104 -0.169"
+               y="0"
+               id="tspan7"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 0 0 0.104 -0.169"
+                 y="0"
+                 id="tspan84">Current </tspan></tspan><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 0 -0.13519999 0 0 0 0 -0.1092 0 0.20280001"
+               y="15.6"
+               id="tspan8"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 0 -0.13519999 0 0 0 0 -0.1092 0 0.20280001"
+                 y="15.6"
+                 id="tspan85">trajectory</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g89"
+         clip-path="url(#clipPath89)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath88)"
+           id="g88"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,294.88933,110.8724)"
+             clip-path="url(#clipPath87)"
+             id="text9"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,294.88933,110.8724)"
+               clip-path="url(#clipPath87)"
+               id="text88"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 0 -0.13519999 0 0 0 0 -0.1092 0 0.20280001"
+               y="0"
+               id="tspan9"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 0 -0.13519999 0 0 0 0 -0.1092 0 0.20280001"
+                 y="0"
+                 id="tspan88">trajectory</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g92"
+         clip-path="url(#clipPath92)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath91)"
+           id="g91"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,302.4472,93.210933)"
+             clip-path="url(#clipPath90)"
+             id="text10"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,302.4472,93.210933)"
+               clip-path="url(#clipPath90)"
+               id="text91"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 0 0 0.104 -0.169"
+               y="0"
+               id="tspan10"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 0 0 0.104 -0.169"
+                 y="0"
+                 id="tspan91">Current</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g95"
+         clip-path="url(#clipPath95)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath94)"
+           id="g94"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,393.68227,110.8724)"
+             clip-path="url(#clipPath93)"
+             id="text11"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,393.68227,110.8724)"
+               clip-path="url(#clipPath93)"
+               id="text94"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 0 0 0 0 0 0.066299997"
+               y="0"
+               id="tspan11"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 0 0 0 0 0 0.066299997"
+                 y="0"
+                 id="tspan94">scenario</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g98"
+         clip-path="url(#clipPath98)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath97)"
+           id="g97"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,387.21227,93.210933)"
+             clip-path="url(#clipPath96)"
+             id="text12"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,387.21227,93.210933)"
+               clip-path="url(#clipPath96)"
+               id="text97"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 0 0 0 0 0 0 -0.28080001"
+               y="0"
+               id="tspan12"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 0 0 0 0 0 0 -0.28080001"
+                 y="0"
+                 id="tspan97">Optimized</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g102"
+         clip-path="url(#clipPath102)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath100)"
+           id="g101"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,37.179733,483.95707)"
+             clip-path="url(#clipPath99)"
+             id="text14"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,37.179733,483.95707)"
+               clip-path="url(#clipPath99)"
+               id="text101"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 0 0 0 0 0 0 -0.28080001"
+               y="0"
+               id="tspan13"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 0 0 0 0 0 0 -0.28080001"
+                 y="0"
+                 id="tspan100">Optimized </tspan></tspan><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 0 0 0 0 0 0.066299997"
+               y="15.6"
+               id="tspan14"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 0 0 0 0 0 0.066299997"
+                 y="15.6"
+                 id="tspan101">scenario</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g106"
+         clip-path="url(#clipPath106)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath104)"
+           id="g105"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,37.179733,681.62373)"
+             clip-path="url(#clipPath103)"
+             id="text16"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,37.179733,681.62373)"
+               clip-path="url(#clipPath103)"
+               id="text105"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 0 0 0.104 -0.169"
+               y="0"
+               id="tspan15"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 0 0 0.104 -0.169"
+                 y="0"
+                 id="tspan104">Current </tspan></tspan><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 0 -0.13519999 0 0 0 0 -0.1092 0 0.20280001"
+               y="15.6"
+               id="tspan16"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 0 -0.13519999 0 0 0 0 -0.1092 0 0.20280001"
+                 y="15.6"
+                 id="tspan105">trajectory</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g110"
+         clip-path="url(#clipPath110)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath108)"
+           id="g109"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,37.179733,749.01827)"
+             clip-path="url(#clipPath107)"
+             id="text18"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,37.179733,749.01827)"
+               clip-path="url(#clipPath107)"
+               id="text109"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 0 0 0 0 0 0 -0.28080001"
+               y="0"
+               id="tspan17"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 0 0 0 0 0 0 -0.28080001"
+                 y="0"
+                 id="tspan108">Optimized </tspan></tspan><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 0 0 0 0 0 0.066299997"
+               y="15.6"
+               id="tspan18"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 0 0 0 0 0 0.066299997"
+                 y="15.6"
+                 id="tspan109">scenario</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g113"
+         clip-path="url(#clipPath113)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath112)"
+           id="g112"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,39.1856,145.11067)"
+             clip-path="url(#clipPath111)"
+             id="text19"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,39.1856,145.11067)"
+               clip-path="url(#clipPath111)"
+               id="text112"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 -0.069600001 -0.15000001 0 0 0 0 0 0 0 0 -0.2124 -0.23280001 0 0 0 0 0 0 0 -0.088799998"
+               y="0"
+               id="tspan19"><tspan
+                 style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 -0.069600001 -0.15000001 0 0 0 0 0 0 0 0 -0.2124 -0.23280001 0 0 0 0 0 0 0 -0.088799998"
+                 y="0"
+                 id="tspan112">Proposed developments</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g116"
+         clip-path="url(#clipPath116)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath115)"
+           id="g115"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,326.40427,145.11067)"
+             clip-path="url(#clipPath114)"
+             id="text20"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,326.40427,145.11067)"
+               clip-path="url(#clipPath114)"
+               id="text115"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 -0.1989"
+               y="0"
+               id="tspan20"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 -0.1989"
+                 y="0"
+                 id="tspan115">24</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g119"
+         clip-path="url(#clipPath119)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath118)"
+           id="g118"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,418.0104,145.11067)"
+             clip-path="url(#clipPath117)"
+             id="text21"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,418.0104,145.11067)"
+               clip-path="url(#clipPath117)"
+               id="text118"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               y="0"
+               id="tspan21"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 y="0"
+                 id="tspan118">25</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g122"
+         clip-path="url(#clipPath122)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath121)"
+           id="g121"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,314.69333,182.54947)"
+             clip-path="url(#clipPath120)"
+             id="text22"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,314.69333,182.54947)"
+               clip-path="url(#clipPath120)"
+               id="text121"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 -1.625 -0.16249999"
+               y="0"
+               id="tspan22"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 -1.625 -0.16249999"
+                 y="0"
+                 id="tspan121">7,903</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g125"
+         clip-path="url(#clipPath125)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath124)"
+           id="g124"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,406.54693,182.01307)"
+             clip-path="url(#clipPath123)"
+             id="text23"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,406.54693,182.01307)"
+               clip-path="url(#clipPath123)"
+               id="text124"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 -1.625 -0.080600001"
+               y="0"
+               id="tspan23"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 -1.625 -0.080600001"
+                 y="0"
+                 id="tspan124">7,550</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g128"
+         clip-path="url(#clipPath128)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath127)"
+           id="g127"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,310.57613,266.69533)"
+             clip-path="url(#clipPath126)"
+             id="text24"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,310.57613,266.69533)"
+               clip-path="url(#clipPath126)"
+               id="text127"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 0 0 -0.37180001"
+               y="0"
+               id="tspan24"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 0 0 -0.37180001"
+                 y="0"
+                 id="tspan127">12,645</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g131"
+         clip-path="url(#clipPath131)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath130)"
+           id="g130"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,202.50973,445.8476)"
+             clip-path="url(#clipPath129)"
+             id="text25"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,202.50973,445.8476)"
+               clip-path="url(#clipPath129)"
+               id="text130"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 -0.38609999"
+               y="0"
+               id="tspan25"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 -0.38609999"
+                 y="0"
+                 id="tspan130">0.272</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g134"
+         clip-path="url(#clipPath134)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath133)"
+           id="g133"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,207.39973,510.4544)"
+             clip-path="url(#clipPath132)"
+             id="text26"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,207.39973,510.4544)"
+               clip-path="url(#clipPath132)"
+               id="text133"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 -0.38479999"
+               y="0"
+               id="tspan26"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 -0.38479999"
+                 y="0"
+                 id="tspan133">0.26</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g137"
+         clip-path="url(#clipPath137)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath136)"
+           id="g136"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,300.5924,713.26427)"
+             clip-path="url(#clipPath135)"
+             id="text27"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,300.5924,713.26427)"
+               clip-path="url(#clipPath135)"
+               id="text136"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 0 0 -0.074100003"
+               y="0"
+               id="tspan27"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 0 0 -0.074100003"
+                 y="0"
+                 id="tspan136">21.5</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g140"
+         clip-path="url(#clipPath140)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath139)"
+           id="g139"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,302.44787,775.4232)"
+             clip-path="url(#clipPath138)"
+             id="text28"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,302.44787,775.4232)"
+               clip-path="url(#clipPath138)"
+               id="text139"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 0 0 -0.37180001"
+               y="0"
+               id="tspan28"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 0 0 -0.37180001"
+                 y="0"
+                 id="tspan139">21.6</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g143"
+         clip-path="url(#clipPath143)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath142)"
+           id="g142"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,400.8444,266.69667)"
+             clip-path="url(#clipPath141)"
+             id="text29"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,400.8444,266.69667)"
+               clip-path="url(#clipPath141)"
+               id="text142"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 0 0 -0.37180001"
+               y="0"
+               id="tspan29"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 0 0 -0.37180001"
+                 y="0"
+                 id="tspan142">12,080</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g146"
+         clip-path="url(#clipPath146)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath145)"
+           id="g145"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,324.00387,223.3216)"
+             clip-path="url(#clipPath144)"
+             id="text30"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,324.00387,223.3216)"
+               clip-path="url(#clipPath144)"
+               id="text145"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 0 -0.377"
+               y="0"
+               id="tspan30"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #017ea3; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 0 -0.377"
+                 y="0"
+                 id="tspan145">1.6</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g149"
+         clip-path="url(#clipPath149)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath148)"
+           id="g148"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,418.01107,223.81773)"
+             clip-path="url(#clipPath147)"
+             id="text31"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,418.01107,223.81773)"
+               clip-path="url(#clipPath147)"
+               id="text148"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 0 -0.377"
+               y="0"
+               id="tspan31"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 13px; font-family: InterBold; writing-mode: lr-tb; fill: #00a189; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 0 -0.377"
+                 y="0"
+                 id="tspan148">1.6</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g152"
+         clip-path="url(#clipPath152)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath151)"
+           id="g151"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,39.1856,184.362)"
+             clip-path="url(#clipPath150)"
+             id="text32"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,39.1856,184.362)"
+               clip-path="url(#clipPath150)"
+               id="text151"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 -0.069600001 -0.15000001 0 0 0 0 0 0 0 -0.1356 0 0 0 0 0 0 0 0 0 0 0 0 0 0.098399997 -0.1128"
+               y="0"
+               id="tspan32"><tspan
+                 style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 -0.069600001 -0.15000001 0 0 0 0 0 0 0 -0.1356 0 0 0 0 0 0 0 0 0 0 0 0 0 0.098399997 -0.1128"
+                 y="0"
+                 id="tspan151">Proposed residential units</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g155"
+         clip-path="url(#clipPath155)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath154)"
+           id="g154"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,39.1856,224.19013)"
+             clip-path="url(#clipPath153)"
+             id="text33"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,39.1856,224.19013)"
+               clip-path="url(#clipPath153)"
+               id="text154"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 0 0.069600001 0 0 0 0 -0.099600002 0 0 0 0 0 0 0 0.108 0 0 -0.22319999 0 0 0 0 0 0 0 0 0 0 0 0 0.093599997"
+               y="0"
+               id="tspan33"><tspan
+                 style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 0 0.069600001 0 0 0 0 -0.099600002 0 0 0 0 0 0 0 0.108 0 0 -0.22319999 0 0 0 0 0 0 0 0 0 0 0 0 0.093599997"
+                 y="0"
+                 id="tspan154">Estimated occupancy (people/unit)</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g161"
+         clip-path="url(#clipPath161)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath157)"
+           id="g159"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,39.1856,266.17453)"
+             clip-path="url(#clipPath156)"
+             id="text34"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,39.1856,266.17453)"
+               clip-path="url(#clipPath156)"
+               id="text159"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 0 0.069600001 0 0 0 0 -0.099600002"
+               y="0"
+               id="tspan34"><tspan
+                 style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 0 0.069600001 0 0 0 0 -0.099600002"
+                 y="0"
+                 id="tspan159">Estimated population in</tspan></tspan></text>
+        </g>
+        <g
+           clip-path="url(#clipPath159)"
+           id="g160"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,39.1856,285.37373)"
+             clip-path="url(#clipPath158)"
+             id="text35"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,39.1856,285.37373)"
+               clip-path="url(#clipPath158)"
+               id="text160"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 0 -0.20999999"
+               y="0"
+               id="tspan35"><tspan
+                 style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 0 -0.20999999"
+                 y="0"
+                 id="tspan160">new buildings</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g167"
+         clip-path="url(#clipPath167)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath163)"
+           id="g165"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,25.236933,606.14587)"
+             clip-path="url(#clipPath162)"
+             id="text36"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,25.236933,606.14587)"
+               clip-path="url(#clipPath162)"
+               id="text165"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 16px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 -0.30239999 0 0 0 0.1376 0 0 0 0.112 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.1952"
+               y="0"
+               id="tspan36"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 16px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 -0.30239999 0 0 0 0.1376 0 0 0 0.112 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.1952"
+                 y="0"
+                 id="tspan165">Per capita GHG emissions from</tspan></tspan></text>
+        </g>
+        <g
+           clip-path="url(#clipPath165)"
+           id="g166"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,25.236933,632.81253)"
+             clip-path="url(#clipPath164)"
+             id="text37"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,25.236933,632.81253)"
+               clip-path="url(#clipPath164)"
+               id="text166"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-stretch: normal; font-size: 16px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 0 0 0 0 0 0 0 0 0 0.152 0 0.1184"
+               y="0"
+               id="tspan37"><tspan
+                 style="font-variant: normal; font-stretch: normal; font-size: 16px; font-family: InterBold; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 0 0 0 0 0 0 0 0 0 0.152 0 0.1184"
+                 y="0"
+                 id="tspan166">embodied carbon (tCO e / person)</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g182"
+         clip-path="url(#clipPath182)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath181)"
+           id="g181"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,222.42573,816.06773)"
+             clip-path="url(#clipPath180)"
+             id="text38"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,222.42573,816.06773)"
+               clip-path="url(#clipPath180)"
+               id="text181"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               y="0"
+               id="tspan38"><tspan
+                 style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 y="0"
+                 id="tspan181">15</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g188"
+         clip-path="url(#clipPath188)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath187)"
+           id="g187"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,154.59893,816.06773)"
+             clip-path="url(#clipPath186)"
+             id="text39"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,154.59893,816.06773)"
+               clip-path="url(#clipPath186)"
+               id="text187"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               y="0"
+               id="tspan39"><tspan
+                 style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 y="0"
+                 id="tspan187">10</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g191"
+         clip-path="url(#clipPath191)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath190)"
+           id="g190"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,289.16733,816.06773)"
+             clip-path="url(#clipPath189)"
+             id="text40"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,289.16733,816.06773)"
+               clip-path="url(#clipPath189)"
+               id="text190"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               y="0"
+               id="tspan40"><tspan
+                 style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 y="0"
+                 id="tspan190">20</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g194"
+         clip-path="url(#clipPath194)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath193)"
+           id="g193"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,358.4408,816.06773)"
+             clip-path="url(#clipPath192)"
+             id="text41"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,358.4408,816.06773)"
+               clip-path="url(#clipPath192)"
+               id="text193"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               y="0"
+               id="tspan41"><tspan
+                 style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 y="0"
+                 id="tspan193">25</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g197"
+         clip-path="url(#clipPath197)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath196)"
+           id="g196"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,424.80333,816.06773)"
+             clip-path="url(#clipPath195)"
+             id="text42"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,424.80333,816.06773)"
+               clip-path="url(#clipPath195)"
+               id="text196"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               y="0"
+               id="tspan42"><tspan
+                 style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 y="0"
+                 id="tspan196">30</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g200"
+         clip-path="url(#clipPath200)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath199)"
+           id="g199"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,140.67973,548.73693)"
+             clip-path="url(#clipPath198)"
+             id="text43"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,140.67973,548.73693)"
+               clip-path="url(#clipPath198)"
+               id="text199"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               y="0"
+               id="tspan43"><tspan
+                 style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 y="0"
+                 id="tspan199">0</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g203"
+         clip-path="url(#clipPath203)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath202)"
+           id="g202"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,190.89973,548.73693)"
+             clip-path="url(#clipPath201)"
+             id="text44"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,190.89973,548.73693)"
+               clip-path="url(#clipPath201)"
+               id="text202"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 -0.30000001"
+               y="0"
+               id="tspan44"><tspan
+                 style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 -0.30000001"
+                 y="0"
+                 id="tspan202">0.2</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g206"
+         clip-path="url(#clipPath206)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath205)"
+           id="g205"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,248.24413,548.73693)"
+             clip-path="url(#clipPath204)"
+             id="text45"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,248.24413,548.73693)"
+               clip-path="url(#clipPath204)"
+               id="text205"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 -0.30000001"
+               y="0"
+               id="tspan45"><tspan
+                 style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 -0.30000001"
+                 y="0"
+                 id="tspan205">0.4</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g209"
+         clip-path="url(#clipPath209)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath208)"
+           id="g208"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,303.6992,548.73693)"
+             clip-path="url(#clipPath207)"
+             id="text46"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,303.6992,548.73693)"
+               clip-path="url(#clipPath207)"
+               id="text208"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 -0.30000001 -0.30000001"
+               y="0"
+               id="tspan46"><tspan
+                 style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 -0.30000001 -0.30000001"
+                 y="0"
+                 id="tspan208">0.6</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g212"
+         clip-path="url(#clipPath212)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath211)"
+           id="g211"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,361.1992,548.73827)"
+             clip-path="url(#clipPath210)"
+             id="text47"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,361.1992,548.73827)"
+               clip-path="url(#clipPath210)"
+               id="text211"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 -0.30000001 -0.18719999"
+               y="0"
+               id="tspan47"><tspan
+                 style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 -0.30000001 -0.18719999"
+                 y="0"
+                 id="tspan211">0.8</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g215"
+         clip-path="url(#clipPath215)"
+         transform="matrix(0.75,0,0,0.75,0,4.5000001e-6)"
+         style="stroke-width:1.33333">
+        <g
+           clip-path="url(#clipPath214)"
+           id="g214"
+           style="stroke-width:1.33333">
+          <text
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,418.0104,548.73827)"
+             clip-path="url(#clipPath213)"
+             id="text48"
+             style="stroke-width: 1.33333; font-weight: normal; font-style: normal;"><text
+               xml:space="preserve"
+               transform="matrix(1.3333333,0,0,1.3333333,418.0104,548.73827)"
+               clip-path="url(#clipPath213)"
+               id="text214"
+               style="stroke-width: 1.33333; font-weight: normal; font-style: normal;" /><tspan
+               style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+               x="0"
+               dx="0 0 -0.30000001"
+               y="0"
+               id="tspan48"><tspan
+                 style="font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 12px; font-family: InterRegular; writing-mode: lr-tb; fill: #000000; fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 1.33333; font-style: normal;"
+                 x="0"
+                 dx="0 0 -0.30000001"
+                 y="0"
+                 id="tspan214">1.0</tspan></tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -26,7 +26,7 @@
 	const { footnotes, addFootnote } = footnoteStore;
 
 	const fns = [
-		'Elizabeth C. Delmelle et al., “Investigating Transit-Induced Displacement Using Eviction Data,” Housing Policy Debate 31, no. 2 (2021): 326–41, <a href="https://doi.org/10.1080/10511482.2020.1815071" target="_blank">DOI</a>. ',
+		'Elizabeth C. Delmelle et al., “Investigating Transit-Induced Displacement Using Eviction Data,” <i>Housing Policy Debate</i> 31, no. 2 (2021): 326–41, <a href="https://doi.org/10.1080/10511482.2020.1815071" target="_blank">DOI</a>. ',
 		'Hello I am a second <a href="https://example.com" target="_blank">footnote</a> with a link'
 	];
 
@@ -45,12 +45,12 @@
 
 	<title>TOD - Intensification & Equity | School of Cities</title>
 
-	<meta name="description" content="Building intensification and neighbourhood change in transit-oriented development zones" />
+	<meta name="description" content="Building Intensification and Neighbourhood Change in Transit-oriented Development Zones" />
 	<meta name="author" content="School of Cities">
 	<meta rel="canonical" href="https://schoolofcities.github.io/tod-canada/research/intensification-and-equity">
 
 	<meta property="og:title" content="TOD - Intensification & Equity" />
-	<meta property="og:description" content="Building intensification and neighbourhood change in transit-oriented development zones" />
+	<meta property="og:description" content="Building Intensification and Neighbourhood Change in Transit-oriented Development Zones" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://schoolofcities.github.io/tod-canada/research/intensification-and-equity" />
 	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/intensification-and-equity/thumbnail.png" />
@@ -58,7 +58,7 @@
 
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="TOD - Intensification & Equity" />
-	<meta name="twitter:description" content="Building intensification and neighbourhood change in transit-oriented development zones" />
+	<meta name="twitter:description" content="Building Intensification and Neighbourhood Change in Transit-oriented Development Zones" />
 	<meta name="twitter:site" content="https://schoolofcities.github.io/tod-canada/research/intensification-and-equity" />
 	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/intensification-and-equity/thumbnail.png" /> 
 
@@ -150,7 +150,7 @@
 		</p>
 
 		<p>
-			We used a common framework across all five sites so we could meaningfully compare what is happening in very different local contexts. In each, we defined the transit-oriented development (TOD) area as the compact, walkable, mixed-use development within 800 metres of the rapid-transit station. We delineated 800-metre station catchments around the transit station in 5 neighbourhoods: Cooksville (Mississauga), Northfield (Waterloo), Arbutus (Vancouver), McKernan–Belgravia (Edmonton), and Panama (Brossard) and used those as our station-area “treatment” groups. 
+			We used a common framework across all five sites so we could meaningfully compare what is happening in very different local contexts. In each, we defined the TOD area as the compact, walkable, mixed-use development within 800 metres of the rapid-transit station. We delineated 800-metre station catchments around the transit station in five neighbourhoods: Arbutus (Vancouver), Cooksville (Mississauga), McKernan–Belgravia (Edmonton), Northfield (Waterloo), and Panama (Brossard) and used those as our station-area “treatment” groups. 
 		</p>
 
 		<p>
@@ -186,7 +186,7 @@
 		</h2>
 
 		<p>
-			The five cases show that there is great diversity of TOD effects. McKernan–Belgravia (Edmonton) had a delayed but powerful wave of infill, with a sharp spike in units per 1,000 dwellings only in the late 2010s, a decade after the station opened. Arbutus (Vancouver) and Cooksville (Mississauga) are already seeing strong pre-opening investment, as developers respond to clear planning signals (Broadway Plan, Hazel McCallion Line) and visible construction progress. Northfield (Waterloo) and Panama (Brossard) sit at the other end of the spectrum: development is emerging, but at a much slower pace, and in Panama’s case barely at all. 
+			The five cases show that there is great diversity of TOD effects. McKernan–Belgravia had a delayed but powerful wave of infill, with a sharp spike in units per 1,000 dwellings only in the late 2010s, a decade after the station opened. Arbutus and Cooksville are already seeing strong pre-opening investment, as developers respond to clear planning signals (Broadway Plan, Hazel McCallion Line) and visible construction progress. Northfield and Panama sit at the other end of the spectrum: development is emerging, but at a much slower pace, and in Panama’s case barely at all. 
 		</p>
 
 		<h2>
@@ -255,7 +255,7 @@
 		</p>
 
 		<p>
-			In Edmonton and Waterloo, visible minority populations are growing in station areas, but in the context of tightening rental markets and rising costs. In Panama, low development can look like “protection” from speculation, but it also means a missed opportunity to add non-market and deeply affordable housing near high-order transit.  
+			In McKernan-Belgravia and Northfield, visible minority populations are growing in station areas, but in the context of tightening rental markets and rising costs. In Panama, low development can look like “protection” from speculation, but it also means a missed opportunity to add non-market and deeply affordable housing near high-order transit.  
 		</p>
 
 		<h1>
@@ -297,7 +297,7 @@
 	<div class="text"> -->
 
 		<p>
-			Cooksville is becoming a regional growth node, and the City has positioned Cooksville as a key redevelopment area in Mississauga’s downtown intensification strategy -- but whether that growth locks in affordability is still very much an open question.  
+			Cooksville is becoming a regional growth node, and the City has positioned Cooksville as a key redevelopment area in Mississauga’s downtown intensification strategy – but whether that growth locks in affordability is still very much an open question.  
 		</p>
 
 		<h2>
@@ -305,7 +305,7 @@
 		</h2>
 
 		<p>
-			<span class="highlight" style="background-color: #AB1368; color: white; opacity: 0.98;">Northfield</span> is slowly shifting from employment- and institutional-heavy lands to a more mixed urban node. Compared to station areas in central Kitchener, Northfield has a moderate concentration of newly issued housing units relative to its total land area, indicating active, but still emerging, transit-oriented development. Intensification to date has been modest in absolute terms but high relative to the existing dwelling base, suggesting that the area could experience significant redevelopment momentum in the near future. 
+			<span class="highlight" style="background-color: #AB1368; color: white; opacity: 0.98;">Northfield</span> is slowly shifting from employment- and institutional-heavy lands to a more mixed urban node. Compared to station areas in central Kitchener, Northfield has a moderate concentration of newly issued housing units relative to its total land area, indicating active, but still emerging, TOD. Intensification to date has been modest in absolute terms but high relative to the existing dwelling base, suggesting that the area could experience significant redevelopment momentum in the near future. 
 		</p>
 
 	</div>
@@ -441,7 +441,7 @@
 		<Recommendation count=2 title="Use tailored planning strategies to activate slower-growth areas"/>
 
 		<p>
-			In places where development has lagged, targeted planning interventions can help unlock potential. Encouraging land-use diversification, streamlining approvals for mixed-use development, and requiring or incentivizing affordable and purpose-built rental housing can help distribute growth more evenly and prevent an overconcentration of development in one area.   
+			In places where development has lagged, targeted planning interventions can help unlock potential. Encouraging land use diversification, streamlining approvals for mixed-use development, and requiring or incentivizing affordable and purpose-built rental housing can help distribute growth more evenly and prevent an overconcentration of development in one area.   
 		</p>
 
 		<Recommendation count=3 title="Act early to secure affordability in station areas"/>

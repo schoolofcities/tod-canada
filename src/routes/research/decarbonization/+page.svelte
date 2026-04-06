@@ -31,11 +31,11 @@
 	const fns = [
 		'Projections from the Ontario Ministry of Finance, “Population projections,” August 1, 2025, <a href="https://data.ontario.ca/dataset/population-projections" target="_blank">URL</a>. ',
 		'See also Clara Turner et al., Land Use Planning to Mitigate Climate Change in the Greater Golden Horseshoe: An Analysis of Potential Scenarios (Institute on Municipal Finance and Governance, 2024), <a href="https://utoronto.scholaris.ca/server/api/core/bitstreams/972d111e-8f09-46d7-89d5-57ec3b69f0e1/content" target="_blank">URL</a>. ',
-		'The availability of free or low-cost parking has also been linked with higher rates of car ownership and driving around transit stations. See for example Michael Manville, “Bundled Parking and Vehicle Ownership: Evidence from the American Housing Survey,” Journal of Transport and Land Use 10, no. 1 (2017), DOI; Daniel G. Chatman, “Does TOD Need the T?: On the Importance of Factors Other Than Rail Access,” Journal of the American Planning Association 79, no. 1 (2013): 17–31, <a href="https://doi.org/10.1080/01944363.2013.791008" target="_blank">DOI</a>. '
+		'The availability of free or low-cost parking has also been linked with higher rates of car ownership and driving around transit stations. See for example Michael Manville, “Bundled Parking and Vehicle Ownership: Evidence from the American Housing Survey,” Journal of Transport and Land Use 10, no. 1 (2017), <a href="https://doi.org/10.5198/jtlu.2016.730" target="_blank">DOI</a>; Daniel G. Chatman, “Does TOD Need the T?: On the Importance of Factors Other Than Rail Access,” Journal of the American Planning Association 79, no. 1 (2013): 17–31, <a href="https://doi.org/10.1080/01944363.2013.791008" target="_blank">DOI</a>. '
 	];
 
 	const credits = [
-		{ role:"Research", names:"Emily Farrar, Marianne Hatzopoulou, Hoda Touma"},
+		{ role:"Research", names:"Emily Farrar, Hoda Touma, Shoshanna Saxe, Marianne Hatzopoulou"},
 		{ role:"Additional writing", names:"Anika Reisha Taboy, Kathryn Exon Smith"},
 		{ role:"Data visualization", names:"Jeff Allen, Mia Wang"},
 		{ role:"Web development", names:"Mieko Yao, Jeff Allen"}
@@ -48,12 +48,12 @@
 
 	<title>TOD - Decarbonization | School of Cities</title>
 
-	<meta name="description" content="Decarbonizing transport through land use and policy change" />
+	<meta name="description" content="Decarbonizing Transport through Land Use and Policy Change" />
 	<meta name="author" content="School of Cities">
 	<meta rel="canonical" href="https://schoolofcities.github.io/tod-canada/research/decarbonization">
 
 	<meta property="og:title" content="TOD - Decarbonization" />
-	<meta property="og:description" content="Decarbonizing transport through land use and policy change" />
+	<meta property="og:description" content="Decarbonizing Transport through Land Use and Policy Change" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://schoolofcities.github.io/tod-canada/research/decarbonization" />
 	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/decarbonization/thumbnail.png" />
@@ -61,7 +61,7 @@
 
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="TOD - Decarbonization" />
-	<meta name="twitter:description" content="Decarbonizing transport through land use and policy change" />
+	<meta name="twitter:description" content="Decarbonizing Transport through Land Use and Policy Change" />
 	<meta name="twitter:site" content="https://schoolofcities.github.io/tod-canada/research/decarbonization" />
 	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/decarbonization/thumbnail.png" /> 
 
@@ -83,7 +83,7 @@
 	<Password correctPassword="meowmeowcat"></Password>
 
 	<TitlePage
-		title="Decarbonizing transport through land use and policy change"
+		title="Decarbonizing Transport through Land Use and Policy Change"
 		type="Research"
 		bgType="Video"
 		url="/tod-canada/web-assets/research/decarbonization/decarbonization-title.mp4"
@@ -122,7 +122,7 @@
 		</p>
 
 		<p>
-			We developed a modelling framework that links population growth, travel demand, and greenhouse gas (GHG) emissions, which allowed us to evaluate a series of “what if?” urban densification strategies.
+			ur research examines the potential for growth management strategies, particularly TOD, to lower passenger transport emissions. It asks whether directing growth to transit-rich areas meaningfully reduces vehicle travel and emissions, and whether TOD alone is sufficient or must be complemented by other policy measures.
 		</p>
 
 		<BoilerPlate pageType="Research"/>
@@ -132,7 +132,7 @@
 		</h1>
 
 		<p>
-			Our study uses the Greater Toronto and Hamilton Area (GTHA) as a case study of how different patterns of future housing growth could shape travel behaviour and transportation emissions by 2031. The GTHA is one of the fastest growing urban areas in Canada, with a projected regional population of 8.77 million by 2031, an increase of 1.7 residents compared to 2016.<Footnote id={addFootnote(fns[0])}/>  Understanding what factors influence transportation emissions in this region has implications for cities across Canada. 
+			Our study uses the Greater Toronto and Hamilton Area (GTHA) as a case study of how different patterns of future housing growth could shape travel behaviour and transportation emissions by 2031. The GTHA is one of the fastest growing urban areas in Canada, with a projected regional population of 8.77 million by 2031, an increase of 1.7 million residents compared to 2016.<Footnote id={addFootnote(fns[0])}/>  Understanding what factors influence transportation emissions in this region has implications for cities across Canada. 
 		</p>
 
 	</div>
@@ -246,7 +246,7 @@
 		</p>
 
 		<p>
-			For this, we used the University of Toronto’s <a href="https://tmg.utoronto.ca/doc/1.6/gtamodel/index.html" target="_blank">GTAModel</a>, an activity-based travel model that simulates daily schedules for every person in the region (e.g. for school, work, errands, etc.) and converts those activities into trips by car, transit, walking, or cycling. These trips are then assigned to the region’s road and transit networks so we can see how travel speeds and mode change based on where people settle within the region. For future years, we included major transit lines already under construction (such as the Ontario Line) so the model reflects the network expected to be in place by 2031.  
+			For this, we used the <a href="https://tmg.utoronto.ca/doc/1.6/gtamodel/index.html" target="_blank">GTAModel</a> developed by the University of Toronto’s <a href="https://tmg.utoronto.ca/doc/1.6/gtamodel/index.html" target="_blank">Travel Modelling Group</a>. It is an activity-based travel model that simulates daily schedules for every person in the region (e.g. for school, work, errands, etc.) and converts those activities into trips by car, transit, walking, or cycling. These trips are then assigned to the region’s road and transit networks so we can see how travel speeds and mode change based on where people settle within the region. For future years, we included major transit lines already under construction (such as the Ontario Line) so the model reflects the network expected to be in place by 2031.  
 		</p>
 
 		<h2>
@@ -254,11 +254,11 @@
 		</h2>
 
 		<p>
-			To understand the GHG implications of the scenarios, we calculated GHG emissions from both passenger vehicles and buses. We combined travel model outputs with emissions data from the US EPA <a href="https://www.epa.gov/moves/latest-version-motor-vehicle-emission-simulator-moves" target="_blank">MOVES model</a> to estimate how much carbon is emitted on each road segment in each scenario.  
+			To understand the GHG implications of the scenarios, we calculated GHG emissions from both passenger vehicles and buses. We combined travel model outputs with emissions data from the US Environmental Protection Agency <a href="https://www.epa.gov/moves/latest-version-motor-vehicle-emission-simulator-moves" target="_blank">MOVES model</a> to estimate how much carbon is emitted on each road segment in each scenario.  
 		</p>
 
 		<p>
-			Click here for a more detailed discussion of the methodology. 
+			<a href="../web-assets/research/decarbonization/TOD and Decarbonization - Full Methodology and Findings.pdf" target="_blank">Click here for a more detailed discussion of the methodology. </a>
 		</p>
 
 		<h1>
@@ -320,7 +320,7 @@
 		</p>
 
 		<p>
-			See the full analysis here. 
+			<a href="../web-assets/research/decarbonization/TOD and Decarbonization - Full Methodology and Findings.pdf" target="_blank">See the full analysis here.</a>
 		</p>
 		
 		<h1>

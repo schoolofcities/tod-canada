@@ -23,12 +23,13 @@
 	import Footnotes from '$lib/Footnotes.svelte';
 	import { createFootnoteStore } from '$lib/footnoteUtils';
     import HamburgerMenu from '$lib/HamburgerMenu.svelte';
+    import GraphicMultiples from '$lib/GraphicMultiples.svelte';
 
 	const footnoteStore = createFootnoteStore();
 	const { footnotes, addFootnote } = footnoteStore;
 
 	const fns = [
-		'Karen Chapple and Anastasia Loukaitou-Sideris, Transit-oriented displacement or community dividends?: Understanding the effects of smarter growth on communities (MIT Press, 2019).',
+		'Karen Chapple and Anastasia Loukaitou-Sideris, <i>Transit-oriented displacement or community dividends?: Understanding the effects of smarter growth on communities</i> (MIT Press, 2019).',
 		'Peter Marcuse, “Gentrification, abandonment, and displacement: Connections, causes, and policy responses in New York City,” in Washington University Journal of Urban & Contemporary Law 28 (1985), 195.',
 		'More than 70 stations opened during this time period, but a few stations were not included in our analysis because data were unavailable.',
 		'Statistics Canada, “Longitudinal Administrative Databank (LAD),” 2025, <a href="https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=4107" target="_blank">URL</a>. At the time of writing, 2022 were the most recent data available.'
@@ -50,12 +51,12 @@
 
 	<title>TOD - Fiscal Impacts | School of Cities</title>
 
-	<meta name="description" content="Fiscal Impacts of Transit Oriented Development" />
+	<meta name="description" content="Fiscal Impacts of Transit-Oriented Development" />
 	<meta name="author" content="School of Cities">
 	<meta rel="canonical" href="https://schoolofcities.github.io/tod-canada/research/fiscal-impacts">
 
 	<meta property="og:title" content="TOD - Fiscal Impacts" />
-	<meta property="og:description" content="Fiscal Impacts of Transit Oriented Development" />
+	<meta property="og:description" content="Fiscal Impacts of Transit-Oriented Development" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://schoolofcities.github.io/tod-canada/research/fiscal-impacts" />
 	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/fiscal-impacts/thumbnail.png" />
@@ -63,7 +64,7 @@
 
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="TOD - Fiscal Impacts" />
-	<meta name="twitter:description" content="Fiscal Impacts of Transit Oriented Development" />
+	<meta name="twitter:description" content="Fiscal Impacts of Transit-Oriented Development" />
 	<meta name="twitter:site" content="https://schoolofcities.github.io/tod-canada/research/fiscal-impacts" />
 	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/research/fiscal-impacts/thumbnail.png" /> 
 
@@ -83,7 +84,7 @@
 	<Password correctPassword="meowmeowcat"></Password>
 
 	<TitlePage
-		title="Fiscal Impacts of Transit Oriented Development"
+		title="Fiscal Impacts of Transit-Oriented Development"
 		type="Research"
 		bgType="Video"
 		url="/tod-canada/web-assets/research/fiscal-impacts/skytrain-high-rise.mp4"
@@ -166,11 +167,11 @@
 		<div class="text">
 
 		<p>
-			The analysis also illustrates how these fiscal impacts could evolve over time on a cash basis. We determined each municipality’s construction capacity by using CMHC’s Starts and Completions survey, a ten-year average of housing starts, and modelled two speeds of construction. In the faster version, we assume the construction capacity is equal to the historical averages. In the slower version, since construction activity would likely not be entirely dedicated to the proposed TODs in each municipality, we assumed that the construction capacity is half the average. This allows us to project a timeline of financial impacts that takes into account both the scale of development in each station area and the likely speed of construction. 
+			The analysis also illustrates how these fiscal impacts could evolve over time on a cash basis. We determined each municipality’s construction capacity by using CMHC’s Starts and Completions survey, a ten-year average of housing starts, and modelled two speeds of construction. In the faster version, we assume the construction capacity is equal to the historical averages. In the slower version, since construction activity would likely not be entirely dedicated to the proposed TODs in each municipality, we assumed that the construction capacity is half the average. This allows us to project a timeline of financial impacts that takes into account both the scale of development in each station area and the likely speed of construction. This approach considers only the fiscal impact of development within the station area and does not take into account development that would have occurred in the absence of the TOD (which would have had its own fiscal costs and benefits), or the fiscal outcomes of TOD versus more dispersed growth.
 		</p>
 
 		<p>
-			Click here for a more detailed discussion of the methodology. 
+			<a href="../web-assets/research/fiscal-impacts/Fiscal Impacts - Full methodology and findings.pdf" target="_blank">Click here for a more detailed discussion of the methodology.</a>
 		</p>
 
 		<h1>
@@ -186,15 +187,21 @@
 		</h2>
 
 		<p>
-			The net impact of the new TOD across most cases is positive – sometimes very positive. Once fully built out, many of the proposed developments generate more annual revenue than they cost municipalities in operating expenditures. One reason is that new housing units tend to have higher property values than older housing,<Footnote id={addFootnote(fns[0])}/> which results in above-average property tax revenue relative to the cost of municipal services. However, results vary across municipalities and depend on local property values, tax rates, and municipal expenditures per capita. 
+			The net impact of the new TOD across most cases is positive – sometimes very positive. Once fully built out, many of the proposed developments generate more annual revenue than they cost municipalities in operating expenditures. One reason is that new housing units tend to have higher property values than older housing,<Footnote id={addFootnote(fns[0])}/> which results in above-average property tax revenue relative to the cost of municipal services. However, results vary across municipalities and depend on local property values, tax rates, and municipal expenditures per capita. There may also be additional benefits to capital expenditures, such as schools or community centres drawing from beyond the TOD, which are not accounted for here.
 		</p>
 
 		<p>
-			In almost all cases, the optimized scenarios generated higher operating revenues than the current trajectory, indicating that TODs that balance housing needs with the infrastructure and services that make complete communities make fiscal sense. In the case where municipal revenues are lower (Northfield), the optimized case has less property tax from commercial space and more infrastructure to maintain (including roads and community facilities) – but the increase in jobs may generate more revenues for other orders of government in the form of income tax. 
+			In almost all cases, the optimized scenarios generated higher operating revenues than the current trajectory, indicating that TODs that balance housing needs with the infrastructure and services that make complete communities make fiscal sense. In the case where municipal revenues are lower (Northfield), the optimized case has less property tax from commercial space and more infrastructure to maintain (including roads and community facilities) – but the increase in jobs may generate more revenues for other orders of government in the form of income tax. The negative impact in the current trajectory for Edmonton is caused by the anticipated lower-than-average assessment values (and therefore lower property tax revenues) of small infill units combined with the city’s relatively high average municipal spending per person to maintain its current sprawling footprint.
 		</p>
 	</div>
 
-	<GraphicSingle
+	<GraphicMultiples 
+		svgPaths={[
+			"../web-assets/research/fiscal-impacts/net-revenue-360.svg",
+			"../web-assets/research/fiscal-impacts/net-capital-costs-360.svg"
+		]}/>
+
+	<!-- <GraphicSingle
 		svg720={"../web-assets/research/fiscal-impacts/net-revenue-720.svg"}
 		svg360={"../web-assets/research/fiscal-impacts/net-revenue-360.svg"}
 	/>
@@ -202,7 +209,7 @@
 	<GraphicSingle
 		svg720={"../web-assets/research/fiscal-impacts/net-capital-costs-720.svg"}
 		svg360={"../web-assets/research/fiscal-impacts/net-capital-costs-360.svg"}
-	/>
+	/> -->
 
 	<GraphicSingle
 		svg720={"../web-assets/research/fiscal-impacts/net-total-720.svg"}
@@ -270,7 +277,7 @@
 		</p>
 
 		<p>
-			Another interpretation of this is that it may simply take longer to realize full development of these scenarios – potentially decades. In Mississauga’s case, for example, a full build out of the proposed infrastructure and dwelling units proposed in the Cooksville TOD would take 10-25 years. This can lead to a disconnect in timing between when the capital investments are paid for and when the development charge revenue is received.  
+			Another interpretation of this is that it may simply take longer to realize full development of these scenarios – potentially decades. In Mississauga’s case, for example, a full build out of the proposed infrastructure and dwelling units proposed in the Cooksville TOD would take 10-25 years, without additional efforts to speed up construction. This can lead to a disconnect in timing between when the capital investments are paid for and when the development charge revenue is received.  
 		</p>
 	</div>
 
@@ -281,7 +288,7 @@
 
 	<div class="text">
 		<p>
-			See the full analysis here.
+			<a href="../web-assets/research/fiscal-impacts/Fiscal Impacts - Full methodology and findings.pdf" target="_blank">See the full analysis here.</a>
 		</p>
 	</div>
 
