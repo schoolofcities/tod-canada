@@ -88,20 +88,20 @@
 	
 	<meta name="description" content="How can we transform industrial land into a vibrant community that attracts – and keeps – jobs and talent?" />
 	<meta name="author" content="School of Cities">
-	<meta rel="canonical" href="https://schoolofcities.github.io/tod-on-main/case-study/northfield">
+	<meta rel="canonical" href="https://schoolofcities.github.io/tod-canada/case-study/northfield">
 
 	<meta property="og:title" content="Northfield Station" />
 	<meta property="og:description" content="How can we transform industrial land into a vibrant community that attracts – and keeps – jobs and talent?" />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://schoolofcities.github.io/tod-on-main/case-study/northfield" />
-	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/case-study/northfield/optimized-scenario.png" />
+	<meta property="og:url" content="https://schoolofcities.github.io/tod-canada/case-study/northfield" />
+	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/case-study/northfield/optimized-scenario-station.png" />
 	<meta property="og:locale" content="en_CA">
 
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="Northfield Station" />
 	<meta name="twitter:description" content="How can we transform industrial land into a vibrant community that attracts – and keeps – jobs and talent?" />
-	<meta name="twitter:site" content="https://schoolofcities.github.io/tod-on-main/case-study/northfield" />
-	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/case-study/northfield/optimized-scenario.png" /> 
+	<meta name="twitter:site" content="https://schoolofcities.github.io/tod-canada/case-study/northfield" />
+	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/case-study/northfield/optimized-scenario-station.png" /> 
 
 	<meta name="citation_title" content="Northfield Station"> 
 	<meta name="citation_author" content="Sarah Chan">
