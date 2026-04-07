@@ -71,7 +71,6 @@
 		images.forEach((image) => {
 			if (image.buttonLabel.length > maxLabel) maxLabel = image.buttonLabel.length;
 		})
-		console.log(maxLabel)
         
         r.style.setProperty('--dropdownWidth', `${(maxLabel * 10) + 40}px`);
 

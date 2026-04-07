@@ -54,7 +54,6 @@
 
         if (contents.length == 0) {
             let headers = Array.from(document.getElementsByTagName("h1"));
-            console.log(headers);
             headers.forEach(element => {
                 if (!element.classList.contains("title-text")) {
                     contents.push({item_id: urlFormat(element.textContent), menu_entry: element.textContent})
