@@ -15,7 +15,7 @@
     import ScrollAnimate from '$lib/ScrollAnimate.svelte';
 	import Password from '$lib/Password.svelte';
 
-	import topImage from './assets/cc_title.png' 
+	import topImage from './assets/CC_Background_Frame_1.png' 
 
 	import { createFootnoteStore } from '$lib/footnoteUtils';
     import { resolveRoute } from '$app/paths';

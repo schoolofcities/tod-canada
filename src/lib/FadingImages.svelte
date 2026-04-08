@@ -43,12 +43,12 @@
 
 	onMount(() => {
 		windowHeight = window.innerHeight;
-		isMobile = window.innerWidth <= 550 && window.innerWidth / window.innerHeight <= 0.8;
+		isMobile = window.innerWidth / window.innerHeight <= 1;
 		mounted = true;
 
 		const resizeHandler = () => {
 			windowHeight = window.innerHeight;
-			isMobile = window.innerWidth <= 550 && window.innerWidth / window.innerHeight <= 0.8;
+			isMobile = window.innerWidth / window.innerHeight <= 1;
 		};
 		window.addEventListener('resize', resizeHandler);
 
@@ -159,8 +159,8 @@
 		{#key currentIndex} 
 			<div class="image-container">
 				<img
-					class={`${imageAlign} ${sections[currentIndex].bg_fit}`}
-					src={sections[currentIndex].image}
+					class={`${imageAlign} ${isMobile ? "contain" : "cover"}`}
+					src={isMobile ? sections[currentIndex].image_mobile : sections[currentIndex].image}
 					alt={`${sections[currentIndex].alt_text} Description:${sections[currentIndex].text}`}
 					transition:fade={{duration: sections[currentIndex].image.valueOf() != sections[currentIndex - 1]?.image.valueOf()
 								? fadeDuration : 0 }}
@@ -183,7 +183,8 @@
 					out:fade={{ duration: sections[currentIndex].text.valueOf() != sections[currentIndex - 1]?.text.valueOf() ? fadeDuration/2 : 0 }}
 					in:fade={{  delay: sections[currentIndex].text.valueOf() != sections[currentIndex - 1]?.text.valueOf() ? fadeDuration/2 : 0, 
 								duration: sections[currentIndex].text.valueOf() != sections[currentIndex - 1]?.text.valueOf() ? fadeDuration/2 : 0}}>
-				<div class="fading-text-wrapper" >
+				<div class="fading-text-wrapper" 
+					style:background-color={isMobile ? "" : backgroundColour}>
 					{@html marked(sections[currentIndex].text)}
 				</div>
 			</div>
@@ -332,7 +333,6 @@
 
 	.sticky-image img.contain {
 		object-fit: contain;
-		max-width: 70vw;
 	}
 
 	.header-text {
@@ -463,7 +463,7 @@
 
 		:global(.fading-text-wrapper p) {
 			font-size: max(6rem, 14.5px) !important;
-			line-height: 28px;
+			line-height: 10rem;
 			margin-top: 0;
 		}
 	}
@@ -481,7 +481,7 @@
 		.fading-text-section {
 			position: absolute;
 			z-index: 5;
-			margin-top: calc(67vw);
+			margin-top: calc(80vh);
     		width: 94vw;
 			height: calc(100dvh - 94vw);
 			max-width: 680px;
@@ -539,7 +539,7 @@
 		.fading-text-section {
 			position: absolute;
 			z-index: 5;
-			margin-top: calc(70vw + 5dvh);
+			margin-top: calc(75vh);
     		width: 94vw;
 			height: calc(100dvh - 94vw);
 			max-width: 680px;
@@ -602,7 +602,7 @@
 		}
 
 		:global(.fading-text-wrapper p) {
-			font-size: max(4.75rem, 14px) !important;
+			font-size: max(5.5rem, 14px) !important;
 			line-height: 28px;
 			margin-top: 0;
 		}
@@ -621,7 +621,7 @@
 		}
 
 		:global(.fading-text-wrapper p) {
-			font-size: min(5rem, 14px) !important;
+			font-size: min(6rem, 14px) !important;
 			line-height: 28px;
 			margin-top: 0;
 		}
@@ -667,7 +667,7 @@
 
 
 		:global(.fading-text-wrapper p) {
-			font-size: min(5.5rem, 14px) !important;
+			font-size: min(5.75rem, 14px) !important;
 			line-height: 24px;
 		}
 	}
