@@ -35,6 +35,30 @@
 	<br>
 	<a href="./case-study/panama" target="_blank">Panama, Brossard</a>
 
+	<br><br>
+
+</p>
+
+<hr/>
+
+<p>
+
+	Research
+
+	<br>
+	<br>
+
+	<a href="./research/decarbonization" target="_blank">Decarbonizing Transport through Land Use and Policy Change</a>
+	<br>
+	<a href="./research/displacement" target="_blank">Past and Projected Transit-Induced Displacement in Canada</a>
+	<br>
+	<a href="./research/embodied-carbon" target="_blank">Embodied Greenhouse Gas Emissions in Transit-Oriented Development Scenarios</a>
+	<br>
+	<a href="./research/fiscal-impacts" target="_blank">Fiscal Impacts of Transit-Oriented Development</a>
+	<br>
+	<a href="./research/intensification-and-equity" target="_blank">Building Intensification and Neighbourhood Change in Transit-oriented Development Zones</a>
+	<br>
+	<a href="./research/transportation-equity" target="_blank">Transportation Equity and Sustainable Mobility from Mixed-use Development</a>
 </p>
 
 </div>
