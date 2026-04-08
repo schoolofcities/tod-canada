@@ -91,7 +91,8 @@
 		videoOpacity={0.8}
 		titleFontColour="var(--brandWhite)"
 		subtitleFontColour="var(--brandWhite)"
-		logoType = 'White';
+		logoType = 'White'
+		secondLogo = 'PositiveZero'
 	/>
 
 	<HamburgerMenu pageType="research"/>

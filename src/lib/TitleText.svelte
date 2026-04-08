@@ -2,7 +2,8 @@
 	import "../assets/global-styles.css"
 	import LogoBlack from '../assets/sofc-uoft-logo-black.svg';
 	import LogoWhite from '../assets/sofc-uoft-logo-white.svg';
-	import LogoII from '../assets/ii-logo-white.svg'
+	import LogoII from '../assets/ii-logo-white.svg';
+	import LogoPositiveZero from '../assets/PositiveZero_Branding_White.svg';
 
 	export let title = '';
 	export let subtitle;
@@ -34,6 +35,11 @@
 			{#if secondLogo == "II"}
 				<a href="https://infrastructureinstitute.ca/" target="_blank" class="logo-link">
 					<img src={LogoII} alt="Infrastructure Institute logo" class="logo-top" id="ii-logo"/>
+				</a>
+			{/if}
+			{#if secondLogo == "PositiveZero"}
+				<a href="https://positivezero.civmin.utoronto.ca/" target="_blank" class="logo-link">
+					<img src={LogoPositiveZero} alt="Positive Zero logo" class="logo-top" id="pos-logo"/>
 				</a>
 			{/if}
 		</div>
@@ -86,7 +92,12 @@
 
 	.logo-container {
 		position: absolute;
+		display: flex;
+		align-items: start;
+		gap: 5rem;
 		z-index: 2;
+		max-width: 650px;
+		padding-right: 20rem;
 	}
 
 	.logo-link {
@@ -95,6 +106,10 @@
 
 	.logo-link:hover {
 		opacity: 0.8;
+	}
+
+	.logo-top {
+		height: 50px;
 	}
 
 	.type-text {
@@ -112,6 +127,7 @@
 		bottom: 23%;
 		width: calc(100% - 20rem);
 		display: flex;
+		flex-wrap: wrap;
 		align-items: center;
 	}
 
@@ -163,6 +179,17 @@
 		text-shadow: 0px 0px 20px rgba(0, 0, 0, 0.6); 
 	}
 
+	@media (max-width: 750px) {
+		
+		.logo-container {
+			flex-wrap: wrap;
+		}
+
+		.logo-top {
+			height: 43px;
+		}
+	}
+
 	@media (max-width: 600px) {
 		.title-text-container {
 			width: 100dvw;
@@ -173,7 +200,7 @@
 		.logo-container {
 			width: calc(100% - 30px - 30px);
 			display: flex;
-			/* flex-wrap: wrap; */
+			flex-wrap: wrap;
 		}
 
 		.logo-top {
