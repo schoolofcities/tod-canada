@@ -85,7 +85,7 @@
 
 	.upper-section {
 		position: absolute;
-		top: 24rem;
+		top: 35rem;
 		height: 27%;
 		width: calc(100% - 20rem);
 	}

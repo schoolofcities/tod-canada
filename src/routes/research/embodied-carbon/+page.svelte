@@ -88,7 +88,7 @@
 
 <main>
 
-	<Password correctPassword="meowmeowcat"></Password>
+	<!-- <Password correctPassword="meowmeowcat"></Password> -->
 
 	<TitlePage
 		title="Embodied Greenhouse Gas Emissions in Transit-Oriented Development Scenarios"
@@ -229,7 +229,7 @@
 	<div class="text">
 
 		<p>			
-			Cooksville shows the largest difference between scenarios, in part because this case explicitly focused on including larger, more family-friendly units in the optimized scenario. Per capita emissions decline from 20.9 tonnes of GHG emissions per person in the current trajectory to 14.1 tonnes per person when larger units were included, reflecting a substantial increase in average occupancy (1.35 vs. 1.9 people per unit). We observed similar reductions in Arbutus and McKernan-Belgravia, where the optimized scenarios also increase occupancy through changes in unit mix.  
+			Cooksville shows the largest difference between scenarios, in part because this case explicitly focused on including larger, more family-friendly units in the optimized scenario. Per capita emissions decline from 20.9 tonnes of GHG emissions per person in the current trajectory to 14.1 tonnes per person when larger units were included in the optimized scenario, reflecting a substantial increase in average occupancy (1.35 vs. 1.9 people per unit). We observed similar reductions in Arbutus and McKernan-Belgravia, where the optimized scenarios also increase occupancy through changes in unit mix.  
 		</p>
 
 	</div>

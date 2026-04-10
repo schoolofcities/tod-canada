@@ -129,7 +129,7 @@
 <!-- <svelte:window on:scroll={handleScroll} /> -->
 
 <main>
-	<Password correctPassword="meowmeowcat"></Password>
+	<!-- <Password correctPassword="meowmeowcat"></Password> -->
 	<!-- Full page title example -->
 	<div class="wrapper">
 		<!-- Top stays visually on top -->
@@ -205,7 +205,7 @@
 	<div class="text">
 
 		<p>	
-			Today, the lands immediately adjacent to Panama Station are parking lots and underused commercial sites, with an established, low-density residential community on the periphery. These are mainly single-detached homes and some low-rise apartments, with nearly 85% built before 1990. Nearly 40% of residents are renters, a much higher rate than in the rest of the city, and the <a href="https://measuringmainstreets.ca/transit-map" target="_blank">median household income is modest at $64,000</a>.  
+			Today, the lands immediately adjacent to Panama Station are parking lots and underused commercial sites, with an established, low-density residential community on the periphery. These are mainly single-detached homes and some low-rise apartments, with nearly 85% built before 1990. Nearly 40% of residents are renters, a much higher rate than in the rest of the city, and household incomes are below the city average.  
 		</p>
 		<p>
 			Two provincial highways – Autoroute 10 and Boulevard Taschereau – bisect the site, cutting the different parts of the area off from each other. A cluster of office towers and an aging shopping mall sit on the northern edge of the station area, separated by more space for parking. Over 70% of commuters drive. 

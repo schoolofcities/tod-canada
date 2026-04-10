@@ -1,41 +1,291 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="240" viewBox="0 0 360 240">
-  <g id="bases">
-    <rect id="rect2" x="20" y="20" width="320" height="200" rx="20.8009" ry="20.8009" fill="#f3f2f3"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="360"
+   height="240"
+   viewBox="0 0 360 240"
+   version="1.1"
+   id="svg18"
+   sodipodi:docname="Mckernanbelgravia-residents.svg"
+   inkscape:version="1.4.3 (1:1.4.3+202512261034+0d15f75042)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.7041667"
+     inkscape:cx="135.25672"
+     inkscape:cy="106.79707"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <g
+     id="bases">
+    <rect
+       id="rect2"
+       x="20"
+       y="20"
+       width="320"
+       height="200"
+       rx="20.8009"
+       ry="20.8009"
+       fill="#f3f2f3" />
   </g>
-  <g id="Layer_1" data-name="Layer 1">
-    <text transform="translate(39.0029 113.2219)" fill="#8da39e" font-family="Inter-Bold, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan font-size="37"><tspan x="0" y="0">6,005</tspan></tspan><tspan font-size="21"><tspan x="0" y="25.2002">Residents</tspan></tspan></text>
-    <text transform="translate(39.0039 53.7988)" fill="#3d3946" font-family="Inter-Regular, Inter" font-size="18" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">800m from McKernan-Belgravia</tspan><tspan x="0" y="21.5996">Station</tspan></text>
-    <g>
-      <path d="M40.928,174.2212c-1.1572,0-2.0688-1.0207-1.905-2.1662.9294-6.4969,5.9712-11.4616,12.0515-11.4616s11.1221,4.9647,12.0515,11.4616c.1639,1.1455-.7478,2.1662-1.905,2.1662h-20.293Z" fill="#8da39e" stroke="#221f20" stroke-miterlimit="10" stroke-width=".25"/>
-      <circle cx="51.0745" cy="153.5522" r="5.5553" fill="#8da39e" stroke="#221f20" stroke-miterlimit="10" stroke-width=".25"/>
-      <path d="M69.3901,174.2212c-1.1572,0-2.0688-1.0207-1.905-2.1662.9294-6.4969,5.9712-11.4616,12.0515-11.4616s11.1221,4.9647,12.0515,11.4616c.1639,1.1455-.7478,2.1662-1.905,2.1662h-20.293Z" fill="#8da39e" stroke="#221f20" stroke-miterlimit="10" stroke-width=".25"/>
-      <circle cx="79.5366" cy="153.5522" r="5.5553" fill="#8da39e" stroke="#221f20" stroke-miterlimit="10" stroke-width=".25"/>
-      <path d="M105.5801,174.22h-7.73c-1.1501,0-2.0701-1.02-1.9001-2.1699.8-5.6101,4.67-10.0801,9.6301-11.1902" fill="#8da39e" stroke="#221f20" stroke-miterlimit="10" stroke-width=".25"/>
-      <path d="M105.5801,160.8599c.7799-.1799,1.59-.27,2.4199-.27,6.0801,0,11.12,4.9702,12.05,11.4602.1599,1.1499-.75,2.1699-1.9,2.1699h-12.5699" fill="#fff" stroke="#221f20" stroke-miterlimit="10" stroke-width=".25"/>
-      <path d="M105.5801,158.55c-1.8601-.9001-3.1401-2.8-3.1401-5s1.28-4.1001,3.1401-4.99" fill="#8da39e" stroke="#221f20" stroke-miterlimit="10" stroke-width=".25"/>
-      <path d="M105.5801,148.5601c.73-.3601,1.5499-.5601,2.4199-.5601,3.0701,0,5.55,2.48,5.55,5.55s-2.48,5.5598-5.55,5.5598c-.87,0-1.6899-.2-2.4199-.5598" fill="#fff" stroke="#221f20" stroke-miterlimit="10" stroke-width=".25"/>
-      <path d="M126.3144,174.2212c-1.1572,0-2.0688-1.0207-1.905-2.1662.9294-6.4969,5.9712-11.4616,12.0515-11.4616s11.1221,4.9647,12.0515,11.4616c.1639,1.1455-.7478,2.1662-1.905,2.1662h-20.293Z" fill="#fff" stroke="#221f20" stroke-miterlimit="10" stroke-width=".25"/>
-      <circle cx="136.4609" cy="153.5522" r="5.5553" fill="#fff" stroke="#221f20" stroke-miterlimit="10" stroke-width=".25"/>
-      <path d="M154.7765,174.2212c-1.1572,0-2.0688-1.0207-1.905-2.1662.9294-6.4969,5.9712-11.4616,12.0515-11.4616s11.1221,4.9647,12.0515,11.4616c.1639,1.1455-.7478,2.1662-1.905,2.1662h-20.293Z" fill="#fff" stroke="#221f20" stroke-miterlimit="10" stroke-width=".25"/>
-      <circle cx="164.923" cy="153.5522" r="5.5553" fill="#fff" stroke="#221f20" stroke-miterlimit="10" stroke-width=".25"/>
-      <path d="M268.6251,174.2212c-1.1572,0-2.0688-1.0207-1.905-2.1662.9294-6.4969,5.9712-11.4616,12.0515-11.4616s11.1221,4.9647,12.0515,11.4616c.1639,1.1455-.7478,2.1662-1.905,2.1662h-20.293Z" fill="#fff" stroke="#221f20" stroke-miterlimit="10" stroke-width=".25"/>
-      <circle cx="278.7716" cy="153.5522" r="5.5553" fill="#fff" stroke="#221f20" stroke-miterlimit="10" stroke-width=".25"/>
-      <g>
-        <path d="M240.1629,174.2212c-1.1572,0-2.0688-1.0207-1.905-2.1662.9294-6.4969,5.9712-11.4616,12.0515-11.4616s11.1221,4.9647,12.0515,11.4616c.1639,1.1455-.7478,2.1662-1.905,2.1662h-20.293Z" fill="#fff" stroke="#221f20" stroke-miterlimit="10" stroke-width=".25"/>
-        <circle cx="250.3094" cy="153.5522" r="5.5553" fill="#fff" stroke="#221f20" stroke-miterlimit="10" stroke-width=".25"/>
+  <g
+     id="Layer_1"
+     data-name="Layer 1">
+    <text
+       fill="#8da39e"
+       font-family="Inter-Bold, Inter"
+       font-variation-settings="'opsz' 14, 'wght' 700"
+       font-weight="700"
+       id="text4"
+       style="fill:#00a189;fill-opacity:1.0"
+       transform="translate(39.0029 113.2219)"><tspan
+         font-size="37"
+         id="tspan2"
+         style="fill:#00a189;fill-opacity:1.0"><tspan
+           x="0"
+           y="0"
+           id="tspan1"
+           style="fill:#00a189;fill-opacity:1.0">6,005</tspan></tspan><tspan
+         font-size="21"
+         id="tspan4"
+         style="fill:#00a189;fill-opacity:1.0"><tspan
+           x="0"
+           y="25.2002"
+           id="tspan3"
+           style="fill:#00a189;fill-opacity:1.0">Residents</tspan></tspan></text>
+    <text
+       transform="translate(39.0039 53.7988)"
+       fill="#3d3946"
+       font-family="Inter-Regular, Inter"
+       font-size="18"
+       font-variation-settings="'opsz' 14, 'wght' 400"
+       id="text6"><tspan
+         x="0"
+         y="0"
+         id="tspan5">800m from McKernan-Belgravia</tspan><tspan
+         x="0"
+         y="21.5996"
+         id="tspan6">Station</tspan></text>
+    <g
+       id="g18">
+      <path
+         d="m 40.928,179.82273 c -1.1572,0 -2.0688,-1.0207 -1.905,-2.1662 0.9294,-6.4969 5.9712,-11.4616 12.0515,-11.4616 6.0803,0 11.1221,4.9647 12.0515,11.4616 0.1639,1.1455 -0.7478,2.1662 -1.905,2.1662 z"
+         fill="#8da39e"
+         stroke="#221f20"
+         stroke-miterlimit="10"
+         stroke-width="0.25"
+         id="path6"
+         style="fill:#00a189;fill-opacity:1" />
+      <circle
+         cx="51.074501"
+         cy="159.15373"
+         r="5.5553002"
+         fill="#8da39e"
+         stroke="#221f20"
+         stroke-miterlimit="10"
+         stroke-width="0.25"
+         id="circle6"
+         style="fill:#00a189;fill-opacity:1" />
+      <path
+         d="m 69.3901,179.82273 c -1.1572,0 -2.0688,-1.0207 -1.905,-2.1662 0.9294,-6.4969 5.9712,-11.4616 12.0515,-11.4616 6.0803,0 11.1221,4.9647 12.0515,11.4616 0.1639,1.1455 -0.7478,2.1662 -1.905,2.1662 z"
+         fill="#8da39e"
+         stroke="#221f20"
+         stroke-miterlimit="10"
+         stroke-width="0.25"
+         id="path7"
+         style="fill:#00a189;fill-opacity:1" />
+      <circle
+         cx="79.536598"
+         cy="159.15373"
+         r="5.5553002"
+         fill="#8da39e"
+         stroke="#221f20"
+         stroke-miterlimit="10"
+         stroke-width="0.25"
+         id="circle7"
+         style="fill:#00a189;fill-opacity:1" />
+      <path
+         d="m 105.5801,179.82153 h -7.73 c -1.1501,0 -2.0701,-1.02 -1.9001,-2.1699 0.8,-5.6101 4.67,-10.0801 9.6301,-11.1902"
+         fill="#8da39e"
+         stroke="#221f20"
+         stroke-miterlimit="10"
+         stroke-width="0.25"
+         id="path8"
+         style="fill:#00a189;fill-opacity:1" />
+      <path
+         d="m 105.5801,166.46143 c 0.7799,-0.1799 1.59,-0.27 2.4199,-0.27 6.0801,0 11.12,4.9702 12.05,11.4602 0.1599,1.1499 -0.75,2.1699 -1.9,2.1699 h -12.5699"
+         fill="#ffffff"
+         stroke="#221f20"
+         stroke-miterlimit="10"
+         stroke-width="0.25"
+         id="path9" />
+      <path
+         d="m 105.5801,164.15153 c -1.8601,-0.9001 -3.1401,-2.8 -3.1401,-5 0,-2.2 1.28,-4.1001 3.1401,-4.99"
+         fill="#8da39e"
+         stroke="#221f20"
+         stroke-miterlimit="10"
+         stroke-width="0.25"
+         id="path10"
+         style="fill:#00a189;fill-opacity:1" />
+      <path
+         d="m 105.5801,154.16163 c 0.73,-0.3601 1.5499,-0.5601 2.4199,-0.5601 3.0701,0 5.55,2.48 5.55,5.55 0,3.07 -2.48,5.5598 -5.55,5.5598 -0.87,0 -1.6899,-0.2 -2.4199,-0.5598"
+         fill="#ffffff"
+         stroke="#221f20"
+         stroke-miterlimit="10"
+         stroke-width="0.25"
+         id="path11" />
+      <path
+         d="m 126.3144,179.82273 c -1.1572,0 -2.0688,-1.0207 -1.905,-2.1662 0.9294,-6.4969 5.9712,-11.4616 12.0515,-11.4616 6.0803,0 11.1221,4.9647 12.0515,11.4616 0.1639,1.1455 -0.7478,2.1662 -1.905,2.1662 z"
+         fill="#ffffff"
+         stroke="#221f20"
+         stroke-miterlimit="10"
+         stroke-width="0.25"
+         id="path12" />
+      <circle
+         cx="136.46091"
+         cy="159.15373"
+         r="5.5553002"
+         fill="#ffffff"
+         stroke="#221f20"
+         stroke-miterlimit="10"
+         stroke-width="0.25"
+         id="circle12" />
+      <path
+         d="m 154.7765,179.82273 c -1.1572,0 -2.0688,-1.0207 -1.905,-2.1662 0.9294,-6.4969 5.9712,-11.4616 12.0515,-11.4616 6.0803,0 11.1221,4.9647 12.0515,11.4616 0.1639,1.1455 -0.7478,2.1662 -1.905,2.1662 z"
+         fill="#ffffff"
+         stroke="#221f20"
+         stroke-miterlimit="10"
+         stroke-width="0.25"
+         id="path13" />
+      <circle
+         cx="164.923"
+         cy="159.15373"
+         r="5.5553002"
+         fill="#ffffff"
+         stroke="#221f20"
+         stroke-miterlimit="10"
+         stroke-width="0.25"
+         id="circle13" />
+      <path
+         d="m 268.6251,179.82273 c -1.1572,0 -2.0688,-1.0207 -1.905,-2.1662 0.9294,-6.4969 5.9712,-11.4616 12.0515,-11.4616 6.0803,0 11.1221,4.9647 12.0515,11.4616 0.1639,1.1455 -0.7478,2.1662 -1.905,2.1662 z"
+         fill="#ffffff"
+         stroke="#221f20"
+         stroke-miterlimit="10"
+         stroke-width="0.25"
+         id="path14" />
+      <circle
+         cx="278.77161"
+         cy="159.15373"
+         r="5.5553002"
+         fill="#ffffff"
+         stroke="#221f20"
+         stroke-miterlimit="10"
+         stroke-width="0.25"
+         id="circle14" />
+      <g
+         id="g15"
+         transform="translate(0,5.6015305)">
+        <path
+           d="m 240.1629,174.2212 c -1.1572,0 -2.0688,-1.0207 -1.905,-2.1662 0.9294,-6.4969 5.9712,-11.4616 12.0515,-11.4616 6.0803,0 11.1221,4.9647 12.0515,11.4616 0.1639,1.1455 -0.7478,2.1662 -1.905,2.1662 z"
+           fill="#ffffff"
+           stroke="#221f20"
+           stroke-miterlimit="10"
+           stroke-width="0.25"
+           id="path15" />
+        <circle
+           cx="250.3094"
+           cy="153.5522"
+           r="5.5553002"
+           fill="#ffffff"
+           stroke="#221f20"
+           stroke-miterlimit="10"
+           stroke-width="0.25"
+           id="circle15" />
       </g>
-      <g>
-        <path d="M211.7008,174.2212c-1.1572,0-2.0688-1.0207-1.905-2.1662.9294-6.4969,5.9712-11.4616,12.0515-11.4616s11.1221,4.9647,12.0515,11.4616c.1639,1.1455-.7478,2.1662-1.905,2.1662h-20.293Z" fill="#fff" stroke="#221f20" stroke-miterlimit="10" stroke-width=".25"/>
-        <circle cx="221.8473" cy="153.5522" r="5.5553" fill="#fff" stroke="#221f20" stroke-miterlimit="10" stroke-width=".25"/>
+      <g
+         id="g16"
+         transform="translate(0,5.6015305)">
+        <path
+           d="m 211.7008,174.2212 c -1.1572,0 -2.0688,-1.0207 -1.905,-2.1662 0.9294,-6.4969 5.9712,-11.4616 12.0515,-11.4616 6.0803,0 11.1221,4.9647 12.0515,11.4616 0.1639,1.1455 -0.7478,2.1662 -1.905,2.1662 z"
+           fill="#ffffff"
+           stroke="#221f20"
+           stroke-miterlimit="10"
+           stroke-width="0.25"
+           id="path16" />
+        <circle
+           cx="221.84731"
+           cy="153.5522"
+           r="5.5553002"
+           fill="#ffffff"
+           stroke="#221f20"
+           stroke-miterlimit="10"
+           stroke-width="0.25"
+           id="circle16" />
       </g>
-      <g>
-        <path d="M183.2387,174.2212c-1.1572,0-2.0688-1.0207-1.905-2.1662.9294-6.4969,5.9712-11.4616,12.0515-11.4616s11.1221,4.9647,12.0515,11.4616c.1639,1.1455-.7478,2.1662-1.905,2.1662h-20.293Z" fill="#fff" stroke="#221f20" stroke-miterlimit="10" stroke-width=".25"/>
-        <circle cx="193.3852" cy="153.5522" r="5.5553" fill="#fff" stroke="#221f20" stroke-miterlimit="10" stroke-width=".25"/>
+      <g
+         id="g17"
+         transform="translate(0,5.6015305)">
+        <path
+           d="m 183.2387,174.2212 c -1.1572,0 -2.0688,-1.0207 -1.905,-2.1662 0.9294,-6.4969 5.9712,-11.4616 12.0515,-11.4616 6.0803,0 11.1221,4.9647 12.0515,11.4616 0.1639,1.1455 -0.7478,2.1662 -1.905,2.1662 z"
+           fill="#ffffff"
+           stroke="#221f20"
+           stroke-miterlimit="10"
+           stroke-width="0.25"
+           id="path17" />
+        <circle
+           cx="193.38519"
+           cy="153.5522"
+           r="5.5553002"
+           fill="#ffffff"
+           stroke="#221f20"
+           stroke-miterlimit="10"
+           stroke-width="0.25"
+           id="circle17" />
       </g>
-      <path d="M297.0872,174.2212c-1.1572,0-2.0688-1.0207-1.905-2.1662.9294-6.4969,5.9712-11.4616,12.0515-11.4616s11.1221,4.9647,12.0515,11.4616c.1639,1.1455-.7478,2.1662-1.905,2.1662h-20.293Z" fill="#fff" stroke="#221f20" stroke-miterlimit="10" stroke-width=".25"/>
-      <circle cx="307.2337" cy="153.5522" r="5.5553" fill="#fff" stroke="#221f20" stroke-miterlimit="10" stroke-width=".25"/>
+      <path
+         d="m 297.0872,179.82273 c -1.1572,0 -2.0688,-1.0207 -1.905,-2.1662 0.9294,-6.4969 5.9712,-11.4616 12.0515,-11.4616 6.0803,0 11.1221,4.9647 12.0515,11.4616 0.1639,1.1455 -0.7478,2.1662 -1.905,2.1662 z"
+         fill="#ffffff"
+         stroke="#221f20"
+         stroke-miterlimit="10"
+         stroke-width="0.25"
+         id="path18" />
+      <circle
+         cx="307.2337"
+         cy="159.15373"
+         r="5.5553002"
+         fill="#ffffff"
+         stroke="#221f20"
+         stroke-miterlimit="10"
+         stroke-width="0.25"
+         id="circle18" />
     </g>
-    <text transform="translate(39.0035 194.6687)" fill="#8da39e" font-family="Inter-Regular, Inter" font-size="18" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">24% are immigrants</tspan></text>
+    <text
+       fill="#8da39e"
+       font-family="Inter-Regular, Inter"
+       font-size="18px"
+       font-variation-settings="'opsz' 14, 'wght' 400"
+       id="text18"
+       style="fill:#00a189;fill-opacity:1"
+       x="39.003502"
+       y="200.27023"><tspan
+         x="39.003502"
+         y="200.27023"
+         id="tspan18"
+         style="fill:#00a189;fill-opacity:1">24% are immigrants</tspan></text>
   </g>
 </svg>

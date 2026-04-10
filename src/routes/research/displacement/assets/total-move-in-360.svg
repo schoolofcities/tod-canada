@@ -6,7 +6,7 @@
    version="1.1"
    id="svg21"
    sodipodi:docname="total-move-in-360.svg"
-   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
+   inkscape:version="1.4.3 (1:1.4.3+202512261034+0d15f75042)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,9 +22,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.85978259"
-     inkscape:cx="88.394439"
-     inkscape:cy="10.467763"
+     inkscape:zoom="1.7195652"
+     inkscape:cx="187.54741"
+     inkscape:cy="101.18837"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
@@ -50,7 +50,7 @@
   <g
      id="Layer_3"
      data-name="Layer 3"
-     transform="translate(1.1630847,0.58154236)">
+     style="stroke-width:1">
     <rect
        id="rect25"
        width="360"
@@ -59,7 +59,8 @@
        ry="21.566799"
        fill="#faf9f8"
        x="0"
-       y="0" />
+       y="0"
+       style="stroke-width:1" />
   </g>
   <g
      id="Layer_1"
@@ -146,18 +147,18 @@
        sodipodi:role="line"
        x="164.93332"
        y="167.50957"
-       id="tspan4-6"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999996">Average CMA rate of</tspan><tspan
+       id="tspan15"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999996">Percent of in-movers</tspan><tspan
        sodipodi:role="line"
        x="164.93332"
        y="185.00957"
-       id="tspan14"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999996">in-movers that are</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999996"
+       id="tspan8">into CMA that are</tspan><tspan
        sodipodi:role="line"
        x="164.93332"
        y="202.50957"
-       id="tspan15"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999996">low-income</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999996"
+       id="tspan9">low-income</tspan></text>
   <text
      fill="#010101"
      font-family="Inter-Regular, Inter"
@@ -167,21 +168,21 @@
      id="text15-9-9-32"
      x="165.74452"
      y="95.019012"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.00000015px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#000000;fill-opacity:1;stroke-width:0.999996"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;isolation:isolate;fill:#000000;fill-opacity:1;stroke-width:0.999996"
      transform="scale(1.0002664,0.99973365)"><tspan
        sodipodi:role="line"
        x="165.74452"
        y="95.019012"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.00000015px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999996"
-       id="tspan5">Percent of in-movers</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999996"
+       id="tspan11">Percent of in-movers</tspan><tspan
        sodipodi:role="line"
        x="165.74452"
-       y="113.36166"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.00000015px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999996"
-       id="tspan9">into transit station areas</tspan><tspan
+       y="112.51901"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999996"
+       id="tspan5">into transit station</tspan><tspan
        sodipodi:role="line"
        x="165.74452"
-       y="131.70435"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.00000015px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999996"
-       id="tspan11">that are low-income</tspan></text>
+       y="130.01901"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999996"
+       id="tspan6">areas that are low-income</tspan></text>
 </svg>

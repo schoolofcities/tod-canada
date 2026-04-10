@@ -1,41 +1,184 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="360" height="240" viewBox="0 0 360 240">
-  <rect id="rect2" x="20" y="20" width="320" height="200" rx="20.8009" ry="20.8009" fill="#f3f2f3"/>
-  <g>
-    <path d="M62.9937,126.0654c-.0001-.5318.2341-1.0367.6403-1.38l6.322-5.4189c.6732-.569,1.6587-.569,2.3319,0l6.322,5.4189c.4062.3433.6405.8482.6403,1.38v8.1283c0,.9976-.8087,1.8063-1.8063,1.8063h-12.6441c-.9976,0-1.8063-.8087-1.8063-1.8063v-8.1283Z" fill="#d2d2cf" stroke="#f2f2f3" stroke-miterlimit="10" stroke-width=".5"/>
-    <path d="M73.8315,136v-7.2252c0-.4988-.4044-.9031-.9031-.9031h-3.6126c-.4988,0-.9031.4044-.9031.9031v7.2252" fill="#d2d2cf" stroke="#f2f2f3" stroke-miterlimit="10" stroke-width=".5"/>
-  </g>
-  <text transform="translate(39.0037 64.5944)" fill="#53c2da" font-family="Inter-Bold, Inter" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 700" font-weight="700"><tspan font-size="37"><tspan x="0" y="0">78%</tspan></tspan><tspan font-size="21"><tspan x="0" y="25.2002">of housing is apartments</tspan></tspan></text>
-  <rect x="40" y="140" width="62.244" height="10" rx="1.7723" ry="1.7723" fill="#d2d2cf" stroke="#f2f2f3" stroke-miterlimit="10"/>
-  <rect x="102.244" y="140" width="217.756" height="10" rx="1.7723" ry="1.7723" fill="#69c8dd" stroke="#f2f2f3" stroke-miterlimit="10"/>
-  <g>
-    <rect x="201.5308" y="101.4972" width="9.5524" height="34.5028" fill="#69c8dd" stroke="#f2f2f3" stroke-miterlimit="10" stroke-width=".5"/>
-    <rect x="211.1609" y="107.135" width="9.5524" height="28.865" fill="#69c8dd" stroke="#f2f2f3" stroke-miterlimit="10" stroke-width=".5"/>
-    <rect x="202.9208" y="103.3274" width="1.4524" height="3.0496" fill="#fff"/>
-    <rect x="208.2407" y="103.3274" width="1.4524" height="3.0496" fill="#fff"/>
-    <rect x="202.9208" y="108.0091" width="1.4524" height="3.0496" fill="#fff"/>
-    <rect x="205.5808" y="108.0091" width="1.4524" height="3.0496" fill="#fff"/>
-    <rect x="208.2407" y="112.6908" width="1.4524" height="3.0496" fill="#fff"/>
-    <rect x="202.9208" y="117.3725" width="1.4524" height="3.0496" fill="#fff"/>
-    <rect x="205.5808" y="122.0542" width="1.4524" height="3.0496" fill="#fff"/>
-    <rect x="208.2407" y="122.0542" width="1.4524" height="3.0496" fill="#fff"/>
-    <rect x="202.9208" y="126.7359" width="1.4524" height="3.0496" fill="#fff"/>
-    <rect x="205.5808" y="126.7359" width="1.4524" height="3.0496" fill="#fff"/>
-    <rect x="202.9208" y="131.4176" width="1.4524" height="3.0496" fill="#fff"/>
-    <rect x="205.5808" y="131.4176" width="1.4524" height="3.0496" fill="#fff"/>
-    <rect x="208.2407" y="131.4176" width="1.4524" height="3.0496" fill="#fff"/>
-    <rect x="215.2108" y="108.5138" width="1.4524" height="3.1768" fill="#fff"/>
-    <rect x="217.8708" y="108.5138" width="1.4524" height="3.1768" fill="#fff"/>
-    <rect x="212.5509" y="113.0678" width="1.4524" height="3.1768" fill="#fff"/>
-    <rect x="217.8708" y="113.0678" width="1.4524" height="3.1768" fill="#fff"/>
-    <rect x="217.8708" y="117.6217" width="1.4524" height="3.1768" fill="#fff"/>
-    <rect x="212.5509" y="122.1756" width="1.4524" height="3.1768" fill="#fff"/>
-    <rect x="215.2108" y="126.7295" width="1.4524" height="3.1768" fill="#fff"/>
-    <rect x="212.5509" y="131.2834" width="1.4524" height="3.1768" fill="#fff"/>
-    <rect x="215.2108" y="131.2834" width="1.4524" height="3.1768" fill="#fff"/>
-  </g>
-  <text transform="translate(215.1198 179.9491)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="18" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Mississauga</tspan></text>
-  <text transform="translate(232.197 129.9495)" fill="#231f20" font-family="Inter-Regular, Inter" font-size="18" font-variation-settings="&apos;opsz&apos; 14, &apos;wght&apos; 400"><tspan x="0" y="0">Cooksville</tspan></text>
-  <rect x="40" y="190" width="173.4335" height="10" rx="1.7723" ry="1.7723" fill="#d2d2cf" stroke="#f2f2f3" stroke-miterlimit="10"/>
-  <rect x="213.4335" y="190" width="106.5665" height="10" fill="#69c8dd" stroke="#f2f2f3" stroke-miterlimit="10"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   width="360"
+   height="240"
+   viewBox="0 0 360 240"
+   version="1.1"
+   sodipodi:docname="cooksville-housing.svg"
+   inkscape:version="1.4.3 (1:1.4.3+202512261034+0d15f75042)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs32" />
+  <sodipodi:namedview
+     id="namedview32"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.2050278"
+     inkscape:cx="333.18733"
+     inkscape:cy="138.58601"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <rect
+     id="rect2"
+     x="20"
+     y="20"
+     width="320"
+     height="200"
+     rx="20.8009"
+     ry="20.8009"
+     fill="#f3f2f3" />
+  <rect
+     x="40"
+     y="140"
+     width="62.244"
+     height="10"
+     rx="1.7723"
+     ry="1.7723"
+     fill="#d2d2cf"
+     stroke="#f2f2f3"
+     stroke-miterlimit="10"
+     id="rect5" />
+  <rect
+     x="102.244"
+     y="140"
+     width="217.756"
+     height="10"
+     rx="1.7723"
+     ry="1.7723"
+     fill="#69c8dd"
+     stroke="#f2f2f3"
+     stroke-miterlimit="10"
+     id="rect6"
+     style="fill:#007fa3;fill-opacity:1.0" />
+  <text
+     fill="#231f20"
+     font-family="Inter-Regular, Inter"
+     font-size="18px"
+     font-variation-settings="'opsz' 14, 'wght' 400"
+     id="text30"
+     x="39.283157"
+     y="179.9491"><tspan
+       x="39.283157"
+       y="179.9491"
+       id="tspan30">City of Mississauga</tspan></text>
+  <text
+     fill="#231f20"
+     font-family="Inter-Regular, Inter"
+     font-size="18px"
+     font-variation-settings="'opsz' 14, 'wght' 400"
+     id="text31"
+     x="39.792923"
+     y="129.94949"><tspan
+       x="39.792923"
+       y="129.94949"
+       id="tspan31">Cooksville</tspan></text>
+  <rect
+     x="40"
+     y="190"
+     width="173.4335"
+     height="10"
+     rx="1.7723"
+     ry="1.7723"
+     fill="#d2d2cf"
+     stroke="#f2f2f3"
+     stroke-miterlimit="10"
+     id="rect31" />
+  <rect
+     x="213.4335"
+     y="190"
+     width="106.5665"
+     height="10"
+     fill="#69c8dd"
+     stroke="#f2f2f3"
+     stroke-miterlimit="10"
+     id="rect32"
+     style="fill:#007fa3;fill-opacity:1.0" />
+  <text
+     fill="#231f20"
+     font-family="Inter-Regular, Inter"
+     font-variation-settings="'opsz' 14, 'wght' 400"
+     id="text33"
+     x="196.28035"
+     y="133.30664"
+     style="fill:#007fa3;fill-opacity:1"><tspan
+       font-size="18px"
+       id="tspan31-7"
+       style="fill:#007fa3;fill-opacity:1"><tspan
+         x="196.28035"
+         y="133.30664"
+         id="tspan30-5"
+         style="fill:#007fa3;fill-opacity:1">78%</tspan></tspan><tspan
+       font-size="10px"
+       id="tspan33"
+       style="fill:#007fa3;fill-opacity:1"><tspan
+         x="197.00984"
+         y="145.30664"
+         id="tspan32"
+         style="fill:#007fa3;fill-opacity:1" /></tspan></text>
+  <text
+     fill="#231f20"
+     font-family="Inter-Regular, Inter"
+     font-variation-settings="'opsz' 14, 'wght' 400"
+     id="text33-5"
+     x="247.92574"
+     y="183.41457"
+     style="fill:#007fa3;fill-opacity:1"><tspan
+       font-size="18px"
+       id="tspan31-7-6"
+       style="fill:#007fa3;fill-opacity:1"><tspan
+         x="247.92574"
+         y="183.41457"
+         id="tspan30-5-2"
+         style="fill:#007fa3;fill-opacity:1">38%</tspan></tspan><tspan
+       font-size="10px"
+       id="tspan33-9"
+       style="fill:#007fa3;fill-opacity:1"><tspan
+         x="248.65523"
+         y="195.41457"
+         id="tspan32-1"
+         style="fill:#007fa3;fill-opacity:1" /></tspan></text>
+  <text
+     fill="#53c2da"
+     font-family="Inter-Bold, Inter"
+     font-variation-settings="'opsz' 14, 'wght' 700"
+     font-weight="700"
+     id="text16"
+     x="39.817337"
+     y="72.117165"
+     style="font-weight:700;font-family:Inter-Bold, Inter;font-variation-settings:'opsz' 14, 'wght' 700;fill:#007fa3;fill-opacity:1"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#007fa3;fill-opacity:1"
+       id="tspan35-0">78%</tspan></text>
+  <text
+     fill="#53c2da"
+     font-family="Inter-Bold, Inter"
+     font-variation-settings="'opsz' 14, 'wght' 700"
+     font-weight="700"
+     id="text16-4"
+     x="136.50185"
+     y="59.726559"
+     style="font-weight:700;font-size:12.7189px;font-family:Inter-Bold, Inter;font-variation-settings:'opsz' 14, 'wght' 700;fill:#007fa3;fill-opacity:1;stroke-width:1"><tspan
+       sodipodi:role="line"
+       x="136.50185"
+       y="59.726559"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.1981px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#007fa3;fill-opacity:1;stroke-width:1"
+       id="tspan38">of housing units</tspan><tspan
+       sodipodi:role="line"
+       x="136.50185"
+       y="86.22419"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.1981px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#007fa3;fill-opacity:1;stroke-width:1"
+       id="tspan2-6">are apartments</tspan></text>
 </svg>
