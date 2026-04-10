@@ -3,11 +3,11 @@
 
 <svg
    width="360"
-   height="340"
-   viewBox="0 0 95.25 89.95833"
+   height="480"
+   viewBox="0 0 95.25 126.99999"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
+   inkscape:version="1.4.3 (1:1.4.3+202512261034+0d15f75042)"
    sodipodi:docname="summary-table-360.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="255.6191"
-     inkscape:cy="189.50462"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="283.54982"
+     inkscape:cy="304.05592"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -58,7 +58,7 @@
        style="opacity:1;fill:#faf9f8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect25"
        width="95.25"
-       height="89.958336"
+       height="127"
        x="-4.9737992e-14"
        y="0"
        rx="0"
@@ -144,12 +144,12 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91042px;line-height:5.29167px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">339,175 </tspan><tspan
          sodipodi:role="line"
          x="23.562452"
-         y="74.681236"
+         y="74.681244"
          id="tspan17"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91042px;line-height:5.29167px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal" /><tspan
          sodipodi:role="line"
          x="23.562452"
-         y="79.972908"
+         y="79.972916"
          id="tspan18"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91042px;line-height:5.29167px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">540,976 </tspan></text>
     <text
@@ -167,7 +167,7 @@
          x="40.820244"
          y="43.038204"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91042px;line-height:5.29167px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         id="tspan27"></tspan><tspan
+         id="tspan27" /><tspan
          sodipodi:role="line"
          x="40.820244"
          y="48.329872"
@@ -177,7 +177,7 @@
          x="40.820244"
          y="53.621544"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91042px;line-height:5.29167px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         id="tspan29"></tspan><tspan
+         id="tspan29" /><tspan
          sodipodi:role="line"
          x="40.820244"
          y="58.913212"
@@ -187,7 +187,7 @@
          x="40.820244"
          y="64.20488"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91042px;line-height:5.29167px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         id="tspan31"></tspan><tspan
+         id="tspan31" /><tspan
          sodipodi:role="line"
          x="40.820244"
          y="69.496552"
@@ -195,12 +195,12 @@
          id="tspan32">12.725 </tspan><tspan
          sodipodi:role="line"
          x="40.820244"
-         y="74.788216"
+         y="74.788223"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91042px;line-height:5.29167px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         id="tspan33"></tspan><tspan
+         id="tspan33" /><tspan
          sodipodi:role="line"
          x="40.820244"
-         y="80.079887"
+         y="80.079895"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91042px;line-height:5.29167px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          id="tspan34">5.831 </tspan></text>
     <text
@@ -218,7 +218,7 @@
          x="54.897423"
          y="43.038204"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91042px;line-height:5.29167px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         id="tspan43"></tspan><tspan
+         id="tspan43" /><tspan
          sodipodi:role="line"
          x="54.897423"
          y="48.329872"
@@ -228,7 +228,7 @@
          x="54.897423"
          y="53.621544"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91042px;line-height:5.29167px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         id="tspan45"></tspan><tspan
+         id="tspan45" /><tspan
          sodipodi:role="line"
          x="54.897423"
          y="58.913212"
@@ -238,7 +238,7 @@
          x="54.897423"
          y="64.20488"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91042px;line-height:5.29167px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         id="tspan47"></tspan><tspan
+         id="tspan47" /><tspan
          sodipodi:role="line"
          x="54.897423"
          y="69.496552"
@@ -246,12 +246,12 @@
          id="tspan48">30.630 </tspan><tspan
          sodipodi:role="line"
          x="54.897423"
-         y="74.788216"
+         y="74.788223"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91042px;line-height:5.29167px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         id="tspan49"></tspan><tspan
+         id="tspan49" /><tspan
          sodipodi:role="line"
          x="54.897423"
-         y="80.079887"
+         y="80.079895"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91042px;line-height:5.29167px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
          id="tspan50">26.100 </tspan></text>
     <text
@@ -591,7 +591,7 @@
          x="9.9349318"
          y="13.695381"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
-         id="tspan58">by region</tspan></text>
+         id="tspan58">by municipality</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect1-1"
@@ -601,5 +601,72 @@
        y="5.6006722"
        rx="1.0836666"
        ry="1.0836666" />
+    <text
+       id="text237-0-6-6-6-1-2-0"
+       xml:space="preserve"
+       x="5.3480744"
+       y="92.029999"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.352777"><tspan
+         sodipodi:role="line"
+         x="5.3480744"
+         y="92.029999"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38125px;line-height:1;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9a9996"
+         id="tspan11">*Average residential values, sourced from CMHC’s Market Absorption Survey </tspan><tspan
+         sodipodi:role="line"
+         x="5.3480744"
+         y="95.205002"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38125px;line-height:1;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9a9996"
+         id="tspan3">from Q3 2024 to Q2 2025. Ontario assessed values are scaled down to 2016 </tspan><tspan
+         sodipodi:role="line"
+         x="5.3480744"
+         y="98.379997"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38125px;line-height:1;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9a9996"
+         id="tspan21">benchmarks using the Teranet Home Price Index.</tspan><tspan
+         sodipodi:role="line"
+         x="5.3480744"
+         y="101.555"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38125px;line-height:1;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9a9996"
+         id="tspan4" /><tspan
+         sodipodi:role="line"
+         x="5.3480744"
+         y="104.73"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38125px;line-height:1;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9a9996"
+         id="tspan5">Tax rates and development charges come from municipal websites. They are </tspan><tspan
+         sodipodi:role="line"
+         x="5.3480744"
+         y="107.905"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38125px;line-height:1;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9a9996"
+         id="tspan6">written as mill rates, which means they should be divided by 1,000 to get the </tspan><tspan
+         sodipodi:role="line"
+         x="5.3480744"
+         y="111.08"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38125px;line-height:1;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9a9996"
+         id="tspan23">percentage of the property value charged in tax. Development charges per </tspan><tspan
+         sodipodi:role="line"
+         x="5.3480744"
+         y="114.255"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38125px;line-height:1;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9a9996"
+         id="tspan7">square foot come from the CHBA’s Municipal Benchmarking 2024 Study. </tspan><tspan
+         sodipodi:role="line"
+         x="5.3480744"
+         y="117.43"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38125px;line-height:1;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9a9996"
+         id="tspan8">Development charges for Brossard come from a CMHC Housing Market </tspan><tspan
+         sodipodi:role="line"
+         x="5.3480744"
+         y="120.605"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.38125px;line-height:1;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9a9996"
+         id="tspan26">Insight from July 2022.</tspan></text>
+    <text
+       id="text237-0-6-6-6-6-2-3-0-9"
+       xml:space="preserve"
+       x="35.165829"
+       y="27.619314"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;line-height:3.96875px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.352777"><tspan
+         sodipodi:role="line"
+         x="35.165829"
+         y="27.619314"
+         id="tspan9-1"
+         style="line-height:3.96875px">*</tspan></text>
   </g>
 </svg>

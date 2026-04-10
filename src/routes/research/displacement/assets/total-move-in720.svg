@@ -6,7 +6,7 @@
    version="1.1"
    id="svg23"
    sodipodi:docname="total-move-in720.svg"
-   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
+   inkscape:version="1.4.3 (1:1.4.3+202512261034+0d15f75042)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,15 +22,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.50000001"
-     inkscape:cx="258.99999"
-     inkscape:cy="172"
+     inkscape:zoom="2"
+     inkscape:cx="534.74999"
+     inkscape:cy="101.5"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Layer_3"
+     inkscape:current-layer="svg23"
      showgrid="false">
     <inkscape:grid
        id="grid1"
@@ -135,15 +135,15 @@
        sodipodi:role="line"
        x="543.62781"
        y="95.203125"
-       id="tspan4-6">Average CMA rate of</tspan><tspan
+       id="tspan15">Percent of in-movers</tspan><tspan
        sodipodi:role="line"
        x="543.62781"
        y="115.20312"
-       id="tspan14">in-movers that are</tspan><tspan
+       id="tspan9">into CMA that are</tspan><tspan
        sodipodi:role="line"
        x="543.62781"
        y="135.20312"
-       id="tspan15">low-income</tspan></text>
+       id="tspan10">low-income</tspan></text>
   <text
      fill="#010101"
      font-family="Inter-Regular, Inter"
@@ -158,15 +158,15 @@
        x="176.52344"
        y="95.725494"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-       id="tspan5">Percent of in-movers</tspan><tspan
+       id="tspan11">Percent of in-movers</tspan><tspan
        sodipodi:role="line"
        x="176.52344"
        y="115.72549"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-       id="tspan9">into transit station areas</tspan><tspan
+       id="tspan4">into transit station</tspan><tspan
        sodipodi:role="line"
        x="176.52344"
        y="135.72549"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-       id="tspan11">that are low-income</tspan></text>
+       id="tspan5">areas that are low-income</tspan></text>
 </svg>

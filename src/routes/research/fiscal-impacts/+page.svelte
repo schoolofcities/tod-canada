@@ -81,7 +81,7 @@
 
 <main>
 
-	<Password correctPassword="meowmeowcat"></Password>
+	<!-- <Password correctPassword="meowmeowcat"></Password> -->
 
 	<TitlePage
 		title="Fiscal Impacts of Transit-Oriented Development"
@@ -143,7 +143,7 @@
 
 		<ul>
 			<li>
-				    <strong>Capital impacts</strong> reflect the up-front infrastructure required to support development. These costs may include investments in schools, community centres, libraries, and other public facilities. Municipalities typically finance these investments in part through development charges (DCs) and related fees paid by developers, and in part through government transfers and accumulated reserves. 
+				    <strong>Capital impacts</strong> reflect the up-front infrastructure required to support development. These costs may include investments in schools, community centres, libraries, and other public facilities. Municipalities typically finance these investments in part through development charges and related fees paid by developers, and in part through government transfers and accumulated reserves. 
 			</li>
 			<li>
 				   	<strong>Operating impacts</strong> reflect the ongoing revenues and costs associated with serving new residents. Revenues primarily come from property taxes and municipal service fees, while costs include the operating expenditures required to maintain municipal services such as transportation, policing, parks, and administration.  
@@ -195,13 +195,13 @@
 		</p>
 	</div>
 
-	<GraphicMultiples 
+	<!-- <GraphicMultiples 
 		svgPaths={[
 			"../web-assets/research/fiscal-impacts/net-revenue-360.svg",
 			"../web-assets/research/fiscal-impacts/net-capital-costs-360.svg"
-		]}/>
+		]}/> -->
 
-	<!-- <GraphicSingle
+	<GraphicSingle
 		svg720={"../web-assets/research/fiscal-impacts/net-revenue-720.svg"}
 		svg360={"../web-assets/research/fiscal-impacts/net-revenue-360.svg"}
 	/>
@@ -209,7 +209,7 @@
 	<GraphicSingle
 		svg720={"../web-assets/research/fiscal-impacts/net-capital-costs-720.svg"}
 		svg360={"../web-assets/research/fiscal-impacts/net-capital-costs-360.svg"}
-	/> -->
+	/>
 
 	<GraphicSingle
 		svg720={"../web-assets/research/fiscal-impacts/net-total-720.svg"}
