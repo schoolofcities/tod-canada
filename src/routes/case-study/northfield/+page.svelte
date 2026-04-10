@@ -119,7 +119,7 @@
 <!-- <svelte:window on:scroll={handleScroll} /> -->
 
 <main>
-	<Password correctPassword="meowmeowcat"></Password>
+	<!-- <Password correctPassword="meowmeowcat"></Password> -->
 	<!-- Full page title example -->
 	<div class="wrapper">
 		<!-- Top stays visually on top -->
@@ -270,7 +270,7 @@
 			imageURL='../web-assets/case-study/northfield/nf_frame_7_samu_ink_edit.png'
 			link='No'
 			caption="Land zoned as Station Area Mixed Use (SAMU) near Northfield Station."
-			source="Photo by Infrastructure Institute (2025)."
+			source="Rendering by Infrastructure Institute (2025)."
 			maxWidth="680px"
 		/>
 
