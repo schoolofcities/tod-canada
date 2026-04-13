@@ -277,16 +277,10 @@
 	/>
 
 	<div class="text">	
-
 		<p>
-			Here we explore an alternative scenario that optimizes for what are often called the “three Ds” of transit-oriented development – density, a diverse mix of land uses, and high-quality design – by encouraging mixed use developments that can bring vitality to the area by co-locating housing with retail, community centres, and public services near transportation.<Footnote id={addFootnote(fns[3])}/> A central piece, therefore, is the creation of a destination-focused station area. Locating development where transit access is strongest allows density to function as a catalyst for amenities, activity, and daily destinations. 
+			Here we explore an alternative scenario that optimizes for what are often called the “three Ds” of transit-oriented development – density, a diverse mix of land uses, and high-quality design – by encouraging mixed use developments that can bring vitality to the area by co-locating housing with retail, community centres, and public services near transportation.<Footnote id={addFootnote(fns[3])}/> A central piece, therefore, is the creation of a destination-focused station area. Locating development where transit access is strongest allows density to function as a catalyst for amenities, activity, and daily destinations.
 		</p>
-
-	</div>
-
-	<!-- TODO: add image -->
-
-	<div class="text">
+		
 		<p>
 			Here, infill is paired with supportive infrastructure, amenities, and public realm improvements to create a complete community. Re-aligning development patterns and encouraging active modes and transit use help concentrate activity around the station, foster a sense of place, and support higher transit use.
 		</p>
