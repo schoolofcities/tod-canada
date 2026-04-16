@@ -43,7 +43,7 @@
 		'Bolleter et al., “Delivering Medium‑Density Infill Development.”',
 		'Ehab Diab et al., “The Rise and Fall of Transit Ridership Across Canada: Understanding the Determinants,” <i>Transport Policy</i> 96 (2020): 101-112, <a href="https://doi.org/10.1016/j.tranpol.2020.07.002" target="_blank">DOI</a>',
 		'Cervero and Kockelman, “Travel demand and the 3Ds.”',
-		'Robin Lindsey et al., “Distributional Effects of Urban Transport Policies to Discourage Car Use: A Literature Review,” <i>OECD Environment Working Papers</i> No. 211 (2023), <a href="https://doi.org/10.1787/8bf57103-en" target="_blank">DOI</a>',
+		'Robin Lindsey et al., “Distributional Effects of Urban Transport Policies to Discourage Car Use: A Literature Review,” <i>OECD Environment Working Papers</i> No. 211 (2023), <a href="https://doi.org/10.1787/8bf57103-en" target="_blank">DOI</a>',
 		'Lindsey et al., “Distributional Effects of Urban Transport Policies to Discourage Car Use.”',
 		'Corinne Mulley et al., “Land Value Gains and Value Capture: The Potential for Financing Public Transport Infrastructure,” <i>The Routledge Handbook of Public Transport</i> (2021), 123–137.',
 		'City of Edmonton, <i>Executive Summary: 2024 Rider Research Program</i>, <a href="https://www.edmonton.ca/sites/default/files/public-files/ETS-Rider-Research-Program-2024-Executive-Summary.pdf?cb=1769545549" target="_blank">URL</a>',
@@ -60,7 +60,7 @@
 	let textSection;
 
 	const credits = [
-		{ role:"Research and writing", names:"Sarah Chan, Kathryn Exon Smith, Anika Reisha Taboy"},
+		{ role:"Research and writing", names:"Sarah Chan, Anika Reisha Taboy, Matti Siemiatycki, Kathryn Exon Smith"},
 		{ role:"Concept design development", names:"Daniel Lam, Phat Le"},
 		{ role:"Maps and data visualization", names:"Isabeaux Graham, Jeff Allen"},
 		{ role:"Web development", names:"Mieko Yao, Jeff Allen"},
@@ -234,7 +234,7 @@
 		</p>
 
 		<p>
-			Going forward there is an opportunity to create a vibrant, walkable hub around the transit station that integrates shops and community infrastructure like libraries and community centres into larger buildings with housing above. The <a href="https://webdocs.edmonton.ca/infraplan/plans_in_effect/McKernan-Belgravia_Station_ARP_Consolidation.pdf" target="_blank">City’s vision</a> calls for strategic density: medium-scale, mixed-use buildings – generally mid-rise forms with active ground floors – along major arterials like 114 Street and 76 Avenue, complemented by new amenities and multimodal routes, with more modest infill within the neighbourhood fabric. Achieving this vision will mean encouraging a mix of higher-density construction close to the transit station alongside the small-scale infill that is emerging. 
+			Going forward there is an opportunity to create a vibrant, walkable hub around the transit station that integrates shops and community infrastructure like libraries and community centres into larger buildings with housing above. The <a href="https://webdocs.edmonton.ca/infraplan/plans_in_effect/McKernan-Belgravia_Station_ARP_Consolidation.pdf" target="_blank">City’s vision</a> calls for strategic density: medium-scale, mixed-use buildings – generally mid-rise forms with active ground floors – along major arterials like 114 Street and 76 Avenue, complemented by new amenities and multimodal routes, with more modest infill within the neighbourhood fabric. Achieving this vision will mean encouraging a mix of higher-density construction close to the transit station alongside the small-scale infill that is emerging. 
 		</p>
 	</div>
 
@@ -278,7 +278,7 @@
 
 	<div class="text">	
 		<p>
-			Here we explore an alternative scenario that optimizes for what are often called the “three Ds” of transit-oriented development – density, a diverse mix of land uses, and high-quality design – by encouraging mixed use developments that can bring vitality to the area by co-locating housing with retail, community centres, and public services near transportation.<Footnote id={addFootnote(fns[3])}/> A central piece, therefore, is the creation of a destination-focused station area. Locating development where transit access is strongest allows density to function as a catalyst for amenities, activity, and daily destinations.
+			Here we explore an alternative scenario that optimizes for what are often called the “3Ds” of transit-oriented development – density, a diverse mix of land uses, and high-quality design – by encouraging mixed-use developments that can bring vitality to the area by co-locating housing with retail, community centres, and public services near transportation.<Footnote id={addFootnote(fns[3])}/> A central piece, therefore, is the creation of a destination-focused station area. Locating development where transit access is strongest allows density to function as a catalyst for amenities, activity, and daily destinations.
 		</p>
 		
 		<p>
@@ -376,7 +376,7 @@
 		</p>
 
 		<p>
-			Moreover, station area development usually happens over decades and community acceptance often grows over time: residents who initially resist change may come to appreciate improvements such as better public spaces, active transportation infrastructure and nearby amenities once the tangible benefits of development are realized.
+			Moreover, station area development usually happens over decades and community acceptance often grows over time: residents who initially resist change may come to appreciate improvements such as better public spaces, active transportation infrastructure, and nearby amenities once the tangible benefits of development are realized.
 		</p>
 
 	</div>
@@ -392,7 +392,7 @@
 	<div class="text">
 
 		<p>
-			The path forward is apparent: policy should incentivize high-quality development near the station, while actively deterring vehicle dependence. Though the direction is simple, implementation is complex – it requires weaving together refinements in parcel availability, traffic management, and streetscape design that ensure the seamless movement of people. Balancing zoning and incentives for mixed-use development with an understanding of market realities is essential to ensure both coordinated growth and sufficient housing supply.
+			The path forward is apparent: policy should incentivize high-quality development near the station, while actively deterring vehicle dependence. Though the direction is simple, implementation is complex – it requires weaving together refinements in parcel availability, traffic management, and streetscape design that ensure the seamless movement of people. Balancing zoning and incentives for mixed-use development with an understanding of market realities is essential to ensure both coordinated growth and sufficient housing supply.
 		</p>
 
 	</div>

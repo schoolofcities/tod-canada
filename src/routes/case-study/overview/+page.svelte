@@ -100,7 +100,7 @@
 					Key question: How can we build infill in a mature community with strategic infrastructure investments to support high-capacity transit ridership? 
 				</li>
 				<li>
-					The optimized scenario in the mature neighbourhood of McKernan-Belgravia foregrounds mid-rise development along major corridors and next to the station, including commercial uses, rather than lower-density infill dispersed through neighbourhoods. It also prioritizes infrastructure that allows more connectivity through the station area for active transportation and transit users. 
+					The optimized scenario in the mature neighbourhood of McKernan-Belgravia foregrounds mid-rise development along major corridors and next to the station, including commercial uses. It also prioritizes infrastructure that allows more connectivity through the station area for active transportation and transit users. 
 				</li>
 			</ul>
 
