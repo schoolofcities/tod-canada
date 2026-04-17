@@ -1,29 +1,17 @@
 <script>
 
 	import '../../../assets/global-styles.css';
-	import { display } from "mathlifier";
 
-	import Logo from '$lib/LogoBody.svelte';
-	import TitleVideo from '$lib/TitleVideo.svelte';
     import TitlePage from '$lib/TitlePage.svelte';
 	import AuthorDate from '$lib/AuthorDate.svelte';
-	import ImageSingle from '$lib/ImageSingle.svelte';
 	import GraphicSingle from '$lib/GraphicSingle.svelte';
-	import GraphicsMultiples from '$lib/GraphicMultiples.svelte';
-	import Footer from '$lib/Footer.svelte';
-	import ScrollyImages from "$lib/ScrollyImages.svelte";
-	import LineBreakMiniTransitMap from '$lib/LineBreakMiniTransitMap.svelte';
-	import Password from '$lib/Password.svelte';
 	import Recommendation from '$lib/Recommendation.svelte';
 	import LogoBody from '$lib/LogoBody.svelte';
-	
 	import BoilerPlate from '$lib/BoilerPlate.svelte';
-	
+    import HamburgerMenu from '$lib/HamburgerMenu.svelte';
 	import Footnote from '$lib/Footnote.svelte';
 	import Footnotes from '$lib/Footnotes.svelte';
 	import { createFootnoteStore } from '$lib/footnoteUtils';
-    import HamburgerMenu from '$lib/HamburgerMenu.svelte';
-    import GraphicMultiples from '$lib/GraphicMultiples.svelte';
 
 	const footnoteStore = createFootnoteStore();
 	const { footnotes, addFootnote } = footnoteStore;
@@ -80,8 +68,6 @@
 
 
 <main>
-
-	<!-- <Password correctPassword="meowmeowcat"></Password> -->
 
 	<TitlePage
 		title="Fiscal Impacts of Transit-Oriented Development"
@@ -153,10 +139,6 @@
 		<p>
 			Because capital costs occur once, while operating revenues occur annually, this analysis converts capital impacts into annualized equivalents by depreciating them over a 40-year period. This allows us to compare capital and operating impacts on a consistent basis.  
 		</p>
-
-		<!-- This was rendering weirdly for me, and I couldn't fix, so just made a quick image -->
-		<!-- {@html display(`Net~Total~Annual~Impact = Net~Operating~Impact + \\frac{Net~Capital~Impact}{Time~Horizon}`)} -->
-
 		</div>
 
 		<GraphicSingle
@@ -164,7 +146,7 @@
 			svg360={"../web-assets/research/fiscal-impacts/formula-360.svg"}
 		/>
 
-		<div class="text">
+	<div class="text">
 
 		<p>
 			The analysis also illustrates how these fiscal impacts could evolve over time on a cash basis. We determined each municipality’s construction capacity by using CMHC’s Starts and Completions survey, a ten-year average of housing starts, and modelled two speeds of construction. In the faster version, we assume the construction capacity is equal to the historical averages. In the slower version, since construction activity would likely not be entirely dedicated to the proposed TODs in each municipality, we assumed that the construction capacity is half the average. This allows us to project a timeline of financial impacts that takes into account both the scale of development in each station area and the likely speed of construction. This approach considers only the fiscal impact of development within the station area and does not take into account development that would have occurred in the absence of the TOD (which would have had its own fiscal costs and benefits), or the fiscal outcomes of TOD versus more dispersed growth.
@@ -194,12 +176,6 @@
 			In almost all cases, the optimized scenarios generated higher operating revenues than the current trajectory, indicating that TODs that balance housing needs with the infrastructure and services that make complete communities make fiscal sense. In the case where municipal revenues are lower (Northfield), the optimized case has less property tax from commercial space and more infrastructure to maintain (including roads and community facilities) – but the increase in jobs may generate more revenues for other orders of government in the form of income tax. The negative impact in the current trajectory for Edmonton is caused by the anticipated lower-than-average assessment values (and therefore lower property tax revenues) of small infill units combined with the city’s relatively high average municipal spending per person to maintain its current sprawling footprint.
 		</p>
 	</div>
-
-	<!-- <GraphicMultiples 
-		svgPaths={[
-			"../web-assets/research/fiscal-impacts/net-revenue-360.svg",
-			"../web-assets/research/fiscal-impacts/net-capital-costs-360.svg"
-		]}/> -->
 
 	<GraphicSingle
 		svg720={"../web-assets/research/fiscal-impacts/net-revenue-720.svg"}
@@ -290,11 +266,7 @@
 		<p>
 			<a href="../web-assets/research/fiscal-impacts/Fiscal Impacts - Full methodology and findings.pdf" target="_blank">See the full analysis here.</a>
 		</p>
-	</div>
-
-	<!-- graph -->
-
-	<div class="text">
+		
 		<h1>
 			Key conclusions and policy recommendations 
 		</h1>

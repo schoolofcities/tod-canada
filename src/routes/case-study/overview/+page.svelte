@@ -1,10 +1,10 @@
 <script>
 
-	import '../../../assets/global-styles.css'; 
-	import LogoBody from '$lib/LogoBody.svelte';
 	import Footnote from '$lib/Footnote.svelte';
 	import Footnotes from '$lib/Footnotes.svelte';
 	import { createFootnoteStore } from '$lib/footnoteUtils';
+	import LogoBody from '$lib/LogoBody.svelte';
+	import '../../../assets/global-styles.css';
     // import CaseStudyCard from '$lib/CaseStudyCard.svelte';
 
 	const footnoteStore = createFootnoteStore();
