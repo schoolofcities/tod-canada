@@ -5,7 +5,7 @@
 	import { onMount } from "svelte";
 
 	import AuthorDate from '$lib/AuthorDate.svelte';
-	import CaseStudyNote from '$lib/BoilerPlate.svelte';
+	import BoilerPlate from '$lib/BoilerPlate.svelte';
 	import FadingImages from "$lib/FadingImages.svelte";
 	import Footnote from '$lib/Footnote.svelte';
 	import Footnotes from '$lib/Footnotes.svelte';
@@ -175,7 +175,7 @@
 			A core strategy must tackle valid concerns around social disruption: the threat of displacement, perceived incompatibility of uses, and the risk of delayed delivery of housing and amenities. 
 		</p>
 
-		<CaseStudyNote style=3/>
+		<BoilerPlate pageType="CaseStudy"/>
 		
 		<h1 id="Menu_2">
 			Neighbourhood overview 

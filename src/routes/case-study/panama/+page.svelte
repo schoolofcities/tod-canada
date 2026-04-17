@@ -5,7 +5,7 @@
 	import { onMount } from "svelte";
 
 	import AuthorDate from '$lib/AuthorDate.svelte';
-	import CaseStudyNote from '$lib/BoilerPlate.svelte';
+	import BoilerPlate from '$lib/BoilerPlate.svelte';
 	import FadingImages from "$lib/FadingImages.svelte";
 	import Footnote from '$lib/Footnote.svelte';
 	import Footnotes from '$lib/Footnotes.svelte';
@@ -172,9 +172,8 @@
 		<p>
 			This case explores how to bring Brossard’s complete community vision to fruition while ensuring it stays affordable and inclusive. 
 		</p>
-
 		
-		<CaseStudyNote/>
+		<BoilerPlate pageType="CaseStudy"/>
 
 		<h1 id="Menu_2">Neighbourhood overview</h1>
 

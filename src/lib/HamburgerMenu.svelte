@@ -2,7 +2,6 @@
 
 	import "../assets/global-styles.css";  
 	import { onMount } from "svelte";
-    // import { tick } from 'svelte';
 
 	export let iconColour = "black";
     export let contents = [];

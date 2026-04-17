@@ -1,13 +1,9 @@
 <script>
 
-	import "../assets/global-styles.css"
-	import LogoSofC from '../assets/sofc-uoft-logo-white.svg';
-	import LogoII from '../assets/ii-logo-white.svg'
-
-	import AuthorDate from "./AuthorDate.svelte";
 	import { onMount } from "svelte";
-    import TitleText from "./TitleText.svelte";
-    import ScrollAnimate from "./ScrollAnimate.svelte";
+	import "../assets/global-styles.css";
+	import ScrollAnimate from "./ScrollAnimate.svelte";
+	import TitleText from "./TitleText.svelte";
 
 	// Text Props
 	export let title = '';

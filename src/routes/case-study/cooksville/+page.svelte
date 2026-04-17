@@ -5,7 +5,7 @@
 	import { onMount } from "svelte";
 
 	import AuthorDate from '$lib/AuthorDate.svelte';
-	import CaseStudyNote from '$lib/BoilerPlate.svelte';
+	import BoilerPlate from '$lib/BoilerPlate.svelte';
 	import FadingImages from "$lib/FadingImages.svelte";
 	import Footnote from '$lib/Footnote.svelte';
 	import Footnotes from '$lib/Footnotes.svelte';
@@ -178,7 +178,7 @@
 			Densification near transit means managing the growing risk of flooding while creating communities for everyone. Our Cooksville case explores strategies for more inclusive densification while designing around urban floods.  
 		</p>
 		
-			<CaseStudyNote/>
+			<BoilerPlate pageType="CaseStudy"/>
 
 			<h1 id="Menu_2">
 				Neighbourhood overview 

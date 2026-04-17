@@ -5,7 +5,7 @@
 	import { onMount } from "svelte";
 
 	import AuthorDate from '$lib/AuthorDate.svelte';
-	import CaseStudyNote from '$lib/BoilerPlate.svelte';
+	import BoilerPlate from '$lib/BoilerPlate.svelte';
 	import FadingImages from "$lib/FadingImages.svelte";
 	import Footnote from '$lib/Footnote.svelte';
 	import Footnotes from '$lib/Footnotes.svelte';
@@ -169,7 +169,7 @@
 			This case explores how cities can plan for density in established neighbourhoods: by layering varied housing and community amenities near the station to create the connectivity and pedestrian-friendly elements that drive transit use and make livable communities.
 		</p>
 		
-		<CaseStudyNote/>
+		<BoilerPlate pageType="CaseStudy"/>
 
 		<h1 id="Menu_2">
 			Neighbourhood overview 

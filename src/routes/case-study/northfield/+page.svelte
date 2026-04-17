@@ -5,7 +5,7 @@
 	import { onMount } from "svelte";
 
 	import AuthorDate from '$lib/AuthorDate.svelte';
-	import CaseStudyNote from '$lib/BoilerPlate.svelte';
+	import BoilerPlate from '$lib/BoilerPlate.svelte';
 	import FadingImages from "$lib/FadingImages.svelte";
 	import Footnote from '$lib/Footnote.svelte';
 	import Footnotes from '$lib/Footnotes.svelte';
@@ -163,8 +163,8 @@
 			<p>
 				This case explores the importance of keeping employment uses near transit amid housing pressures. 
 			</p>
-
-			<CaseStudyNote style=3/>
+			
+			<BoilerPlate pageType="CaseStudy"/>
 			
 			<h1 id="Menu_2">
 				Neighbourhood overview 
