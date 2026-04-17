@@ -51,7 +51,7 @@
 		'Kling et al., <i>Preserving the largest and most at-risk supply of affordable housing.</i>',
 		'Kling et al., <i>Preserving the largest and most at-risk supply of affordable housing.</i>',
 		'Kling et al., <i>Preserving the largest and most at-risk supply of affordable housing.</i>',
-		'Elizabeth Macdonald, “Urban Design for Sustainable and Livable Communities: The Case of Vancouver,” <i>ransportation, Land Use, and Environmental Planning</i> (2020): 83-104, <a href="https://doi.org/10.1016/B978-0-12-815167-9.00005-0" target="_blank">DOI</a>',
+		'Elizabeth Macdonald, “Urban Design for Sustainable and Livable Communities: The Case of Vancouver,” <i>Transportation, Land Use, and Environmental Planning</i> (2020): 83-104, <a href="https://doi.org/10.1016/B978-0-12-815167-9.00005-0" target="_blank">DOI</a>',
 		'Karen Chapple et al., “The Role of Local Housing Policies in Preventing Displacement: A Literature Review,” <i>Journal of Planning Literature</i> 38, no. 2 (2022): 200-214, <a href="https://doi.org/10.1177/08854122221137859" target="_blank">DOI</a>'
 	];
 
