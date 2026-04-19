@@ -2,37 +2,30 @@
 
 	import '../../../assets/global-styles.css';
 
-	import { onMount, onDestroy } from "svelte";
+	import { onMount } from "svelte";
 
-	import Logo from '$lib/LogoTop.svelte';
 	import AuthorDate from '$lib/AuthorDate.svelte';
-	import ImageSingle from '$lib/ImageSingle.svelte';
-	import ImageCompare from '$lib/ImageCompare.svelte';
-	import GraphicSingle from '$lib/GraphicSingle.svelte';
-	import GraphicsMultiples from '$lib/GraphicMultiples.svelte';
-	import Footer from '$lib/Footer.svelte';
+	import BoilerPlate from '$lib/BoilerPlate.svelte';
 	import FadingImages from "$lib/FadingImages.svelte";
-    import ScrollAnimate from '$lib/ScrollAnimate.svelte';
-	import Password from '$lib/Password.svelte';
-
-	import topImage from './assets/CC_Background_Frame_1.png' 
-
-	import { createFootnoteStore } from '$lib/footnoteUtils';
-    import { resolveRoute } from '$app/paths';
-    import HamburgerMenu from '$lib/HamburgerMenu.svelte';
-
-	export let data;
-
 	import Footnote from '$lib/Footnote.svelte';
 	import Footnotes from '$lib/Footnotes.svelte';
-    import ImageMultiples from '$lib/ImageMultiples.svelte';
-    import GraphicMultiples from '$lib/GraphicMultiples.svelte';
-    import CaseStudyNote from '$lib/BoilerPlate.svelte';
-    import Recommendation from '$lib/Recommendation.svelte';
-    import LogoBody from '$lib/LogoBody.svelte';
-    import TitlePage from '$lib/TitlePage.svelte';
+	import { createFootnoteStore } from '$lib/footnoteUtils';
+	import GraphicMultiples from '$lib/GraphicMultiples.svelte';
+	import GraphicSingle from '$lib/GraphicSingle.svelte';
+	import HamburgerMenu from '$lib/HamburgerMenu.svelte';
+	import ImageCompare from '$lib/ImageCompare.svelte';
+	import ImageMultiples from '$lib/ImageMultiples.svelte';
+	import ImageSingle from '$lib/ImageSingle.svelte';
+	import LogoBody from '$lib/LogoBody.svelte';
+	import Recommendation from '$lib/Recommendation.svelte';
+	import ScrollAnimate from '$lib/ScrollAnimate.svelte';
+	import TitlePage from '$lib/TitlePage.svelte';
+	import topImage from './assets/CC_Background_Frame_1.png';
+
 	const footnoteStore = createFootnoteStore();
 	const { footnotes, addFootnote } = footnoteStore;
+
+	export let data;
 
 	const fns = [
 		'Canadian Climate Institute, <i>Climate Change and Floods: Fact Sheet</i> (2024), <a href="https://climateinstitute.ca/wp-content/uploads/2024/09/Fact-sheet_-Floods_CanadianClimateInstitute.pdf" target="_blank">URL</a>',
@@ -132,17 +125,8 @@
 
 </svelte:head>
 
-
-
-<!-- <svelte:window on:scroll={handleScroll} /> -->
-
 <main>
-
-	<!-- <Password correctPassword="meowmeowcat"></Password> -->
-
-	<!-- Full page title example -->
 	<div class="wrapper">
-		<!-- Top stays visually on top -->
 		<div class="top" style="opacity: {topOpacity}; pointer-events: {topPointer};">
 			<TitlePage
 				title="Cooksville Station"
@@ -168,8 +152,6 @@
 		<ScrollAnimate 
 			colour={arrowColour}></ScrollAnimate>
 
-
-		<!-- Bottom is underneath, scrolls normally -->
 		<div class="bottom" id="before-text">
 			<FadingImages
 				sections={data.animations[0].items}
@@ -196,7 +178,7 @@
 			Densification near transit means managing the growing risk of flooding while creating communities for everyone. Our Cooksville case explores strategies for more inclusive densification while designing around urban floods.  
 		</p>
 		
-			<CaseStudyNote/>
+			<BoilerPlate pageType="CaseStudy"/>
 
 			<h1 id="Menu_2">
 				Neighbourhood overview 
@@ -438,16 +420,6 @@
 				Our optimized approach starts by adopting the current city strategy for <i>where</i> to build: on underused parcels, like aging plazas and surface parking lots. Accounting for floodplain considerations and preserving existing neighbourhoods, these are the parcels most eligible for development. This leaves stable residential neighbourhoods mostly untouched.  
 			</p>
 
-		</div>
-
-		<!-- <ImageSingle imageURL="../web-assets/case-study/cooksville/palmerston.jpg"
-			caption="Example of a green buffer on Palmerston Ave., Toronto"
-			maxWidth="680px"
-			source="Photo by Jeff Allen (2025)."
-		/> -->
-
-		<div class="text">
-
 			<Recommendation style=1 count=2
 							title="Invest in multi-benefit green infrastructure"/>
 
@@ -476,22 +448,6 @@
 			mainCaption={"When Cheonggeyechon River is low, pedestrians can enjoy walking through the flood infrastructure in-between busier main streets."}
 			maxWidth=1080
 		/>
-
-		<!-- <ImageSingle
-			imageURL={"../web-assets/case-study/cooksville/seoul-river.jpg"}
-			caption="When Cheonggeyechon River is low, pedestrians can enjoy walking through the flood infrastructure in-between busier main streets."
-			source="<a href='https://commons.wikimedia.org/wiki/File:Cheonggeyechon_River_in_Seoul.jpg' target='_blank'>Photo by Ken Eckert</a>"
-			maxWidth="680px"
-			link='No'
-		/>
-
-		<ImageSingle
-			imageURL={"../web-assets/case-study/cooksville/cheonggyecheon.jpg"}
-			caption="When Cheonggeyechon River is low, pedestrians can enjoy walking through the flood infrastructure in-between busier main streets."
-			source="<a href='https://commons.wikimedia.org/wiki/File:20240602_175752_Cheonggyecheon_06.jpg' target='_blank'>Photo by Dwxn</a>"
-			maxWidth="680px"
-			link='No'
-		/> -->
 
 		<div class="text">
 

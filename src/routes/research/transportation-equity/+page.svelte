@@ -2,25 +2,16 @@
 
 	import '../../../assets/global-styles.css';
 
-	import Logo from '$lib/LogoBody.svelte';
-	import TitleVideo from '$lib/TitleVideo.svelte';
+    import AuthorDate from '$lib/AuthorDate.svelte';
+    import BoilerPlate from '$lib/BoilerPlate.svelte';
+    import Footnote from '$lib/Footnote.svelte';
+    import Footnotes from '$lib/Footnotes.svelte';
+    import { createFootnoteStore } from '$lib/footnoteUtils';
+    import GraphicSingle from '$lib/GraphicSingle.svelte';
+    import HamburgerMenu from '$lib/HamburgerMenu.svelte';
+    import LogoBody from '$lib/LogoBody.svelte';
+    import Recommendation from '$lib/Recommendation.svelte';
     import TitlePage from '$lib/TitlePage.svelte';
-	import AuthorDate from '$lib/AuthorDate.svelte';
-	import ImageSingle from '$lib/ImageSingle.svelte';
-	import GraphicSingle from '$lib/GraphicSingle.svelte';
-	import GraphicsMultiples from '$lib/GraphicMultiples.svelte';
-	import Footer from '$lib/Footer.svelte';
-	import ScrollyImages from "$lib/ScrollyImages.svelte";
-	import LineBreakMiniTransitMap from '$lib/LineBreakMiniTransitMap.svelte';
-	import Password from '$lib/Password.svelte';
-	import Recommendation from '$lib/Recommendation.svelte';
-	import LogoBody from '$lib/LogoBody.svelte';
-	import HamburgerMenu from '$lib/HamburgerMenu.svelte';
-	
-	import BoilerPlate from '$lib/BoilerPlate.svelte';
-	import Footnote from '$lib/Footnote.svelte';
-	import Footnotes from '$lib/Footnotes.svelte';
-	import { createFootnoteStore } from '$lib/footnoteUtils';
 
 	const footnoteStore = createFootnoteStore();
 	const { footnotes, addFootnote } = footnoteStore;
@@ -77,8 +68,6 @@
 
 
 <main>
-
-	<!-- <Password correctPassword="meowmeowcat"></Password> -->
 
 	<TitlePage
 		title="Transportation Equity and Sustainable Mobility from Mixed-use Development"
@@ -170,15 +159,6 @@
 		<p>
 			<a href="../web-assets/research/transportation-equity/Transportation Equity - Full Methodology and Findings.pdf" target="_blank">Click here for a more detailed discussion of the methodology.</a> 
 		</p>
-
-	</div>
-
-	<!-- <GraphicSingle
-		svg720={"../web-assets/research/transportation-equity/edmonton-access-example-720.svg"}
-		svg360={"../web-assets/research/transportation-equity/poverty-scenario-360.svg"}
-	/> -->
-
-	<div class="text">
 
 		<h1>
 			What we found 

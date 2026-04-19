@@ -2,35 +2,29 @@
 
 	import '../../../assets/global-styles.css';
 
-	import { onMount, onDestroy } from "svelte";
+	import { onMount } from "svelte";
 
-	import Logo from '$lib/LogoTop.svelte';
-	import TitlePage from '$lib/TitlePage.svelte';
 	import AuthorDate from '$lib/AuthorDate.svelte';
-	import ImageSingle from '$lib/ImageSingle.svelte';
-	import ImageCompare from '$lib/ImageCompare.svelte';
-	import GraphicSingle from '$lib/GraphicSingle.svelte';
-	import GraphicMultiples from '$lib/GraphicMultiples.svelte';
-	import Footer from '$lib/Footer.svelte';
+	import BoilerPlate from '$lib/BoilerPlate.svelte';
 	import FadingImages from "$lib/FadingImages.svelte";
-    import ScrollAnimate from '$lib/ScrollAnimate.svelte';
-	import Password from '$lib/Password.svelte';
-
-	import topImage from './assets/PS_Background Frame_1.png' 
-
-	import { createFootnoteStore } from '$lib/footnoteUtils';
-    import { resolveRoute } from '$app/paths';
-    import HamburgerMenu from '$lib/HamburgerMenu.svelte';
-
-	export let data;
-
-	import LogoBody from '$lib/LogoBody.svelte';
-	import CaseStudyNote from '$lib/BoilerPlate.svelte';
-	import Recommendation from '$lib/Recommendation.svelte';
 	import Footnote from '$lib/Footnote.svelte';
 	import Footnotes from '$lib/Footnotes.svelte';
+	import { createFootnoteStore } from '$lib/footnoteUtils';
+	import GraphicMultiples from '$lib/GraphicMultiples.svelte';
+	import GraphicSingle from '$lib/GraphicSingle.svelte';
+	import HamburgerMenu from '$lib/HamburgerMenu.svelte';
+	import ImageCompare from '$lib/ImageCompare.svelte';
+	import ImageSingle from '$lib/ImageSingle.svelte';
+	import LogoBody from '$lib/LogoBody.svelte';
+	import Recommendation from '$lib/Recommendation.svelte';
+	import ScrollAnimate from '$lib/ScrollAnimate.svelte';
+	import TitlePage from '$lib/TitlePage.svelte';
+	import topImage from './assets/PS_Background Frame_1.png';
+
 	const footnoteStore = createFootnoteStore();
 	const { footnotes, addFootnote } = footnoteStore;
+
+	export let data;
 
 	const fns = [
 		'Ville de Brossard, “Plan particulier d’urbanisme du centre-ville,” Annexe C du règlement REG-360, July 2, 2024, <a href="https://brossard.ca/app/uploads/2025/05/ANNEXE-29-PPU-C-V-2024-07-02_FINAL.pdf" target="_blank">URL</a>',
@@ -125,14 +119,8 @@
 </svelte:head>
 
 
-
-<!-- <svelte:window on:scroll={handleScroll} /> -->
-
 <main>
-	<!-- <Password correctPassword="meowmeowcat"></Password> -->
-	<!-- Full page title example -->
 	<div class="wrapper">
-		<!-- Top stays visually on top -->
 		<div class="top" style="opacity: {topOpacity}; pointer-events: {topPointer};">
 			<TitlePage
 				title="Panama Station"
@@ -159,7 +147,6 @@
 		<HamburgerMenu
 		iconColour={arrowColour}/>
 
-		<!-- Bottom is underneath, scrolls normally -->
 		<div class="bottom" id="before-text">
 			<FadingImages
 				sections={data.animations[0].items}
@@ -185,9 +172,8 @@
 		<p>
 			This case explores how to bring Brossard’s complete community vision to fruition while ensuring it stays affordable and inclusive. 
 		</p>
-
 		
-		<CaseStudyNote/>
+		<BoilerPlate pageType="CaseStudy"/>
 
 		<h1 id="Menu_2">Neighbourhood overview</h1>
 
@@ -298,14 +284,6 @@
 			The plan for Panama Station and its surroundings is forward-thinking and visionary, embodying many best practices for TOD, and it has recently been recognized with an international award.<Footnote id={addFootnote(fns[7])}/> It also proposes lower overall density levels than many TODs in large urban areas, with the explicit intention of creating TOD on a “human scale,” and generally low- to mid-rise development outside of the areas immediately adjacent to the station. This was the outcome of extensive community consultation and a frank assessment of the capacity of the city’s infrastructure.  
 		</p>
 	</div>
-
-	<!-- <ImageSingle
-		imageURL={"../web-assets/case-study/panama/optimized-scenario.png"}
-		source={""}
-		caption={""}
-		maxWidth="1080px"
-		link='No'
-	/> -->
 
 	<ImageCompare
 		imageURL1="../web-assets/case-study/panama/current-trajectory.png"
@@ -418,9 +396,6 @@
 		<LogoBody/>
 		<div class="line-break"></div>
 	</div>
-
-	<!-- <Footnotes footnotes={footnotes} /> -->
-	<!-- <Footer /> -->
 
 </main>
 

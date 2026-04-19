@@ -1,8 +1,5 @@
 
 <script>
-    import AuthorDate from "./AuthorDate.svelte";
-
-
 	export let pageType = "CaseStudy" // Research
 
 	let boilerPlate = '';

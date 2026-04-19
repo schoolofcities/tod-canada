@@ -2,25 +2,17 @@
 
 	import '../../../assets/global-styles.css';
 
-	import Logo from '$lib/LogoBody.svelte';
-	import TitlePage from '$lib/TitlePage.svelte';
 	import AuthorDate from '$lib/AuthorDate.svelte';
-	import ImageSingle from '$lib/ImageSingle.svelte';
-	import GraphicSingle from '$lib/GraphicSingle.svelte';
-	import GraphicsMultiples from '$lib/GraphicMultiples.svelte';
-	import Footer from '$lib/Footer.svelte';
-	import ScrollyImages from "$lib/ScrollyImages.svelte";
-	import LineBreakMiniTransitMap from '$lib/LineBreakMiniTransitMap.svelte';
-	import Password from '$lib/Password.svelte';
-	import HamburgerMenu from '$lib/HamburgerMenu.svelte';
-	
-	import GraphicCompare from '$lib/GraphicCompare.svelte';
-	import LogoBody from '$lib/LogoBody.svelte';
-	import Recommendation from '$lib/Recommendation.svelte';
 	import BoilerPlate from '$lib/BoilerPlate.svelte';
 	import Footnote from '$lib/Footnote.svelte';
 	import Footnotes from '$lib/Footnotes.svelte';
 	import { createFootnoteStore } from '$lib/footnoteUtils';
+	import GraphicCompare from '$lib/GraphicCompare.svelte';
+	import GraphicSingle from '$lib/GraphicSingle.svelte';
+	import HamburgerMenu from '$lib/HamburgerMenu.svelte';
+	import LogoBody from '$lib/LogoBody.svelte';
+	import Recommendation from '$lib/Recommendation.svelte';
+	import TitlePage from '$lib/TitlePage.svelte';
 
 	const footnoteStore = createFootnoteStore();
 	const { footnotes, addFootnote } = footnoteStore;
@@ -77,8 +69,6 @@
 
 <main>
 
-	<!-- <Password correctPassword="meowmeowcat"></Password> -->
-
 	<TitlePage
 		title="Building Intensification and Neighbourhood Change in Transit-Oriented Development Zones "
 		type="RESEARCH"
@@ -107,15 +97,6 @@
 		/>
 
 	</div>
-
-	<!-- <ImageSingle
-		imageURL={imageBus}
-		caption=""
-		source='Photo by <a href="https://unsplash.com/@json_pix?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jason Ng</a> on <a href="https://unsplash.com/photos/a-red-and-white-bus-parked-on-the-side-of-a-street-bm5UpO1_y2w?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.'
-		altText=""
-		maxWidth="680px"
-		link="No"
-	/> -->
 
 	<div class="text">
 
@@ -287,15 +268,6 @@
 			The area’s population grew from 2016 to 2021, and the area became more racially diverse. 
 		</p>
 
-	<!-- </div>
-
-	<GraphicSingle
-		svg720={"../web-assets/research/intensification-and-equity/cooksville-visible-minority-720.svg"}
-		svg360={"../web-assets/research/intensification-and-equity/cooksville-visible-minority-360.svg"}
-	/>
-
-	<div class="text"> -->
-
 		<p>
 			Cooksville is becoming a regional growth node, and the City has positioned Cooksville as a key redevelopment area in Mississauga’s downtown intensification strategy – but whether that growth locks in affordability is still very much an open question.  
 		</p>
@@ -320,15 +292,6 @@
 		<p>
 			The station area has seen a sizeable jump in visible minority residents since 2021, among the largest proportional increases in visible minority residents across the corridor.  
 		</p>
-
-	<!-- </div>
-
-	<GraphicSingle
-		svg720={"../web-assets/research/intensification-and-equity/northfield-visible-minority-720.svg"}
-		svg360={"../web-assets/research/intensification-and-equity/northfield-visible-minority-360.svg"}
-	/>
-
-	<div class="text"> -->
 
 		<p>
 			Northfield is an early-stage TOD zone where policy can still meaningfully shape outcomes. Its moderate growth demonstrates the corridor’s outward diffusion of TOD impacts. It also underscores the need for tailored planning strategies to activate underutilized lands and expand housing supply in station areas that were historically employment-focused. 
@@ -355,15 +318,6 @@
 			The station area is quietly diversifying while the overall population remains stable. This is TOD in a high-cost market: intense capital flows, constrained affordability, and a small but important demographic reshuffling.  
 		</p>
 
-	<!-- </div>
-
-	<GraphicSingle
-		svg720={"../web-assets/research/intensification-and-equity/arbutus-visible-minority-720.svg"}
-		svg360={"../web-assets/research/intensification-and-equity/arbutus-visible-minority-360.svg"}
-	/>
-
-	<div class="text"> -->
-
 		<h2>
 			In more affordable cities, TOD can be slower 
 		</h2>
@@ -385,15 +339,6 @@
 			The demographic picture shows growth among several visible minority groups but uneven trajectories by subgroup. This is what a long-term TOD build-out looks like in a more affordable city.
 		</p>
 
-	<!-- </div>
-
-	<GraphicSingle
-		svg720={"../web-assets/research/intensification-and-equity/mckernan-visible-minority-720.svg"}
-		svg360={"../web-assets/research/intensification-and-equity/mckernan-visible-minority-360.svg"}
-	/>
-
-	<div class="text"> -->
-
 		<h2>
 			Transit does not guarantee transformation (yet)
 		</h2>
@@ -414,15 +359,6 @@
 		<p>
 			Despite a major transit investment and its strategic position close to downtown Montreal, the station area has not yet absorbed significant redevelopment pressure or demographic change, especially when compared to the broader South Shore, where non-station areas display clear signs of intensification and diversification. It is a reminder that TOD potential can be stalled by local zoning, ownership patterns, and market timing.  
 		</p>
-
-	<!-- </div>
-
-	<GraphicSingle
-		svg720={"../web-assets/research/intensification-and-equity/panama-visible-minority-720.svg"}
-		svg360={"../web-assets/research/intensification-and-equity/panama-visible-minority-360.svg"}
-	/>
-
-	<div class="text"> -->
 
 		<h1>
 			Key conclusions and policy recommendations 
@@ -466,10 +402,5 @@
 		<LogoBody/>
 		<div class="line-break"></div>
 	</div>
-
-
-	
-
-	<!-- <Footer /> -->
 
 </main>

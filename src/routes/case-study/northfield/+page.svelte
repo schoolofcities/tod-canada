@@ -2,35 +2,29 @@
 
 	import '../../../assets/global-styles.css';
 
-	import { onMount, onDestroy } from "svelte";
+	import { onMount } from "svelte";
 
-	import Logo from '$lib/LogoTop.svelte';
 	import AuthorDate from '$lib/AuthorDate.svelte';
-	import ImageSingle from '$lib/ImageSingle.svelte';
-	import ImageCompare from '$lib/ImageCompare.svelte';
-	import GraphicSingle from '$lib/GraphicSingle.svelte';
-	import GraphicMultiples from '$lib/GraphicMultiples.svelte';
-	import Footer from '$lib/Footer.svelte';
+	import BoilerPlate from '$lib/BoilerPlate.svelte';
 	import FadingImages from "$lib/FadingImages.svelte";
-    import ScrollAnimate from '$lib/ScrollAnimate.svelte';
-	import Password from '$lib/Password.svelte';
-
-	import topImage from './assets/NF_Background Frame_1.png' 
-
-	import { createFootnoteStore } from '$lib/footnoteUtils';
-    import { resolveRoute } from '$app/paths';
-    import HamburgerMenu from '$lib/HamburgerMenu.svelte';
-
-	export let data;
-
-	import LogoBody from '$lib/LogoBody.svelte';
-	import CaseStudyNote from '$lib/BoilerPlate.svelte';
 	import Footnote from '$lib/Footnote.svelte';
 	import Footnotes from '$lib/Footnotes.svelte';
-    import Recommendation from '$lib/Recommendation.svelte';
-    import TitlePage from '$lib/TitlePage.svelte';
+	import { createFootnoteStore } from '$lib/footnoteUtils';
+	import GraphicMultiples from '$lib/GraphicMultiples.svelte';
+	import GraphicSingle from '$lib/GraphicSingle.svelte';
+	import HamburgerMenu from '$lib/HamburgerMenu.svelte';
+	import ImageCompare from '$lib/ImageCompare.svelte';
+	import ImageSingle from '$lib/ImageSingle.svelte';
+	import LogoBody from '$lib/LogoBody.svelte';
+	import Recommendation from '$lib/Recommendation.svelte';
+	import ScrollAnimate from '$lib/ScrollAnimate.svelte';
+	import TitlePage from '$lib/TitlePage.svelte';
+	import topImage from './assets/NF_Background Frame_1.png';
+
 	const footnoteStore = createFootnoteStore();
 	const { footnotes, addFootnote } = footnoteStore;
+
+	export let data;
 
 	const fns = [
 		'Region of Waterloo, <i>Monitoring Change in the CTC: 2025 Report</i>, no. 5057267 (2025), <a href="https://pub-regionofwaterloo.escribemeetings.com/filestream.ashx?DocumentId=15000" target="_blank">URL</a>',
@@ -115,14 +109,8 @@
 </svelte:head>
 
 
-
-<!-- <svelte:window on:scroll={handleScroll} /> -->
-
 <main>
-	<!-- <Password correctPassword="meowmeowcat"></Password> -->
-	<!-- Full page title example -->
 	<div class="wrapper">
-		<!-- Top stays visually on top -->
 		<div class="top" style="opacity: {topOpacity}; pointer-events: {topPointer};">
 			<TitlePage
 				title="Northfield Station"
@@ -150,7 +138,6 @@
 		iconColour={arrowColour}
 		contents={data.menuItems}/>
 
-		<!-- Bottom is underneath, scrolls normally -->
 		<div class="bottom" id="before-text">
 			<FadingImages
 				sections={data.animations[0].items}
@@ -176,10 +163,8 @@
 			<p>
 				This case explores the importance of keeping employment uses near transit amid housing pressures. 
 			</p>
-
-			<CaseStudyNote style=3/>
-
-			<!-- <h1 id="Menu_2">Why this matters </h1> -->
+			
+			<BoilerPlate pageType="CaseStudy"/>
 			
 			<h1 id="Menu_2">
 				Neighbourhood overview 
@@ -188,234 +173,234 @@
 				Kitchener-Waterloo is the smallest municipality in North America to have higher-level rail transit. The ION LRT line, which opened in 2019, is part of a long-standing regional strategy of re-urbanization to limit sprawl and preserve surrounding agricultural lands.  
 			</p>
 
-		</div>
+	</div>
 
-		<GraphicSingle
-			svg720={"../web-assets/case-study/northfield/Northfield-720map.svg"}
-			svg360={"../web-assets/case-study/northfield/Northfield-360map.svg"}
-		/>
+	<GraphicSingle
+		svg720={"../web-assets/case-study/northfield/Northfield-720map.svg"}
+		svg360={"../web-assets/case-study/northfield/Northfield-360map.svg"}
+	/>
 
-		<div class="text">
+	<div class="text">
 
-			<p>
-				Since the announcement of the ION, significant development has occurred along the corridor. This growth has been supported in part by reductions or eliminations in development charges at both the regional and municipal levels.<Footnote id={addFootnote(fns[0])}/> The assessed value of properties in the corridor doubled through 2024 and grew faster than in the surrounding region, indicating that both renovations and new developments are adding value to the area. 
-			</p>
-			<p>
-				Kitchener-Waterloo is booming, and the Northfield Station area, on the northern edge of the City of Waterloo, is in the middle of a district formerly home to industrial production. Nestled between tech hubs and the city’s largest shopping mall, the station is anchored by nearby employment centres, including the Waterloo Innovation Park and the Waterloo Corporate Campus. The plan for this area is to capitalize on the talent pipeline from the University of Waterloo and Wilfrid Laurier University – just a few LRT stops away – to fuel emerging sectors in AI, quantum tech, and cybersecurity.  
-			</p>
+		<p>
+			Since the announcement of the ION, significant development has occurred along the corridor. This growth has been supported in part by reductions or eliminations in development charges at both the regional and municipal levels.<Footnote id={addFootnote(fns[0])}/> The assessed value of properties in the corridor doubled through 2024 and grew faster than in the surrounding region, indicating that both renovations and new developments are adding value to the area. 
+		</p>
+		<p>
+			Kitchener-Waterloo is booming, and the Northfield Station area, on the northern edge of the City of Waterloo, is in the middle of a district formerly home to industrial production. Nestled between tech hubs and the city’s largest shopping mall, the station is anchored by nearby employment centres, including the Waterloo Innovation Park and the Waterloo Corporate Campus. The plan for this area is to capitalize on the talent pipeline from the University of Waterloo and Wilfrid Laurier University – just a few LRT stops away – to fuel emerging sectors in AI, quantum tech, and cybersecurity.  
+		</p>
 
-		</div>
+	</div>
 
-		<GraphicSingle
-			svg720={"../web-assets/case-study/northfield/northfield-land-use-720.svg"}
-			svg360={"../web-assets/case-study/northfield/northfield-land-use-360.svg"}
-		/>
+	<GraphicSingle
+		svg720={"../web-assets/case-study/northfield/northfield-land-use-720.svg"}
+		svg360={"../web-assets/case-study/northfield/northfield-land-use-360.svg"}
+	/>
 
 		
-		<div class="text">
+	<div class="text">
 
-			<p>
-				<a href="https://measuringmainstreets.ca/transit-map/" target="_blank">The area around the station today</a> is still employment-focused, and warehouses, office parks, and parking lots dominate, with <a href="https://measuringmainstreets.ca/tools/complete-communities" target="_blank">few amenities</a> and little green space. The large industrial parcels surrounding the station offer an opportunity: with fewer owners, it is easier to assemble large sites for development. This is why many station areas in Canada, Australia, and the U.S. are seeing the conversion of formerly industrial lands into areas for residential and commercial development, which can generate more income. 
-			</p>
-			<p>
-				There is currently little housing built in the area, which is mostly older detached homes and a few apartment buildings clustered on the western periphery. Existing residents are young and diverse. Nearly two-thirds are renters. With an average annual household income of $84,200 – well below the regional average – these are early-career workers and single-parent families with modest incomes.  
-			</p>
+		<p>
+			<a href="https://measuringmainstreets.ca/transit-map/" target="_blank">The area around the station today</a> is still employment-focused, and warehouses, office parks, and parking lots dominate, with <a href="https://measuringmainstreets.ca/tools/complete-communities" target="_blank">few amenities</a> and little green space. The large industrial parcels surrounding the station offer an opportunity: with fewer owners, it is easier to assemble large sites for development. This is why many station areas in Canada, Australia, and the U.S. are seeing the conversion of formerly industrial lands into areas for residential and commercial development, which can generate more income. 
+		</p>
+		<p>
+			There is currently little housing built in the area, which is mostly older detached homes and a few apartment buildings clustered on the western periphery. Existing residents are young and diverse. Nearly two-thirds are renters. With an average annual household income of $84,200 – well below the regional average – these are early-career workers and single-parent families with modest incomes.  
+		</p>
 
+	</div>
+
+	<GraphicMultiples
+		svgPaths={[
+			"../web-assets/case-study/northfield/Northfield-population.svg",
+			"../web-assets/case-study/northfield/Northfield-housing.svg",
+			"../web-assets/case-study/northfield/Northfield-commuters.svg",
+			"../web-assets/case-study/northfield/Northfield-income.svg"
+		]}
+	/>
+
+	<div class="text">
+
+		<div class="caption-container" style="margin-top: 0px; margin-bottom: 60px;">
+			<p>
+				<span class="caption-source">Data sources: Statistics Canada, Environics Analytics (2024).</span>
+			</p>
 		</div>
 
-		<GraphicMultiples
-			svgPaths={[
-				"../web-assets/case-study/northfield/Northfield-population.svg",
-				"../web-assets/case-study/northfield/Northfield-housing.svg",
-				"../web-assets/case-study/northfield/Northfield-commuters.svg",
-				"../web-assets/case-study/northfield/Northfield-income.svg"
-			]}
-		/>
+		<p>
+			Transit ridership on the LRT and in the region has risen faster than population growth since the system opened in 2019, reflecting planning decisions that encourage dense development in the core to build up a base of potential riders. But Northfield is still a car-oriented district: nearly 80% of commuters here drive. 
+		</p>
+		<p>
+			Building on the city’s major transit investment, Northfield can become a thriving community with a mix of employment uses to drive transit ridership and social infrastructure – schools, parks, and retail – that will sustain a community of residents.   
+		</p>
 
-		<div class="text">
+		<h1 id="Menu_3">Northfield’s current trajectory</h1>
 
-			<div class="caption-container" style="margin-top: 0px; margin-bottom: 60px;">
-				<p>
-					<span class="caption-source">Data sources: Statistics Canada, Environics Analytics (2024).</span>
-				</p>
-			</div>
+		<p>
+			The Northfield Station area was initially envisioned as one of three key employment nodes on the line with a “Business Employment” land use designation and little change anticipated in the amount of residential.<Footnote id={addFootnote(fns[1])}/> However, the region has experienced explosive growth in recent years, and the province has issued a directive to focus housing growth near transit, with a target for Northfield of 160 people and jobs per hectare – three times its current density.  
+		</p>
+		<p>
+			This prompted the City to create a new zoning category for Northfield and the neighbouring Research & Technology Station – “Station Area Mixed Use” (SAMU) – that permits developments up to 30 storeys provided these retain space for mixed-use employment.  
+		</p>
 
-			<p>
-				Transit ridership on the LRT and in the region has risen faster than population growth since the system opened in 2019, reflecting planning decisions that encourage dense development in the core to build up a base of potential riders. But Northfield is still a car-oriented district: nearly 80% of commuters here drive. 
-			</p>
-			<p>
-				Building on the city’s major transit investment, Northfield can become a thriving community with a mix of employment uses to drive transit ridership and social infrastructure – schools, parks, and retail – that will sustain a community of residents.   
-			</p>
+	</div>
 
-			<h1 id="Menu_3">Northfield’s current trajectory</h1>
+	<ImageSingle 
+		imageURL='../web-assets/case-study/northfield/nf_frame_8_current_dev_ink_edit.png'
+		link='No'
+		caption="Development currently proposed or under construction within 800 metres of Northfield Station."
+		source="Infrastructure Institute (2025)."
+		maxWidth="680px"
+	/>
 
-			<p>
-				The Northfield Station area was initially envisioned as one of three key employment nodes on the line with a “Business Employment” land use designation and little change anticipated in the amount of residential.<Footnote id={addFootnote(fns[1])}/> However, the region has experienced explosive growth in recent years, and the province has issued a directive to focus housing growth near transit, with a target for Northfield of 160 people and jobs per hectare – three times its current density.  
-			</p>
-			<p>
-				This prompted the City to create a new zoning category for Northfield and the neighbouring Research & Technology Station – “Station Area Mixed Use” (SAMU) – that permits developments up to 30 storeys provided these retain space for mixed-use employment.  
-			</p>
+	<ImageSingle 
+		imageURL='../web-assets/case-study/northfield/nf_frame_7_samu_ink_edit.png'
+		link='No'
+		caption="Land zoned as Station Area Mixed Use (SAMU) near Northfield Station."
+		source="Rendering by Infrastructure Institute (2025)."
+		maxWidth="680px"
+	/>
 
-		</div>
+	<div class="text">
 
-		<ImageSingle 
-			imageURL='../web-assets/case-study/northfield/nf_frame_8_current_dev_ink_edit.png'
-			link='No'
-			caption="Development currently proposed or under construction within 800 metres of Northfield Station."
-			source="Infrastructure Institute (2025)."
-			maxWidth="680px"
-		/>
+		<p>
+			The impact of this zoning change has been immediate. <a href="https://www.engagewr.ca/northfield-dr-and-weber-st-n" target="_blank">One proposal</a> calls for 13 high-rise residential towers, which would add over 4,200 units and 21,000 square feet of commercial space.  
+		</p>
+		<p>
+			If development continues in this way, Northfield Station will become a cityscape of glass towers. This would hit density targets but, without proper social infrastructure, the area could turn into a series of islands with internal amenities but disconnected from one another and the community.  
+		</p>
+		<p>
+			Because successful TOD depends on locating a mix of <i>both</i> residential and employment destinations near transit,<Footnote id={addFootnote(fns[2])}/> there is also a risk that removing valuable employment uses near the ION could reduce system-wide transit ridership. 
+		</p>
 
-		<ImageSingle 
-			imageURL='../web-assets/case-study/northfield/nf_frame_7_samu_ink_edit.png'
-			link='No'
-			caption="Land zoned as Station Area Mixed Use (SAMU) near Northfield Station."
-			source="Rendering by Infrastructure Institute (2025)."
-			maxWidth="680px"
-		/>
+		<h1 id="Menu_4">
+			Optimized scenario: Creating a complete community 
+		</h1>
+		<p>
+			The central challenge is this: How can cities build vibrant communities centred on a major employment hub? What kind of community attracts top talent to work and live – and makes them want to stay?  
+		</p>
 
-		<div class="text">
+	</div>
 
-			<p>
-				The impact of this zoning change has been immediate. <a href="https://www.engagewr.ca/northfield-dr-and-weber-st-n" target="_blank">One proposal</a> calls for 13 high-rise residential towers, which would add over 4,200 units and 21,000 square feet of commercial space.  
-			</p>
-			<p>
-				If development continues in this way, Northfield Station will become a cityscape of glass towers. This would hit density targets but, without proper social infrastructure, the area could turn into a series of islands with internal amenities but disconnected from one another and the community.  
-			</p>
-			<p>
-				Because successful TOD depends on locating a mix of <i>both</i> residential and employment destinations near transit,<Footnote id={addFootnote(fns[2])}/> there is also a risk that removing valuable employment uses near the ION could reduce system-wide transit ridership. 
-			</p>
+	<ImageCompare
+		imageURL1="../web-assets/case-study/northfield/current-trajectory-station.png"
+		caption1=""
+		source1=""
+		buttonLabel1="Current trajectory"
+		imageURL2="../web-assets/case-study/northfield/optimized-scenario-station.png"
+		caption2=""
+		source2=""
+		buttonLabel2="Optimized scenario"
+		maxWidth="900px"
+		link='No'
+	/>
 
-			<h1 id="Menu_4">
-				Optimized scenario: Creating a complete community 
-			</h1>
-			<p>
-				The central challenge is this: How can cities build vibrant communities centred on a major employment hub? What kind of community attracts top talent to work and live – and makes them want to stay?  
-			</p>
+	<GraphicSingle
+		svg720={"../web-assets/case-study/northfield/render-legend-720.svg"}
+		svg360={"../web-assets/case-study/northfield/render-legend-360.svg"}
+	/>
 
-		</div>
+	<div class="text">	
 
-		<ImageCompare
-			imageURL1="../web-assets/case-study/northfield/current-trajectory-station.png"
-			caption1=""
-			source1=""
-			buttonLabel1="Current trajectory"
-			imageURL2="../web-assets/case-study/northfield/optimized-scenario-station.png"
-			caption2=""
-			source2=""
-			buttonLabel2="Optimized scenario"
-			maxWidth="900px"
-			link='No'
-		/>
+		<Recommendation title="Incentivize ridership through a mix of employment uses"
+		count=1/>
+		<p>
+			As the city’s zoning recognizes, keeping employment uses near transit stations is essential. These uses enable commuters to travel between home and work via transit, boosting regional transit mode share overall. Employment uses also support population targets and increase land values through higher rents. 
+		</p>
+		<p>
+			But transit alone is not enough. Studies show that the presence of and densification around new stations does not automatically result in employment growth – TOD zones often need additional development incentives to attract a mix of businesses.<Footnote id={addFootnote(fns[3])}/> Retail and services, in particular, can kick-start a virtuous cycle of employment growth as employers cluster around amenities that their employees value.<Footnote id={addFootnote(fns[4])}/>  
+		</p>
+		<p>
+			Access to everyday amenities around Northfield Station, such as grocery stores, child care, and health care, is currently <a href="https://measuringmainstreets.ca/tools/complete-communities" target="_blank">well below the city average</a>. Incentivizing these early would benefit both existing residents and future employers. Limiting parking near the station would further encourage active uses and transit ridership. 
+		</p>
+		<p>
+			Distance to the station matters too, especially for workplaces. As the area transitions from flexible industrial zoning intended for light industrial uses to permit more premium, amenity-rich Class A office space and residential development, locating employment uses as close as possible to the station helps maximize ridership. Studies show that easy access to transit matters more to workers than residents,<Footnote id={addFootnote(fns[5])}/> and many employees are reported to be unwilling to walk further than 400 metres from a station to work.<Footnote id={addFootnote(fns[6])}/> 
+		</p>
+		<p>
+			Our optimized scenario uses a variety of building forms to create a sense of community at a human scale. Instead of isolated towers, density is spread horizontally. Towers remain clustered near the LRT – where intensity belongs – while mid-rise buildings everywhere else create a gentle transition to surrounding neighbourhoods.  
+		</p>
+		<p>
+			Mid-rises also support street-level jobs and active storefronts. These elements strengthen the public realm, improve walkability, and enhance community life.  
+		</p>
 
-		<GraphicSingle
-			svg720={"../web-assets/case-study/northfield/render-legend-720.svg"}
-			svg360={"../web-assets/case-study/northfield/render-legend-360.svg"}
-		/>
+		<Recommendation title="Invest in connectivity to the station to boost transit use "
+		count=2/>
 
-		<div class="text">	
+		<p>
+			Simply having a transit station, even one with frequent service, is not enough to drive high ridership. The station must be well connected to surrounding neighbourhoods, with easy access for both pedestrians and cyclists. 
+		</p>
+		<p>
+			The Northfield Station area today is not very walkable: a third of its streets are missing sidewalks; a four-lane highway (the Conestoga Parkway) severs the district in two; no bike lanes connect directly to the station; and the platform itself is isolated, surrounded by parking lots, bordered by fences, and accessible only from a busy intersection next to a highway on-ramp.  
+		</p>
+		<p>
+			These barriers send a clear message: driving is easier than transit. Without fixing these broken connections, new residents and workers will continue to choose their cars. Northfield risks becoming a “transit–adjacent” community – dense but disconnected.  
+		</p>
+		<p>
+			In line with City guidance, improving connectivity means breaking down large, industrial super-blocks into a finer-grained street network. Smaller blocks, complete with linear parks, public open spaces, and mid-block pathways, are all important steps toward walkability. It also means creating a web of new active transportation links by removing fences and connecting the fragmented bike network. 
+		</p>
+		<p>
+			The province should also reconsider its determination that improved pedestrian access – in the form of a new or improved bridge across the highway – is unnecessary.<Footnote id={addFootnote(fns[7])}/> Travelling via Northfield Drive is indirect, and the existing sidewalk and bike lanes on the Northfield Drive bridge are narrow and insufficient for existing capacity. A new or improved bridge here would do more than just move people – it could become a public space that finally unites Northfield’s two halves. 
+		</p>
+		<p>
+			Stronger connections would benefit more than just the immediate community. Positioned on the northern edge of Waterloo, Northfield Station was envisioned by the City as a gateway and transit access point for the nearby Mennonite community and those travelling to and from neighbouring towns, including the local recreation and tourism destination of St Jacobs. Investing in stronger connections could also reduce driving and parking pressures in these areas. 
+		</p>
 
-			<Recommendation title="Incentivize ridership through a mix of employment uses"
-			count=1/>
-			<p>
-				As the city’s zoning recognizes, keeping employment uses near transit stations is essential. These uses enable commuters to travel between home and work via transit, boosting regional transit mode share overall. Employment uses also support population targets and increase land values through higher rents. 
-			</p>
-			<p>
-				But transit alone is not enough. Studies show that the presence of and densification around new stations does not automatically result in employment growth – TOD zones often need additional development incentives to attract a mix of businesses.<Footnote id={addFootnote(fns[3])}/> Retail and services, in particular, can kick-start a virtuous cycle of employment growth as employers cluster around amenities that their employees value.<Footnote id={addFootnote(fns[4])}/>  
-			</p>
-			<p>
-				Access to everyday amenities around Northfield Station, such as grocery stores, child care, and health care, is currently <a href="https://measuringmainstreets.ca/tools/complete-communities" target="_blank">well below the city average</a>. Incentivizing these early would benefit both existing residents and future employers. Limiting parking near the station would further encourage active uses and transit ridership. 
-			</p>
-			<p>
-				Distance to the station matters too, especially for workplaces. As the area transitions from flexible industrial zoning intended for light industrial uses to permit more premium, amenity-rich Class A office space and residential development, locating employment uses as close as possible to the station helps maximize ridership. Studies show that easy access to transit matters more to workers than residents,<Footnote id={addFootnote(fns[5])}/> and many employees are reported to be unwilling to walk further than 400 metres from a station to work.<Footnote id={addFootnote(fns[6])}/> 
-			</p>
-			<p>
-				Our optimized scenario uses a variety of building forms to create a sense of community at a human scale. Instead of isolated towers, density is spread horizontally. Towers remain clustered near the LRT – where intensity belongs – while mid-rise buildings everywhere else create a gentle transition to surrounding neighbourhoods.  
-			</p>
-			<p>
-				Mid-rises also support street-level jobs and active storefronts. These elements strengthen the public realm, improve walkability, and enhance community life.  
-			</p>
+	</div>
 
-			<Recommendation title="Invest in connectivity to the station to boost transit use "
-			count=2/>
+	<ImageSingle 
+		imageURL='../web-assets/case-study/northfield/site-visit.jpg'
+		link='No'
+		maxWidth="680px"
+		caption="Northfield Station has few access points for cyclists and pedestrians."
+		source="Photo by Sarah Chan."
+	/>
 
-			<p>
-				Simply having a transit station, even one with frequent service, is not enough to drive high ridership. The station must be well connected to surrounding neighbourhoods, with easy access for both pedestrians and cyclists. 
-			</p>
-			<p>
-				The Northfield Station area today is not very walkable: a third of its streets are missing sidewalks; a four-lane highway (the Conestoga Parkway) severs the district in two; no bike lanes connect directly to the station; and the platform itself is isolated, surrounded by parking lots, bordered by fences, and accessible only from a busy intersection next to a highway on-ramp.  
-			</p>
-			<p>
-				These barriers send a clear message: driving is easier than transit. Without fixing these broken connections, new residents and workers will continue to choose their cars. Northfield risks becoming a “transit–adjacent” community – dense but disconnected.  
-			</p>
-			<p>
-				In line with City guidance, improving connectivity means breaking down large, industrial super-blocks into a finer-grained street network. Smaller blocks, complete with linear parks, public open spaces, and mid-block pathways, are all important steps toward walkability. It also means creating a web of new active transportation links by removing fences and connecting the fragmented bike network. 
-			</p>
-			<p>
-				The province should also reconsider its determination that improved pedestrian access – in the form of a new or improved bridge across the highway – is unnecessary.<Footnote id={addFootnote(fns[7])}/> Travelling via Northfield Drive is indirect, and the existing sidewalk and bike lanes on the Northfield Drive bridge are narrow and insufficient for existing capacity. A new or improved bridge here would do more than just move people – it could become a public space that finally unites Northfield’s two halves. 
-			</p>
-			<p>
-				Stronger connections would benefit more than just the immediate community. Positioned on the northern edge of Waterloo, Northfield Station was envisioned by the City as a gateway and transit access point for the nearby Mennonite community and those travelling to and from neighbouring towns, including the local recreation and tourism destination of St Jacobs. Investing in stronger connections could also reduce driving and parking pressures in these areas. 
-			</p>
-
-		</div>
-
-		<ImageSingle 
-			imageURL='../web-assets/case-study/northfield/site-visit.jpg'
-			link='No'
-			maxWidth="680px"
-			caption="Northfield Station has few access points for cyclists and pedestrians."
-			source="Photo by Sarah Chan."
-		/>
-
-		<div class="text">
+	<div class="text">
 
 
-			<Recommendation title="Preserve industrial and commercial land with regional planning"
-				count=3/>
-			<p>
-				The province and the region must work together to ensure the sufficient availability of employment lands – areas zoned specifically for industrial, commercial, institutional, and office uses and not mixed-use residential. While the Northfield Station area is a designated Provincially Significant Employment Zone, most current proposals are for housing.  
-			</p>
-			<p>
-				As lands around station areas are re-zoned, preserving flexibility of uses is essential to prevent industrial displacement. Without it, rising land values could push out existing industrial and commercial tenants as they are no longer able to afford lease renewals or lose the space to expand.<Footnote id={addFootnote(fns[8])}/> Over time, this can lead to the gradual displacement of the jobs the region depends on. 
-			</p>
-			<p>
-				This matters because Waterloo is a global hub of technology and advanced manufacturing – manufacturing is still the largest industry in the Region of Waterloo, employing a sixth of the population.<Footnote id={addFootnote(fns[9])}/> While the region has set aside large tracts of industrial land to the east near the Region of Waterloo Airport and Highway 401, these areas are difficult to reach by transit.<Footnote id={addFootnote(fns[10])}/> 
-			</p>
-			<p>
-				Preserving employment land near stations like Northfield is not about choosing jobs over housing – it's about planning for both, so the region can grow sustainably.  
-			</p>
-			<p>
-				When employment lands remain transit-accessible, local firms gain certainty about where they can grow by factoring in how their employees can get to work. Preserving employment lands in strategic locations also strengthens the economic competitiveness of the broader Golden Horseshoe region that Waterloo sits in, through providing places for reshoring to shorten supply chains, leading to greater economic independence.<Footnote id={addFootnote(fns[11])}/> 
-			</p>
-			<p>
-				In our optimized scenario, existing industrial sites northwest of the station remain dedicated employment areas – now with better connectivity. This approach protects current manufacturing workers from displacement while fostering entrepreneurial activity in emerging tech sectors that require light-industrial space. These employment uses are not compatible with residential uses. Elsewhere in the station area, however, modern office spaces can be easily integrated with mixed-use development. Together, this mix of employers supports a vibrant station area and gives workers the opportunity to live near family by taking transit to work. 
-			</p>
+		<Recommendation title="Preserve industrial and commercial land with regional planning"
+			count=3/>
+		<p>
+			The province and the region must work together to ensure the sufficient availability of employment lands – areas zoned specifically for industrial, commercial, institutional, and office uses and not mixed-use residential. While the Northfield Station area is a designated Provincially Significant Employment Zone, most current proposals are for housing.  
+		</p>
+		<p>
+			As lands around station areas are re-zoned, preserving flexibility of uses is essential to prevent industrial displacement. Without it, rising land values could push out existing industrial and commercial tenants as they are no longer able to afford lease renewals or lose the space to expand.<Footnote id={addFootnote(fns[8])}/> Over time, this can lead to the gradual displacement of the jobs the region depends on. 
+		</p>
+		<p>
+			This matters because Waterloo is a global hub of technology and advanced manufacturing – manufacturing is still the largest industry in the Region of Waterloo, employing a sixth of the population.<Footnote id={addFootnote(fns[9])}/> While the region has set aside large tracts of industrial land to the east near the Region of Waterloo Airport and Highway 401, these areas are difficult to reach by transit.<Footnote id={addFootnote(fns[10])}/> 
+		</p>
+		<p>
+			Preserving employment land near stations like Northfield is not about choosing jobs over housing – it's about planning for both, so the region can grow sustainably.  
+		</p>
+		<p>
+			When employment lands remain transit-accessible, local firms gain certainty about where they can grow by factoring in how their employees can get to work. Preserving employment lands in strategic locations also strengthens the economic competitiveness of the broader Golden Horseshoe region that Waterloo sits in, through providing places for reshoring to shorten supply chains, leading to greater economic independence.<Footnote id={addFootnote(fns[11])}/> 
+		</p>
+		<p>
+			In our optimized scenario, existing industrial sites northwest of the station remain dedicated employment areas – now with better connectivity. This approach protects current manufacturing workers from displacement while fostering entrepreneurial activity in emerging tech sectors that require light-industrial space. These employment uses are not compatible with residential uses. Elsewhere in the station area, however, modern office spaces can be easily integrated with mixed-use development. Together, this mix of employers supports a vibrant station area and gives workers the opportunity to live near family by taking transit to work. 
+		</p>
 
-			<p>
-				Like many new transit station areas, Northfield is a place of opportunity: larger parcels allow for flexible development, and the area can accommodate more density in both jobs and housing. By weaving together tasteful density with new streets, connections, and the amenities people need to thrive, we can transform it from an industrial zone into a thriving community.  
-			</p>
+		<p>
+			Like many new transit station areas, Northfield is a place of opportunity: larger parcels allow for flexible development, and the area can accommodate more density in both jobs and housing. By weaving together tasteful density with new streets, connections, and the amenities people need to thrive, we can transform it from an industrial zone into a thriving community.  
+		</p>
 
-		</div>
+	</div>
+	
 		
-			
-		<ImageSingle 
-			imageURL='../web-assets/case-study/northfield/city-photo.png'
-			link='No'
-			maxWidth="680px"
-			caption="A mix of uses, like the employment and retail shown here along King Street, will contribute to the success of transit investments like the ION in Waterloo Region."
-			source="<a href='https://www.waterlooedc.ca/' target='_blank'>Photo by Waterloo EDC.</a>"
-		/>
+	<ImageSingle 
+		imageURL='../web-assets/case-study/northfield/city-photo.png'
+		link='No'
+		maxWidth="680px"
+		caption="A mix of uses, like the employment and retail shown here along King Street, will contribute to the success of transit investments like the ION in Waterloo Region."
+		source="<a href='https://www.waterlooedc.ca/' target='_blank'>Photo by Waterloo EDC.</a>"
+	/>
 
-		<div class="text">
-	
-			<div class="line-break"></div>
+	<div class="text">
 
-			<AuthorDate credits={credits} date="March 2026"></AuthorDate>
+		<div class="line-break"></div>
 
-			<div class="line-break"></div>
-	
-		</div>
+		<AuthorDate credits={credits} date="March 2026"></AuthorDate>
+
+		<div class="line-break"></div>
+
+	</div>
 
 	<Footnotes footnotes={footnotes} />
 

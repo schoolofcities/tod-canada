@@ -2,35 +2,29 @@
 
 	import '../../../assets/global-styles.css';
 
-	import { onMount, onDestroy } from "svelte";
+	import { onMount } from "svelte";
 
-	import Logo from '$lib/LogoTop.svelte';
 	import AuthorDate from '$lib/AuthorDate.svelte';
-	import ImageSingle from '$lib/ImageSingle.svelte';
-	import ImageCompare from '$lib/ImageCompare.svelte';
-	import GraphicSingle from '$lib/GraphicSingle.svelte';
-	import GraphicMultiples from '$lib/GraphicMultiples.svelte';
-	import Footer from '$lib/Footer.svelte';
+	import BoilerPlate from '$lib/BoilerPlate.svelte';
 	import FadingImages from "$lib/FadingImages.svelte";
-    import ScrollAnimate from '$lib/ScrollAnimate.svelte';
-	import Password from '$lib/Password.svelte';
-
-	import topImage from './assets/AB_Background Frame_1.png' 
-
-	import { createFootnoteStore } from '$lib/footnoteUtils';
-    import { resolveRoute } from '$app/paths';
-    import HamburgerMenu from '$lib/HamburgerMenu.svelte';
-
-	export let data;
-
-	import LogoBody from '$lib/LogoBody.svelte';
-	import Recommendation from '$lib/Recommendation.svelte';
-	import CaseStudyNote from '$lib/BoilerPlate.svelte';
 	import Footnote from '$lib/Footnote.svelte';
 	import Footnotes from '$lib/Footnotes.svelte';
-    import TitlePage from '$lib/TitlePage.svelte';
+	import { createFootnoteStore } from '$lib/footnoteUtils';
+	import GraphicMultiples from '$lib/GraphicMultiples.svelte';
+	import GraphicSingle from '$lib/GraphicSingle.svelte';
+	import HamburgerMenu from '$lib/HamburgerMenu.svelte';
+	import ImageCompare from '$lib/ImageCompare.svelte';
+	import ImageSingle from '$lib/ImageSingle.svelte';
+	import LogoBody from '$lib/LogoBody.svelte';
+	import Recommendation from '$lib/Recommendation.svelte';
+	import ScrollAnimate from '$lib/ScrollAnimate.svelte';
+	import TitlePage from '$lib/TitlePage.svelte';
+	import topImage from './assets/AB_Background Frame_1.png';
+
 	const footnoteStore = createFootnoteStore();
 	const { footnotes, addFootnote } = footnoteStore;
+
+	export let data;
 
 	const credits = [
 		{ role:"Research and writing", names:"Sarah Chan, Kathryn Exon Smith, Anika Reisha Taboy"},
@@ -57,7 +51,7 @@
 		'Kling et al., <i>Preserving the largest and most at-risk supply of affordable housing.</i>',
 		'Kling et al., <i>Preserving the largest and most at-risk supply of affordable housing.</i>',
 		'Kling et al., <i>Preserving the largest and most at-risk supply of affordable housing.</i>',
-		'Elizabeth Macdonald, “Urban Design for Sustainable and Livable Communities: The Case of Vancouver,” <i>ransportation, Land Use, and Environmental Planning</i> (2020): 83-104, <a href="https://doi.org/10.1016/B978-0-12-815167-9.00005-0" target="_blank">DOI</a>',
+		'Elizabeth Macdonald, “Urban Design for Sustainable and Livable Communities: The Case of Vancouver,” <i>Transportation, Land Use, and Environmental Planning</i> (2020): 83-104, <a href="https://doi.org/10.1016/B978-0-12-815167-9.00005-0" target="_blank">DOI</a>',
 		'Karen Chapple et al., “The Role of Local Housing Policies in Preventing Displacement: A Literature Review,” <i>Journal of Planning Literature</i> 38, no. 2 (2022): 200-214, <a href="https://doi.org/10.1177/08854122221137859" target="_blank">DOI</a>'
 	];
 
@@ -127,13 +121,8 @@
 
 
 
-<!-- <svelte:window on:scroll={handleScroll} /> -->
-
 <main>
-	<!-- <Password correctPassword="meowmeowcat"></Password> -->
-	<!-- Full page title example -->
 	<div class="wrapper">
-		<!-- Top stays visually on top -->
 		<div class="top" style="opacity: {topOpacity}; pointer-events: {topPointer};">
 			<TitlePage
 				title="Arbutus Station"
@@ -160,7 +149,6 @@
 		<HamburgerMenu
 		iconColour={arrowColour}/>
 
-		<!-- Bottom is underneath, scrolls normally -->
 		<div class="bottom" id="before-text">
 			<FadingImages
 				sections={data.animations[0].items}
@@ -187,7 +175,7 @@
 			A core strategy must tackle valid concerns around social disruption: the threat of displacement, perceived incompatibility of uses, and the risk of delayed delivery of housing and amenities. 
 		</p>
 
-		<CaseStudyNote style=3/>
+		<BoilerPlate pageType="CaseStudy"/>
 		
 		<h1 id="Menu_2">
 			Neighbourhood overview 
@@ -250,12 +238,6 @@
 		<p>
 			However, there are gaps in community-serving amenities such as community centres, convenience stores, and particularly libraries. Residents are also concerned that essential public services, including parks and schools, may not keep pace to serve the rapid population growth. Supporting equitable growth here involves balancing redevelopment with the needs of current residents and the broader community. 
 		</p>
-
-	</div>
-
-	
-
-	<div class="text">
 
 		<h1 id="Menu_3">
 			Arbutus’s current trajectory 
