@@ -1,7 +1,7 @@
 # TOD-Canada
 
 ## Case Studies
-- Overview of methods & methodology
+- [Overview](https://schoolofcities.github.io/tod-canada/case-study/overview)
   - [Arbutus, Vancouver](https://schoolofcities.github.io/tod-canada/case-study/arbutus)
   - [Cooksville, Mississauga](https://schoolofcities.github.io/tod-canada/case-study/cooksville)
   - [McKernan-Belgravia, Edmonton](https://schoolofcities.github.io/tod-canada/case-study/mckernan-belgravia)
