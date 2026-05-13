@@ -110,7 +110,7 @@
 		</p>
 
 		<p>
-			ur research examines the potential for growth management strategies, particularly TOD, to lower passenger transport emissions. It asks whether directing growth to transit-rich areas meaningfully reduces vehicle travel and emissions, and whether TOD alone is sufficient or must be complemented by other policy measures.
+			Our research examines the potential for growth management strategies, particularly TOD, to lower passenger transport emissions. It asks whether directing growth to transit-rich areas meaningfully reduces vehicle travel and emissions, and whether TOD alone is sufficient or must be complemented by other policy measures.
 		</p>
 
 		<BoilerPlate pageType="Research"/>

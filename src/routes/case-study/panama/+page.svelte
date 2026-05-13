@@ -263,7 +263,7 @@
 	<ImageSingle
 		imageURL={"../web-assets/case-study/panama/boulevard_taschereau.jpg"}
 		source={"<a href='https://brossard.ca/grands-projets-et-chantiers/revitalisation-du-boulevard-taschereau-2/' target='_blank'>Ville de Brossard, 2025</a>."}
-		caption={"Boulevard Tascherau's ongoing residential and commercial revitalization will add density and priority bus lanes."}
+		caption={"Boulevard Taschereau's ongoing residential and commercial revitalization will add density and priority bus lanes."}
 		maxWidth="1080px"
 		link='No'
 	/>
