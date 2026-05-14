@@ -294,8 +294,8 @@
 	/>
 
 	<GraphicSingle
-		svg720={"../web-assets/case-study/northfield/render-legend-720.svg"}
-		svg360={"../web-assets/case-study/northfield/render-legend-360.svg"}
+		svg720={"../web-assets/case-study/northfield/render-legend-720-station.svg"}
+		svg360={"../web-assets/case-study/northfield/render-legend-360-station.svg"}
 	/>
 
 	<div class="text">	
@@ -356,10 +356,10 @@
 	<div class="text">
 
 
-		<Recommendation title="Preserve industrial and commercial land with regional planning"
+		<Recommendation title="Preserve industrial and commercial land within the region"
 			count=3/>
 		<p>
-			The province and the region must work together to ensure the sufficient availability of employment lands – areas zoned specifically for industrial, commercial, institutional, and office uses and not mixed-use residential. While the Northfield Station area is a designated Provincially Significant Employment Zone, most current proposals are for housing.  
+			Provincial and municipal governments must work together to ensure the sufficient availability of employment lands – areas zoned specifically for industrial, commercial, institutional, and office uses and not mixed-use residential. While much of the Northfield Station area remains a designated Provincially Significant Employment Zone, most current proposals are for housing.  
 		</p>
 		<p>
 			As lands around station areas are re-zoned, preserving flexibility of uses is essential to prevent industrial displacement. Without it, rising land values could push out existing industrial and commercial tenants as they are no longer able to afford lease renewals or lose the space to expand.<Footnote id={addFootnote(fns[8])}/> Over time, this can lead to the gradual displacement of the jobs the region depends on. 
@@ -374,7 +374,7 @@
 			When employment lands remain transit-accessible, local firms gain certainty about where they can grow by factoring in how their employees can get to work. Preserving employment lands in strategic locations also strengthens the economic competitiveness of the broader Golden Horseshoe region that Waterloo sits in, through providing places for reshoring to shorten supply chains, leading to greater economic independence.<Footnote id={addFootnote(fns[11])}/> 
 		</p>
 		<p>
-			In our optimized scenario, existing industrial sites northwest of the station remain dedicated employment areas – now with better connectivity. This approach protects current manufacturing workers from displacement while fostering entrepreneurial activity in emerging tech sectors that require light-industrial space. These employment uses are not compatible with residential uses. Elsewhere in the station area, however, modern office spaces can be easily integrated with mixed-use development. Together, this mix of employers supports a vibrant station area and gives workers the opportunity to live near family by taking transit to work. 
+			In our optimized scenario, existing industrial sites northwest of the station remain dedicated employment areas – now with better connectivity. This approach protects current manufacturing workers from displacement while fostering entrepreneurial activity in emerging tech sectors that require light-industrial space. These employment uses are not compatible with residential uses. Elsewhere in the station area, however, modern office spaces can be easily integrated with mixed-use development while ensuring compatibility with sensitive uses like housing or child care. Together, this mix of employers supports a vibrant station area and gives workers the opportunity to live near family by taking transit to work. 
 		</p>
 
 		<p>

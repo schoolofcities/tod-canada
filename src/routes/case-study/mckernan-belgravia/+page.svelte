@@ -31,6 +31,7 @@
 		'City of Edmonton, “Capital Line,” accessed February 23, 2026, <a href="https://www.edmonton.ca/projects_plans/transit/capital-line" target="_blank">URL</a>',
 		'City of Edmonton, <i>Edmonton Transit Service 2024/2025 Annual Service Plan</i> (2025), <a href="https://www.edmonton.ca/sites/default/files/public-files/2024-2025-Edmonton-Transit-Service-Annual-Service-Plan.pdf?cb=1742837639" target="_blank">URL</a>',
 		'Statistics Canada, “Number of Canadian Commuters Increases for Fourth Straight Year in 2025,” <i>The Daily</i>, August 26, 2025, <a href="https://www150.statcan.gc.ca/n1/daily-quotidien/250826/dq250826a-eng.htm" target="_blank">URL</a>',
+		'<a href="https://www.jacobdawang.com/blog/2026/zbr-two-year-review/" target="_blank">2025: The year Edmonton built the missing middle – Jacob Dawang</a>',
 		'Robert Cervero and Kara Kockelman, "Travel demand and the 3Ds: Density, diversity, and design." <i>Transportation Research Part D: Transport and environment</i> 2, no. 3 (1997): 199-219',
 		'Julian Bolleter et al., “Delivering Medium‑Density Infill Development Through Promoting the Benefits and Limiting Background Infill,” <i>Journal of Urban Design</i> (2020), <a href="https://doi.org/10.1080/13574809.2020.1854610" target="_blank">DOI</a>',
 		'“Refocusing Infill: How Can We Build More Family-Friendly, More Affordable Housing Choices at LRT Stations?,” Michael Janz (website), August 5, 2025, <a href="https://www.michaeljanz.ca/tod" target="_blank">URL</a>',
@@ -166,7 +167,7 @@
 	<div class="text">
 
 		<p>
-			This case explores how cities can plan for density in established neighbourhoods: by layering varied housing and community amenities near the station to create the connectivity and pedestrian-friendly elements that drive transit use and make livable communities.
+			This case explores how cities can plan for a transition to greater density in established neighbourhoods without losing the character and qualities that existing residents value: by layering varied housing and community amenities near the station to create the connectivity and pedestrian-friendly elements that drive transit use and make livable communities.  
 		</p>
 		
 		<BoilerPlate pageType="CaseStudy"/>
@@ -209,7 +210,7 @@
 			Household composition is an almost even split between family and non-family households. While single-detached homes account for 41% of all dwellings and visually define much of the streetscape, apartment dwellings and duplexes form the majority of the housing stock, at 56%. Over half of all dwellings are rented, and 70% of households are made up of one or two people. Although driving remains the largest commuter mode at about 56% – well below the national average of 81%<Footnote id={addFootnote(fns[2])}/> – this community demonstrates high transit potential: the rate of walking to work is nearly six times the city average, reflecting a preference for active, urban lifestyles. 
 		</p>
 		<p>
-			Despite these strengths, gaps in local services remain. The station area <a href="https://measuringmainstreets.ca/tools/complete-communities" target="_blank">lacks key community-serving amenities</a> within close walking distance, including community centres, libraries, and convenience stores. Access to supermarkets, pharmacies, and restaurants also lags behind projected demand, increasing pressure on the public realm to keep pace with the gentle density that has recently appeared. Realizing the potential of the station area will require strategic infill and carefully planned supportive infrastructure to boost ridership and foster a destination-focused, complete community. 
+			Despite these strengths, gaps in local services remain. Apart from two active community-run centres, the station area <a href="https://measuringmainstreets.ca/tools/complete-communities" target="_blank">lacks sufficient community-serving amenities</a> within close walking distance, including libraries and convenience stores. Access to supermarkets, pharmacies, and restaurants also lags behind projected demand, increasing pressure on the public realm. Realizing the potential of the station area will require strategic infill and carefully planned supportive infrastructure to boost ridership and foster a destination-focused, complete community. 
 		</p>
 
 		<h1 id="Menu_3">
@@ -217,11 +218,15 @@
 		</h1>
 
 		<p>
-			In response to rising housing demand, Edmonton introduced a city-wide <a href="https://www.edmonton.ca/city_government/urban_planning_and_design/zoning-bylaw-renewal" target="_blank">Zoning Bylaw Renewal Initiative</a> in 2024, which permits eight-plexes as-of-right and eliminates the requirement for neighbour notification or consultation if proposals fall within the guidelines. The bylaw also supports larger developments on corner lots and along designated main corridors. Coupled with the removal of minimum parking requirements in 2020, these progressive and equity-based policies have increased flexibility for incremental development. So far, this has led to a rapid increase in small-scale infill embedded within existing residential streets in the neighbourhood, an effective form of gentle density. 
+			In response to rising housing demand, Edmonton introduced a city-wide <a href="https://www.edmonton.ca/city_government/urban_planning_and_design/zoning-bylaw-renewal" target="_blank">Zoning Bylaw Renewal Initiative</a> in 2024, which permits eight-plexes as-of-right and eliminates the requirement for neighbour notification or consultation if proposals fall within the guidelines. The bylaw also supports larger developments on corner lots and along designated main corridors. Coupled with the removal of minimum parking requirements in 2020, these progressive and equity-based policies have increased flexibility for incremental development. So far, this has led to a rapid increase in small-scale infill embedded within existing residential streets in the neighbourhood. 
 		</p>
 
 		<p>
-			Going forward there is an opportunity to create a vibrant, walkable hub around the transit station that integrates shops and community infrastructure like libraries and community centres into larger buildings with housing above. The <a href="https://webdocs.edmonton.ca/infraplan/plans_in_effect/McKernan-Belgravia_Station_ARP_Consolidation.pdf" target="_blank">City’s vision</a> calls for strategic density: medium-scale, mixed-use buildings – generally mid-rise forms with active ground floors – along major arterials like 114 Street and 76 Avenue, complemented by new amenities and multimodal routes, with more modest infill within the neighbourhood fabric. Achieving this vision will mean encouraging a mix of higher-density construction close to the transit station alongside the small-scale infill that is emerging. 
+			The bylaw change contributed to a record increase in the number of “missing middle” permits approved in central neighbourhoods in 2025<Footnote id={addFootnote(fns[3])}/> – but the City has  faced criticism that it prioritizes quantity of units over quality of build, and that communities are not being included in decisions about how their neighbourhoods are changing. Many neighbours have expressed concerns that the units being constructed are poorly designed and too small to house families or long-term residents who will become part of the community. 
+		</p>
+
+		<p>
+			Going forward there is an opportunity to create a vibrant, walkable hub around the transit station that integrates shops and community infrastructure like libraries and community centres into larger buildings with housing above. The City’s vision calls for strategic density: medium-scale, mixed-use buildings – generally mid-rise forms with active ground floors – along major roads like 114 Street and 76 Avenue, complemented by new amenities and multimodal routes, with more modest infill within the neighbourhood fabric. Achieving this vision will mean encouraging a mix of higher-density construction close to the transit station alongside the small-scale infill that is emerging. 
 		</p>
 	</div>
 
@@ -265,7 +270,7 @@
 
 	<div class="text">	
 		<p>
-			Here we explore an alternative scenario that optimizes for what are often called the “3Ds” of transit-oriented development – density, a diverse mix of land uses, and high-quality design – by encouraging mixed-use developments that can bring vitality to the area by co-locating housing with retail, community centres, and public services near transportation.<Footnote id={addFootnote(fns[3])}/> A central piece, therefore, is the creation of a destination-focused station area. Locating development where transit access is strongest allows density to function as a catalyst for amenities, activity, and daily destinations.
+			Here we explore an alternative scenario that optimizes for what are often called the “3Ds” of transit-oriented development – density, a diverse mix of land uses, and high-quality design – by encouraging mixed-use developments that can bring vitality to the area by co-locating housing with retail, community centres, and public services near transportation.<Footnote id={addFootnote(fns[4])}/> A central piece, therefore, is the creation of a destination-focused station area. Locating development where transit access is strongest allows density to function as a catalyst for amenities, activity, and daily destinations.
 		</p>
 		
 		<p>
@@ -286,7 +291,7 @@
 		<Recommendation count=1 title="Encourage medium-density, mixed-use growth along corridors through zoning and street design"/>
 
 		<p>
-			With gentle intensification through small-scale infill on single lots already underway in McKernan-Belgravia, there is now an opportunity to create a vibrant transit-oriented hub along the main avenues near the light rail station. This can be achieved by encouraging larger, mixed-use developments, in line with the City’s plan. Streamlining approvals, enabling as-of-right zoning of mixed-use buildings, incorporating density bonuses, and providing financial incentives for affordable housing are all strategies to encourage transit-oriented development.<Footnote id={addFootnote(fns[4])}/>  One councillor has proposed temporary tax abatements for family-friendly mid-rise (six or more storeys) built within 400 metres of LRT stations as a way to encourage this kind of development, a measure supported by local infill advocates.<Footnote id={addFootnote(fns[5])}/>  Larger, assembled sites can provide greater design flexibility and create local destinations near transit.<Footnote id={addFootnote(fns[6])}/>  
+			With intensification through small-scale infill on single lots already underway in McKernan-Belgravia, there is now an opportunity to create a vibrant transit-oriented hub along the main avenues near the light rail station. This can be achieved by encouraging larger, mixed-use developments, in line with the City’s plan. Streamlining approvals, enabling as-of-right zoning of mixed-use buildings and providing financial incentives for affordable housing are all strategies to encourage transit-oriented development.<Footnote id={addFootnote(fns[5])}/>  One councillor has proposed temporary tax abatements for family-friendly mid-rise (six or more storeys) built within 400 metres of LRT stations as a way to encourage this kind of development, a measure supported by local infill advocates.<Footnote id={addFootnote(fns[6])}/>  Larger, assembled sites can provide greater design flexibility and create local destinations near transit.<Footnote id={addFootnote(fns[7])}/>  
 		</p>
 
 	</div>
@@ -311,25 +316,25 @@
 	<div class="text">
 
 		<p>
-			However, zoning alone is not enough: growth also depends on street-level design, including active frontages, pedestrian-friendly streetscapes, and street reconfigurations that prioritize walking, cycling, and transit use. A criticism of permissive zoning is that it prioritizes speed and quantity over coordination with existing infrastructure and public realm improvements. To be effective, zoning must be paired with social infrastructure, retail, and public amenities.<Footnote id={addFootnote(fns[7])}/> Focusing medium-density infill along arterials and prominent corner lots concentrates activity where infrastructure and transit access are strongest.
+			However, zoning alone is not enough: growth also depends on street-level design, including active frontages, pedestrian-friendly streetscapes, and street reconfigurations that prioritize walking, cycling, and transit use. A criticism of permissive zoning is that it prioritizes speed and quantity over coordination with existing infrastructure and public realm improvements. To be effective, zoning must be paired with social infrastructure, retail, and public amenities.<Footnote id={addFootnote(fns[8])}/> Focusing medium-density infill along arterials and prominent corner lots concentrates activity where infrastructure and transit access are strongest.
 		</p>
 
 		<p>
-			A greater mix of land uses within developments contributes to increased walkability and has been linked with higher transit use.<Footnote id={addFootnote(fns[8])}/>  Smaller station areas <a href="/tod-canada/research/transportation-equity" target="_blank">benefit most</a> from a mix of land uses, improving quality of life and contributing to more sustainable mode share. 
+			A greater mix of land uses within developments contributes to increased walkability and has been linked with higher transit use.<Footnote id={addFootnote(fns[9])}/>  Smaller station areas <a href="/tod-canada/research/transportation-equity" target="_blank">benefit most</a> from a mix of land uses, improving quality of life and contributing to more sustainable mode share. 
 		</p>
 
 		<Recommendation count=2 title="Prioritize active transportation and transit and discourage driving"/>
 
 		<p>
-			A key element of successful TOD in neighbourhoods like McKernan-Belgravia is ensuring that new development does not result in more car traffic and demand for parking in the neighbourhood, as these reduce the benefits of TOD and generate community opposition. To reinforce a shift toward transit, policies must disincentivize driving.  
+			A key element of successful TOD in neighbourhoods like McKernan-Belgravia is ensuring that new development does not result in more car traffic and demand for parking in the neighbourhood, as these reduce the benefits of TOD and generate community opposition. To reinforce a shift toward transit, policies must disincentivize driving, not just in the neighbourhood but in the city as a whole.  
 		</p>
 
 		<p>
-			Edmonton has already taken an important step by eliminating minimum parking requirements for new development. Research shows that minimum parking standards have historically resulted in oversupply, encouraging vehicle ownership and driving while taking space that could be used for green space or infrastructure for active modes.<Footnote id={addFootnote(fns[9])}/>  Parking subsidies – particularly free or underpriced off-street parking – have been shown to distort travel behaviour and land use decisions by encouraging driving over more sustainable modes.<Footnote id={addFootnote(fns[10])}/>   
+			Edmonton has already taken an important step by eliminating minimum parking requirements for new development. Research shows that minimum parking standards have historically resulted in oversupply, encouraging vehicle ownership and driving while taking space that could be used for green space or infrastructure for active modes.<Footnote id={addFootnote(fns[10])}/>  Parking subsidies – particularly free or underpriced off-street parking – have been shown to distort travel behaviour and land use decisions by encouraging driving over more sustainable modes.<Footnote id={addFootnote(fns[11])}/>   
 		</p>
 
 		<p>
-			Additional parking management tools – such as charging for on-street parking – can further discourage car reliance, thereby improving accessibility to destinations, reducing congestion, and enhancing pedestrian and cyclist safety. Traffic management measures such as reduced vehicle speeds, limited through-movement, and transit priority treatments should be used to discourage cut-through traffic. Together, these measures help ensure that investments in transit and active transportation are supported by policies that meaningfully shift travel behaviour. 
+			Additional parking management tools – such as charging for on-street parking – can further discourage car reliance, thereby improving accessibility to destinations, reducing congestion, and enhancing pedestrian and cyclist safety. Traffic management measures such as reduced vehicle speeds, limited through-movement, and transit priority treatments should be used to discourage cut-through traffic, which already contributes to long delays exiting the neighbourhood at peak periods. Together, these measures help ensure that investments in transit and active transportation are supported by policies that meaningfully shift travel behaviour. 
 		</p>
 
 		<p>
@@ -349,21 +354,21 @@
 	<div class="text">
 
 		<p>
-			Transit quality itself is equally important. Research shows that the greatest TOD benefits occur when transit improvements meaningfully reduce travel times near higher-density development and enhanced amenities.<Footnote id={addFootnote(fns[11])}/>  Common barriers to positive transit experiences are poor transit service, unaffordable fares, and safety concerns. In Edmonton’s case, safety is the lowest-rated aspect of service, with only 62% of respondents reporting feeling safe during their journey.<Footnote id={addFootnote(fns[12])}/>  Among non-users, personal safety remains a significant reason for avoiding transit altogether. Continuing to prioritize safety measures can improve perceptions of reliability and comfort across the system while boosting ridership among new and existing residents alike.<Footnote id={addFootnote(fns[13])}/>  
+			Transit quality itself is equally important. Research shows that the greatest TOD benefits occur when transit improvements meaningfully reduce travel times near higher-density development and enhanced amenities.<Footnote id={addFootnote(fns[12])}/>  Common barriers to positive transit experiences are poor or infrequent transit service, unaffordable fares, and safety concerns. In Edmonton’s case, safety is the lowest-rated aspect of service, with only 62% of respondents reporting feeling safe during their journey.<Footnote id={addFootnote(fns[13])}/>  Among non-users, personal safety remains a significant reason for avoiding transit altogether. Continuing to prioritize safety measures can improve perceptions of reliability and comfort across the system while boosting ridership among new and existing residents alike.<Footnote id={addFootnote(fns[14])}/>  
 		</p>
 
 		<Recommendation count=3 title="Encourage meaningful public participation to build support for density"/>
 
 		<p>
-			Infill development can be controversial in established neighbourhoods, particularly when changes happen quickly. Planning operates within a political environment, and it is important to balance meaningful community engagement with development policy that allows density where it makes sense. This can help to ensure that infill is not only physically compatible but socially accepted, resilient, and sensitive to changing demographics.
+			Infill development can be controversial, particularly when changes happen quickly. Cities must balance the urgent need to build more housing in existing neighbourhoods with allowing communities to have a voice. A common criticism of site-by-site zoning approvals – how change in mature neighbourhoods happens in many Canadian cities – is that they make the approval process unnecessarily long and complex, effectively giving existing neighbours a veto over necessary housing development and often stopping it altogether. As-of-right zoning like the kind Edmonton has introduced reduces this complexity and factors in the needs of future residents, who may not be able to move into the neighbourhood yet because of cost and supply constraints. 
 		</p>
 
 		<p>
-			Well-designed public engagement exercises create opportunities to build shared understanding, support behavioural shifts, and strengthen residents’ sense of responsibility for both the process and its outcomes.<Footnote id={addFootnote(fns[14])}/>  Capturing input from both existing and possible future residents, who may not be able to move into the neighbourhood yet because of cost and supply constraints, is critical. Effective engagement must happen very early in the process of developing a broader vision and general plan for the city, and requires grounding conversations in resident values rather than abstract growth targets.<Footnote id={addFootnote(fns[15])}/>  Framing infill around priorities such as aging in place and enabling families to remain in their communities can build trust, increase local ownership, and improve receptiveness to change.<Footnote id={addFootnote(fns[16])}/> 
+			Yet even those who support densification may oppose development that is poorly designed, seems imposed from the top down, or reduces public goods like green space and tree canopy. Planning operates within a political environment, and questions of density can easily become charged and polarized, contributing to frustration on all sides. It is important to balance meaningful and ongoing community engagement with development policy that allows density where it makes sense, including ensuring community members have the opportunity to be heard even after new policies have been introduced. This can help to ensure that infill is not only physically compatible but socially accepted, resilient, and sensitive to changing demographics. 
 		</p>
 
 		<p>
-			Moreover, station area development usually happens over decades and community acceptance often grows over time: residents who initially resist change may come to appreciate improvements such as better public spaces, active transportation infrastructure, and nearby amenities once the tangible benefits of development are realized.
+			Well-designed public engagement exercises create opportunities to build shared understanding, support behavioural shifts, and strengthen residents’ sense of responsibility for both the process and its outcomes.<Footnote id={addFootnote(fns[15])}/> Effective engagement must happen very early in the process of developing a broader vision and general plan for the city, and requires grounding conversations in resident values rather than abstract growth targets.<Footnote id={addFootnote(fns[16])}/>  Framing infill around priorities such as aging in place and enabling families to remain in their communities can build trust, increase local ownership, and improve receptiveness to change.<Footnote id={addFootnote(fns[17])}/> 
 		</p>
 
 	</div>
