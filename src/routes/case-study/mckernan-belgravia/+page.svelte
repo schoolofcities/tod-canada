@@ -291,7 +291,7 @@
 		<Recommendation count=1 title="Encourage medium-density, mixed-use growth along corridors through zoning and street design"/>
 
 		<p>
-			With intensification through small-scale infill on single lots already underway in McKernan-Belgravia, there is now an opportunity to create a vibrant transit-oriented hub along the main avenues near the light rail station. This can be achieved by encouraging larger, mixed-use developments, in line with the City’s plan. Streamlining approvals, enabling as-of-right zoning of mixed-use buildings and providing financial incentives for affordable housing are all strategies to encourage transit-oriented development.<Footnote id={addFootnote(fns[5])}/>  One councillor has proposed temporary tax abatements for family-friendly mid-rise (six or more storeys) built within 400 metres of LRT stations as a way to encourage this kind of development, a measure supported by local infill advocates.<Footnote id={addFootnote(fns[6])}/>  Larger, assembled sites can provide greater design flexibility and create local destinations near transit.<Footnote id={addFootnote(fns[7])}/>  
+			With intensification through small-scale infill on single lots already underway in McKernan-Belgravia, there is now an opportunity to create a vibrant transit-oriented hub along the main avenues near the light rail station. This can be achieved by encouraging larger, mixed-use developments, in line with the City’s plan. Streamlining approvals, enabling as-of-right zoning of mixed-use buildings, and providing financial incentives for affordable housing are all strategies to encourage transit-oriented development.<Footnote id={addFootnote(fns[5])}/>  One councillor has proposed temporary tax abatements for family-friendly mid-rise (six or more storeys) built within 400 metres of LRT stations as a way to encourage this kind of development, a measure supported by local infill advocates.<Footnote id={addFootnote(fns[6])}/>  Larger, assembled sites can provide greater design flexibility and create local destinations near transit.<Footnote id={addFootnote(fns[7])}/>  
 		</p>
 
 	</div>
@@ -372,13 +372,13 @@
 		</p>
 
 	</div>
-
-	<ImageMultiples
-		images={[{url: "../web-assets/case-study/mckernan-belgravia/vision2050_adults.jpg"},
-		 		{url: "../web-assets/case-study/mckernan-belgravia/vision2050_kids.jpg"}]}
-		mainSource={"Photos by the City of Edmonton, 2018."}
-		mainCaption={"The City of Edmonton conducted extensive public engagement for the Vision 2050 Plan."}
-		maxWidth=1080
+	
+	<ImageSingle
+		imageURL={"../web-assets/case-study/mckernan-belgravia/vision2050_kids.jpg"}
+		source={"Photo by the City of Edmonton, 2018."}
+		caption={"Public engagement sessions for Edmonton's Vision 2050 Plan."}
+		maxWidth="680px"
+		link='No'
 	/>
 
 	<div class="text">
