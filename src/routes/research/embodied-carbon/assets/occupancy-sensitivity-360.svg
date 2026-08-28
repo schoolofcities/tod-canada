@@ -7,7 +7,7 @@
    version="1.1"
    id="svg145"
    sodipodi:docname="occupancy-sensitivity-360.svg"
-   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
+   inkscape:version="1.4.4 (1:1.4.4+202605061432+dcaf3e7d9e)"
    inkscape:export-filename="/Users/pgorn/Desktop/все/4th year.../WS/TOD/Cooksville_evictions_720.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -26,10 +26,10 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.3875587"
-     inkscape:cx="163.95703"
-     inkscape:cy="138.37252"
+     inkscape:cx="125.03976"
+     inkscape:cy="179.45187"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -271,15 +271,15 @@
        transform="translate(-11.720914,2.3422432)"><tspan
          x="30"
          y="81.828125"
-         id="tspan3">Average embodied carbon 
+         id="tspan2">Average embodied carbon 
 </tspan><tspan
          x="30"
          y="96.828123"
-         id="tspan4">per capita [tCO e/person] 
+         id="tspan6">per capita [tCO e/person] 
 </tspan><tspan
          x="30"
          y="111.82812"
-         id="tspan5">for Cooksville</tspan></text><text
+         id="tspan7">for Cooksville</tspan></text><text
        id="text237-0-6-6-6-4-6-5-9"
        xml:space="preserve"
        x="-83.177971"
@@ -787,7 +787,7 @@
          x="81.657845"
          y="153.81995"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.2;font-family:'Inter 24pt';-inkscape-font-specification:'Inter 24pt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#007fa3;fill-opacity:1;stroke-width:1.33333"
-         id="tspan34-4-8">optimized</tspan><tspan
+         id="tspan34-4-8">current</tspan><tspan
          sodipodi:role="line"
          x="81.657845"
          y="167.01994"

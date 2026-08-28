@@ -93,20 +93,20 @@
 
 	<title>Panama | School of Cities</title>
 
-	<meta name="description" content="How can strategic development, civic infrastructure investment, and inclusive planning transform a suburban terminal into a vibrant transit-oriented community?" />
+	<meta name="description" content="Comment un aménagement stratégique, des investissements dans les infrastructures civiques et une planification inclusive peuvent-ils transformer un terminus de banlieue en une communauté dynamique axée sur les transports en commun?" />
 	<meta name="author" content="School of Cities">
 	<meta rel="canonical" href="https://schoolofcities.github.io/tod-canada/case-study/panama-fr">
 
-	<meta property="og:title" content="Panama Station" />
-	<meta property="og:description" content="How can strategic development, civic infrastructure investment, and inclusive planning transform a suburban terminal into a vibrant transit-oriented community?" />
+	<meta property="og:title" content="Station Panama" />
+	<meta property="og:description" content="Comment un aménagement stratégique, des investissements dans les infrastructures civiques et une planification inclusive peuvent-ils transformer un terminus de banlieue en une communauté dynamique axée sur les transports en commun?" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://schoolofcities.github.io/tod-canada/case-study/panama-fr" />
 	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/case-study/panama/optimized-scenario.png" />
 	<meta property="og:locale" content="fr_CA">
 
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:title" content="Panama Station" />
-	<meta name="twitter:description" content="How can strategic development, civic infrastructure investment, and inclusive planning transform a suburban terminal into a vibrant transit-oriented community?" />
+	<meta name="twitter:title" content="Station Panama" />
+	<meta name="twitter:description" content="Comment un aménagement stratégique, des investissements dans les infrastructures civiques et une planification inclusive peuvent-ils transformer un terminus de banlieue en une communauté dynamique axée sur les transports en commun?" />
 	<meta name="twitter:site" content="https://schoolofcities.github.io/tod-canada/case-study/panama-fr" />
 	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/tod-canada/main/static/web-assets/case-study/panama/optimized-scenario.png" />
 
@@ -132,7 +132,7 @@
 				styleType="Case Study"
 				subtitleLineHeight="10.15rem"
 				location="Brossard, Québec"
-				subtitle="Comment un aménagement stratégique, des investissements dans les infrastructures civiques et une planification inclusive peuvent-ils transformer un terminus de banlieue en une communauté dynamique axée sur les transports en commun ?"
+				subtitle="Comment un aménagement stratégique, des investissements dans les infrastructures civiques et une planification inclusive peuvent-ils transformer un terminus de banlieue en une communauté dynamique axée sur les transports en commun?"
 				bgType="Image"
 				url={topImage}
 				imageOpacity=1
