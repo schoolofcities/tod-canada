@@ -9,6 +9,8 @@
 	export let title = '';
 	export let subtitle;
 	export let type = '';
+	export let styleType = undefined; // overrides the sizing class derived from `type`, for translated `type` labels
+	export let subtitleLineHeight = undefined;
 	export let location;
 	export let titleFontColour = 'var(--brandDarkBlue)';
 	export let subtitleFontColour = 'var(--brandDarkBlue)';
@@ -20,6 +22,8 @@
 		title: title,
 		subtitle: subtitle,
 		type: type,
+		styleType: styleType,
+		subtitleLineHeight: subtitleLineHeight,
 		location: location,
 		titleFontColour: titleFontColour,
 		subtitleFontColour: subtitleFontColour,

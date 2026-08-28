@@ -15,6 +15,7 @@
 	import HamburgerMenu from '$lib/HamburgerMenu.svelte';
 	import ImageCompare from '$lib/ImageCompare.svelte';
 	import ImageSingle from '$lib/ImageSingle.svelte';
+	import LangToggle from '$lib/LangToggle.svelte';
 	import LogoBody from '$lib/LogoBody.svelte';
 	import Recommendation from '$lib/Recommendation.svelte';
 	import ScrollAnimate from '$lib/ScrollAnimate.svelte';
@@ -146,6 +147,8 @@
 
 		<HamburgerMenu
 		iconColour={arrowColour}/>
+
+		<LangToggle href="/tod-canada/case-study/panama-fr" lang="en" />
 
 		<div class="bottom" id="before-text">
 			<FadingImages
