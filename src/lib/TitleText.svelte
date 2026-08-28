@@ -8,6 +8,8 @@
 	export let title = '';
 	export let subtitle;
 	export let type = '';
+	export let styleType = undefined; // overrides the sizing class derived from `type`, for translated `type` labels
+	export let subtitleLineHeight = undefined;
 	export let location;
 	export let titleFontColour = 'var(--brandDarkBlue)';
 	export let subtitleFontColour = 'var(--brandDarkBlue)';
@@ -24,7 +26,7 @@
 </script>
 
 
-<div class="title-text-container {type.replace(" ","-").toLowerCase()}" bind:clientWidth={divWidth}>
+<div class="title-text-container {(styleType ?? type).replaceAll(" ","-").toLowerCase()}" bind:clientWidth={divWidth}>
 	<div class="upper-section">
 		<div class="logo-container">
 			{#if logoType !== 'None'}
@@ -64,7 +66,7 @@
 
 	<div class="lower-section">
 		{#if subtitle}
-				<h2 class="subtitle-text" style="color: {subtitleFontColour};">
+				<h2 class="subtitle-text" style="color: {subtitleFontColour}; {subtitleLineHeight ? `line-height: ${subtitleLineHeight};` : ''}">
 					{subtitle}
 				</h2>
 		{/if}
